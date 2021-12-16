@@ -270,16 +270,16 @@ inoltre generare *sitemap XML* per:
 -  `i video <https://support.google.com/webmasters/answer/80471?hl=it&ref_topic=6080646>`__
 -  `le immagini <https://support.google.com/webmasters/answer/178636?hl=it&ref_topic=6080646>`__
 
-File robots.txt
-^^^^^^^^^^^^^^^
+File *robots.txt*
+^^^^^^^^^^^^^^^^^
 
 Per ottimizzare i processi di scansione dei *crawler* dei motori di
-ricerca è possibile utilizzare il file robots.txt. Un file robots.txt è
+ricerca è possibile utilizzare il *file robots.txt*. Un *file robots.txt* è
 un file di testo memorizzato nella *directory* principale del sito che ha
 la finalità di indicare ai *crawler* dei motori di ricerca quali parti del
 sito non sono accessibili e quindi controllare il traffico di scansione.
 
-Non si deve utilizzare il file robots.txt per nascondere le pagine web
+Non si deve utilizzare il *file robots.txt* per nascondere le pagine web
 dai risultati di ricerca.
 
 `Informazioni sui file robots.txt
@@ -292,12 +292,12 @@ Tempi di caricamento delle pagine
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 La rapidità di caricamento di una pagina web è presa in considerazione
-dai crawler dei motori di ricerca come elemento che concorre ad un
-migliore posizionamento del contenuto nel ranking dei risultati di
+dai *crawler* dei motori di ricerca come elemento che concorre ad un
+migliore posizionamento del contenuto nel *ranking* dei risultati di
 ricerca.
 
 È consigliabile effettuare controlli periodici sulle velocità di
-caricamento delle pagine e i tempi di risposta del server, soprattutto
+caricamento delle pagine e i tempi di risposta del *server*, soprattutto
 da dispositivi mobili.
 
 `Risorse per lo sviluppo di pagine ottimizzate per i dispositivi
@@ -307,7 +307,7 @@ Le pagine AMP per i contenuti di tipo “news”
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Per determinate tipologie di contenuto - in particolare le news - è
-possibile implementare il formato AMP (Accelerated Mobile Pages) di
+possibile implementare il formato AMP (*Accelerated Mobile Pages*) di
 Google. Il formato AMP è stato lanciato nel 2015 per migliorare le
 prestazioni del mobile web, riducendo la velocità di caricamento delle
 pagine.
@@ -323,7 +323,7 @@ pagine.
 Dati strutturati
 ^^^^^^^^^^^^^^^^
 
-Il markup con dati strutturati è una tecnica che consente di
+Il *markup* con dati strutturati è una tecnica che consente di
 personalizzare l’aspetto di un sito nella ricerca di Google o di altri
 motori di ricerca. Includendo dei dati strutturati all’interno dei
 contenuti è possibile inserire informazioni aggiuntive e/o strumenti di
@@ -331,9 +331,9 @@ interazione con il sito nell’aspetto standard dei risultati di ricerca,
 ad esempio:
 
 -  contatti e indirizzo dell’amministrazione
--  rating delle pagine
--  box di search in stile sitelink
--  breadcrumbs
+-  *rating* delle pagine
+-  box di *search* in stile *sitelink*
+-  *breadcrumbs*
 
 Il markup con dati strutturati si basa sul vocabolario
 http://schema.org/
@@ -344,10 +344,10 @@ http://schema.org/
 `Strumento per testare la corretta implementazione dei dati strutturati
 <https://search.google.com/structured-data/testing-tool?hl=it>`__
 
-Migrazione SEO di un sito
-^^^^^^^^^^^^^^^^^^^^^^^^^
+Migrazione di un sito e SEO
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Quando si pianifica la migrazione di un sito è necessario fare in modo
+Quando si pianifica la migrazione di un sito o di un servizio digitale è necessario fare in modo
 di non perdere la rilevanza acquisita sui motori di ricerca e di
 indirizzare gli utenti verso le nuove pagine nella maniera meno
 problematica possibile.
@@ -355,30 +355,30 @@ problematica possibile.
 Si consiglia quindi di:
 
 -  realizzare una mappatura di tutte le URL del sito, che includa anche
-   il linking interno
+   il *linking* interno
 -  associare alle vecchie URL le nuove URL, per poter in seguito
-   preparare i redirect
+   preparare i *redirect* (reindirizzamenti)
 -  per le URL alle quali non verrà associata alcuna nuova URL, preparare
-   una pagina 404 personalizzata, che aiuti l’utente a proseguire la
+   una pagina 404 (pagina di errore) personalizzata, che aiuti l’utente a proseguire la
    navigazione nel nuovo sito
--  configurare il server impostando dei redirect di tipo 301
--  modificare la sitemap XML del sito
--  laddove possibile, aggiornare i backlinks ricevuti dal sito
--  comunicare ai crawler di Google un eventuale cambiamento del dominio
+-  configurare il *server* impostando dei *redirect* di tipo 301 (reindirizzamenti permanenti)
+-  modificare la *sitemap XML* del sito
+-  laddove possibile, aggiornare i *backlinks* (link in entrata)ricevuti dal sito
+-  comunicare ai *crawler* di Google un eventuale cambiamento del dominio
    tramite la Search Console
 
 `Ulteriori informazioni sui redirect 301
 <https://support.google.com/webmasters/answer/93633>`__
 
-I fattori off-page
-~~~~~~~~~~~~~~~~~~
+I fattori *off-page*
+~~~~~~~~~~~~~~~~~~~~
 
 Link building
 ^^^^^^^^^^^^^
 
 In ottica di ottimizzazione SEO di un sito, è necessario curare e
 monitorare iterativamente il processo di costruzione della rete di link
-che il sito riceve dall’esterno (inbound links).
+che il sito riceve dall’esterno (*inbound links*).
 
 I motori di ricerca valutano la natura, la provenienza e la qualità di
 tali link più che la loro quantità, considerandoli un elemento di
@@ -400,12 +400,12 @@ Per capire quali sono i link inbounds di un sito web è possibile:
 -  utilizzare l’operatore *link:sitoweb.it* nella `ricerca
    Google <https://support.google.com/webmasters/answer/35256?hl=it>`__
 
-Webmaster tools: Search Console di Google
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Strumenti di diagnostica SEO: Search Console 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Search Console è una risorsa online offerta gratuitamente da Google che
+Search Console è una risorsa online che
 consente di monitorare, gestire e ottimizzare la presenza di un sito o
-di un’applicazione mobile nei risultati di ricerca.
+di un’applicazione mobile nei risultati di ricerca Google.
 
 Search Console consente ad esempio di ottenere indicazioni sull’aspetto
 di un sito web nei risultati di ricerca Google o informazioni rispetto
@@ -416,20 +416,20 @@ problemi di varia natura legati al sito.
 Con Search Console è possibile:
 
 -  verificare lo stato di indicizzazione dei contenuti del sito
--  verificare lo stato della scansione dei crawler di Google sulle
+-  verificare lo stato della scansione dei *crawler* di Google sulle
    pagine del sito ed eventuali errori
 -  testare i file robots.txt
--  testare la sitemap del sito, se presente
--  gestire i parametri URL durante la scansione dei crawler
--  rimuovere temporaneamente gli URL di un sito dai risultati di ricerca
+-  testare la *sitemap* del sito, se presente
+-  gestire i parametri URL durante la scansione dei *crawler*
+-  rimuovere temporaneamente le URL di un sito dai risultati di ricerca
 -  informare Google rispetto al cambiamento di dominio di un sito
 -  informare Google di un eventuale passaggio del sito da protocollo
    http a https
--  sapere per quali query è stato visualizzato il sito nei risultati di
+-  sapere per quali termini chiave (*query*) è stato visualizzato il sito nei risultati di
    ricerca Google
--  conoscere i backlinks del sito e relativi anchor
+-  conoscere i *backlinks* del sito e relativi *anchor*
 -  monitorare i link interni
--  monitorare il corretto funzionamento del tag hreflang nel caso di
+-  monitorare il corretto funzionamento del *tag hreflang* nel caso di
    siti multilingua
 -  monitorare e correggere i problemi di usabilità del sito su
    dispositivi mobili
@@ -439,8 +439,8 @@ Con Search Console è possibile:
 -  rilevare criticità nell’HTML per favorire e migliorare l’esperienza
    utente sul sito
 -  rilevare e correggere eventuali criticità correlate alle pagine AMP
-   (accelerated mobile pages)
--  monitorare e risolvere i problemi di malware o spam per tenere pulito
+   (*accelerated mobile pages*)
+-  monitorare e risolvere i problemi di *malware* o *spam* per tenere pulito
    il tuo sito
 
 Approfondimenti
@@ -454,12 +454,3 @@ Approfondimenti
 
 `Come collegare Search Console a Google Analytics
 <https://support.google.com/analytics/answer/1308621?hl=it>`__
-
-Utile da sapere
-^^^^^^^^^^^^^^^
-
-*Una app Android deve essere pubblicata in Google Play per poter essere
-aggiunta a Search Console.*
-
-`Come configurare una app in Search Console
-<https://support.google.com/webmasters/answer/6178088>`__
