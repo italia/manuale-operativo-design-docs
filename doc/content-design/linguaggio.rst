@@ -9,7 +9,7 @@ Linguaggio
 Scrivere per le persone
 =======================
 
-Un linguaggio semplice è un ingrediente indispensabile per rendere i
+Un linguaggio semplice è un ingrediente indispensabile per rendere siti e
 servizi della **della Pubblica Amministrazione più efficaci e
 inclusivi**
 
@@ -18,7 +18,7 @@ Ecco alcuni degli obiettivi da porsi quando si scrive per i cittadini:
 - scrivi documenti semplici e lineari, che tengano conto in primis dei bisogni del lettore
 - usa un linguaggio semplice e chiaro, seguendo le indicazioni della `Guida al linguaggio della Pubblica Amministrazione <https://docs.italia.it/italia/designers-italia/writing-toolkit/>`__ su stile, tono di voce, uso delle parole
 - organizza contenuti e documenti in modo che siano facili da trovare durante la navigazione
-- presta particolare attenzione ai testi delle interfacce utente (definiti in gergo microcopy): la qualità e la pertinenza di label (etichette di navigazione), call to action (inviti all’azione) e altri testi che accompagnano e spiegano le interfacce grafiche, come ad esempio le tool tip o i testi che spiegano i contenuti da inserire all’interno di un form 
+- presta particolare attenzione ai testi delle interfacce utente (definiti in gergo microcopy): la qualità e la pertinenza di *label* (etichette di navigazione), *call to action* (inviti all’azione) e altri testi che accompagnano e spiegano le interfacce grafiche, come ad esempio i *tooltip* (messaggi a comparsa) o i testi che spiegano i contenuti da inserire all’interno di un modulo. 
 
 Prima di creare un contenuto, devi avere ben chiaro:
 
@@ -30,28 +30,25 @@ Prima di creare un contenuto, devi avere ben chiaro:
 Per individuare chi sono i tuoi utenti target (o categorie di utenti) e quali sono i loro bisogni, puoi utilizzare strumenti di
 `user research <../user-research.html>`__, come ad esempio:
 
--  sessioni partecipative con gli utenti (puoi usare `il kit per le User
-   interviews <https://designers.italia.it/kit/user-interviews/>`__);
+-  sessioni partecipative con gli utenti (puoi usare `il kit per le interviste utenti <https://designers.italia.it/kit/interviste-utenti-stakeholder/>`__);
 
 -  i dati di web analytics (puoi usare `il kit Web
    analytics <https://designers.italia.it/kit/analytics/>`__);
 
 -  gli `A/B
    test <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`__
-   e i test di usabilità (puoi usare `il kit Usability
-   test <https://designers.italia.it/kit/usability-test/>`__).
+   e i test di usabilità (puoi usare `il kit test usabilità <https://designers.italia.it/kit/test-usabilita/>`__).
 
 Puoi utilizzare le informazioni che raccogli per costruire delle
-personas (puoi usare `il kit
-Personas <https://designers.italia.it/kit/personas/>`__ per farlo),
-ovvero dei profili rappresentativi di categorie di utenti del tuo
-servizio, e ipotizzare delle `user
-journey <https://designers.italia.it/kit/user-journey/>`__, cioè delle rappresentazioni sintetiche delle fasi che compongono l’interazione dell’utente con un servizio. 
+personas,
+ovvero dei profili rappresentativi di categorie di utenti del tuo sito o
+servizio, e ipotizzare delle `*user
+journey* <https://designers.italia.it/kit/esperienza-utente/>`__, cioè delle rappresentazioni sintetiche delle fasi che compongono l’interazione dell’utente con un servizio. 
 
 Definire chi sono gli utenti e quali sono i loro bisogni è necessario in
 **tutte le fasi in cui lavori al contenuto**, ovvero:
 
--  la progettazione/design;
+-  la progettazione;
 
 -  la scrittura;
 
@@ -63,7 +60,7 @@ competenze e le abilità.
 
 Utilizza strumenti, metodi di lavoro e modelli presenti nel `kit di
 Designers Italia dedicato ai
-contenuti <https://designers.italia.it/kit/content-kit/>`__
+contenuti e al linguaggio <https://designers.italia.it/kit/content-kit/>`__
 
 Progettare i contenuti
 ======================
@@ -101,10 +98,10 @@ Le priorità sono le seguenti:
 - che nome dare a contenuti e servizi?
 
 Per dare risposta a questa domande devi entrare nel processo di
-prototipazione, dove il servizio prende forma (o viene ridefinito).
+prototipazione, dove il servizio prende forma (o viene ri-progettato).
 La progettazione di un servizio beneficia della presenza di un design system di riferimento ovvero regole e componenti standard fanno sì che in fase di creazione di un nuovo servizio non sia necessario *reinventare ogni volta la ruota*.
 
-Tra questi rientrano anche una serie di design pattern, ossia veri e propri modelli che offrono indicazioni su come strutturare e organizzare i contenuti (*content type* e *content pattern*).
+Tra questi rientrano anche una serie di *design pattern* (modelli di progettazione), ossia veri e propri modelli che offrono indicazioni su come strutturare e organizzare i contenuti (*content type* e *content pattern*).
 
 .. admonition:: deepening
    :class: admonition-deepening display-page
@@ -112,7 +109,7 @@ Tra questi rientrano anche una serie di design pattern, ossia veri e propri mode
    **Progettare i contenuti all'interno di un design system: content type e content pattern**
 
    In un sistema complesso come quello della Pubblica Amministrazione, è
-   utile identificare dei modelli ricorrenti (che possiamo definire “pattern”)
+   utile identificare dei modelli ricorrenti (che possiamo definire *pattern*)
    in grado di offrire risposte standard a classi di bisogni simili. I
    pattern relativi ai contenuti possono essere di due tipi:
 
@@ -125,7 +122,7 @@ Tra questi rientrano anche una serie di design pattern, ossia veri e propri mode
    Amministrazione <https://guida-linguaggio-pubblica-amministrazione.re
    adthedocs.io/it/latest/>`__
 
-   Qui approfondiamo il tema della costruzione di pagine web che offrano 
+   Qui approfondiamo il tema della costruzione di pagine web che offrono 
    una struttura standard per rispondere a specifici bisogni
    dell'utente. Solitamente si fa riferimento a queste tipologie di pagine
    come “\ *content type*\ ”.
@@ -150,6 +147,11 @@ Tra questi rientrano anche una serie di design pattern, ossia veri e propri mode
    servizio sono elencate.
 
    Alcuni esempi dei più comuni *content type* in un sito sono:
+   
+    - **Homepage**: l’homepage ha in genere la funzione principale di
+     orientare l’utente all’interno dei contenuti del sito, per
+     permettergli di raggiungere rapidamente le informazioni che sta
+     cercando.
 
    - **Search**: la funzione principale di un motore di ricerca è
      permettere all’utente di trovare all’interno del sito o di una
@@ -162,11 +164,6 @@ Tra questi rientrano anche una serie di design pattern, ossia veri e propri mode
    - **Liste**: le pagine di lista permettono all’utente di orientarsi
      all’interno di alcune sezioni, organizzate per tag, per categoria,
      per argomento.
-
-   - **Homepage**: l’homepage ha in genere la funzione principale di
-     orientare l’utente all’interno dei contenuti del sito, per
-     permettergli di raggiungere rapidamente le informazioni che sta
-     cercando.
 
    - **Form e wizard**: questi *content type* accompagnano l’utente
      nell’esecuzione di un’azione, compilando alcuni campi o
@@ -187,7 +184,7 @@ Tra questi rientrano anche una serie di design pattern, ossia veri e propri mode
 
    Anche nel `modello di analisi dei
    contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit#gid=1126404963>`__
-   che abbiamo pubblicato all’interno del `Content
+   presente nel kit `Contentuti e linguaggio
    kit <https://designers.italia.it/kit/content-kit/>`__, per ogni
    pagina presa in considerazione è necessario domandarsi di che tipo di
    *content type* si tratti. In questo modo è possibile assicurarsi:
@@ -212,7 +209,7 @@ indicazioni per un linguaggio semplice e efficace, che puoi trovare
 nella `Guida al linguaggio della Pubblica
 Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/>`__.
 
-**Checklist per il contenuto:** fai un check della qualità del contenuto basandoti sulle seguenti domande:
+**Checklist per il contenuto:** fai un controllo della qualità del contenuto basandoti sulle seguenti domande:
 
 -  Lo scopo della pagina è immediatamente chiaro? (Per approfondire:
    `Stile di
@@ -280,11 +277,13 @@ Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.i
 
    **I testi come interfacce**
 
-   LE ETICHETTE DI NAVIGAZIONE
+   Le etichette di navigazione
+   ---------------------------
+   
    Una *label* (o etichetta) è un breve testo o un’icona che indica un
-   insieme di contenuti con tratti in comune: attraverso le etichette
+   insieme di contenuti con caratteristiche comuni: attraverso le etichette
    l’utente si orienta nell’ambiente facendosi un’idea
-   dell’organizzazione e del sistema di navigazione. Le label dovrebbero
+   dell’organizzazione e del sistema di navigazione. Le etichette dovrebbero
    guidare gli utenti nei nuovi concetti e aiutarli a
    identificare quelli già familiari con facilità.
 
@@ -310,7 +309,7 @@ Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.i
       varianti “CHI SIAMO”, “Chi siamo”, “Chi Siamo”.
 
    -  **Formattazione**: dimensioni e colore dei caratteri, spaziature,
-      sfondi possono rinforzare la coerenza di un labeling system.
+      sfondi possono rinforzare la coerenza di un sistema di etichette.
 
    -  **Sintassi:** evita di avere nello stesso sistema label a base
       verbale (“Scarica il documento”), nominale (“Documenti
@@ -318,7 +317,7 @@ Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.i
       un approccio sintattico e mantienilo.
 
    -  **Livello di granularità:** all’interno del sistema è meglio avere
-      label di pari livello di specificità. “Modulo per la richiesta di
+      etichette di pari livello di specificità. “Modulo per la richiesta di
       cambio di residenza” accanto ad “Anagrafe”, esposto nella stessa
       area del sito e allo stesso livello, genererebbe confusione.
 
@@ -341,10 +340,12 @@ Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.i
    analytics <https://designers.italia.it/kit/analytics/>`__ e
    `Google Search Console <./seo.html#webmaster-tools-search-console-di-google>`_.
 
-IL MICROCOPY
-I microtesti che accompagnano e descrivono gli elementi grafici delle interfacce di un sistema web, sono definiti in gergo “microcopy”. L’armonia e la pertinenza fra elementi grafici delle interfacce e  microcopy contribuisce a garantire all’utente un usabilità ottimale del sistema. 
+I microtesti
+------------
+
+I microtesti che accompagnano e descrivono gli elementi grafici delle interfacce di un sistema web, sono definiti in gergo tecnico *microcopy*. L’armonia e la pertinenza fra elementi grafici delle interfacce e *microcopy* contribuisce a garantire all’utente un usabilità ottimale del sistema. 
 Per questa ragione, è importante verificare periodicamente l’efficacia delle etichette di navigazione attraverso test di usabilità o mediante degli A/B test. 
-Per esempio, un tema da gestire in modo corretto a livello di microcopy è quello dei messaggi di errore (o problematiche relative a un sistema). In questo ambito infatti, un buon uso dei testi consente all’utente di capire rapidamente la tipologia di errore, ridurre l’incertezza sull’affidabilità del sistema e in molti casi limitare la necessità di accesso ai canali di assistenza. 
+Per esempio, un tema da gestire in modo corretto a livello di *microcopy* è quello dei messaggi di errore. In questo ambito infatti, un buon uso dei testi consente all’utente di capire rapidamente la tipologia di errore, ridurre l’incertezza sull’affidabilità del sistema e in molti casi limitare la necessità di accesso ai canali di assistenza. 
 
 
 Revisione e miglioramento dei contenuti
