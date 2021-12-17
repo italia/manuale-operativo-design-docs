@@ -351,11 +351,10 @@ Per esempio, un tema da gestire in modo corretto a livello di *microcopy* è que
 Revisione e miglioramento dei contenuti
 ---------------------------------------
 
-La revisione dei tuoi contenuti va fatta tenendo conto dello scopo di
+La revisione dei contenuti deve tenere conto dello scopo di
 ciascuna pagina e `dei risultati che ci si
 aspetta <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/gestione-dei-contenuti.html#misura-i-risultati>`__,
-che possono essere misurati attraverso strumenti di ricerca come `Google
-Analytics <https://designers.italia.it/kit/analytics/>`__, da `A/B test
+che possono essere misurati attraverso strumenti di analisi dei dati di traffico web <https://designers.italia.it/kit/analytics/>`__, da `A/B test
 mirati <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`__,
 o anche attraverso `attività di ricerca
 qualitativa <https://designers.italia.it/kit/co-design-workshop/>`__
@@ -363,9 +362,9 @@ qualitativa <https://designers.italia.it/kit/co-design-workshop/>`__
 usabilità <https://designers.italia.it/kit/usability-test/>`__, per
 esempio).
 
-I contenuti pubblicati su un sito devono essere pensati come un oggetto
+I contenuti pubblicati su un sito o una piattaforma digitale devono essere pensati come un oggetto
 in continua evoluzione. `Organizza un flusso di lavoro con il tuo team <linguaggio.html#come-organizzare-il-lavoro>`_
-affinché tutti i contenuti del tuo sito siano:
+affinché tutti i contenuti siano:
 
 -  realizzati con strumenti di **scrittura e editing collaborativi**;
 
@@ -381,13 +380,12 @@ Queste due semplici accortezze possono aiutarti a fare in modo che:
 -  non ci siano pagine con informazioni obsolete, pagine vuote o
    incomplete.
 
-All’interno del `Content
-kit <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un
+All’interno del `kit Contenuti e linguaggio <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un
 `modello di analisi dei
 contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit?usp=sharing>`__
 pronto all’uso, per **gestire l’attività di revisione** di tutte le
 pagine del sito o di una specifica sezione, assegnando specifici *task*
-ai vari membri del tuo team. Utilizzando questo strumento, puoi
+ai vari membri del tuo *team*. Utilizzando questo strumento, puoi
 individuare **tutti i problemi di ogni pagina** (dalla chiarezza delle
 informazioni all’efficacia dell’interfaccia, dai problemi di metadati a
 quelli di accessibilità), basandoti sulle indicazioni della `Guida al
@@ -396,9 +394,9 @@ Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.i
 per poi attivare **un processo di riscrittura** e miglioramento dei
 contenuti.
 
-Se il tuo focus è fare in modo che il tuo servizio sia più facile da
-trovare attraverso i motori di ricerca (Google) nel kit dedicato alla
-SEO è disponibile un modello di analisi specifico (`Vai al kit dedicato alla SEO <https://designers.italia.it/kit/SEO/>`_).
+Se il tuo obiettivo è fare in modo che il tuo sito o servizio sia più facile da
+trovare attraverso i motori di ricerca, all'interno del kit dedicato alla
+SEO (ottimizzazione per i motori di ricerca) è disponibile un modello di analisi specifico (`Vai al kit dedicato alla SEO <https://designers.italia.it/kit/SEO/>`_).
 
 .. admonition:: deepening
    :class: admonition-deepening display-page
@@ -414,8 +412,7 @@ SEO è disponibile un modello di analisi specifico (`Vai al kit dedicato alla SE
 
    .. container:: more
 
-      All’interno del `Content
-      kit <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un
+      All’interno del ` kit Contenuti e linguaggio <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un
       esercizio di `editing collaborativo “Prima e
       dopo <https://docs.google.com/document/d/1nkfs_xaMZdn2Q6ohSWYbFP7bvLnmKO75hyqO3ws38Fc/edit?usp=sharing>`__\ ”
       che ti mostra in che modo utilizzare:
@@ -425,9 +422,9 @@ SEO è disponibile un modello di analisi specifico (`Vai al kit dedicato alla SE
          fare una revisione dei contenuti direttamente nel loro contesto
          d’uso, online (nel caso di contenuti già pubblicati) oppure in un
          prototipo (nel caso di nuovi contenuti). Questo approccio è
-         particolarmente utile per analizzare e migliorare label, voci di
+         particolarmente utile per analizzare e migliorare *label*, voci di
          menu e testi che accompagnanano le interfacce grafiche attraverso
-         cui si fruisce un servizio
+         cui si fruisce un servizio;
 
       -  degli strumenti di scrittura collaborativa come `Google
          Docs <https://docs.google.com/document/u/0/>`__, che ti permettono
@@ -462,20 +459,19 @@ come `la migrazione dei contenuti <linguaggio.html#linventario-dei-contenuti-con
 ad un nuovo sito web, o `la traduzione di una parte dei contenuti
 <linguaggio.html#gestire-un-sito-multilingua>`_ del proprio sito.
 
-L’inventario dei contenuti (content inventory)
+L’inventario dei contenuti (*content inventory*)
 ----------------------------------------------
 
 Il primo passo consiste nella gestione ordinata dei contenuti (pagine,
 immagini, documenti o altro) spesso possibile attraverso il *backend*
-del proprio content management system (CMS) e la loro classificazione in
+del proprio *content management system* (CMS) e la loro classificazione in
 *content type* e la loro organizzazione secondo un sistema di categorie
-o tag.
+o *tag*.
 
 Ci sono situazioni particolari in cui può essere opportuno trasferire
-l’inventario dei contenuti (o una sua porzione) all’interno di uno
-spreadsheet (`si può usare questo modello e modificarlo secondo
+l’inventario dei contenuti (o una sua porzione) all’interno di un foglio di lavoro (`si può usare questo modello e modificarlo secondo
 necessità <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit#gid=1126404963>`__).
-Per esempio in vista di una ottimizzazione SEO o di un redesign del
+Per esempio in vista di una ottimizzazione SEO o di una riprogettazione del
 servizio, che potrebbe comportare la necessità di riclassificare i
 contenuti o introdurre nuovi criteri di classificazione. Un caso
 specifico è il processo di migrazione dei contenuti da un'infrastruttura tecnologica all’altra.
@@ -509,14 +505,14 @@ specifico è il processo di migrazione dei contenuti da un'infrastruttura tecnol
 
       In vista di una migrazione, bisogna fare un inventario dei contenuti
       e lavorare alla riclassificazione delle singole pagine, se necessaria
-      (content type e tag corrispondenti a ciascuna pagina). A volte la
+      (*content type* e *tag* corrispondenti a ciascuna pagina). A volte la
       migrazione può richiedere la riscrittura di alcune pagine del sito
       (per esempio scrivere una descrizione prima non prevista) o la
       creazione dei contenuti di nuove pagine che non esistevano nel
       precedente sito. Questo processo può richiedere tempo, ma è
       funzionale alla migrazione automatica dei contenuti da un vecchio a
       un nuovo sito. Un altro aspetto di grande impatto è la gestione in
-      ottica SEO
+      ottica SEO.
 
       **La gestione SEO di una migrazione**
 
@@ -545,13 +541,13 @@ specifico è il processo di migrazione dei contenuti da un'infrastruttura tecnol
       -  **tutte le pagine e gli oggetti multimediali** che appaiono nei
          risultati di ricerca;
 
-      -  **i backlink** che puntano al tuo vecchio sito.
+      -  **i backlink** (link in entrata) che puntano ai tuoi contenuti.
 
       La mappatura di tutti i link del vecchio sito ti permette di creare
-      dei *redirect*, dai vecchi url ai nuovi, facendo attenzione che:
+      dei *redirect* (redirezioni), dai vecchi url ai nuovi, facendo attenzione che:
 
-      -  il redirect di ogni contenuto rimandi allo stesso contenuto nel
-         nuovo sito (e non ad esempio alla homepage);
+      -  il *redirect* di ogni contenuto rimandi allo stesso contenuto nel
+         nuovo sito (e non ad esempio alla *homepage*);
 
       -  se non ci sono contenuti corrispondenti, il *redirect* rimandi in
          ogni caso ad un contenuto analogo, che risponde allo stesso scopo
@@ -576,7 +572,7 @@ specifico è il processo di migrazione dei contenuti da un'infrastruttura tecnol
 
       **Per approfondire:**
 
-      `Checklist per il
+      `*Checklist* per l'ottimizzazione
       SEO <https://trello.com/b/CPIl9SxJ/seokitdesigners-italia>`__
 
       `Modello per l’ottimizzazione
@@ -590,8 +586,7 @@ Analizzare i contenuti
 ----------------------
 
 L’attività più frequente per la gestione dei contenuti è il monitoraggio
-e l’ottimizzazione dei contenuti già esistenti. All’interno del `Content
-kit <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un
+e l’ottimizzazione dei contenuti già esistenti. All’interno del `kit Contenuti e linguaggio <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un
 `modello di analisi di
 contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit?usp=sharing>`__
 da cui puoi prendere spunto per gestire la tua attività di **revisione e
@@ -618,7 +613,7 @@ obiettivi specifici, le seguenti dimensioni:
    ad alta voce l’introduzione, per capire se il tuo testo è davvero
    efficace.
 
--  Il testo è adatto alla lettura su **dispositivi mobile**?
+-  Il testo è adatto alla lettura su **dispositivi mobili**?
 
 -  le informazioni sono organizzate bene all’interno della pagina?
 
@@ -643,12 +638,11 @@ obiettivi specifici, le seguenti dimensioni:
    puntati?
 
 In molti casi, il miglior modo di avviare l’analisi dei contenuti è fare
-dei **test di usabilità** con gli utenti di tipo “task based”, cioè
-concentrandosi sulla capacità dell’utente di raggiungere il risultato
-che si era prefisso. Questo tipo di analisi può far emergere problemi
-nella gestione delle informazioni. Per approfondire, vai alla sezione
-sui test di usabilità `usability
-test <https://designers.italia.it/kit/usability-test/>`__.
+dei **test di usabilità** con gli utenti di tipo *task based*, cioè
+concentrandosi sulla capacità dell’utente di raggiungere un risultato
+predeterminato. Questo tipo di analisi può far emergere problemi
+nella gestione delle informazioni. Per approfondire puoi consultare il kit
+dedicato ai `test di usabilità <https://designers.italia.it/kit/usability-test/>`__.
 
 Una seconda modalità di lavoro è quella degli `A/B
 test <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`__,
@@ -660,21 +654,20 @@ Come organizzare il lavoro
 
 L’attività di gestione dei contenuti va definita in un flusso di lavoro
 che richiede una definizione delle attività e l’utilizzo di strumenti di
-project management . All’interno del `kit sui
-contenuti <https://designers.italia.it/kit/content-kit/>`__ è presente
+*project management*. All’interno del `kit Contenuti e linguaggio <https://designers.italia.it/kit/content-kit/>`__ è presente
 un esempio di gestione della produzione di contenuti utilizzando una
-board di Trello. All’interno del `kit per la
+bacheca Trello. All’interno del `kit per la
 SEO <https://designers.italia.it/kit/SEO/>`__ è presente un esempio di
-board per gestire gli aspetti SEO di un progetto digitale. I processi di
+bacheca per gestire gli aspetti SEO (ottimizzazione per i motori di ricerca) di un progetto digitale. I processi di
 `audit dei
 contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit?usp=sharing>`__
 richiedono la capacità di identificare ruoli e scadenze e coordinare il
 processo in modo da garantire il raggiungimento dei risultati nei tempi
 stabiliti. Tutti questi strumenti favoriscono la collaborazione e lo
-scambio di opinioni tra i membri del team.
+scambio di opinioni tra i membri del gruppo di lavoro.
 
 Per valutare i progressi nel processo di semplificazione dei contenuti è
-opportuno organizzare ogni anno dei test di usabilità.
+opportuno organizzare periodicamente dei test di usabilità.
 
 Come pubblicare
 ---------------
@@ -683,9 +676,9 @@ Il più delle volte la gestione dei contenuti avviene tramite sistemi di
 pubblicazione basati su **Content management system** (CMS), come ad
 esempio `Wordpress <https://it.wordpress.org/>`__ o
 `Drupal <https://www.drupal.org/home>`__. Ma è possibile utilizzare
-altre modalità di pubblicazione e gestione dei contenuti. Ad esempio, la
-piattaforma dove sono ospitate queste linee guida utilizza GitHub come
-content management system e benefica del suo *version control system*.
+altre modalità di pubblicazione e gestione dei contenuti: ad esempio, la
+piattaforma dove è ospitato questo manuale operativo utilizza GitHub come
+*content management system* e beneficia del suo *version control system* (versionamento).
 
 È bene conoscere in modo approfondito gli strumenti di gestione dei
 contenuti, in modo da governare i processi di aggiornamento,
@@ -696,7 +689,7 @@ per una buona indicizzazione dei contenuti sui motori di ricerca.
    :class: admonition-deepening display-page
 
    Molti CMS hanno delle funzioni in comune, il cui utilizzo va definito
-   in fase di design (o redesign) del sito, per creare un sistema
+   in fase di progettazione (o riprogettazione) del sito, per creare un sistema
    coerente e funzionale. Ad esempio:
 
    -  **Gli articoli**: sono generalmente utilizzati per produrre news o
@@ -709,11 +702,11 @@ per una buona indicizzazione dei contenuti sui motori di ricerca.
       l’indicizzazione;
 
    -  **Le pagine**: strumenti più versatili, possono contenere
-      informazioni testuali, gallery, liste, wizard e form, e quindi
+      informazioni testuali, *gallery*, liste, *wizard* e moduli, e quindi
       sono adatte a qualsiasi tipo di *content type*. Per ogni pagina
       valuta con attenzione il titolo, che deve essere pertinente,
       indicizzato e può divenire un bottone di navigazione. In base
-      all’utilizzo delle pagine per i content type, definisci quando
+      all’utilizzo delle pagine per i *content type*, definisci quando
       prevedere anche un sommario e/o un testo introduttivo, per
       indicare all’utente che contenuti trova nella pagina.
 
@@ -731,12 +724,11 @@ per una buona indicizzazione dei contenuti sui motori di ricerca.
       trattate coerentemente alla strategia adottata per il *labeling
       system*.
 
-   -  I **widget** sono oggetti molto versatili, da utilizzare
-      all’interno delle pagine o di altre parti del sito (footer,
-      sidebar) per inserire elementi come contenuti multimediali,
-      *widget*, form, ecc. Anche nel gestire i *widget* ricorda di
+   -  Gli **oggetti** (chiamati comunemente anche *widget*) sono elementi molto versatili, attivabili e replicabili
+      all’interno delle pagine o di sezioni del sito (footer,
+      sidebar) per inserire contenuti multimediali, funzionalità ecc. Anche nel gestire questi elementi ricorda di
       rispettare la corretta gestione delle etichette di navigazione,
-      del microcopy, dei metadati, dei tag e delle categorie.
+      del *microcopy*, dei metadati, dei tag e delle categorie.
 
 Gestire un sito multilingua
 ---------------------------
