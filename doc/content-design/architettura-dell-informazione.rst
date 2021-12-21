@@ -88,11 +88,8 @@ In fase di progettazione, i contenuti digitali devono essere organizzati in dive
 |                                   | rappresentarlo attraverso una     |
 |                                   | mappa e un calendario             |
 +-----------------------------------+-----------------------------------+
-| Notizia                           | Descrive un evento, definendone   |
-|                                   | le caratteristiche, il luogo e le |
-|                                   | date e dando la possibilità di    |
-|                                   | rappresentarlo attraverso una     |
-|                                   | mappa e un calendario             |
+| Notizia                           | Descrive un contenuto di tipo     |
+|                                   | informativo legato all'attualità  |             
 +-----------------------------------+-----------------------------------+
 | Scheda servizio                   | Descrive il servizio e fa capire  |
 |                                   | all’utente come utilizzarlo,      |
