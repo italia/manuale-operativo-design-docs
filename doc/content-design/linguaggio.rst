@@ -733,7 +733,7 @@ per una buona indicizzazione dei contenuti sui motori di ricerca.
 Gestire un sito multilingua
 ---------------------------
 
-Localizzare il proprio sito o servizio digitale può essere molto
+Localizzare (rendere disponibile in più lingue) un sito o servizio digitale può essere molto
 importante per renderlo più efficace **per tutti gli utenti**, anche
 quelli che non conoscono o non hanno dimestichezza con la lingua e la
 cultura italiane, attraverso contenuti:
@@ -745,14 +745,14 @@ cultura italiane, attraverso contenuti:
 -  chiari e comprensibili.
 
 Questo passaggio può essere particolarmente importante per i servizi
-pubblici, che si rivolgono spesso anche a cittadini di altre nazionalità
+pubblici, che si rivolgono spesso anche a cittadini di altre nazionalità, apolidi
 o a cittadini italiani ma che hanno diversi riferimenti linguistici o
 culturali.
 
-Se ritieni utile realizzare una traduzione del tuo sito, la prima scelta
+Quando si procede alla traduzione di un sito o di un servizio, la prima scelta
 da fare è se:
 
--  tradurre l’intero sito (o l’intera applicazione);
+-  tradurre l’intero sito (o l’intero servizio/applicazione);
 
 -  tradurne solo una parte, dove l’utilizzo di altre lingue è
    particolarmente rilevante (es. la sezione “visti” del sito del
@@ -761,7 +761,7 @@ da fare è se:
 
 La scelta va fatta in considerazione:
 
--  di una ricerca sugli **utenti del sito** o del servizio, che ne
+-  di una ricerca sugli **utenti del sito** o del servizio, che
    indaghi la lingua e i riferimenti culturali attraverso strumenti
    quantitativi (`web
    analytics <https://designers.italia.it/kit/analytics/>`__) e
@@ -790,7 +790,7 @@ necessario organizzare un flusso di lavoro che preveda:
    test <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`__,
    `usability test <https://designers.italia.it/kit/usability-test/>`__).
 
-Se traduci **solo alcune parti** del tuo sito:
+Se la traduzione riguarda **solo alcune parti** del sito:
 
 -  mostra in modo evidente l’interfaccia per scegliere la lingua alternativa;
 
@@ -823,7 +823,7 @@ una diversa cultura. Ad esempio:
 
 Se hai un sito multilingue, ricordati che quando aggiorni o cambi i
 contenuti dovrai farlo contemporaneamente su più lingue, mantenendo
-aggiornata la versione italiana con le altre lingue.
+allineata la versione italiana con le altre lingue.
 
 
 Proprietà intellettuale: testi, immagini, dati. Le liberatorie e i tipi di licenze
@@ -838,7 +838,7 @@ commerciali.
 Esistono molti tipi di licenze aperte che possono essere utilizzati per
 i contenuti della Pubblica Amministrazione. Per rendere più semplice
 l’utilizzo dei dati pubblicati da parte delle altre Pubbliche
-Amministrazioni e degli utenti, suggeriamo di indicare esplicitamente l’utilizzo della licenza
+Amministrazioni e degli utenti, si suggerisce di indicare esplicitamente l’utilizzo della licenza
 `Creative Commons Attribution
 4.0 <https://creativecommons.org/licenses/by/4.0/deed.it>`__ (codice
 SPDX: CC-BY-4.0).
@@ -1023,8 +1023,8 @@ lo svolgimento delle proprie funzioni istituzionali**.
 
 In tutti gli altri casi la pubblicazione di fotografie o video in un
 sito deve essere sempre autorizzata dai soggetti ritratti con una
-**lettera liberatoria** (qui trovi `un modello pronto per
-l’utilizzo <https://docs.google.com/document/d/10O1MZq7hn_LNH6aISRl5x3WPUPeVx7xMX07kaCnZma0/edit?usp=sharing>`__)
+**liberatoria** (qui trovi `un modello pronto per
+l’utilizzo <https://docs.google.com/document/d/1HHyrk8L86XHuC0NOCAnSDY68Bjbjpp0vxvk5cL330vo/edit?usp=sharing>`__)
 in cui puoi specificare la destinazione del contenuto.
 
 I documenti
@@ -1049,7 +1049,7 @@ servizi digitali da parte del cittadino. Per questo motivo devono essere
 prodotti secondo criteri di semplicità, devono essere facili da trovare
 e da leggere e usare un linguaggio comprensibile per il cittadino. La
 qualità e la semplicità dei contenuti deve essere periodicamente
-verificata con attività di user research come `A/B
+verificata con attività di ricerca utente come `A/B
 test <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`__
 e `test di
 usabilità <https://designers.italia.it/kit/usability-test/>`__ da parte
@@ -1240,7 +1240,7 @@ visto in precedenza, esistono essenzialmente due strade.
 
 Con questo approccio, è possibile per esempio:
 
--  creare una form online per raccogliere i dati altrimenti richiesti
+-  creare un form online per raccogliere i dati altrimenti richiesti
    attraverso un documento Odt;
 
 -  creare una circolare online e poi dare all’utente la possibilità di
@@ -1266,7 +1266,7 @@ i processi di consultazione come previsto dal CAD, art. 18.
    compilati e trasformati in pagina web, proprio come avviene con molti
    sistemi di gestione dei contenuti.
 
-   È un progetto che si basa sull’approccio alla creazione della
+   Docs Italia è un progetto che si basa sull’approccio alla creazione della
    documentazione chiamato *docs as code*, ovvero “documenti come
    codice”.
 
