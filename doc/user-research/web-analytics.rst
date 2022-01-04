@@ -6,12 +6,11 @@ Web analytics
 Premessa
 ~~~~~~~~
 
-Questa guida ha l’obiettivo di aiutare chi si occupa a vario titolo del
-sito web di una pubblica amministrazione a:
+Questa guida ha l’obiettivo di aiutare chi si occupa a vario titolo di *touchpoint* (punti di contatto) e servizi digitali di una pubblica amministrazione a:
 
 -  comprendere il funzionamento di una piattaforma di web analytics
 -  capire come collezionare i principali indicatori di performance di un
-   sito
+   sito o servizio
 -  capire come interpretare determinati set di dati per trarre
    informazioni utili rispetto al comportamento degli utenti e il loro
    livello di soddisfazione
@@ -21,7 +20,7 @@ sito web di una pubblica amministrazione a:
 -  comprendere come configurare una piattaforma di web analytics su uno
    o più siti
 -  comprendere come produrre e distribuire un report di analytics, per
-   condividere i dati di utilizzo con gli stakeholder e il team di
+   condividere i dati di utilizzo con i vari *stakeholder* e il team di
    lavoro interno
 -  comprendere come una lettura sistematica dei dati possa influenzare
    positivamente la comprensione dei comportamenti online degli utenti e
@@ -30,49 +29,45 @@ sito web di una pubblica amministrazione a:
 Introduzione
 ~~~~~~~~~~~~
 
-L’analisi delle performance di un ambiente web è un’attività cruciale
-per comprendere in che maniera un sito (o un servizio digitale di altro
-tipo) rispondono in maniera adeguata ai bisogni informativi e/o di
+L’analisi delle performance di un ambiente digitale è un’attività cruciale
+per comprendere in che maniera *touchpoint* e servizi rispondono in maniera adeguata ai bisogni informativi e/o di
 servizio degli utenti.
 
 Questa tipologia di analisi consente di rispondere, ad esempio, in modo
 puntuale alle seguenti domande:
 
--  Quanti utenti visitano il sito, per quanto tempo e quali e quante
+-  Quanti utenti visitano il sito/servizio, per quanto tempo e quali e quante
    pagine visitano?
--  Quali sono le principali città da cui provengono i visitatori del
-   sito? Quanti utenti che visitano il sito provengono dall’Italia e
-   quanti eventualmente dall’ estero?
+-  Quali sono le principali aree geografiche da cui provengono i visitatori del sito?
 -  Quali sono i contenuti più visitati dagli utenti in un dato
    intervallo di tempo?
 -  In quale momento della settimana o dell’anno il sito registra il
    maggiore o il minore numero di visite? Queste oscillazioni sono
    causate da un’eventuale stagionalità delle tematiche trattate o
    coincidono con la pubblicazione di nuovi contenuti?
--  Quali sono i termini tramite cui gli utenti arrivano al sito tramite
+-  Quali sono i termini tramite cui gli utenti arrivano al sito mendiante
    un motore di ricerca? Rappresentano per la maggior parte il
    nome/dominio del sito oppure fanno riferimento a informazioni/servizi
    trattati al suo interno?
 -  Quali sono i principali termini di ricerca digitati nel motore di
    ricerca interno del sito, se presente?
--  In che percentuale gli utenti che visitano il sito lo fruiscono da
+-  In che percentuale gli utenti visitano il sito da
    dispositivi mobili?
 
 Le risposte a tali domande derivano dall’analisi continuativa di
 indicatori di performance che offrono ad esempio informazioni su quali
-siano volumi di traffico del sito, quale il comportamento degli utenti,
-quale la qualità dei contenuti pubblicati o quale l’efficienza
-tecnologica del sito nel suo complesso.
+siano volumi di traffico, il comportamento degli utenti, la qualità dei contenuti pubblicati e l’efficienza
+tecnologica del sito o del servizio nel suo complesso.
 
-Metriche e Dimensioni
+Metriche e dimensioni
 ~~~~~~~~~~~~~~~~~~~~~
 
 I dati generati dalle piattaforme di web analytics sono il frutto di
 combinazioni eterogenee di metriche (dati quantitativi) e dimensioni
-(attributi qualitativi dei dati). Si precisa che il numero reale dei visitatori conteggiati per un dato intervallo di tempo è soggetto a distorsioni — per eccesso o per difetto — dovute al fatto che il calcolo degli utenti in web analytics è basato su cookies e tende quindi a generare più o meno utenti unici al variare di determinate circostanze (accesso al sito da dispositivi diversi, browser diversi, cancellazione dei cookies). Di seguito una panoramica esplicativa
-delle principali metriche e dimensioni utilizzate nella web analysis. Si
+(attributi qualitativi dei dati). È bene sottolineare che il numero reale dei visitatori conteggiati per un dato intervallo di tempo è soggetto a distorsioni — per eccesso o per difetto — dovute al fatto che il calcolo degli utenti in web analytics è basato su *cookies* e tende quindi a generare più o meno utenti unici al variare di determinate circostanze (accesso al sito da dispositivi diversi, *browser* diversi, cancellazione dei *cookies*). Di seguito una panoramica
+delle principali metriche e dimensioni utilizzate per l'analisi del traffico web. Si
 precisa che la nomenclatura di metriche e dimensioni può variare a
-seconda della piattaforma di analytics utilizzata.
+seconda della piattaforma di raccolta utilizzata.
 
 Principali Metriche (dati quantitativi)
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -87,7 +82,7 @@ Principali Metriche (dati quantitativi)
    comparazioni e/o proiezioni
 
 **Visite uniche**
-   *Definizione:* numero di singoli individui (o singoli IP) che ha
+   *Definizione:* numero di singoli individui (o singoli IP - Internet Protocol Address) che ha
    effettuato almeno una visita al sito
 
    *A cosa serve:* è la metrica che restituisce in maniera accurata il
@@ -133,7 +128,7 @@ Principali Metriche (dati quantitativi)
    dopo una pagina
 
    *A cosa serve:* misura la quota di utenti che arrivano al sito e lo
-   abbandonano subitaneamente. La percentuale di frequenza di rimbalzo
+   abbandonano subito, senza proseguire la navigazione o compiere azioni. La percentuale di frequenza di rimbalzo
    può essere interpretata in maniera opposta a seconda della natura del
    sito: ad esempio una frequenza di rimbalzo alta per un sito
    informativo è indice del fatto che le pagine potrebbero essere
@@ -214,10 +209,10 @@ fondamentale fare in modo che le pagine di un sito siano `“ottimizzate”
 per essere trovate dagli utenti attraverso i motori di
 ricerca <../content-design/seo.html>`__, ma è altrettanto importante
 analizzare i dati di web analytics provenienti dalle ricerche interne ed
-esterne al sito per avere contezza delle performance dei singoli
-contenuti e del livello di soddisfazione-utente che generano.
+esterne al sito per conoscere le performance dei singoli
+contenuti.
 
-Ecco i principali indicatori da tenere in considerazione quando si
+Di seguito i principali indicatori da tenere in considerazione quando si
 analizzano le ricerche degli utenti e le relative azioni migliorative
 che si possono intraprendere:
 
@@ -231,7 +226,7 @@ Ricerca esterna al sito
    *Azione:* Usa i relativi webmaster tools (es. `Google Search
    Console <../content-design/seo.html>`__) per ottimizzare i contenuti
    e la struttura del sito e renderli così più facilmente scansionabili
-   dai crawler dei motori e “trovabili” dagli utenti
+   dai *crawler* (software che raccolgono dati dalle pagine web) dei motori e “trovabili” dagli utenti
 
 **Top termini/frasi di ricerca**
    *Definizione:* Le principali parole e frasi digitate nei motori di
@@ -240,8 +235,8 @@ Ricerca esterna al sito
    *Azione:* Verifica che i termini utilizzati dagli utenti coincidano o
    siano simili a quelli utilizzati nel sito. Puoi prendere spunto da
    parole e frasi utilizzate dagli utenti per migliorare la terminologia
-   che usi nei titoli, nei metadati, nelle URL e in generale all’interno
-   dei contenuti, in modo da favorirne l’ottimizzazione sui motori di
+   che usi nei titoli, nei metadati, nelle URL (Uniform Resource Locator)e in generale all’interno
+   dei contenuti, in modo da favorire l’ottimizzazione sui motori di
    ricerca
 
 **Top termini di ricerca con basso CTR (click through rate)**
@@ -281,7 +276,7 @@ Ricerca su sito
    per rendere le pagine più rilevanti rispetto a quei termini
 
 **Principali oscillazioni nelle top ricerche**
-   *Definizione:* Macro cambiamenti nel ranking dei termini più cercati
+   *Definizione:* Macro cambiamenti nel *ranking* (ordinamento, classifica) dei termini più cercati
    nel motore di ricerca interno del sito
 
    *Azione:* Cerca di analizzare le ragioni per cui alcuni termini
@@ -304,7 +299,7 @@ La segmentazione in web analytics consiste nell’isolare dal traffico web aggre
 
 Nelle principali piattaforme di web analytics la segmentazione può essere applicata utilizzando segmenti preimpostati (laddove disponibili) oppure creando dei segmenti di utenza ad hoc. Si possono creare segmenti sulla base di attributi demografici dei visitatori, delle tecnologie utilizzate per navigare il sito, del comportamento, della data di prima visita dell’utente, delle sorgenti di traffico, e così via.
 
-Il traffico "segmentato" può essere poi quindi comparato nei rapporti e nelle configurazioni dashboard.
+Il traffico "segmentato" può essere poi quindi comparato nei rapporti e nelle configurazioni *dashboard* (pannelli dinamici di analisi dei dati).
 
 Per maggiori dettagli sulla segmentazione utenti si rimanda al `Kit Web Analytics <https://designers.italia.it/kit/analytics/>`__.
 
@@ -349,7 +344,7 @@ Strumenti di web analytics: Web Analytics Italia
 
 In questa sezione puoi trovare informazioni e alcuni link di approfondimento che ti aiuteranno a comprendere come adottare uno strumento di web analytics per i tuoi siti e servizi digitali.
 
-Tieni presente che a partire dalla prima metà del 2020, è disponibile gratuitamente **una soluzione di web analytics open source dedicata alle pubbliche amministrazioni italiane**, `Web Analytics Italia <https://designers.italia.it/progetti/web-analytics-italia/>`__ (WAI).
+A partire dalla prima metà del 2020, è disponibile gratuitamente **una soluzione di web analytics open source dedicata alle pubbliche amministrazioni italiane**, `Web Analytics Italia <https://designers.italia.it/progetti/web-analytics-italia/>`__ (WAI).
 
 WAI ha lo scopo di: 
 
@@ -371,9 +366,9 @@ Nei paragrafi seguenti ti proponiamo inoltre una serie di link di approfondiment
 Strumenti di web analytics: Matomo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  `Installazione e configurazione di Matomo/Piwik
+-  `Installazione e configurazione di Matomo
    <https://piwik.org/docs/installation/>`__
--  `Aggiungere un sito a Matomo/Piwik
+-  `Aggiungere un sito a Matomo
    <https://piwik.org/docs/manage-websites/>`__
 -  `Implementare il tracciamento del motore di ricerca interno al sito
    <https://piwik.org/docs/site-search/>`__
@@ -383,7 +378,7 @@ Strumenti di web analytics: Matomo
    <https://matomo.org/docs/segmentation/>`__
 -  `Creazione ed invio di report customizzati
    <https://piwik.org/docs/email-reports/>`__
--  `Importare dati da GA a Matomo/Piwik
+-  `Importare dati da GA a Matomo
    <https://piwik.org/blog/2012/08/google-analytics-to-piwik/>`__
 
 Strumenti di web analytics: Google Analytics
