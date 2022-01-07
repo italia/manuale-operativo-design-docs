@@ -11,32 +11,15 @@ da particolari utenti per raggiungere certi obiettivi con efficacia,
 efficienza, soddisfazione in uno specifico contesto d’uso" (ISO
 9241-210:2010). L’usabilità focalizza la dimensione funzionale
 dell’interazione tra un sistema (ad es. un sito web) e l’utente, in
-relazione a precisi obiettivi e contesti d’uso. Non una caratteristica
+relazione a precisi obiettivi e contesti d’uso. Non è una caratteristica
 del sistema, ma una proprietà risultante (dall’interazione tra sistema e
 persona). In questo senso è fondamentale utilizzare un approccio
-human/user centered per cui la progettazione, del sistema sia guidata
+*user centered* (centrato sull'utente) per cui la progettazione del sistema sia guidata
 dall’analisi e dalla conoscenza articolata dei bisogni, delle
 caratteristiche degli utilizzatori e dei contesti d’uso. Nella
 progettazione è necessario pensare a chi utilizzerà realmente il
 servizio, e il modello di riferimento del progettista deve coincidere
 con quello dell’effettivo utilizzatore.
-
-User-centered design
-~~~~~~~~~~~~~~~~~~~~
-
-Lo user centered design è un insieme di tecniche usate per far emergere
-i bisogni effettivi delle persone per cui si sta progettando un
-contenuto, coinvolgendo le persone stesse nel processo di progettazione.
-Per "persone" si intendono tutti i portatori di interesse (stakeholder)
-del progetto. Nel caso della pubblica amministrazione:
-
--  Cittadini
--  Aziende
--  Dipendenti di altre amministrazioni o istituzioni
--  Committenti
-
-I vantaggi dell’usabilità
-~~~~~~~~~~~~~~~~~~~~~~~~~
 
 L’aderenza in fase progettuale e implementativa ai criteri di usabilità
 consente al cittadino di:
@@ -47,16 +30,46 @@ consente al cittadino di:
 Inoltre l’usabilità consente alle PA di:
 
 -  evitare la produzione di servizi inadeguati
--  incentivare i cittadini a ritornare sul sito
+-  aiutare i cittadini a trovare facilmente ciò che cercano sui siti
 -  aumentare la fiducia dei cittadini nei confronti dell’amministrazione
 
-.. admonition:: SI DOVREBBE
+.. admonition:: SI DEVE
 
    Data l’importanza che l’usabilità riveste nell’interazione tra utente e
    applicazione web, è necessario riservare la massima attenzione alla progettazione
    orientata all’usabilità e alla relativa misurazione, mediante un processo di
    **inclusione degli utenti sin dalla fase di progettazione dei servizi**,
-   secondo un modello centrato sulla persona (human-centered).
+   secondo un modello centrato sugli utenti (user-centered).
+
+Usabilità come costrutto misurabile
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Efficacia, efficienza e soddisfazione dell’utente sono proprietà
+misurabili e osservabili attraverso questionari, interviste e scale di
+misurazione, una volta stabilite le tipologie di utenti e gli obiettivi
+che essi devono raggiungere. Gli standard definiscono come segue i
+fattori misurabili:
+
+-  l’efficacia: è il grado in cui una persona riesce a completare le
+   operazioni richieste per raggiungere il proprio obiettivo in modo
+   corretto e completo
+-  l’efficienza: corrisponde alla quantità di risorse che la persona
+   spende nelle operazioni richieste per raggiungere un dato obiettivo
+-  la soddisfazione soggettiva: è la dimensione più complessa da
+   valutare e da raggiungere, poiché riguarda il livello di
+   gratificazione che l’esperienza d’uso offre. Un sistema può
+   funzionare molto bene ma può non bastare a rendere l’interazione
+   confortevole e piacevole. Rientrano in questa dimensione aspetti come
+   l’estetica, la qualità relazionale
+
+La misurazione del livello di usabilità dei siti web deve essere
+effettuata a partire dalla fase di prototipazione dell’interfaccia
+grafica.
+
+Le statistiche d’uso di siti già online forniscono indicazioni utili,
+seppur parziali, sull’efficacia dei contenuti. È essenziale anche
+consentire agli utenti di poter inviare facilmente, e in via informale,
+commenti e opinioni sul sito dell’amministrazione.
 
 Criteri di valutazione
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -103,49 +116,12 @@ amministrazioni sono tenute a rispettare i criteri qui elencati:
    da prevenire gli errori; ove questi, comunque, si manifestino,
    occorre segnalarli chiaramente e indicare le azioni necessarie per
    porvi rimedio.
-**Gradevolezza**
-   Il sito deve possedere caratteristiche idonee a
-   favorire e a mantenere l’interesse dell’utente.
-**Flessibilità**
-   Il sito deve tener conto delle preferenze
-   individuali e dei contesti.
 
 Per approfondimenti
 ^^^^^^^^^^^^^^^^^^^
 
 `Allegato B del Decreto Ministeriale 8 luglio
 1.    <http://www.agid.gov.it/dm-8-luglio-2005-allegato-b>`__
-
-
-Usabilità come costrutto misurabile
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Efficacia, efficienza e soddisfazione dell’utente sono proprietà
-misurabili e osservabili attraverso questionari, interviste e scale di
-misurazione, una volta stabilite le tipologie di utenti e gli obiettivi
-che essi devono raggiungere. Gli standard definiscono come segue i
-fattori misurabili:
-
--  l’efficacia: è il grado in cui una persona riesce a completare le
-   operazioni richieste per raggiungere il proprio obiettivo in modo
-   corretto e completo
--  l’efficienza: corrisponde alla quantità di risorse che la persona
-   spende nelle operazioni richieste per raggiungere un dato obiettivo
--  la soddisfazione soggettiva: è la dimensione più complessa da
-   valutare e da raggiungere, poiché riguarda il livello di
-   gratificazione che l’esperienza d’uso offre. Un sistema può
-   funzionare molto bene ma può non bastare a rendere l’interazione
-   confortevole e piacevole. Rientrano in questa dimensione aspetti come
-   l’estetica, la qualità relazionale
-
-La misurazione del livello di usabilità dei siti web dovrebbe essere
-effettuata a partire dalla fase di prototipazione dell’interfaccia
-grafica.
-
-Le statistiche d’uso di siti già online forniscono indicazioni utili,
-seppur parziali, sull’efficacia dei contenuti. È essenziale anche
-consentire agli utenti di poter inviare facilmente, e in via informale,
-commenti e opinioni sul sito dell’amministrazione.
 
 
 Protocollo eGLU LG per la realizzazione di test di usabilità
