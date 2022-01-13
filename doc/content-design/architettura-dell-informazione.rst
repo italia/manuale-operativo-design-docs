@@ -22,10 +22,14 @@ Contenuti, persone e contesto
 Progettare una buona architettura dell’informazione significa soddisfare i bisogni degli utenti, creando e organizzando l’informazione per dare senso alle cose, nel rispetto del contesto organizzativo e di fruizione dei servizi.
 
 .. figure:: images/schema-ai.png
+   :height: 370px
+   :width: 400 px
    :alt: Architettura dell’informazione
    :align: center
+  
 
-   Architettura dell’informazione
+Architettura dell’informazione
+==============================
    
 L’analisi delle esigenze informative e dei comportamenti di navigazione degli utenti contribuisce alla progettazione di una efficace architettura dell’informazione. Per analizzare il tipo di pubblico di un punto di contatto digitale è necessario definire:
 - i profili di utenti a cui si rivolge l’informazione o il servizio
