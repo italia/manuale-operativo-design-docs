@@ -1,37 +1,39 @@
-Ricerche qualitative e quantitative
------------------------------------
+Ricerca documentale
+-------------------
 
 .. include:: /banner.rst
 
-La User Research (ricerca sugli utenti) ha come fine ultimo quello di studiare gli utenti per progettare servizi quanto più rispondenti alle loro effettive esigenze. Questo obiettivo si raggiunge attraverso approcci di ricerca di tipo qualitativo e/o quantitativo, che si differenziano per le caratteristiche del dato che si può ricavare e per l’analisi che se ne può fare. La ricerca qualitativa, in genere, ha come obiettivo cercare di comprendere le motivazioni sottese ad attitudini, comportamenti e atteggiamenti dell’utente, studiandone le attività, i contesti d’uso, le necessità ma anche gli errori e le frustrazioni. A differenza della ricerca quantitativa, non si basa solamente su quello che le persone dicono, ma cerca di guardare più in profondità, mappando quello che le persone dicono, fanno e pensano. La ricerca qualitativa:
+L’attività di ricerca e lettura di materiale informativo circa il contesto di indagine è estremamente utile per raccogliere informazioni sullo stato dell’arte e
+acquisire una visione complessiva su un’organizzazione e sull’ambito in cui opera. 
+Può anche essere utilizzata per raccogliere indirettamente informazioni sugli utenti di un determinato servizio, tramite statistiche demografiche ed eventuali
+report preesistenti sulla qualità percepita dei servizi pubblici o relativi all’uso del digitale.
+È consigliabile partire dalle informazioni più facilmente reperibili: come la documentazione e la ricerca pregressa disponibili online e internamente
+all’organizzazione, passare in rassegna la letteratura esistente, per procedere a un primo inquadramento del problema, capendo quali temi sono già stati trattati e
+identificare aree che necessitano di ulteriore investigazione. 
 
--  si fonda su campioni non numerosi;
--  genera dati qualitativi e non validi a fini statistici;
--  non analizza i dati in modo statistico/matematico, ma interpreta informazioni e ispirazioni raccolte rispetto agli obiettivi di progetto e alla sensibilità del ricercatore.
+Questa attività hanno lo scopo di mettere meglio a fuoco gli obiettivi della ricerca, guidare la scelta dei casi studio, e
+definire i temi da affrontare nella ricerca primaria.
 
-Nella progettazione di servizi digitali la ricerca qualitativa può essere utilizzata in diverse fasi del progetto: dalla fase di osservazione e ideazione a quella di progettazione e validazione. Gli strumenti e le tecniche sono molte e differenti fra loro per il tipo di dato che permettono di raccogliere: per ogni progetto, quindi, è necessaria una valutazione ad hoc per definire gli strumenti e le tecniche più adeguate e le fasi in cui si utilizzeranno.
+Casi studio
+~~~~~~~~~~~
 
-Le ricerche quantitative si basano invece sulla raccolta di grandi quantità di dati  e fanno un largo uso della statistica. Temi estremamente rilevanti per la ricerca quantitativa sono l’idonea impostazione del livello di **significatività statistica dei risultati** e l’applicazione di una **corretta tecnica di campionamento**: la prima è imprescindibile per confermare la validità probabilistica di un’ipotesi, la seconda influenza la possibilità di estendere i risultati provenienti dal campione all’intera popolazione oggetto di analisi. 
-Entrambi questi temi - se non correttamente gestiti - generano il rischio di falsare la bontà dei risultati di ricerca.  
- 
+La raccolta di casi studio consiste nell’analisi delle soluzioni progettuali esistenti relative al contesto d’uso preso in esame, ha la finalità di identificare i punti di forza e di debolezza e individuare le buone pratiche a cui fare riferimento durante la progettazione. 
+Le soluzioni esistenti vanno analizzate a livello di esperienza d’uso e interazioni con l’interfaccia relative al servizio e touchpoint che si sta progettando. I
+casi studio di servizi o prodotti digitali, possono comprendere sia soluzioni strettamente pertinenti all’ ambito di ricerca, sia afferire ad altri ambiti, ma
+presentare caratteristiche affini.
+Si definiscono dei criteri per orientare la ricerca e facilitare la selezione dei casi da prendere in esame, ad esempio in base alla grandezza dell’ente che eroga
+un servizio, alla categoria di servizi o considerando gli aspetti tecnologici; per poi, anche leggendo blog e articoli comparativi, stilare una prima lista di casi 
+da approfondire.
+Quindi per ciascuno si va a ripercorrere l’esperienza di interazione dell’utente con il servizio tramite l’interfaccia digitale esaminando i flussi, collezionando 
+le schermate e riassumendo i dettagli rilevanti per identificare poi le pratiche da seguire e quelle da evitare.
+In generale è importante riportare alcune informazioni generali su ciascuna soluzione, schematizzare gli step in cui è suddivisa l’interazione, e indicare a che 
+tipo di funzione cercano di assolvere.  Va descritto il modo in cui l’interfaccia indica all’utente cosa fare e come fornisce *feedback* rispetto alle azioni 
+intraprese; le informazioni che vengono richieste all’utente e le modalità di accesso alle e fruizione delle informazioni. Anche prendendo in  considerazione le 
+recensioni degli utenti, qualora presenti online.
 
+Per praticità nella comparazione e valutazione, le informazioni circa ciascun caso studio vengono spesso sintetizzate in un *template* standard, molto focalizzato 
+sulla parte dell’interfaccia visiva.
 
-
-Introduzione ai metodi
-~~~~~~~~~~~~~~~~~~~~~~
-
-Possiamo distinguere **tre tipi di ricerca qualitativa**, a cui si associano diversi tipi di strumenti e tecniche:
-
--  la **ricerca esplorativa** (o fondativa) si svolge in genere all’inizio di un progetto e permette di analizzare un tema o un problema che non si conosce a fondo. Prevede l’utilizzo di interviste individuali e osservazioni in contesto, orientate alla comprensione delle motivazioni, necessità ed esperienze attuali degli utenti di un servizio.
--  la **ricerca generativa** si usa in genere per coinvolgere gli utenti in sessioni di discussione e generazione di idee, in una fase del progetto in cui si hanno già sufficienti informazioni sul contesto per poter focalizzare l’attenzione sull’individuazione delle soluzioni. Utilizza tecniche come il *focus group* e `sessioni di co-design <../service-design/gestione-dei-progetti.html#il-workshop-di-co-design>`_, orientate al lavoro collaborativo.
--  la **ricerca valutativa** infine si svolge quando sono già disponibili i primi prototipi della soluzione progettata e si vuole raccogliere il feedback degli utenti nello sperimentare l’interazione con il servizio digitale in questione. Prevede strumenti come il *test di usabilità* o il *cognitive walkthrough*.
-
-Esistono diverse metodologie di ricerca quantitativa. Il progetto per il design dei siti scolastici in Italia offre un caso pratico di ricerca quantitativa basata sulla somministrazione di un questionario. In questo caso, la ricerca quantitativa aveva l’obiettivo di confermare o mettere in discussione alcune delle prospettive emerse da una precedente fase qualitativa basata su interviste. `Vai alla ricerca. <https://docs.italia.it/italia/designers-italia/design-scuole-docs/it/bozza/ricerca/ricerca-quantitativa.html/>`_
-Nel paragrafo dedicato ai `web analytics <./web-analytics.html>`_ sono descritte le modalità di analisi del comportamento degli utenti di un sito web, una delle fonti primarie di informazioni nei progetti digitali. `Nel paragrafo dedicato agli A/B test <./ricerche-qualitative.html#la-b-testing>`_ illustreremo invece un metodo di ricerca quantitativa funzionale a supportare processi di miglioramento continuo di un servizio digitale. 
-
-Le interviste individuali
-^^^^^^^^^^^^^^^^^^^^^^^^^
-La ricerca esplorativa si ispira ai metodi dell’etnografia applicata, per la necessità di entrare in contatto con le persone nel loro contesto abituale di vita, e di capire i loro comportamenti in profondità. La tecnica principale è quella dell’**intervista individuale**: il ricercatore incontra ciascun partecipante di persona e raccoglie una serie di spunti ponendo domande, costruendo un dialogo, e ascoltando con attenzione ciò che il partecipante racconta. Ecco alcuni consigli per organizzare al meglio le sessioni di intervista individuale.
 
 `Vai al Kit di Designers Italia sulle User Interviews <https://designers.italia.it/kit/user-interviews/>`_
 
