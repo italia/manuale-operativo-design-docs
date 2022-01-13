@@ -1,5 +1,5 @@
-User research
-=============
+Design research
+===============
 
 .. include:: /banner.rst
 
@@ -23,6 +23,6 @@ migliorative.
 .. toctree::
    :maxdepth: 2
 
-   user-research/usabilita.rst
-   user-research/ricerche-qualitative.rst
-   user-research/web-analytics.rst
+   design-research/ricerca-documentale.rst
+   design-research/test-usabilita.rst
+   design-research/web-analytics.rst
