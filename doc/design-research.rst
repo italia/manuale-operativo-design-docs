@@ -24,5 +24,8 @@ migliorative.
    :maxdepth: 2
 
    design-research/ricerca-documentale.rst
+   design-research/interviste.rst
+   design-research/questionari.rst
+   design-research/personas.rst
    design-research/test-usabilita.rst
    design-research/web-analytics.rst
