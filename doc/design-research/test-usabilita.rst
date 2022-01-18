@@ -174,8 +174,8 @@ La procedura di osservazione degli utenti si svolge con le seguenti modalità:
   di approfondire le criticità con test avanzati condotti da esperti o di confrontare fra loro
   le criticità di versioni successive del medesimo prodotto.
 
-La procedura contempla l’uso di 9 allegati,
-disponibili nel `Kit Usability Test <https://designers.italia.it/kit/usability-test/>`_.
+La procedura contempla l’uso di 10 allegati,
+disponibili nel `kit Test di usabilità <https://designers.italia.it/kit/test-usabilita/>`_.
 
 L’intera procedura, se condotta correttamente, può essere considerata un test minimo di usabilità,
 benché semplificato e di primo livello (esplorativo), e può essere svolta anche da non esperti.
@@ -197,8 +197,8 @@ Di seguito vengono descritte le diverse fasi nelle quali si articola la procedur
 2.     Esecuzione;
 3.     Analisi dei risultati.
 
-4. Preparazione
-^^^^^^^^^^^^^^^
+Preparazione
+^^^^^^^^^^^^
 
 Questa fase prevede i seguenti aspetti:
 
@@ -257,7 +257,7 @@ Strumenti di supporto validi per quest’analisi preliminare sono:
 Dopo essersi accertati che l’interfaccia mobile del sito risponda adeguatamente ai diversi
 dispositivi e aver risolto eventuali problemi individuati tramite i vari strumenti,
 occorre assicurarsi che l’interfaccia mobile funzioni adeguatamente, cioè che le
-funzioni progettate (bottoni, link, form, ecc.) siano eseguibili da mobile (dispositivi mobili)
+funzioni progettate (bottoni, link, *form*, ecc.) siano eseguibili da mobile (dispositivi mobili)
 e che l’architettura dell’informazione del sito mobile sia adeguata.
 
 Analisi ispettive da svolgersi prima del test con metodologia eGLU
@@ -265,8 +265,8 @@ Analisi ispettive da svolgersi prima del test con metodologia eGLU
 
 I test di usabilità, come quello della procedura eGLU, si applicano a una grande varietà
 di situazioni e di progetti, e in momenti diversi del ciclo di progetto. Alcuni progetti
-con elevata complessità di programmazione e molte funzionalità, possono soffrire di alcuni
-bug in certi momenti del ciclo di sviluppo. Per questo genere di progetti è spesso
+con elevata complessità di programmazione e molte funzionalità, possono soffrire di alcuni errori di funzionamento
+(*bug*) in certi momenti del ciclo di sviluppo. Per questo genere di progetti è spesso
 consigliabile svolgere, prima del test, un’analisi preliminare secondo varie possibili
 modalità, ma che comprenda almeno una prova passo passo dei task prima di sottoporli
 ai partecipanti.
@@ -292,9 +292,7 @@ Un ultimo tipo di analisi che può essere effettuata è quella degli Analytics.
 Questa analisi può darci informazioni importanti sulle modalità di fruizione
 degli utenti, sulle sezioni più navigate, sulle eventuali criticità del sito,
 sulle chiavi di ricerca utilizzate più spesso. Per approfondimenti si rimanda
-al `capitolo sui Web Analytics
-<./web-analytics.html>`_
-delle Linee Guida.
+al `capitolo del manuale dedicato alla Web Analytics.
 
 Quanti e quali tipologie di partecipanti selezionare
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -318,8 +316,8 @@ essere desiderabile o addirittura importante. Un problema poco frequente non
 compiti cruciali in alcune situazioni particolari. Si valuti dunque, caso per
 caso, in base all’importanza di identificare:
 
-a) una quota più alta, rispetto al teorico 85%, di problemi frequenti;
-b) un certo numero di problemi più rari.
+- una quota più alta, rispetto al teorico 85%, di problemi frequenti;
+- un certo numero di problemi più rari.
 
 Quali tipologie di partecipanti
 *******************************
@@ -344,11 +342,11 @@ nostro campione.
 
 In sintesi:
 
-1. Se ci si rivolge a una sola tipologia di utenti, è consigliato avere
+- Se ci si rivolge a una sola tipologia di utenti, è consigliato avere
    almeno 5 partecipanti;
-2. Se ci si rivolge a più tipologie di utenti, è utile avere almeno
+- Se ci si rivolge a più tipologie di utenti, è utile avere almeno
    3-5 partecipanti in rappresentanza di ciascuna tipologia;
-3. Se tuttavia il reperimento di partecipanti appartenenti a tutte
+- Se tuttavia il reperimento di partecipanti appartenenti a tutte
    le tipologie non è possibile o non è economico, si terrà conto di
    questa impossibilità nella valutazione dei risultati (che evidenzieranno
    quindi solo i problemi comuni alle tipologie di utenti che sono state
@@ -372,14 +370,14 @@ della maggioranza, e che appartenga al medesimo bacino d’utenza.
 Quali e quanti task preparare
 +++++++++++++++++++++++++++++
 
-Il conduttore deve preparare le descrizioni dei task da assegnare ai
-partecipanti. Ogni task deve descrivere degli obiettivi che i partecipanti
+Il conduttore deve preparare le descrizioni dei *task* da assegnare ai
+partecipanti. Ogni *task* deve descrivere degli obiettivi che i partecipanti
 devono cercare di raggiungere utilizzando l’interfaccia. Non c’è una regola
-assoluta, ma un numero di task tra 4 e 8 offre una buona copertura delle
+assoluta, ma un numero di *task* tra 4 e 8 offre una buona copertura delle
 possibili attività sul sito e un numero di dati sufficienti per valutare
 la facilità d’uso dello stesso.
 
-Il conduttore sceglie e descrive i task cercando di individuare e
+Il conduttore sceglie e descrive i *task* cercando di individuare e
 rappresentare una situazione il più possibile concreta. Nella formulazione
 bisogna essere chiari e usare sempre espressioni comuni, evitando di utilizzare
 parole chiave che potrebbero facilitare il partecipante nel raggiungimento
@@ -390,9 +388,9 @@ task contiene la parola “imposte” e c’è un link “imposte” sul sito, �
 probabile che anche chi non capisce cosa voglia dire il task scelga il link
 “imposte” per semplice riconoscimento. In tal caso usare una parafrasi.
 
-È importante che tutti i partecipanti eseguano gli stessi task, uno alla volta,
+È importante che tutti i partecipanti eseguano gli stessi *task*, uno alla volta,
 ciascuno per conto proprio. Ma affinché il test dia qualche indicazione utile,
-è necessario che i task siano significativi, scelti cioè fra le attività che
+è necessario che i *task* siano significativi, scelti cioè fra le attività che
 plausibilmente gli utenti reali svolgerebbero sul sito.
 
 Per capire quali attività gli utenti svolgono effettivamente sul sito -
@@ -405,25 +403,25 @@ ci sono diversi metodi:
 - analizzare le chiavi di ricerca utilizzate più spesso nel motore interno al sito;
 - formulare degli scenari d’uso.
 
-La copertura delle tipologie di task è affidata comunque all’analisi del sito,
+La copertura delle tipologie di *task* è affidata comunque all’analisi del sito,
 delle sue necessità, dei suoi usi e delle sue statistiche.
 
 Tipologie di task
 *****************
 
 Per ciascuna delle tipologie di attività che è possibile svolgere sul sito,
-è bene scegliere almeno uno o due task tra le seguenti tipologie:
+è bene scegliere almeno uno o due *task* tra le seguenti tipologie:
 
 - trovare informazioni online;
 - scaricare e/o consultare documenti (diversi da contenuti html) disponibili
-  per il download;
-- compilare moduli online.
+  per il *download*;
+- compilare moduli *online*.
 
-I task possono riguardare anche altro, ad esempio l’uso del motore
+I *task* possono riguardare anche altro, ad esempio l’uso del motore
 di ricerca, i pagamenti online, o l’iscrizione ad aree riservate,
 se presenti.
 
-*Uso del motore di ricerca interno*
+**Uso del motore di ricerca interno**
 
 Se si è consapevoli del fatto che il motore non funziona adeguatamente,
 si può decidere di non consentire il suo utilizzo, oppure, al contrario,
@@ -433,7 +431,7 @@ alla ricerca tramite motore, si può eventualmente chiedere loro durante
 il test e dopo l’uso del motore di provare a raggiungere gli obiettivi
 proposti navigando nel sito.
 In ogni caso, non è da ammettere mai la ricerca tramite motori esterni
-al sito (per es. Google).
+al sito.
 
 Criteri di successo per i task
 ******************************
@@ -545,10 +543,10 @@ fase di esecuzione vera e propria. Tale fase richiede:
 Preparazione di un ambiente idoneo per test mobile e desktop
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-La caratteristica principale dei dispositivi mobile è la loro portabilità ovvero
+La caratteristica principale dei dispositivi mobili è la loro portabilità ovvero
 il fatto che permettono ad un utente di interagire ovunque tramite internet.
 
-Per i dispositivi mobile quindi, al fine di controllare l’uso del servizio
+Per i dispositivi mobili quindi, al fine di controllare l’uso del servizio
 in contesti diversi, il conduttore può predisporre valutazioni al di fuori
 del classico ambiente chiuso che solitamente si utilizza nelle valutazioni
 con dispositivi desktop.
@@ -694,8 +692,6 @@ difficoltà a pensare a voce alta, è bene non insistere nell’incoraggiamento 
 domande per incoraggiarlo a verbalizzare, per esempio: “Stai avendo delle difficoltà di cui
 vuoi parlarci?”.
 
-Nei prossimi mesi pubblicheremo un approfondimento su come comportarsi durante i test.
-
 Avvio del test
 **************
 
@@ -726,8 +722,6 @@ o anche “Ricorda che devi essere tu a decidere e che non c’è un modo giusto
 non si può raggiungere l’obiettivo, basta che tu me lo dica”. Inoltre, è possibile congedare,
 ringraziandolo, un partecipante che è chiaramente annoiato o nervoso, senza però far trasparire
 l’idea che il partecipante stesso non abbia adeguatamente risposto alle nostre aspettative.
-
-Nei prossimi mesi pubblicheremo un approfondimento su come comportarsi con i partecipanti durante i test.
 
 Dati da raccogliere
 +++++++++++++++++++
@@ -969,5 +963,3 @@ Fase 3
     `Report dei risultati <https://designers.italia.it/kit/usability-test/>`_;
 22. discutere in équipe risultati e singoli problemi incontrati, per valutare possibili azioni
     correttive. Se necessario, approfondire con un esperto.
-
-
