@@ -39,7 +39,7 @@ Inoltre l’usabilità consente alle PA di:
    applicazione web, è necessario riservare la massima attenzione alla progettazione
    orientata all’usabilità e alla relativa misurazione, mediante un processo di
    **inclusione degli utenti sin dalla fase di progettazione dei servizi**,
-   secondo un modello centrato sugli utenti (user-centered).
+   secondo un modello centrato sugli utenti (*user-centered*).
 
 Usabilità come costrutto misurabile
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -126,26 +126,6 @@ Per approfondimenti
 
 Protocollo eGLU LG per la realizzazione di test di usabilità
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Quest’`opera <http://www.funzionepubblica.gov.it/glu>`_
-è distribuita con licenza Creative Commons Attribution-ShareAlike 4.0 International
-(`CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it#>`_).
-
-**Realizzato dal gruppo di lavoro per la revisione del protocollo eGLU
-del Gruppo di Lavoro per l’Usabilità (GLU).**
-
-Coordinatori del gruppo di lavoro: Simone Borsci, Maurizio Boscarol.
-
-Gruppo di lavoro: Stefano Federici, Jacopo Deyla, Domenico Polimeno,
-Josè Compagnone, Marco Ranaldo, Maria Laura Mele.
-
-A cura di: Alessandra Cornero.
-
-Il Gruppo di Lavoro per l’Usabilità (GLU) è coordinato da: Emilio Simonetti.
-
-
-Introduzione alla procedura
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Il Protocollo eGLU LG, versione 2018.1, è uno strumento pensato per coloro che
 lavorano nella gestione dei siti istituzionali e tematici di tutte le pubbliche
