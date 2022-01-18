@@ -33,5 +33,4 @@ Analizzare e sintetizzare i dati raccolti
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Si possono analizzare i dati raccolti con tecniche quanti-qualitative e rielaborare le informazioni in maniera da rispondere alle domande di ricerca. Si possono sfruttare gli strumenti di rappresentazione di grafici integrate nella piattaforma che si sta utilizzando, o anche esportare un foglio di lavoro e utilizzare strumenti di visualizzazione dati più avanzati e personalizzabili.
-
-Vai al kit Questionario online
+Vai al kit di Designers Italia dedicato ai `Questionari online <https://designers.italia.it/kit/questionario-online/>`_.
