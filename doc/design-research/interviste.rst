@@ -3,12 +3,26 @@ Interviste
 
 .. include:: /banner.rst
 
+Questa tecnica consente di raccogliere informazioni attraverso conversazioni più o meno strutturate con gli attori e con gli utenti di un determinato ecosistema di servizio basandosi sulla capacità dell’individuo di **riportare resoconti della sua esperienza personale e di raccontare, tramite resoconti verbali, le sue necessità e difficoltà rispetto a un tema specifico**. Consiste nel porre agli attori una serie di domande, in modo da toccare i diversi aspetti relativi all’ambito di investigazione. È importante perciò definire **un protocollo da seguire durante le sessioni e stilare la guida all’intervista, anche per definire chiaramente gli obiettivi e il focus dell’attività**.
 
-`Vai al Kit di Designers Italia sulle User Interviews <https://designers.italia.it/kit/user-interviews/>`_
+Il ricercatore incontra ciascun partecipante e raccoglie una serie di evidenze ponendo domande, dando spunti, facendo esempi, costruendo un dialogo e ascoltando con attenzione ciò che il partecipante racconta (questa tecnica viene applicata anche per svolgere i test di usabilità).
+Ciò consente da un lato di conoscere meglio l’ecosistema di servizio, gli attori e gli elementi coinvolti, e dall’altro di comprendere le abitudini e il punto di vista dell’utente. Lo scopo delle interviste è approfondire sia i temi relativi alla gestione delle procedure, dei processi e delle infrastrutture (*back-office*), sia quelli relativi ai comportamenti, alle necessità e alle difficoltà  di utilizzo dei servizi pubblici digitali.
 
-**Costruire un piano di ricerca**
+Al fine di massimizzare l’utilità delle interviste, è fondamentale che **il ricercatore non influenzare il partecipante in nessun modo**, facendo attenzione a porre le domande nel modo più neutrale possibile e che a prendere nota delle oggettive risposte del soggetto, lasciando spazio alle interpretazioni in un secondo momento. 
+Prendere note è parte integrante dell’attività di intervista: è un compito impegnativo che richiede la massima attenzione ed è importante quanto il saper fare le domande. Proprio per questo è bene che l’intervista sia svolta da minimo due ricercatori, uno che guida la conversazione e l’altro che prende note.
 
-Il primo passo per impostare le interviste è pianificare l’attività nel dettaglio, riflettendo sull’obiettivo della ricerca e su chi ha senso incontrare (e dove) per raggiungere quell’obiettivo. Il piano di ricerca include:
+In base a come viene gestita la conversazione e al tipo di protocollo usato, le interviste sono di tipo **strutturato** o **semi-strutturato**.
+
+- Le **interviste strutturate** seguono un protocollo molto dettagliato che comprende indicazioni sullo scopo di ciascuna domanda, e sullo *script* (copione) da seguire nel porla. Sono molto utili per toccare tutti i temi previsti senza andare fuori tema, e specificamente indicate per affrontare le sessioni di intervista con gli utenti. 
+- Le **interviste semi-strutturate** trattano argomenti predefiniti senza la necessità di porre una scaletta di domande dirette, ma piuttosto introducendo le tematiche da affrontare in forma di considerazioni e dando spunti al partecipante per elaborare ed esporre il suo punto di vista a riguardo. Questa è la tipologia di intervista più appropriata per coinvolgere gli *stakeholder*. 
+
+`Vai al Kit di Designers Italia dedicato a Interviste utenti e stakeholder <https://designers.italia.it/kit/interviste-utenti-stakeholder/>`_
+
+**Pianificare le interviste**
+
+Il primo passo per impostare le interviste è pianificare l’attività nel dettaglio, riflettendo sull’obiettivo della ricerca e su chi ha senso coinvolgere per raggiungere quell’obiettivo. 
+
+È necessario perciò: 
 
 -  la dichiarazione di un **tema di investigazione** chiaro e analizzabile tramite una ricerca qualitativa (es. “l’obiettivo della ricerca è capire a quali servizi i cittadini vorrebbero poter accedere tramite il sito del proprio Comune”).
 -  la definizione delle specificità del **metodo di intervista**, ovvero la sua durata (può variare da 1 a 2 ore a seconda della complessità dell’argomento di discussione), il numero di *ricercatori* coinvolti (minimo 2, massimo 3 persone), il contesto in cui avranno luogo le sessioni (si tenderà a privilegiare l’ambiente domestico, ma possono anche essere svolte nello spazio di lavoro o in altri luoghi neutrali).
