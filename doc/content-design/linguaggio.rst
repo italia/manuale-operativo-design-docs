@@ -9,7 +9,7 @@ Linguaggio
 Scrivere per le persone
 =======================
 
-Un linguaggio semplice è un ingrediente indispensabile per rendere i
+Un linguaggio semplice è un ingrediente indispensabile per rendere siti e
 servizi della **della Pubblica Amministrazione più efficaci e
 inclusivi**
 
@@ -18,7 +18,7 @@ Ecco alcuni degli obiettivi da porsi quando si scrive per i cittadini:
 - scrivi documenti semplici e lineari, che tengano conto in primis dei bisogni del lettore
 - usa un linguaggio semplice e chiaro, seguendo le indicazioni della `Guida al linguaggio della Pubblica Amministrazione <https://docs.italia.it/italia/designers-italia/writing-toolkit/>`__ su stile, tono di voce, uso delle parole
 - organizza contenuti e documenti in modo che siano facili da trovare durante la navigazione
-- presta particolare attenzione ai testi delle interfacce utente (definiti in gergo microcopy): la qualità e la pertinenza di label (etichette di navigazione), call to action (inviti all’azione) e altri testi che accompagnano e spiegano le interfacce grafiche, come ad esempio le tool tip o i testi che spiegano i contenuti da inserire all’interno di un form 
+- presta particolare attenzione ai testi delle interfacce utente (definiti in gergo microcopy): la qualità e la pertinenza di *label* (etichette di navigazione), *call to action* (inviti all’azione) e altri testi che accompagnano e spiegano le interfacce grafiche, come ad esempio i *tooltip* (messaggi a comparsa) o i testi che spiegano i contenuti da inserire all’interno di un modulo. 
 
 Prima di creare un contenuto, devi avere ben chiaro:
 
@@ -30,28 +30,25 @@ Prima di creare un contenuto, devi avere ben chiaro:
 Per individuare chi sono i tuoi utenti target (o categorie di utenti) e quali sono i loro bisogni, puoi utilizzare strumenti di
 `user research <../user-research.html>`__, come ad esempio:
 
--  sessioni partecipative con gli utenti (puoi usare `il kit per le User
-   interviews <https://designers.italia.it/kit/user-interviews/>`__);
+-  sessioni partecipative con gli utenti (puoi usare `il kit per le interviste utenti <https://designers.italia.it/kit/interviste-utenti-stakeholder/>`__);
 
 -  i dati di web analytics (puoi usare `il kit Web
    analytics <https://designers.italia.it/kit/analytics/>`__);
 
 -  gli `A/B
    test <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`__
-   e i test di usabilità (puoi usare `il kit Usability
-   test <https://designers.italia.it/kit/usability-test/>`__).
+   e i test di usabilità (puoi usare `il kit test usabilità <https://designers.italia.it/kit/test-usabilita/>`__).
 
 Puoi utilizzare le informazioni che raccogli per costruire delle
-personas (puoi usare `il kit
-Personas <https://designers.italia.it/kit/personas/>`__ per farlo),
-ovvero dei profili rappresentativi di categorie di utenti del tuo
-servizio, e ipotizzare delle `user
-journey <https://designers.italia.it/kit/user-journey/>`__, cioè delle rappresentazioni sintetiche delle fasi che compongono l’interazione dell’utente con un servizio. 
+personas,
+ovvero dei profili rappresentativi di categorie di utenti del tuo sito o
+servizio, e ipotizzare delle `*user
+journey* <https://designers.italia.it/kit/esperienza-utente/>`__, cioè delle rappresentazioni sintetiche delle fasi che compongono l’interazione dell’utente con un servizio. 
 
 Definire chi sono gli utenti e quali sono i loro bisogni è necessario in
 **tutte le fasi in cui lavori al contenuto**, ovvero:
 
--  la progettazione/design;
+-  la progettazione;
 
 -  la scrittura;
 
@@ -63,7 +60,7 @@ competenze e le abilità.
 
 Utilizza strumenti, metodi di lavoro e modelli presenti nel `kit di
 Designers Italia dedicato ai
-contenuti <https://designers.italia.it/kit/content-kit/>`__
+contenuti e al linguaggio <https://designers.italia.it/kit/content-kit/>`__
 
 Progettare i contenuti
 ======================
@@ -101,10 +98,10 @@ Le priorità sono le seguenti:
 - che nome dare a contenuti e servizi?
 
 Per dare risposta a questa domande devi entrare nel processo di
-prototipazione, dove il servizio prende forma (o viene ridefinito).
+prototipazione, dove il servizio prende forma (o viene ri-progettato).
 La progettazione di un servizio beneficia della presenza di un design system di riferimento ovvero regole e componenti standard fanno sì che in fase di creazione di un nuovo servizio non sia necessario *reinventare ogni volta la ruota*.
 
-Tra questi rientrano anche una serie di design pattern, ossia veri e propri modelli che offrono indicazioni su come strutturare e organizzare i contenuti (*content type* e *content pattern*).
+Tra questi rientrano anche una serie di *design pattern* (modelli di progettazione), ossia veri e propri modelli che offrono indicazioni su come strutturare e organizzare i contenuti (*content type* e *content pattern*).
 
 .. admonition:: deepening
    :class: admonition-deepening display-page
@@ -112,7 +109,7 @@ Tra questi rientrano anche una serie di design pattern, ossia veri e propri mode
    **Progettare i contenuti all'interno di un design system: content type e content pattern**
 
    In un sistema complesso come quello della Pubblica Amministrazione, è
-   utile identificare dei modelli ricorrenti (che possiamo definire “pattern”)
+   utile identificare dei modelli ricorrenti (che possiamo definire *pattern*)
    in grado di offrire risposte standard a classi di bisogni simili. I
    pattern relativi ai contenuti possono essere di due tipi:
 
@@ -125,7 +122,7 @@ Tra questi rientrano anche una serie di design pattern, ossia veri e propri mode
    Amministrazione <https://guida-linguaggio-pubblica-amministrazione.re
    adthedocs.io/it/latest/>`__
 
-   Qui approfondiamo il tema della costruzione di pagine web che offrano 
+   Qui approfondiamo il tema della costruzione di pagine web che offrono 
    una struttura standard per rispondere a specifici bisogni
    dell'utente. Solitamente si fa riferimento a queste tipologie di pagine
    come “\ *content type*\ ”.
@@ -150,6 +147,11 @@ Tra questi rientrano anche una serie di design pattern, ossia veri e propri mode
    servizio sono elencate.
 
    Alcuni esempi dei più comuni *content type* in un sito sono:
+   
+    - **Homepage**: l’homepage ha in genere la funzione principale di
+     orientare l’utente all’interno dei contenuti del sito, per
+     permettergli di raggiungere rapidamente le informazioni che sta
+     cercando.
 
    - **Search**: la funzione principale di un motore di ricerca è
      permettere all’utente di trovare all’interno del sito o di una
@@ -162,11 +164,6 @@ Tra questi rientrano anche una serie di design pattern, ossia veri e propri mode
    - **Liste**: le pagine di lista permettono all’utente di orientarsi
      all’interno di alcune sezioni, organizzate per tag, per categoria,
      per argomento.
-
-   - **Homepage**: l’homepage ha in genere la funzione principale di
-     orientare l’utente all’interno dei contenuti del sito, per
-     permettergli di raggiungere rapidamente le informazioni che sta
-     cercando.
 
    - **Form e wizard**: questi *content type* accompagnano l’utente
      nell’esecuzione di un’azione, compilando alcuni campi o
@@ -187,7 +184,7 @@ Tra questi rientrano anche una serie di design pattern, ossia veri e propri mode
 
    Anche nel `modello di analisi dei
    contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit#gid=1126404963>`__
-   che abbiamo pubblicato all’interno del `Content
+   presente nel kit `Contentuti e linguaggio
    kit <https://designers.italia.it/kit/content-kit/>`__, per ogni
    pagina presa in considerazione è necessario domandarsi di che tipo di
    *content type* si tratti. In questo modo è possibile assicurarsi:
@@ -212,7 +209,7 @@ indicazioni per un linguaggio semplice e efficace, che puoi trovare
 nella `Guida al linguaggio della Pubblica
 Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/>`__.
 
-**Checklist per il contenuto:** fai un check della qualità del contenuto basandoti sulle seguenti domande:
+**Checklist per il contenuto:** fai un controllo della qualità del contenuto basandoti sulle seguenti domande:
 
 -  Lo scopo della pagina è immediatamente chiaro? (Per approfondire:
    `Stile di
@@ -280,11 +277,13 @@ Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.i
 
    **I testi come interfacce**
 
-   LE ETICHETTE DI NAVIGAZIONE
+   Le etichette di navigazione
+   ---------------------------
+   
    Una *label* (o etichetta) è un breve testo o un’icona che indica un
-   insieme di contenuti con tratti in comune: attraverso le etichette
+   insieme di contenuti con caratteristiche comuni: attraverso le etichette
    l’utente si orienta nell’ambiente facendosi un’idea
-   dell’organizzazione e del sistema di navigazione. Le label dovrebbero
+   dell’organizzazione e del sistema di navigazione. Le etichette dovrebbero
    guidare gli utenti nei nuovi concetti e aiutarli a
    identificare quelli già familiari con facilità.
 
@@ -310,7 +309,7 @@ Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.i
       varianti “CHI SIAMO”, “Chi siamo”, “Chi Siamo”.
 
    -  **Formattazione**: dimensioni e colore dei caratteri, spaziature,
-      sfondi possono rinforzare la coerenza di un labeling system.
+      sfondi possono rinforzare la coerenza di un sistema di etichette.
 
    -  **Sintassi:** evita di avere nello stesso sistema label a base
       verbale (“Scarica il documento”), nominale (“Documenti
@@ -318,7 +317,7 @@ Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.i
       un approccio sintattico e mantienilo.
 
    -  **Livello di granularità:** all’interno del sistema è meglio avere
-      label di pari livello di specificità. “Modulo per la richiesta di
+      etichette di pari livello di specificità. “Modulo per la richiesta di
       cambio di residenza” accanto ad “Anagrafe”, esposto nella stessa
       area del sito e allo stesso livello, genererebbe confusione.
 
@@ -341,20 +340,21 @@ Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.i
    analytics <https://designers.italia.it/kit/analytics/>`__ e
    `Google Search Console <./seo.html#webmaster-tools-search-console-di-google>`_.
 
-IL MICROCOPY
-I microtesti che accompagnano e descrivono gli elementi grafici delle interfacce di un sistema web, sono definiti in gergo “microcopy”. L’armonia e la pertinenza fra elementi grafici delle interfacce e  microcopy contribuisce a garantire all’utente un usabilità ottimale del sistema. 
+I microtesti
+------------
+
+I microtesti che accompagnano e descrivono gli elementi grafici delle interfacce di un sistema web, sono definiti in gergo tecnico *microcopy*. L’armonia e la pertinenza fra elementi grafici delle interfacce e *microcopy* contribuisce a garantire all’utente un usabilità ottimale del sistema. 
 Per questa ragione, è importante verificare periodicamente l’efficacia delle etichette di navigazione attraverso test di usabilità o mediante degli A/B test. 
-Per esempio, un tema da gestire in modo corretto a livello di microcopy è quello dei messaggi di errore (o problematiche relative a un sistema). In questo ambito infatti, un buon uso dei testi consente all’utente di capire rapidamente la tipologia di errore, ridurre l’incertezza sull’affidabilità del sistema e in molti casi limitare la necessità di accesso ai canali di assistenza. 
+Per esempio, un tema da gestire in modo corretto a livello di *microcopy* è quello dei messaggi di errore. In questo ambito infatti, un buon uso dei testi consente all’utente di capire rapidamente la tipologia di errore, ridurre l’incertezza sull’affidabilità del sistema e in molti casi limitare la necessità di accesso ai canali di assistenza. 
 
 
 Revisione e miglioramento dei contenuti
 ---------------------------------------
 
-La revisione dei tuoi contenuti va fatta tenendo conto dello scopo di
+La revisione dei contenuti deve tenere conto dello scopo di
 ciascuna pagina e `dei risultati che ci si
 aspetta <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura/gestione-dei-contenuti.html#misura-i-risultati>`__,
-che possono essere misurati attraverso strumenti di ricerca come `Google
-Analytics <https://designers.italia.it/kit/analytics/>`__, da `A/B test
+che possono essere misurati attraverso strumenti di analisi dei dati di traffico web <https://designers.italia.it/kit/analytics/>`__, da `A/B test
 mirati <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`__,
 o anche attraverso `attività di ricerca
 qualitativa <https://designers.italia.it/kit/co-design-workshop/>`__
@@ -362,9 +362,9 @@ qualitativa <https://designers.italia.it/kit/co-design-workshop/>`__
 usabilità <https://designers.italia.it/kit/usability-test/>`__, per
 esempio).
 
-I contenuti pubblicati su un sito devono essere pensati come un oggetto
+I contenuti pubblicati su un sito o una piattaforma digitale devono essere pensati come un oggetto
 in continua evoluzione. `Organizza un flusso di lavoro con il tuo team <linguaggio.html#come-organizzare-il-lavoro>`_
-affinché tutti i contenuti del tuo sito siano:
+affinché tutti i contenuti siano:
 
 -  realizzati con strumenti di **scrittura e editing collaborativi**;
 
@@ -380,13 +380,12 @@ Queste due semplici accortezze possono aiutarti a fare in modo che:
 -  non ci siano pagine con informazioni obsolete, pagine vuote o
    incomplete.
 
-All’interno del `Content
-kit <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un
+All’interno del `kit Contenuti e linguaggio <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un
 `modello di analisi dei
 contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit?usp=sharing>`__
 pronto all’uso, per **gestire l’attività di revisione** di tutte le
 pagine del sito o di una specifica sezione, assegnando specifici *task*
-ai vari membri del tuo team. Utilizzando questo strumento, puoi
+ai vari membri del tuo *team*. Utilizzando questo strumento, puoi
 individuare **tutti i problemi di ogni pagina** (dalla chiarezza delle
 informazioni all’efficacia dell’interfaccia, dai problemi di metadati a
 quelli di accessibilità), basandoti sulle indicazioni della `Guida al
@@ -395,9 +394,9 @@ Amministrazione <https://guida-linguaggio-pubblica-amministrazione.readthedocs.i
 per poi attivare **un processo di riscrittura** e miglioramento dei
 contenuti.
 
-Se il tuo focus è fare in modo che il tuo servizio sia più facile da
-trovare attraverso i motori di ricerca (Google) nel kit dedicato alla
-SEO è disponibile un modello di analisi specifico (`Vai al kit dedicato alla SEO <https://designers.italia.it/kit/SEO/>`_).
+Se il tuo obiettivo è fare in modo che il tuo sito o servizio sia più facile da
+trovare attraverso i motori di ricerca, all'interno del kit dedicato alla
+SEO (ottimizzazione per i motori di ricerca) è disponibile un modello di analisi specifico (`Vai al kit dedicato alla SEO <https://designers.italia.it/kit/SEO/>`_).
 
 .. admonition:: deepening
    :class: admonition-deepening display-page
@@ -413,8 +412,7 @@ SEO è disponibile un modello di analisi specifico (`Vai al kit dedicato alla SE
 
    .. container:: more
 
-      All’interno del `Content
-      kit <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un
+      All’interno del ` kit Contenuti e linguaggio <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un
       esercizio di `editing collaborativo “Prima e
       dopo <https://docs.google.com/document/d/1nkfs_xaMZdn2Q6ohSWYbFP7bvLnmKO75hyqO3ws38Fc/edit?usp=sharing>`__\ ”
       che ti mostra in che modo utilizzare:
@@ -424,9 +422,9 @@ SEO è disponibile un modello di analisi specifico (`Vai al kit dedicato alla SE
          fare una revisione dei contenuti direttamente nel loro contesto
          d’uso, online (nel caso di contenuti già pubblicati) oppure in un
          prototipo (nel caso di nuovi contenuti). Questo approccio è
-         particolarmente utile per analizzare e migliorare label, voci di
+         particolarmente utile per analizzare e migliorare *label*, voci di
          menu e testi che accompagnanano le interfacce grafiche attraverso
-         cui si fruisce un servizio
+         cui si fruisce un servizio;
 
       -  degli strumenti di scrittura collaborativa come `Google
          Docs <https://docs.google.com/document/u/0/>`__, che ti permettono
@@ -461,20 +459,19 @@ come `la migrazione dei contenuti <linguaggio.html#linventario-dei-contenuti-con
 ad un nuovo sito web, o `la traduzione di una parte dei contenuti
 <linguaggio.html#gestire-un-sito-multilingua>`_ del proprio sito.
 
-L’inventario dei contenuti (content inventory)
-----------------------------------------------
+L’inventario dei contenuti (*content inventory*)
+------------------------------------------------
 
 Il primo passo consiste nella gestione ordinata dei contenuti (pagine,
 immagini, documenti o altro) spesso possibile attraverso il *backend*
-del proprio content management system (CMS) e la loro classificazione in
+del proprio *content management system* (CMS) e la loro classificazione in
 *content type* e la loro organizzazione secondo un sistema di categorie
-o tag.
+o *tag*.
 
 Ci sono situazioni particolari in cui può essere opportuno trasferire
-l’inventario dei contenuti (o una sua porzione) all’interno di uno
-spreadsheet (`si può usare questo modello e modificarlo secondo
+l’inventario dei contenuti (o una sua porzione) all’interno di un foglio di lavoro (`si può usare questo modello e modificarlo secondo
 necessità <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit#gid=1126404963>`__).
-Per esempio in vista di una ottimizzazione SEO o di un redesign del
+Per esempio in vista di una ottimizzazione SEO o di una riprogettazione del
 servizio, che potrebbe comportare la necessità di riclassificare i
 contenuti o introdurre nuovi criteri di classificazione. Un caso
 specifico è il processo di migrazione dei contenuti da un'infrastruttura tecnologica all’altra.
@@ -508,14 +505,14 @@ specifico è il processo di migrazione dei contenuti da un'infrastruttura tecnol
 
       In vista di una migrazione, bisogna fare un inventario dei contenuti
       e lavorare alla riclassificazione delle singole pagine, se necessaria
-      (content type e tag corrispondenti a ciascuna pagina). A volte la
+      (*content type* e *tag* corrispondenti a ciascuna pagina). A volte la
       migrazione può richiedere la riscrittura di alcune pagine del sito
       (per esempio scrivere una descrizione prima non prevista) o la
       creazione dei contenuti di nuove pagine che non esistevano nel
       precedente sito. Questo processo può richiedere tempo, ma è
       funzionale alla migrazione automatica dei contenuti da un vecchio a
       un nuovo sito. Un altro aspetto di grande impatto è la gestione in
-      ottica SEO
+      ottica SEO.
 
       **La gestione SEO di una migrazione**
 
@@ -544,13 +541,13 @@ specifico è il processo di migrazione dei contenuti da un'infrastruttura tecnol
       -  **tutte le pagine e gli oggetti multimediali** che appaiono nei
          risultati di ricerca;
 
-      -  **i backlink** che puntano al tuo vecchio sito.
+      -  **i backlink** (link in entrata) che puntano ai tuoi contenuti.
 
       La mappatura di tutti i link del vecchio sito ti permette di creare
-      dei *redirect*, dai vecchi url ai nuovi, facendo attenzione che:
+      dei *redirect* (redirezioni), dai vecchi url ai nuovi, facendo attenzione che:
 
-      -  il redirect di ogni contenuto rimandi allo stesso contenuto nel
-         nuovo sito (e non ad esempio alla homepage);
+      -  il *redirect* di ogni contenuto rimandi allo stesso contenuto nel
+         nuovo sito (e non ad esempio alla *homepage*);
 
       -  se non ci sono contenuti corrispondenti, il *redirect* rimandi in
          ogni caso ad un contenuto analogo, che risponde allo stesso scopo
@@ -575,7 +572,7 @@ specifico è il processo di migrazione dei contenuti da un'infrastruttura tecnol
 
       **Per approfondire:**
 
-      `Checklist per il
+      `*Checklist* per l'ottimizzazione
       SEO <https://trello.com/b/CPIl9SxJ/seokitdesigners-italia>`__
 
       `Modello per l’ottimizzazione
@@ -589,8 +586,7 @@ Analizzare i contenuti
 ----------------------
 
 L’attività più frequente per la gestione dei contenuti è il monitoraggio
-e l’ottimizzazione dei contenuti già esistenti. All’interno del `Content
-kit <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un
+e l’ottimizzazione dei contenuti già esistenti. All’interno del `kit Contenuti e linguaggio <https://designers.italia.it/kit/content-kit/>`__ puoi trovare un
 `modello di analisi di
 contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit?usp=sharing>`__
 da cui puoi prendere spunto per gestire la tua attività di **revisione e
@@ -617,7 +613,7 @@ obiettivi specifici, le seguenti dimensioni:
    ad alta voce l’introduzione, per capire se il tuo testo è davvero
    efficace.
 
--  Il testo è adatto alla lettura su **dispositivi mobile**?
+-  Il testo è adatto alla lettura su **dispositivi mobili**?
 
 -  le informazioni sono organizzate bene all’interno della pagina?
 
@@ -642,12 +638,11 @@ obiettivi specifici, le seguenti dimensioni:
    puntati?
 
 In molti casi, il miglior modo di avviare l’analisi dei contenuti è fare
-dei **test di usabilità** con gli utenti di tipo “task based”, cioè
-concentrandosi sulla capacità dell’utente di raggiungere il risultato
-che si era prefisso. Questo tipo di analisi può far emergere problemi
-nella gestione delle informazioni. Per approfondire, vai alla sezione
-sui test di usabilità `usability
-test <https://designers.italia.it/kit/usability-test/>`__.
+dei **test di usabilità** con gli utenti di tipo *task based*, cioè
+concentrandosi sulla capacità dell’utente di raggiungere un risultato
+predeterminato. Questo tipo di analisi può far emergere problemi
+nella gestione delle informazioni. Per approfondire puoi consultare il kit
+dedicato ai `test di usabilità <https://designers.italia.it/kit/usability-test/>`__.
 
 Una seconda modalità di lavoro è quella degli `A/B
 test <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`__,
@@ -659,21 +654,20 @@ Come organizzare il lavoro
 
 L’attività di gestione dei contenuti va definita in un flusso di lavoro
 che richiede una definizione delle attività e l’utilizzo di strumenti di
-project management . All’interno del `kit sui
-contenuti <https://designers.italia.it/kit/content-kit/>`__ è presente
+*project management*. All’interno del `kit Contenuti e linguaggio <https://designers.italia.it/kit/content-kit/>`__ è presente
 un esempio di gestione della produzione di contenuti utilizzando una
-board di Trello. All’interno del `kit per la
+bacheca Trello. All’interno del `kit per la
 SEO <https://designers.italia.it/kit/SEO/>`__ è presente un esempio di
-board per gestire gli aspetti SEO di un progetto digitale. I processi di
+bacheca per gestire gli aspetti SEO (ottimizzazione per i motori di ricerca) di un progetto digitale. I processi di
 `audit dei
 contenuti <https://docs.google.com/spreadsheets/d/1tmVB0unvsZ5wViYFtyaf95t69Pt4a5JAIFmGdjJjdwI/edit?usp=sharing>`__
 richiedono la capacità di identificare ruoli e scadenze e coordinare il
 processo in modo da garantire il raggiungimento dei risultati nei tempi
 stabiliti. Tutti questi strumenti favoriscono la collaborazione e lo
-scambio di opinioni tra i membri del team.
+scambio di opinioni tra i membri del gruppo di lavoro.
 
 Per valutare i progressi nel processo di semplificazione dei contenuti è
-opportuno organizzare ogni anno dei test di usabilità.
+opportuno organizzare periodicamente dei test di usabilità.
 
 Come pubblicare
 ---------------
@@ -682,9 +676,9 @@ Il più delle volte la gestione dei contenuti avviene tramite sistemi di
 pubblicazione basati su **Content management system** (CMS), come ad
 esempio `Wordpress <https://it.wordpress.org/>`__ o
 `Drupal <https://www.drupal.org/home>`__. Ma è possibile utilizzare
-altre modalità di pubblicazione e gestione dei contenuti. Ad esempio, la
-piattaforma dove sono ospitate queste linee guida utilizza GitHub come
-content management system e benefica del suo *version control system*.
+altre modalità di pubblicazione e gestione dei contenuti: ad esempio, la
+piattaforma dove è ospitato questo manuale operativo utilizza GitHub come
+*content management system* e beneficia del suo *version control system* (versionamento).
 
 È bene conoscere in modo approfondito gli strumenti di gestione dei
 contenuti, in modo da governare i processi di aggiornamento,
@@ -695,7 +689,7 @@ per una buona indicizzazione dei contenuti sui motori di ricerca.
    :class: admonition-deepening display-page
 
    Molti CMS hanno delle funzioni in comune, il cui utilizzo va definito
-   in fase di design (o redesign) del sito, per creare un sistema
+   in fase di progettazione (o riprogettazione) del sito, per creare un sistema
    coerente e funzionale. Ad esempio:
 
    -  **Gli articoli**: sono generalmente utilizzati per produrre news o
@@ -708,11 +702,11 @@ per una buona indicizzazione dei contenuti sui motori di ricerca.
       l’indicizzazione;
 
    -  **Le pagine**: strumenti più versatili, possono contenere
-      informazioni testuali, gallery, liste, wizard e form, e quindi
+      informazioni testuali, *gallery*, liste, *wizard* e moduli, e quindi
       sono adatte a qualsiasi tipo di *content type*. Per ogni pagina
       valuta con attenzione il titolo, che deve essere pertinente,
       indicizzato e può divenire un bottone di navigazione. In base
-      all’utilizzo delle pagine per i content type, definisci quando
+      all’utilizzo delle pagine per i *content type*, definisci quando
       prevedere anche un sommario e/o un testo introduttivo, per
       indicare all’utente che contenuti trova nella pagina.
 
@@ -730,17 +724,16 @@ per una buona indicizzazione dei contenuti sui motori di ricerca.
       trattate coerentemente alla strategia adottata per il *labeling
       system*.
 
-   -  I **widget** sono oggetti molto versatili, da utilizzare
-      all’interno delle pagine o di altre parti del sito (footer,
-      sidebar) per inserire elementi come contenuti multimediali,
-      *widget*, form, ecc. Anche nel gestire i *widget* ricorda di
+   -  Gli **oggetti** (chiamati comunemente anche *widget*) sono elementi molto versatili, attivabili e replicabili
+      all’interno delle pagine o di sezioni del sito (footer,
+      sidebar) per inserire contenuti multimediali, funzionalità ecc. Anche nel gestire questi elementi ricorda di
       rispettare la corretta gestione delle etichette di navigazione,
-      del microcopy, dei metadati, dei tag e delle categorie.
+      del *microcopy*, dei metadati, dei tag e delle categorie.
 
 Gestire un sito multilingua
 ---------------------------
 
-Localizzare il proprio sito o servizio digitale può essere molto
+Localizzare (rendere disponibile in più lingue) un sito o servizio digitale può essere molto
 importante per renderlo più efficace **per tutti gli utenti**, anche
 quelli che non conoscono o non hanno dimestichezza con la lingua e la
 cultura italiane, attraverso contenuti:
@@ -752,14 +745,14 @@ cultura italiane, attraverso contenuti:
 -  chiari e comprensibili.
 
 Questo passaggio può essere particolarmente importante per i servizi
-pubblici, che si rivolgono spesso anche a cittadini di altre nazionalità
+pubblici, che si rivolgono spesso anche a cittadini di altre nazionalità, apolidi
 o a cittadini italiani ma che hanno diversi riferimenti linguistici o
 culturali.
 
-Se ritieni utile realizzare una traduzione del tuo sito, la prima scelta
+Quando si procede alla traduzione di un sito o di un servizio, la prima scelta
 da fare è se:
 
--  tradurre l’intero sito (o l’intera applicazione);
+-  tradurre l’intero sito (o l’intero servizio/applicazione);
 
 -  tradurne solo una parte, dove l’utilizzo di altre lingue è
    particolarmente rilevante (es. la sezione “visti” del sito del
@@ -768,7 +761,7 @@ da fare è se:
 
 La scelta va fatta in considerazione:
 
--  di una ricerca sugli **utenti del sito** o del servizio, che ne
+-  di una ricerca sugli **utenti del sito** o del servizio, che
    indaghi la lingua e i riferimenti culturali attraverso strumenti
    quantitativi (`web
    analytics <https://designers.italia.it/kit/analytics/>`__) e
@@ -797,7 +790,7 @@ necessario organizzare un flusso di lavoro che preveda:
    test <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`__,
    `usability test <https://designers.italia.it/kit/usability-test/>`__).
 
-Se traduci **solo alcune parti** del tuo sito:
+Se la traduzione riguarda **solo alcune parti** del sito:
 
 -  mostra in modo evidente l’interfaccia per scegliere la lingua alternativa;
 
@@ -830,7 +823,7 @@ una diversa cultura. Ad esempio:
 
 Se hai un sito multilingue, ricordati che quando aggiorni o cambi i
 contenuti dovrai farlo contemporaneamente su più lingue, mantenendo
-aggiornata la versione italiana con le altre lingue.
+allineata la versione italiana con le altre lingue.
 
 
 Proprietà intellettuale: testi, immagini, dati. Le liberatorie e i tipi di licenze
@@ -845,7 +838,7 @@ commerciali.
 Esistono molti tipi di licenze aperte che possono essere utilizzati per
 i contenuti della Pubblica Amministrazione. Per rendere più semplice
 l’utilizzo dei dati pubblicati da parte delle altre Pubbliche
-Amministrazioni e degli utenti, suggeriamo di indicare esplicitamente l’utilizzo della licenza
+Amministrazioni e degli utenti, si suggerisce di indicare esplicitamente l’utilizzo della licenza
 `Creative Commons Attribution
 4.0 <https://creativecommons.org/licenses/by/4.0/deed.it>`__ (codice
 SPDX: CC-BY-4.0).
@@ -1030,8 +1023,8 @@ lo svolgimento delle proprie funzioni istituzionali**.
 
 In tutti gli altri casi la pubblicazione di fotografie o video in un
 sito deve essere sempre autorizzata dai soggetti ritratti con una
-**lettera liberatoria** (qui trovi `un modello pronto per
-l’utilizzo <https://docs.google.com/document/d/10O1MZq7hn_LNH6aISRl5x3WPUPeVx7xMX07kaCnZma0/edit?usp=sharing>`__)
+**liberatoria** (qui trovi `un modello pronto per
+l’utilizzo <https://docs.google.com/document/d/1HHyrk8L86XHuC0NOCAnSDY68Bjbjpp0vxvk5cL330vo/edit?usp=sharing>`__)
 in cui puoi specificare la destinazione del contenuto.
 
 I documenti
@@ -1056,7 +1049,7 @@ servizi digitali da parte del cittadino. Per questo motivo devono essere
 prodotti secondo criteri di semplicità, devono essere facili da trovare
 e da leggere e usare un linguaggio comprensibile per il cittadino. La
 qualità e la semplicità dei contenuti deve essere periodicamente
-verificata con attività di user research come `A/B
+verificata con attività di ricerca utente come `A/B
 test <https://medium.com/designers-italia/la-b-testing-a-supporto-della-user-experience-aec73bc0fbb>`__
 e `test di
 usabilità <https://designers.italia.it/kit/usability-test/>`__ da parte
@@ -1247,7 +1240,7 @@ visto in precedenza, esistono essenzialmente due strade.
 
 Con questo approccio, è possibile per esempio:
 
--  creare una form online per raccogliere i dati altrimenti richiesti
+-  creare un form online per raccogliere i dati altrimenti richiesti
    attraverso un documento Odt;
 
 -  creare una circolare online e poi dare all’utente la possibilità di
@@ -1273,7 +1266,7 @@ i processi di consultazione come previsto dal CAD, art. 18.
    compilati e trasformati in pagina web, proprio come avviene con molti
    sistemi di gestione dei contenuti.
 
-   È un progetto che si basa sull’approccio alla creazione della
+   Docs Italia è un progetto che si basa sull’approccio alla creazione della
    documentazione chiamato *docs as code*, ovvero “documenti come
    codice”.
 
