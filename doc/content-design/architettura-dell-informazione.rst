@@ -131,7 +131,7 @@ Un altro caso tipico di relazione tra contenuti è quella relativa ai **flussi d
    *Rappresentazione del flusso di fruizione di un servizio digitale: percorso di navigazione e relazioni tra contenuti.*
 
 *Home page*, pagine di ricerca e aree personali
-=============================================
+===============================================
 *Home page*, pagine di ricerca e aree personali sono tre punti di ingresso chiave per comprendere e accedere al sistema.
 La **home page** di un sito ha la funzione di punto di ingresso, ed è tipicamente il luogo in cui l’utente ottiene una visione chiara della missione di un sito e delle sue funzioni chiave. Un modo semplice per organizzare la *home page* è definire una struttura coerente rispetto al sistema di navigazione principale, per esempio attraverso un *layout* (impostazione e disposizione dei contenuti di una pagina) a fasce.
 

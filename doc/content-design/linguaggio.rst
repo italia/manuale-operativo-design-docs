@@ -460,7 +460,7 @@ ad un nuovo sito web, o `la traduzione di una parte dei contenuti
 <linguaggio.html#gestire-un-sito-multilingua>`_ del proprio sito.
 
 L’inventario dei contenuti (*content inventory*)
-----------------------------------------------
+------------------------------------------------
 
 Il primo passo consiste nella gestione ordinata dei contenuti (pagine,
 immagini, documenti o altro) spesso possibile attraverso il *backend*

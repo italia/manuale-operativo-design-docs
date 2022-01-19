@@ -18,7 +18,7 @@ I fattori *on-page*
 ~~~~~~~~~~~~~~~~~~~
 
 Titolo del contenuto (*metatag title*)
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Un titolo dovrebbe descrivere in modo semplice quanto esposto nella
 pagina, utilizzando di preferenza la terminologia più simile a quella
@@ -157,7 +157,7 @@ informazioni rispetto all’organizzazione dei file immagini presenti nel
 sito.
 
 *Anchor Text* (testi àncora) dei link
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Per “anchor text” si intende la porzione
 di testo di un contenuto che funge da “àncora” verso un collegamento
