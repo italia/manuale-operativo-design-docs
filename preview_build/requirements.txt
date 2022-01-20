@@ -1,3 +1,3 @@
-Sphinx==3.4.3
-sphinx-autobuild==2020.9.1
-docs-italia-theme @ git+https://github.com/italia/docs-italia-theme.git
+Sphinx==4.3.1
+sphinx-autobuild==2021.3.14
+docs-italia-theme @ git+https://github.com/italia/docs-italia-theme.git@bootstrap-italia
