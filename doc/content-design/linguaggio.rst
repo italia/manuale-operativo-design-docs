@@ -28,7 +28,7 @@ Prima di creare un contenuto, devi avere ben chiaro:
    il tuo contenuto deve rispondere.
 
 Per individuare chi sono i tuoi utenti target (o categorie di utenti) e quali sono i loro bisogni, puoi utilizzare strumenti di
-`user research <../user-research.html>`__, come ad esempio:
+`user research <../design-research.html>`__, come ad esempio:
 
 -  sessioni partecipative con gli utenti (puoi usare `il kit per le interviste utenti <https://designers.italia.it/kit/interviste-utenti-stakeholder/>`__);
 

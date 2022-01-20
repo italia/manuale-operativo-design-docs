@@ -17,5 +17,5 @@ Le linee guida presentano, nel capitolo introduttivo, un quadro sinottico degli 
     doc/service-design.rst
     doc/prototyping.rst
     doc/content-design.rst
-    doc/user-research.rst
+    doc/design-research.rst
     doc/user-interface.rst

@@ -1,5 +1,5 @@
-Usabilità
----------
+Test di usabilità
+-----------------
 
 .. include:: /banner.rst
 
@@ -11,32 +11,15 @@ da particolari utenti per raggiungere certi obiettivi con efficacia,
 efficienza, soddisfazione in uno specifico contesto d’uso" (ISO
 9241-210:2010). L’usabilità focalizza la dimensione funzionale
 dell’interazione tra un sistema (ad es. un sito web) e l’utente, in
-relazione a precisi obiettivi e contesti d’uso. Non una caratteristica
+relazione a precisi obiettivi e contesti d’uso. Non è una caratteristica
 del sistema, ma una proprietà risultante (dall’interazione tra sistema e
 persona). In questo senso è fondamentale utilizzare un approccio
-human/user centered per cui la progettazione, del sistema sia guidata
+*user centered* (centrato sull'utente) per cui la progettazione del sistema sia guidata
 dall’analisi e dalla conoscenza articolata dei bisogni, delle
 caratteristiche degli utilizzatori e dei contesti d’uso. Nella
 progettazione è necessario pensare a chi utilizzerà realmente il
 servizio, e il modello di riferimento del progettista deve coincidere
 con quello dell’effettivo utilizzatore.
-
-User-centered design
-~~~~~~~~~~~~~~~~~~~~
-
-Lo user centered design è un insieme di tecniche usate per far emergere
-i bisogni effettivi delle persone per cui si sta progettando un
-contenuto, coinvolgendo le persone stesse nel processo di progettazione.
-Per "persone" si intendono tutti i portatori di interesse (stakeholder)
-del progetto. Nel caso della pubblica amministrazione:
-
--  Cittadini
--  Aziende
--  Dipendenti di altre amministrazioni o istituzioni
--  Committenti
-
-I vantaggi dell’usabilità
-~~~~~~~~~~~~~~~~~~~~~~~~~
 
 L’aderenza in fase progettuale e implementativa ai criteri di usabilità
 consente al cittadino di:
@@ -47,16 +30,46 @@ consente al cittadino di:
 Inoltre l’usabilità consente alle PA di:
 
 -  evitare la produzione di servizi inadeguati
--  incentivare i cittadini a ritornare sul sito
+-  aiutare i cittadini a trovare facilmente ciò che cercano sui siti
 -  aumentare la fiducia dei cittadini nei confronti dell’amministrazione
 
-.. admonition:: SI DOVREBBE
+.. admonition:: SI DEVE
 
    Data l’importanza che l’usabilità riveste nell’interazione tra utente e
    applicazione web, è necessario riservare la massima attenzione alla progettazione
    orientata all’usabilità e alla relativa misurazione, mediante un processo di
    **inclusione degli utenti sin dalla fase di progettazione dei servizi**,
-   secondo un modello centrato sulla persona (human-centered).
+   secondo un modello centrato sugli utenti (*user-centered*).
+
+Usabilità come costrutto misurabile
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Efficacia, efficienza e soddisfazione dell’utente sono proprietà
+misurabili e osservabili attraverso questionari, interviste e scale di
+misurazione, una volta stabilite le tipologie di utenti e gli obiettivi
+che essi devono raggiungere. Gli standard definiscono come segue i
+fattori misurabili:
+
+-  l’efficacia: è il grado in cui una persona riesce a completare le
+   operazioni richieste per raggiungere il proprio obiettivo in modo
+   corretto e completo
+-  l’efficienza: corrisponde alla quantità di risorse che la persona
+   spende nelle operazioni richieste per raggiungere un dato obiettivo
+-  la soddisfazione soggettiva: è la dimensione più complessa da
+   valutare e da raggiungere, poiché riguarda il livello di
+   gratificazione che l’esperienza d’uso offre. Un sistema può
+   funzionare molto bene ma può non bastare a rendere l’interazione
+   confortevole e piacevole. Rientrano in questa dimensione aspetti come
+   l’estetica, la qualità relazionale
+
+La misurazione del livello di usabilità dei siti web deve essere
+effettuata a partire dalla fase di prototipazione dell’interfaccia
+grafica.
+
+Le statistiche d’uso di siti già online forniscono indicazioni utili,
+seppur parziali, sull’efficacia dei contenuti. È essenziale anche
+consentire agli utenti di poter inviare facilmente, e in via informale,
+commenti e opinioni sul sito dell’amministrazione.
 
 Criteri di valutazione
 ~~~~~~~~~~~~~~~~~~~~~~
@@ -103,12 +116,6 @@ amministrazioni sono tenute a rispettare i criteri qui elencati:
    da prevenire gli errori; ove questi, comunque, si manifestino,
    occorre segnalarli chiaramente e indicare le azioni necessarie per
    porvi rimedio.
-**Gradevolezza**
-   Il sito deve possedere caratteristiche idonee a
-   favorire e a mantenere l’interesse dell’utente.
-**Flessibilità**
-   Il sito deve tener conto delle preferenze
-   individuali e dei contesti.
 
 Per approfondimenti
 ^^^^^^^^^^^^^^^^^^^
@@ -117,59 +124,8 @@ Per approfondimenti
 1.    <http://www.agid.gov.it/dm-8-luglio-2005-allegato-b>`__
 
 
-Usabilità come costrutto misurabile
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Efficacia, efficienza e soddisfazione dell’utente sono proprietà
-misurabili e osservabili attraverso questionari, interviste e scale di
-misurazione, una volta stabilite le tipologie di utenti e gli obiettivi
-che essi devono raggiungere. Gli standard definiscono come segue i
-fattori misurabili:
-
--  l’efficacia: è il grado in cui una persona riesce a completare le
-   operazioni richieste per raggiungere il proprio obiettivo in modo
-   corretto e completo
--  l’efficienza: corrisponde alla quantità di risorse che la persona
-   spende nelle operazioni richieste per raggiungere un dato obiettivo
--  la soddisfazione soggettiva: è la dimensione più complessa da
-   valutare e da raggiungere, poiché riguarda il livello di
-   gratificazione che l’esperienza d’uso offre. Un sistema può
-   funzionare molto bene ma può non bastare a rendere l’interazione
-   confortevole e piacevole. Rientrano in questa dimensione aspetti come
-   l’estetica, la qualità relazionale
-
-La misurazione del livello di usabilità dei siti web dovrebbe essere
-effettuata a partire dalla fase di prototipazione dell’interfaccia
-grafica.
-
-Le statistiche d’uso di siti già online forniscono indicazioni utili,
-seppur parziali, sull’efficacia dei contenuti. È essenziale anche
-consentire agli utenti di poter inviare facilmente, e in via informale,
-commenti e opinioni sul sito dell’amministrazione.
-
-
 Protocollo eGLU LG per la realizzazione di test di usabilità
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-Quest’`opera <http://www.funzionepubblica.gov.it/glu>`_
-è distribuita con licenza Creative Commons Attribution-ShareAlike 4.0 International
-(`CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0/deed.it#>`_).
-
-**Realizzato dal gruppo di lavoro per la revisione del protocollo eGLU
-del Gruppo di Lavoro per l’Usabilità (GLU).**
-
-Coordinatori del gruppo di lavoro: Simone Borsci, Maurizio Boscarol.
-
-Gruppo di lavoro: Stefano Federici, Jacopo Deyla, Domenico Polimeno,
-Josè Compagnone, Marco Ranaldo, Maria Laura Mele.
-
-A cura di: Alessandra Cornero.
-
-Il Gruppo di Lavoro per l’Usabilità (GLU) è coordinato da: Emilio Simonetti.
-
-
-Introduzione alla procedura
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Il Protocollo eGLU LG, versione 2018.1, è uno strumento pensato per coloro che
 lavorano nella gestione dei siti istituzionali e tematici di tutte le pubbliche
@@ -218,8 +174,8 @@ La procedura di osservazione degli utenti si svolge con le seguenti modalità:
   di approfondire le criticità con test avanzati condotti da esperti o di confrontare fra loro
   le criticità di versioni successive del medesimo prodotto.
 
-La procedura contempla l’uso di 9 allegati,
-disponibili nel `Kit Usability Test <https://designers.italia.it/kit/usability-test/>`_.
+La procedura contempla l’uso di 10 allegati,
+disponibili nel `kit Test di usabilità <https://designers.italia.it/kit/test-usabilita/>`_.
 
 L’intera procedura, se condotta correttamente, può essere considerata un test minimo di usabilità,
 benché semplificato e di primo livello (esplorativo), e può essere svolta anche da non esperti.
@@ -241,8 +197,8 @@ Di seguito vengono descritte le diverse fasi nelle quali si articola la procedur
 2.     Esecuzione;
 3.     Analisi dei risultati.
 
-4. Preparazione
-^^^^^^^^^^^^^^^
+Preparazione
+^^^^^^^^^^^^
 
 Questa fase prevede i seguenti aspetti:
 
@@ -301,7 +257,7 @@ Strumenti di supporto validi per quest’analisi preliminare sono:
 Dopo essersi accertati che l’interfaccia mobile del sito risponda adeguatamente ai diversi
 dispositivi e aver risolto eventuali problemi individuati tramite i vari strumenti,
 occorre assicurarsi che l’interfaccia mobile funzioni adeguatamente, cioè che le
-funzioni progettate (bottoni, link, form, ecc.) siano eseguibili da mobile (dispositivi mobili)
+funzioni progettate (bottoni, link, *form*, ecc.) siano eseguibili da mobile (dispositivi mobili)
 e che l’architettura dell’informazione del sito mobile sia adeguata.
 
 Analisi ispettive da svolgersi prima del test con metodologia eGLU
@@ -309,8 +265,8 @@ Analisi ispettive da svolgersi prima del test con metodologia eGLU
 
 I test di usabilità, come quello della procedura eGLU, si applicano a una grande varietà
 di situazioni e di progetti, e in momenti diversi del ciclo di progetto. Alcuni progetti
-con elevata complessità di programmazione e molte funzionalità, possono soffrire di alcuni
-bug in certi momenti del ciclo di sviluppo. Per questo genere di progetti è spesso
+con elevata complessità di programmazione e molte funzionalità, possono soffrire di alcuni errori di funzionamento
+(*bug*) in certi momenti del ciclo di sviluppo. Per questo genere di progetti è spesso
 consigliabile svolgere, prima del test, un’analisi preliminare secondo varie possibili
 modalità, ma che comprenda almeno una prova passo passo dei task prima di sottoporli
 ai partecipanti.
@@ -336,9 +292,7 @@ Un ultimo tipo di analisi che può essere effettuata è quella degli Analytics.
 Questa analisi può darci informazioni importanti sulle modalità di fruizione
 degli utenti, sulle sezioni più navigate, sulle eventuali criticità del sito,
 sulle chiavi di ricerca utilizzate più spesso. Per approfondimenti si rimanda
-al `capitolo sui Web Analytics
-<./web-analytics.html>`_
-delle Linee Guida.
+al `capitolo del manuale dedicato alla Web Analytics`.
 
 Quanti e quali tipologie di partecipanti selezionare
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
@@ -362,8 +316,8 @@ essere desiderabile o addirittura importante. Un problema poco frequente non
 compiti cruciali in alcune situazioni particolari. Si valuti dunque, caso per
 caso, in base all’importanza di identificare:
 
-a) una quota più alta, rispetto al teorico 85%, di problemi frequenti;
-b) un certo numero di problemi più rari.
+- una quota più alta, rispetto al teorico 85%, di problemi frequenti;
+- un certo numero di problemi più rari.
 
 Quali tipologie di partecipanti
 *******************************
@@ -388,11 +342,11 @@ nostro campione.
 
 In sintesi:
 
-1. Se ci si rivolge a una sola tipologia di utenti, è consigliato avere
+- Se ci si rivolge a una sola tipologia di utenti, è consigliato avere
    almeno 5 partecipanti;
-2. Se ci si rivolge a più tipologie di utenti, è utile avere almeno
+- Se ci si rivolge a più tipologie di utenti, è utile avere almeno
    3-5 partecipanti in rappresentanza di ciascuna tipologia;
-3. Se tuttavia il reperimento di partecipanti appartenenti a tutte
+- Se tuttavia il reperimento di partecipanti appartenenti a tutte
    le tipologie non è possibile o non è economico, si terrà conto di
    questa impossibilità nella valutazione dei risultati (che evidenzieranno
    quindi solo i problemi comuni alle tipologie di utenti che sono state
@@ -416,14 +370,14 @@ della maggioranza, e che appartenga al medesimo bacino d’utenza.
 Quali e quanti task preparare
 +++++++++++++++++++++++++++++
 
-Il conduttore deve preparare le descrizioni dei task da assegnare ai
-partecipanti. Ogni task deve descrivere degli obiettivi che i partecipanti
+Il conduttore deve preparare le descrizioni dei *task* da assegnare ai
+partecipanti. Ogni *task* deve descrivere degli obiettivi che i partecipanti
 devono cercare di raggiungere utilizzando l’interfaccia. Non c’è una regola
-assoluta, ma un numero di task tra 4 e 8 offre una buona copertura delle
+assoluta, ma un numero di *task* tra 4 e 8 offre una buona copertura delle
 possibili attività sul sito e un numero di dati sufficienti per valutare
 la facilità d’uso dello stesso.
 
-Il conduttore sceglie e descrive i task cercando di individuare e
+Il conduttore sceglie e descrive i *task* cercando di individuare e
 rappresentare una situazione il più possibile concreta. Nella formulazione
 bisogna essere chiari e usare sempre espressioni comuni, evitando di utilizzare
 parole chiave che potrebbero facilitare il partecipante nel raggiungimento
@@ -434,9 +388,9 @@ task contiene la parola “imposte” e c’è un link “imposte” sul sito, �
 probabile che anche chi non capisce cosa voglia dire il task scelga il link
 “imposte” per semplice riconoscimento. In tal caso usare una parafrasi.
 
-È importante che tutti i partecipanti eseguano gli stessi task, uno alla volta,
+È importante che tutti i partecipanti eseguano gli stessi *task*, uno alla volta,
 ciascuno per conto proprio. Ma affinché il test dia qualche indicazione utile,
-è necessario che i task siano significativi, scelti cioè fra le attività che
+è necessario che i *task* siano significativi, scelti cioè fra le attività che
 plausibilmente gli utenti reali svolgerebbero sul sito.
 
 Per capire quali attività gli utenti svolgono effettivamente sul sito -
@@ -449,25 +403,25 @@ ci sono diversi metodi:
 - analizzare le chiavi di ricerca utilizzate più spesso nel motore interno al sito;
 - formulare degli scenari d’uso.
 
-La copertura delle tipologie di task è affidata comunque all’analisi del sito,
+La copertura delle tipologie di *task* è affidata comunque all’analisi del sito,
 delle sue necessità, dei suoi usi e delle sue statistiche.
 
 Tipologie di task
 *****************
 
 Per ciascuna delle tipologie di attività che è possibile svolgere sul sito,
-è bene scegliere almeno uno o due task tra le seguenti tipologie:
+è bene scegliere almeno uno o due *task* tra le seguenti tipologie:
 
 - trovare informazioni online;
 - scaricare e/o consultare documenti (diversi da contenuti html) disponibili
-  per il download;
-- compilare moduli online.
+  per il *download*;
+- compilare moduli *online*.
 
-I task possono riguardare anche altro, ad esempio l’uso del motore
+I *task* possono riguardare anche altro, ad esempio l’uso del motore
 di ricerca, i pagamenti online, o l’iscrizione ad aree riservate,
 se presenti.
 
-*Uso del motore di ricerca interno*
+**Uso del motore di ricerca interno**
 
 Se si è consapevoli del fatto che il motore non funziona adeguatamente,
 si può decidere di non consentire il suo utilizzo, oppure, al contrario,
@@ -477,7 +431,7 @@ alla ricerca tramite motore, si può eventualmente chiedere loro durante
 il test e dopo l’uso del motore di provare a raggiungere gli obiettivi
 proposti navigando nel sito.
 In ogni caso, non è da ammettere mai la ricerca tramite motori esterni
-al sito (per es. Google).
+al sito.
 
 Criteri di successo per i task
 ******************************
@@ -589,10 +543,10 @@ fase di esecuzione vera e propria. Tale fase richiede:
 Preparazione di un ambiente idoneo per test mobile e desktop
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
-La caratteristica principale dei dispositivi mobile è la loro portabilità ovvero
+La caratteristica principale dei dispositivi mobili è la loro portabilità ovvero
 il fatto che permettono ad un utente di interagire ovunque tramite internet.
 
-Per i dispositivi mobile quindi, al fine di controllare l’uso del servizio
+Per i dispositivi mobili quindi, al fine di controllare l’uso del servizio
 in contesti diversi, il conduttore può predisporre valutazioni al di fuori
 del classico ambiente chiuso che solitamente si utilizza nelle valutazioni
 con dispositivi desktop.
@@ -738,8 +692,6 @@ difficoltà a pensare a voce alta, è bene non insistere nell’incoraggiamento 
 domande per incoraggiarlo a verbalizzare, per esempio: “Stai avendo delle difficoltà di cui
 vuoi parlarci?”.
 
-Nei prossimi mesi pubblicheremo un approfondimento su come comportarsi durante i test.
-
 Avvio del test
 **************
 
@@ -770,8 +722,6 @@ o anche “Ricorda che devi essere tu a decidere e che non c’è un modo giusto
 non si può raggiungere l’obiettivo, basta che tu me lo dica”. Inoltre, è possibile congedare,
 ringraziandolo, un partecipante che è chiaramente annoiato o nervoso, senza però far trasparire
 l’idea che il partecipante stesso non abbia adeguatamente risposto alle nostre aspettative.
-
-Nei prossimi mesi pubblicheremo un approfondimento su come comportarsi con i partecipanti durante i test.
 
 Dati da raccogliere
 +++++++++++++++++++
@@ -1013,5 +963,3 @@ Fase 3
     `Report dei risultati <https://designers.italia.it/kit/usability-test/>`_;
 22. discutere in équipe risultati e singoli problemi incontrati, per valutare possibili azioni
     correttive. Se necessario, approfondire con un esperto.
-
-
