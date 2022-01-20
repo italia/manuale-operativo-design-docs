@@ -292,7 +292,7 @@ Un ultimo tipo di analisi che può essere effettuata è quella degli Analytics.
 Questa analisi può darci informazioni importanti sulle modalità di fruizione
 degli utenti, sulle sezioni più navigate, sulle eventuali criticità del sito,
 sulle chiavi di ricerca utilizzate più spesso. Per approfondimenti si rimanda
-al `capitolo del manuale dedicato alla Web Analytics.
+al `capitolo del manuale dedicato alla Web Analytics`.
 
 Quanti e quali tipologie di partecipanti selezionare
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
