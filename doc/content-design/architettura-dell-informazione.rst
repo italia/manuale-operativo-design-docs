@@ -35,7 +35,7 @@ L’analisi delle esigenze informative e dei comportamenti di navigazione degli 
 - i dati statistici di navigazione sul sito per comprendere il comportamento dell’utente 
 - la realizzazione di interviste e test di usabilità per comprendere  l’esperienza e la competenza generale di navigazione dell’utente target.
 
-Per un approfondimento sui metodi di ricerca sugli utenti vai alla `sezione dedicata alla user research. <../../doc/user-research.html>`_
+Per un approfondimento sui metodi di ricerca sugli utenti vai alla `sezione dedicata alla user research. <../../doc/design-research.html>`_
 
 La seconda area rilevante per l’architettura dell’informazione è quella relativa ai contenuti. Per **contenuto** si intendono le informazioni di tipo non strutturato (testi, immagini, video) o strutturato (dati e metadati) veicolate da pagine web, documenti, applicazioni grazie alle quali la Pubblica Amministrazione offre i propri servizi ai cittadini. 
 Il content journey è uno strumento adatto per fare una mappa preliminare dei bisogni informativi degli utenti: un modello è disponibile all’interno del `kit per la progettazione dei contenuti. <https://designers.italia.it/kit/content-kit/>`_ La mappatura delle informazioni esistenti e rilevanti per progettare un servizio può essere fatta attraverso un’attività di `content inventory <../content-design/linguaggio.html#scrivere-e-riscrivere>`_ e la loro formalizzazione può avvenire attraverso `ontologie e vocabolari controllati <../content-design/architettura-dell-informazione.html#ontologie-e-standard>`_. Spesso l’esito di questa analisi determina quella che viene definita una gap analysis, che evidenzia i contenuti e i dati presenti attualmente sul sito e quelli che dovranno essere prodotti, modificati o eliminati nella nuova versione del servizio. 
@@ -230,7 +230,7 @@ Anche le tassonomie sono vocabolari controllati. Una tassonomia è un vocabolari
 
 Esiste un progetto della Pubblica Amministrazione per la creazione di vocabolari controllati da utilizzare nel settore pubblico. 
 
-`Vai al repo GitHub per consultare i vocabolari disponibili o contribuire al progetto <../../doc/user-research.html>`_
+`Vai al repo GitHub per consultare i vocabolari disponibili o contribuire al progetto <../../doc/design-research.html>`_
  
 
 

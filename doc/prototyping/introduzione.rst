@@ -4,8 +4,8 @@ Introduzione
 .. include:: /banner.rst
 
 La progettazione di un ambiente digitale si basa sui risultati delle
-attività di `user
-research <../../doc/user-research.html>`__
+attività di `ricerca
+sull'utente <../../doc/design-research.html>`__
 e
 `co-progettazione <../../doc/service-design/gestione-dei-progetti.html#il-workshop-di-co-design>`__
 con gli utenti, usate per far emergere i bisogni effettivi delle persone
