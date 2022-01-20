@@ -10,7 +10,7 @@ all’\ `usabilità <design-research/test-usabilita.html>`__, la cui
 importanza e centralità nel design di un servizio web sta nel suo essere
 in grado di influenzare in maniera determinante l’effettiva resa del
 servizio. A seguire il capitolo dedicato alla `ricerche
-qualitative <design-research/ricerche-qualitative.html>`__
+qualitative <design-research/ricerca-documentale.html>`__
 fa una rassegna delle tecniche e degli strumenti che, in diversi step
 della progettazione, risultano utili per un focus qualitativo sulle
 motivazioni sottese ai bisogni dell’utente. Chiude la sezione il
