@@ -9,9 +9,10 @@ il progetto o di valutare cambiamenti di approccio, se si rivelano
 necessari, prima di investire tempo e denaro nello sviluppo vero e
 proprio. Uno dei principali vantaggi del processo di prototipazione
 consiste nella possibilità di effettuare delle sessioni di validazione
-dell’esperienza e del concept già nelle prime fasi della progettazione,
-mantenendo gli utenti al centro del processo di design. Allo stesso
-modo, un prototipo aiuta a coinvolgere gli stakeholder fin dalle prime
+dell’esperienza e del *concept* già nelle prime fasi della progettazione,
+mantenendo gli utenti al centro del processo di *design*. 
+
+Allo stesso modo, un prototipo aiuta a coinvolgere gli *stakeholder* fin dalle prime
 fasi del progetto, mostrando loro le soluzioni che il team sta
 immaginando per rispondere ai bisogni degli utenti e agli obiettivi del
 progetto. Infine, grazie a un prototipo è più facile valutare l’impatto
@@ -36,30 +37,22 @@ fedeltà. Questo tipo di manufatto ha diversi vantaggi:
 
 La prototipazione **hi-fi (high fidelity)** interviene in un secondo
 momento, quando l’organizzazione semantica e i flussi d’interazione sono
-stati validati grazie al prototipo low-fi ed è possibile progredire
+stati validati grazie al prototipo *low-fi* ed è possibile progredire
 nella progettazione delle schermate inserendo gli elementi
-d’interfaccia. Il prototipo hi-fi prevede la definizione precisa di
-tutti gli elementi di `user
-interface <http://design-italia.readthedocs.io/it/latest/doc/user-interface.html>`__
-e `content
-design <http://design-italia.readthedocs.io/it/latest/doc/content-design.html>`__,
-lavorando in tre direzioni:
+d’interfaccia. Il prototipo *hi-fi* prevede la definizione precisa di tutti gli elementi di interfaccia utente e design dei contenuti, lavorando in tre direzioni: 
 
--  **alimenta il processo di condivisione** con gli stakeholder e gli
+-  **alimenta il processo di condivisione** con gli *stakeholder* e gli
    altri membri della squadra di progetto;
 
 -  consente di **indirizzare e documentare il lavoro di sviluppo
    front-end** del servizio digitale, facilitando la collaborazione di
    designer e developers;
 
--  **permette di verificare il concept** coinvolgendo gli utenti in
-   sessione di validazione delle scelte progettuali.
+-  permette di **validare l’interfaccia e le scelte progettuali** attraverso sessioni di test di usabilità con utenti finali. 
 
-Prototipi a bassa e media definizione 
--------------------------------------
 
 I wireframe
-~~~~~~~~~~~
+-----------
 
 Un wireframe è l’illustrazione a due dimensioni dell’interfaccia di una
 pagina. Ha come priorità:
