@@ -1,41 +1,20 @@
-Dai bisogni degli utenti alle user stories 
-===========================================
+Dai bisogni degli utenti ai flussi di interazione 
+=================================================
 
 .. include:: /banner.rst
 
-In particolare, i punti di partenza da cui avviare l’attività di
-progettazione possono essere sintetizzati in alcuni strumenti operativi
-che abbiamo affrontato nel capitolo delle Linee Guida dedicato al
-service design:
+I punti di partenza da cui avviare l’attività di progettazione possono essere sintetizzati in alcuni strumenti operativi che abbiamo affrontato nel capitolo dedicato al service design: 
 
 -  `personas <../../doc/service-design/gestione-dei-progetti.html#personas-e-profili-utente>`__,
-   ossia profili verosimili di utenti del servizio delineati in base ai
-   risultati della ricerca, rappresentativi di un gruppo di utenti;
+   ossia profili verosimili di utenti del servizio delineati in base ai risultati della ricerca, rappresentativi di un gruppo di utenti; 
 
 -  `user
    journey <../../doc/service-design/gestione-dei-progetti.html#user-journey>`__,
-   ossia la rappresentazione del percorso compiuto dall'utente
-   interagendo con i touchpoint fisici o digitali del servizio,
-   elaborata a partire dai personas e dalle loro esperienze d’uso del
-   servizio in questione.
+   ovvero la rappresentazione del percorso compiuto dall’utente interagendo con i touchpoint fisici o digitali del servizio, elaborata a partire dalle personas e dalle loro esperienze d’uso del servizio in questione.
 
-In questo capitolo faremo un passo in avanti, introducendo strumenti
-come le user stories e gli scenari d’uso. Questi elementi ci aiutano a
-concentrarci sulle persone che useranno il servizio, ad assumere il loro
-punto di vista e avere una lista chiara dei loro bisogni, evidenziando
-priorità e possibili criticità. Sulla base di user stories e scenari,
-procederemo poi alla fase di prototipazione vera e propria.
+In questo capitolo faremo un passo in avanti, introducendo strumenti quali gli **scenari d’uso** e i **flussi di interazione**, che ci aiutano a concentrarci sulle personas che useranno il servizio, assumere il loro punto di vista e avere una lista chiara dei loro bisogni, evidenziando priorità e possibili criticità. Sulla base di scenari e flussi procederemo poi alla fase di prototipazione vera e propria.
 
-**Storyboard e** **scenari d’uso**, attraverso una sintesi dei dati di
-ricerca, permettono di definire soluzioni progettuali che tengono al
-centro le *personas*: descrivono in modo realistico la sequenza di
-azioni che queste compiono all’interno del servizio, identificando e
-mettendo in ordine di priorità le caratteristiche più importanti dal
-loro punto di vista. Si tratta di una narrazione macroscopica, non
-troppo dettagliata: una sorta di sceneggiatura all’interno della quale,
-con un approccio più analitico, si possono generare le **user stories**.
-All’interno di uno scenario possono esistere più user stories, che
-specificano con maggior dettaglio un preciso caso d’uso del servizio.
+Gli `scenari d’uso <https://docs.google.com/spreadsheets/d/1G2OHLvQ25efMf_mSUA-DgKXs8PyT9fLK2eiA1BbCdhI/edit#gid=1918884779>`__ sono narrazioni che collocano le Personas di riferimento al centro di contesti d’uso e situazioni emersi come ricorrenti e/o rilevanti grazie alla ricerca e sono pertanto utili a identificare le caratteristiche più importanti del servizio dal punto di vista degli utenti. 
 
 +-----------------------------------+-----------------------------------+
 | **Scuola - Esempi di scenari      |                                   |
