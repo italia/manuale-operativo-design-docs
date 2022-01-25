@@ -16,223 +16,58 @@ In questo capitolo faremo un passo in avanti, introducendo strumenti quali gli *
 
 Gli `scenari d’uso <https://docs.google.com/spreadsheets/d/1G2OHLvQ25efMf_mSUA-DgKXs8PyT9fLK2eiA1BbCdhI/edit#gid=1918884779>`__ sono narrazioni che collocano le Personas di riferimento al centro di contesti d’uso e situazioni emersi come ricorrenti e/o rilevanti grazie alla ricerca e sono pertanto utili a identificare le caratteristiche più importanti del servizio dal punto di vista degli utenti. 
 
-+-----------------------------------+-----------------------------------+
-| **Scuola - Esempi di scenari      |                                   |
-| d’uso del servizio**              |                                   |
-+===================================+===================================+
-| Iscrizione all’asilo nido         | 1. Arrivo sul sito dell’istituto  |
-|                                   |    scolastico                     |
-|                                   |                                   |
-|                                   | 2. Individuo la sezione dedicata  |
-|                                   |    alle iscrizioni                |
-|                                   |                                   |
-|                                   | 3. Accedo al percorso di          |
-|                                   |    iscrizione con SPID            |
-|                                   |                                   |
-|                                   | 4. Inserisco tutte le             |
-|                                   |    informazioni richieste         |
-|                                   |                                   |
-|                                   | 5. Ricevo conferma dell’avvenuta  |
-|                                   |    iscrizione, e le indicazioni   |
-|                                   |    per contattare la scuola in    |
-|                                   |    cui ho iscritto mio figlio     |
-+-----------------------------------+-----------------------------------+
-| Scelta dell’istituto scolastico   | 1. Arrivo su un sito del          |
-|                                   |    Ministero dell’istruzione      |
-|                                   |    dedicato alle iscrizioni a     |
-|                                   |    scuola                         |
-|                                   |                                   |
-|                                   | 2. Inserisco parametri relativi   |
-|                                   |    al tipo di scuola che          |
-|                                   |    preferisco                     |
-|                                   |                                   |
-|                                   | 3. Ricevo in risposta una lista   |
-|                                   |    di scuole, filtrate e ordinate |
-|                                   |    sulla base del grado di        |
-|                                   |    vicinanza rispetto alle mie    |
-|                                   |    preferenze                     |
-|                                   |                                   |
-|                                   | 4. Salvo le scuole più            |
-|                                   |    interessanti in un’area di     |
-|                                   |    preferiti                      |
-|                                   |                                   |
-|                                   | 5. Approfondisco una scuola in    |
-|                                   |    particolare leggendo maggiori  |
-|                                   |    dettagli e visitando il sito   |
-|                                   |    Internet                       |
-+-----------------------------------+-----------------------------------+
-| Pagamento servizi scolastici      | 1. Ricevo un avviso on line che   |
-|                                   |    richiede il pagamento della    |
-|                                   |    mensa                          |
-|                                   |                                   |
-|                                   | 2. Clicco sul link e arrivo sul   |
-|                                   |    sito della scuola              |
-|                                   |                                   |
-|                                   | 3. Accedo con SPID                |
-|                                   |                                   |
-|                                   | 4. Inserisco le informazioni      |
-|                                   |    necessarie per il pagamento    |
-|                                   |                                   |
-|                                   | 5. Scelgo il metodo di pagamento  |
-|                                   |                                   |
-|                                   | 6. Ricevo una ricevuta di         |
-|                                   |    pagamento                      |
-+-----------------------------------+-----------------------------------+
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
-| **Comuni - Esempi di scenari      |                                   |
-| d’uso**                           |                                   |
-+-----------------------------------+-----------------------------------+
-| Archivio documenti personali      | 1. Entro nel sito del Comune      |
-| (contravvenzioni)                 |                                   |
-|                                   | 2. Accedo con SPID a un’area      |
-|                                   |    riservata                      |
-|                                   |                                   |
-|                                   | 3. Vedo la lista delle            |
-|                                   |    contravvenzioni ricevute su    |
-|                                   |    tutto il territorio italiano   |
-+-----------------------------------+-----------------------------------+
-| Rinnovo documenti                 | 1. Entro sul sito dedicato al     |
-|                                   |    rinnovo della carta d’identità |
-|                                   |                                   |
-|                                   | 2. Seleziono la richiesta di      |
-|                                   |    rinnovo                        |
-|                                   |                                   |
-|                                   | 3. Seleziono il Comune di         |
-|                                   |    appartenenza                   |
-|                                   |                                   |
-|                                   | 4. Scelgo una data e ora tra      |
-|                                   |    quelle disponibili nel         |
-|                                   |    calendario                     |
-|                                   |                                   |
-|                                   | 5. Ricevo conferma della          |
-|                                   |    prenotazione dell’appuntamento |
-+-----------------------------------+-----------------------------------+
-| Pagamento tributi                 | 1. Sul mio telefono ricevo una    |
-|                                   |    notifica che la scadenza per   |
-|                                   |    il pagamento della TARI è in   |
-|                                   |    arrivo                         |
-|                                   |                                   |
-|                                   | 2. Apro l’app dedicata al         |
-|                                   |    pagamento delle imposte e dei  |
-|                                   |    servizi pubblici per           |
-|                                   |    verificare la data di scadenza |
-|                                   |    e l’importo                    |
-|                                   |                                   |
-|                                   | 3. Decido di effettuare il        |
-|                                   |    pagamento                      |
-|                                   |                                   |
-|                                   | 4. Inserisco le informazioni      |
-|                                   |    necessarie per il pagamento    |
-|                                   |                                   |
-|                                   | 5. Ricevo una ricevuta del        |
-|                                   |    pagamento                      |
-+-----------------------------------+-----------------------------------+
++--------+-------------------------------------+-------------------------------------------------------+
+| CODICE | NOME SCENARIO                       | DESCRIZIONE                                           |
++--------+-------------------------------------+-------------------------------------------------------+
+| S01    | Approfondire un tema                | Giorgio vede un cartello informativo vicino al        |
+|        | importante per la città             | cantiere sotto casa sua, si collega al sito del       |
+|        |                                     | comune tramite QR. Da qui si informa sui lavori       |
+|        |                                     | in corso nella sua via e invia una segnalazione       |
+|        |                                     | per alcuni danni causati dal cantiere.                |
++--------+-------------------------------------+-------------------------------------------------------+
+| S02    | Scoprire gli eventi in programma e  | Alessandra si trova in città per lavoro e cerca       |
+|        | l’orario di apertura di uno spazio  | qualcosa di interessante da fare nel fine settimana.  |
+|        | espositivo                          | Dalla homepage del sito trova tutte le iniziative     |
+|        |                                     | del periodo estivo e quelle organizzate nel prossimo  |
+|        |                                     | weekend. Si interessa a una mostra in particolare     |
+|        |                                     | e trova le informazioni che le servono per visitarla. |
++--------+-------------------------------------+-------------------------------------------------------+
+| S03    | Iscrivere un figlio all’asilo nido  | Giorgio vuole iscrivere suo figlio all’asilo nido     |
+|        |                                     | e cerca le informazioni che gli servono sul sito      |
+|        |                                     | del comune. Seguendo la procedura indicata presenta   |
+|        |                                     | la domanda di iscrizione. Giorni dopo riceve la       |
+|        |                                     | notifica della pubblicazione delle graduatorie,       |
+|        |                                     | conferma la domanda e procede al pagamento della      |
+|        |                                     | quota di iscrizione.                                  |
++--------+-------------------------------------+-------------------------------------------------------+
 
-Le **user stories** sono una descrizione informale delle funzioni di un
-servizio, espressa dal punto di vista dell’utente secondo una struttura
-che definisce il ruolo di chi la esprime, l’azione che vuole o deve
-compiere e l’obiettivo che muove all’azione:
+Per specificare con maggior dettaglio un preciso caso d’uso del servizio, all’interno degli scenari si possono generare le cosiddette *user stories* (storie dell'utente), ossia **descrizioni informali delle funzioni di un servizio**, espresse dal punto di vista dell’utente secondo una struttura che definisce il ruolo di chi la esprime, l’azione che vuole o deve compiere e l’obiettivo che muove all’azione. 
 
 Io come [*personas*] vorrei [*funzione*] per [*bisogno*].
 
-Le user stories facilitano la comprensione delle caratteristiche
-richieste al servizio per tutti i membri del team al lavoro sul
-progetto. Per non perdere di vista il quadro generale possono essere
-organizzate per scenari d’uso (vedi sopra) o story map, ovvero mappe in
-cui raggruppare le user stories in base al tema o al tipo di attività,
-ordinandole per priorità.
+Le *user stories* facilitano la comprensione delle caratteristiche richieste al servizio da parte dei membri del team di lavoro. 
 
-I bisogni e le funzioni individuati grazie ai risultati della ricerca
-sugli utenti sono un’ottima base per definire le user stories.
+Ecco una lista di esempi di alcune risposte (funzioni) ai bisogni degli utenti del sito di un Comune, espressi in termini di *user stories*. 
 
-`Il kit per gli scenari e le user
-stories <https://designers.italia.it/kit/user-stories/>`__
-
-Ecco una lista di esempi di alcune risposte (funzioni) ai bisogni degli
-utenti del sito di una scuola o di un comune, espressi in termini di
-user stories.
-
-+-----------------+-----------------+-----------------+-----------------+
-| **Scuola**      |                 |                 |                 |
-+=================+=================+=================+=================+
-| **Personas**    | **Bisogni**     | **Funzioni**    | **User          |
-|                 |                 |                 | stories**       |
-+-----------------+-----------------+-----------------+-----------------+
-| Genitore        | Iscrivere mio   | Compilare       | Io come         |
-|                 | figlio          | online il       | genitore vorrei |
-|                 | all’asilo nido  | modulo on line  | compilare on    |
-|                 |                 | per             | line il modulo  |
-|                 |                 | l’iscrizione    | per iscrivere   |
-|                 |                 |                 | mio figlio al   |
-|                 |                 |                 | nido            |
-+-----------------+-----------------+-----------------+-----------------+
-|                 | Scegliere la    | Confrontare on  | Io come         |
-|                 | scuola migliore | line i diversi  | genitore vorrei |
-|                 | per mio figlio  | istituti        | confrontare     |
-|                 |                 | scolastici      | online le       |
-|                 |                 |                 | scuole secondo  |
-|                 |                 |                 | parametri       |
-|                 |                 |                 | oggettivi, in   |
-|                 |                 |                 | modo da         |
-|                 |                 |                 | scegliere la    |
-|                 |                 |                 | scuola migliore |
-|                 |                 |                 | per mio figlio  |
-+-----------------+-----------------+-----------------+-----------------+
-|                 | Assicurare      | Attivare e      | Io come         |
-|                 | pasto e merenda | pagare online   | genitore vorrei |
-|                 | ai propri figli | del servizio    | poter attivare  |
-|                 | mentre sono a   | mensa in modo   | e pagare online |
-|                 | scuola          | rapido e sicuro | l’iscrizione al |
-|                 |                 |                 | servizio mensa, |
-|                 |                 |                 | in modo da      |
-|                 |                 |                 | assicurare      |
-|                 |                 |                 | pasti a mio     |
-|                 |                 |                 | figlio quando è |
-|                 |                 |                 | a scuola        |
-+-----------------+-----------------+-----------------+-----------------+
-| **Comune**      |                 |                 |                 |
-+-----------------+-----------------+-----------------+-----------------+
-| **Personas**    | **Bisogni**     | **Funzioni**    | **User          |
-|                 |                 |                 | stories**       |
-+-----------------+-----------------+-----------------+-----------------+
-| Cittadino       | Controllare le  | Visualizzare    | Io come         |
-|                 | contravvenzioni | l’elenco delle  | cittadino       |
-|                 | ricevute        | multe in una    | vorrei accedere |
-|                 |                 | pagina          | a una pagina    |
-|                 |                 | personale       | web riservata   |
-|                 |                 |                 | dove            |
-|                 |                 |                 | controllare le  |
-|                 |                 |                 | contravvenzioni |
-|                 |                 |                 | che ho ricevuto |
-+-----------------+-----------------+-----------------+-----------------+
-|                 | Rinnovare la    | Prenotare on    | Io come         |
-|                 | carta di        | line            | cittadino       |
-|                 | identità        | l’appuntamento  | vorrei          |
-|                 |                 | per il rinnovo  | prenotare       |
-|                 |                 | nel Comune di   | online          |
-|                 |                 | residenza       | l’appuntamento  |
-|                 |                 |                 | all’ufficio     |
-|                 |                 |                 | comunale, in    |
-|                 |                 |                 | modo da         |
-|                 |                 |                 | rinnovare la    |
-|                 |                 |                 | mia carta       |
-|                 |                 |                 | d’identità      |
-+-----------------+-----------------+-----------------+-----------------+
-|                 | Essere in       | Effettuare il   | Io come         |
-|                 | regola con il   | pagamento on    | cittadino       |
-|                 | pagamento della | line della TARI | vorrei poter    |
-|                 | tassa sui       | in modo facile  | pagare i        |
-|                 | rifiuti (TARI)  | e sicuro.       | servizi         |
-|                 |                 |                 | pubblici online |
-|                 |                 |                 | in modo facile  |
-|                 |                 |                 | e sicuro,       |
-|                 |                 |                 | inclusa la      |
-|                 |                 |                 | TARI, in modo   |
-|                 |                 |                 | da essere in    |
-|                 |                 |                 | regola con i    |
-|                 |                 |                 | pagamenti       |
-+-----------------+-----------------+-----------------+-----------------+
++-------------+-------------------------+---------------------------------+---------------------------------------+
+| PERSONAS    | BISOGNI                 | FUNZIONI                        | USER STORIES                          |
++-------------+-------------------------+---------------------------------+---------------------------------------+
+|  Cittadino  | Controllare le          | Visualizzare l’elenco delle     | Io come cittadino vorrei accedere     |
+|             | contravvenzioni         | multe in una pagina personale   | a una pagina web riservata dove       |
+|             | ricevute                |                                 | controllare le contravvenzioni che    |
+|             |                         |                                 | ho ricevuto                           |
++-------------+-------------------------+---------------------------------+---------------------------------------+
+|  Cittadino  | Rinnovare la carta di   | Prenotare online l’appuntamento | Io come cittadino vorrei prenotare    |
+|             | identità                | per il rinnovo nel Comune       | online l’appuntamento all’ufficio     |
+|             |                         | di residenza                    | comunale, in modo da rinnovare la mia |
+|             |                         |                                 | carta d’identità                      |
++-------------+-------------------------+---------------------------------+---------------------------------------+
+|  Cittadino  | Essere in regola con il | Effettuare il pagamento         | Io come cittadino vorrei poter pagare |
+|             | pagamento della tassa   | on line della TARI in modo      | i servizi pubblici online in modo     |
+|             | sui rifiuti (TARI)      | facile e sicuro.                | facile e sicuro, inclusa la TARI,     |
+|             |                         |                                 | in modo da essere in regola con i     |
+|             |                         |                                 | pagamenti                             |
++-------------+-------------------------+---------------------------------+---------------------------------------+
 
 Un metodo simile al precedente prevede la mappatura delle funzioni del
 sistema concentrandosi sui due profili di utilizzatore - l’utente finale
