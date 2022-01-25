@@ -69,34 +69,18 @@ Ecco una lista di esempi di alcune risposte (funzioni) ai bisogni degli utenti d
 |             |                         |                                 | pagamenti                             |
 +-------------+-------------------------+---------------------------------+---------------------------------------+
 
-Un metodo simile al precedente prevede la mappatura delle funzioni del
-sistema concentrandosi sui due profili di utilizzatore - l’utente finale
-e il gestore del servizio - corrispondenti al front-end e al back-end
-del sistema. Questo approccio favorisce la creazione di una relazione
-chiara tra la progettazione dell’interfaccia utente e quella delle
-funzioni che permettono di abilitare il servizio.
+Si può dire che ciascuna *user story* corrisponde a una funzione del sistema e, quindi, a un possibile obiettivo dell’utente; per raggiungere tale obiettivo, l’utente deve svolgere dei compiti (*task*), che a loro volta sono costituiti da una serie di azioni dell’utente (*sub-task*) e risposte del sistema. 
+A questo punto della progettazione, è necessario scendere nel dettaglio di queste azioni e definire le conseguenti risposte del sistema, in modo da mappare tutti i possibili percorsi che un utente può svolgere per raggiungere un obiettivo. 
+Tali percorsi sono rappresentati dai flussi di interazione.
 
-+-----------------------+-----------------------+-----------------------+
-| **BISOGNI**           | **FUNZIONI PER GLI    | **FUNZIONI PER GLI    |
-|                       | UTENTI DI FRONTEND**  | UTENTI DI BACKEND**   |
-+=======================+=======================+=======================+
-| **Cambiare            | Mostrare all’utente i | -  Permette di        |
-| residenza**           | contatti e gli orari  |    definire i         |
-|                       | di apertura           |    contatti           |
-|                       | dell’ufficio anagrafe |    dell’ufficio       |
-|                       | del comune in cui     |                       |
-|                       | l’utente si è         |    Permette di        |
-|                       | trasferito e il       |    definire gli orari |
-|                       | sistema per prenotare |    di apertura del    |
-|                       | un appuntamento       |    servizio           |
-|                       |                       |                       |
-|                       |                       | Permette di gestire   |
-|                       |                       | il numero di          |
-|                       |                       | prenotazioni          |
-|                       |                       | disponibili per       |
-|                       |                       | ciascuna fascia       |
-|                       |                       | oraria                |
-+-----------------------+-----------------------+-----------------------+
+Per `costruire i flussi di interazione <https://docs.google.com/spreadsheets/d/19u8t0EuGCck3yNS12F4V9IjuwETJhVXOB_PvPpGSTnU/edit#gid=1918884779>`__ è necessario quindi descrivere ogni singola interazione dell'utente con il sistema, indicando anche il dettaglio di funzioni e/o contenuti proposti dal sistema come risposta alle azioni dell’utente. L’analisi deve coprire ogni *task*, fino al raggiungimento dell’obiettivo e tenere presente che un obiettivo potrebbe essere raggiunto dall’utente attraverso sequenze di azioni diverse, individuando quindi percorsi alternativi, anche in base al livello di esperienza dell’utente stesso.
 
-Dopo aver definito in modo chiaro bisogni e funzioni di un servizio,
-siamo in grado di avviare il processo di prototipazione.
+Molto utile è visualizzare i flussi di interazione in una `versione grafica <https://docs.google.com/presentation/d/1qzEtt75yfSaQihD6jy0WGElrvQeyp37MCgJuqEG8Q_U/edit#slide=id.gb8eece2fcb_3_175>`__, che fornisce una visione complessiva e immediata dei percorsi possibili per l’utente all’interno del sistema.
+
+Una volta completata la costruzione di ciascun flusso di interazione, sarà possibile evidenziare i potenziali snodi critici di ogni percorso e avanzare soluzioni progettuali in risposta ad esse. In questo modo, i flussi di interazione aiutano a progettare un’interfaccia in modo accurato e realmente centrato sull’utente.
+A questo punto, raggiunto questo livello di dettaglio, è possibile avviare il processo di prototipazione.
+
+
+
+
+
