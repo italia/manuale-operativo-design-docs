@@ -54,47 +54,13 @@ d’interfaccia. Il prototipo *hi-fi* prevede la definizione precisa di tutti gl
 I wireframe
 -----------
 
-Un wireframe è l’illustrazione a due dimensioni dell’interfaccia di una
-pagina. Ha come priorità:
+Un *wireframe* è una illustrazione dell’interfaccia di una pagina, che ha come obiettivi:
 
--  *l’organizzazione degli elementi interattivi e dei blocchi di
-   contenuto nello spazio disponibile sullo schermo;*
+- organizzare gli elementi interattivi e i blocchi di contenuto nello spazio disponibile sullo schermo;
+- evidenziare le funzionalità disponibili;
+- mostrare la sequenza di passaggi (Flusso di interazione) che l’utente deve fare per concludere un processo. 
 
--  *evidenziare le funzionalità disponibili*
-
--  *mostrare la sequenza di passaggi (userflow) che l’utente deve fare
-   per concludere un processo;*
-
-Date queste priorità, i wireframe non comprendono stili, colore o
-grafica: possiamo chiamare questo tipo di wireframe anche wireframe
-lo-fi o mid-fi, o a bassa o media definizione. Tra i suoi scopi, il
-wireframe ha quello di mostrare le relazioni tra i contenuti del sito e
-i flussi di interazione, e condurre progressivamente l’utente al
-raggiungimento dei propri obiettivi. Questa funzione è assolta dai
-wireframe interattivi (o user flow), sequenze di wireframe che
-permettono di simulare il percorso dell’utente attraverso link e menù di
-navigazione.
-
-il wireframing fa largo utilizzo di **pattern**, ovvero di modelli di
-rappresentazione dei contenuti e forme di interazione standard nel mondo
-web. I\ `l wireframe kit di Designers
-Italia <https://designers.italia.it/kit/wireframe-kit/>`__ presenta una
-serie di pattern che definiscono alcuni modelli di contenuto e forme di
-interazione tipiche dei siti e servizi della Pubblica Amministrazione
-Italiana e che facilitano il processo di prototipazione di un servizio
-offrendo una solida base da cui partire. Esempi di pattern sono il
-**content type** “scheda servizio”, che definisce il modello di
-presentazione di un servizio pubblico, oppure le modalità di
-interrogazione di un motore di ricerca.
-
-I modelli di pagina e di interazione sono costruiti attraverso una
-libreria di **componenti** come bottoni, campi di input, blocchi di
-testo, ecc. I componenti sono “i mattoncini” attraverso cui si
-costruiscono le interfacce, gli elementi base della grammatica che
-regola l’interazione tra l’utente e il sistema. Nel wireframe kit il
-focus è sulle tipologie di componenti e non sulle loro caratteristiche
-specifiche, che sono oggetto di definizione nella successiva fase di
-prototipazione ad alta fedeltà.
+Date queste priorità, i *wireframe* non comprendono stili, colore o grafica, motivo per cui possono essere definiti prototipi a bassa definizione. 
 
 .. figure:: media/image2.png
     :alt: Un esempio di “wireframe”, o prototipo a “bassa fedeltà”
@@ -102,10 +68,7 @@ prototipazione ad alta fedeltà.
 
 *Figura 1 - Un esempio di “wireframe”, o prototipo a “bassa fedeltà”.*
 
-*Nella Figura 1 è mostrato un esempio di prototipo costruito con un
-programma di design, ma per costruire un wireframe si possono usare
-diversi metodi, dalla carta ai numerosi software specifici presenti sul
-mercato.*
+La finalità di condurre progressivamente l’utente al raggiungimento dei propri obiettivim - mettendo in evidenza le relazioni tra i contenuti e i flussi di interazione - è assolta in modo specifico dai **prototipi interattivi**: questi sono sequenze di *wireframe*, connessi fra loro attraverso link e menu di navigazione che permettono di **simulare il percorso interattivo dell’utente**. 
 
 .. figure:: media/image3.jpg
     :alt: Wireframe interattivo (user flow) per il rinnovo della carta di identità:
@@ -126,8 +89,11 @@ identità:*
 
 5. Ricevo conferma della prenotazione dell’appuntamento
 
-Il wireframe kit
-~~~~~~~~~~~~~~~~
+La prototipazione attraverso *wireframe* fa largo utilizzo di *pattern*, ovvero di modelli di rappresentazione dei contenuti e forme di interazione standard nel mondo web. 
+
+
+Il kit Prototipazione
+~~~~~~~~~~~~~~~~~~~~~
 
 Il prototipo a bassa fedeltà può essere modellato utilizzando il
 **Wireframe Kit** messo a disposizione da Designers Italia che può agire
