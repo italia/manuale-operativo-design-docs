@@ -1,15 +1,12 @@
-================================================================================
-Il disegno di un’interfaccia e lo UI Kit
-================================================================================
+Progettare e costruire in alta fedeltà
+======================================
 
 .. include:: /banner.rst
 
-Il disegno dell’interfaccia
-================================================================================
+Il progetto dell’interfaccia in alta fedeltà (in inglese *hi-fidelity*, abbr. *hi-fi*) **è una delle fasi finali del processo di progettazione, dedicato alla realizzazione del prodotto, che si concentra anche su aspetti visivi di progettazione grafica, aggiungendo dettagli, stile grafico e animazioni**. 
+L’interfaccia viene costruita tenendo come punto di riferimento il *wireframe* contenente la struttura generale del prodotto: questo scheletro a bassa qualità (in inglese *low-fi*) viene trasformato e arricchito in modo da dare una resa reale del prodotto finale. È auspicabile in questa fase realizzare prototipi interattivi delle parti fondanti del progetto, adatti per esempio per svolgere test di usabilità per confermare o meno le scelte fatte sin qui e, in caso, migliorarle.
 
-Il disegno dell’interfaccia in “alta fedeltà” (in inglese *hi-fi*) è la fase finale della progettazione che si concentra sugli aspetti grafici di *visual design*, aggiungendo dettagli, stile e animazioni.
-
-L’interfaccia viene costruita tenendo come punto di riferimento il *wireframe* contenente la struttura generale del prodotto: lo scheletro viene trasformato e arricchito in modo da dare una resa reale del prodotto finale, nonostante questa sia ancora mancante di tutta quella parte di interazione con l’utente che verrà realizzata durante la fase di sviluppo.
+Il progetto dell’interfaccia utente sarà composto da diversi componenti, costruiti seguendo le migliori pratiche di usabilità, come bottoni, campi di compilazione, menu, blocchi di testo ecc., i quali vengono combinati e posizionati seguendo una griglia, responsiva (in inglese *responsive*) sui diversi dispositivi, per organizzare il loro posizionamento nello spazio della pagina. Per responsività nel campo delle interfacce si intende la capacità di adattamento grafico automatico dei contenuti di un sito rispetto alle dimensioni, proporzioni e caratteristiche specifiche dei dispositivi attraverso i quali viene visualizzato (es. *computer, tablet, smartphone, tv, watch*).
 
 .. figure:: images/ui-design-comparazione-tra-lo-fi-e-hi-fi.png
     :alt: Un esempio di un progetto a bassa ed alta fedeltà.
@@ -17,41 +14,30 @@ L’interfaccia viene costruita tenendo come punto di riferimento il *wireframe*
 
     Un esempio di un progetto di pagina web desktop a bassa fedeltà, a sinistra, e, a destra, la realizzazione dell’interfaccia grafica ad alta fedeltà.
 
-Il *visual design* dell’interfaccia utente, specularmente al *wireframe*, sarà quindi composto da diversi elementi come bottoni, campi di compilazione, menù, blocchi di testo ecc., i quali di norma vengono combinati e posizionati seguendo una griglia per organizzare il loro posizionamento nello spazio.
+L'esperienza come identità
+--------------------------
 
-Uniformità ed identità
---------------------------------------------------------------------------------
+Il progetto dell’interfaccia utente serve a presentare informazioni e comportamenti in modo comprensibile e semplice, tenendo presente non soltanto l’aspetto estetico, ma soprattutto i bisogni dell’utente, ovvero quanto la rappresentazione grafica dei contenuti, degli elementi interattivi e delle modalità di interazione facilitino una risposta a questi bisogni, risultando in un’esperienza soddisfacente. 
 
-Il *visual design* serve quindi a presentare informazioni e comportamenti in modo comprensibile e semplice tenendo presente non soltanto l’aspetto estetico, ma soprattutto le esigenze dell’utente.
+Tutto ciò che riguarda lo stile è soltanto una parte del prodotto. Sebbene la comunicazione visiva attiri giudizi soggettivi, le tematiche legate al gusto estetico non sono così fondamentali come si possa pensare, certamente forniscono degli indizi o creano delle emozioni, ma non sono sufficienti.
+Una chiara rappresentazione degli obiettivi dell’esperienza utente (*user experience*) sono invece le fondamenta imprescindibili di tutti quegli aspetti di interfaccia utente che fanno parte dell’identità del prodotto e che generano una risposta emozionale positiva. 
 
-Tutto ciò che riguarda lo stile è soltanto una parte del prodotto.
+L’interfaccia utente (*user interface*, in breve UI) è una conversazione tra l’utente e il prodotto, attraverso delle azioni che servono a far raggiungere degli obiettivi di progetto che rispondono ai bisogni dell’utente, il cittadino. La logica da utilizzare come metro di misura della bontà del progetto può essere quella di una conversazione tra due soggetti, il cittadino e il prodotto: la comunicazione è focalizzata sull’obiettivo da raggiungere, e deve essere efficace per ottenere una comprensione chiara, un’interazione semplice ed efficace, e una soddisfazione ottimale dei bisogni. 
 
-Sebbene la comunicazione visiva attiri giudizi soggettivi, le tematiche legate al gusto estetico non sono così fondamentali come si possa pensare. Tutto ciò che afferisce all’aspetto estetico fornisce degli indizi o crea delle emozioni, ma non è sufficiente ad ottenere un’esperienza soddisfacente.
+Coerenza visiva e di comportamento
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Una chiara rappresentazione degli obiettivi dell’esperienza utente (*user experience*) del prodotto sono invece le fondamenta imprescindibili di tutti quegli aspetti di interfaccia utente che fanno parte dell’identità e che generano una risposta emozionale positiva.
+La coerenza di un’interfaccia, concretizzata attraverso standard visuali e di comportamento, fa sì che, se applicata correttamente, porti importanti benefici. 
+In primo luogo, gli utenti **utilizzano con più efficacia e facilità i percorsi che hanno già imparato a riconoscere**. Potranno infatti prevedere i comportamenti del prodotto basandosi su un’esperienza pregressa. 
+In secondo luogo, portano a una **riduzione dei costi di produzione, attraverso il riuso di componenti e soluzioni di design e di codice sviluppato già pronti**, che sono il risultato di discussioni e decisioni già prese e validate, favorendo anche una riduzione dei costi di supporto e assistenza agli utenti, poiché gli standard incrementano la facilità d’uso e di apprendimento in autonomia. 
 
-L’interfaccia utente (*User Interface*, in breve *UI*) è di fatto una **conversazione tra l’utente e il prodotto**, attraverso dei task che servono a far raggiungere gli obiettivi di progetto per il cittadino. La logica di funzionamento è la stessa di una conversazione tra due persone: la comunicazione è focalizzata sull’obiettivo e deve essere efficace per ottenere una comprensione chiara e completa.
-
-Standard visuali
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-L’uniformità di un’interfaccia, concretizzata attraverso degli **standard visuali e di comportamento**, fa sì che, se applicata correttamente, porti importanti benefici.
-
-In primo luogo, gli utenti utilizzeranno più rapidamente e con facilità i percorsi che hanno già imparato a riconoscere. Potranno prevedere i comportamenti del prodotto basandosi su un’esperienza pregressa.
-
-In secondo luogo, portano ad una riduzione dei costi di produzione attraverso il riuso di design e di codice già pronti e che sono il risultato di discussioni e decisioni già prese, favorendo anche una **riduzione dei costi di supporto e assistenza agli utenti** poiché gli *standard* incrementano la facilità d’uso e di apprendimento.
-
-L’applicazione di un modello non basta però a costruire una buona interfaccia: gli *standard* rispondono a questioni relative a generali processi cognitivi e di percezione. Essi **devono essere inglobati nel contesto di riferimento**, che presuppone un’organizzazione logica e strutturale, che può richiedere specifici “comportamenti” e scegliere percorsi dedicati a particolari bisogni dell’utente.
-
-È possibile approfondire queste tematiche anche nel paragrafo :ref:`Conoscere gli utenti <conoscere-gli-utenti>`.
+L’uso di componenti standard non basta però a costruire una buona interfaccia: gli standard rispondono a questioni relative a generali processi cognitivi e di percezione; essi devono essere considerati  nel contesto di riferimento, che presuppone un’organizzazione logica e strutturale che può richiedere specifici comportamenti e scegliere percorsi dedicati a particolari bisogni dell’utente in quel contesto.
 
 Lo stile
---------------------------------------------------------------------------------
+^^^^^^^^
+Lo stile visivo di una interfaccia è costituito da **elementi variabili come la forma, il colore, la tipografia, l’applicazione di spazi coerenti e adatti tra tutti gli elementi e le eventuali variazioni di tutte queste caratteristiche** dovute all’interazione con l’utente. Questi aspetti sono combinati insieme per creare una risposta emozionale, ovvero incidono anche su quei necessari aspetti di riconoscibilità che possono aumentare la confidenza con il servizio, e per dare solidità e coerenza all’impostazione funzionale della pagina, aiutando l’utente nella navigazione, nella ricerca e lettura delle informazioni e nella fruizione del servizio. 
 
-Lo stile è il "linguaggio" del design, ed è costituito da elementi variabili come la forma, il colore, la tipografia, o l’applicazione di spazi coerenti tra loro.
-Questi aspetti sono combinati insieme per creare una risposta emozionale (riconoscibilità, confidenza con il servizio), e dare solidità e consistenza al layout, aiutando l’utente nella navigazione e nella ricerca delle informazioni.
-
-Lo stile è trasversale a tutti i componenti di una interfaccia: ognuno è costruito sulla base di una griglia, utilizzando ben definite palette di colori, tipo  e dimensione dei caratteri, spaziature, ombre, ecc.
+Lo stile è trasversale a tutti i componenti di una interfaccia: ognuno è costruito sulla base di una griglia, utilizzando ben definite combinazioni di colori, tipologie e dimensioni dei caratteri, spaziature, ombre, e così via.  
 
 
 Lo UI Kit per la creazione dell’interfaccia
