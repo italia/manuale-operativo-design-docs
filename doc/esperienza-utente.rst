@@ -33,4 +33,6 @@ L’impostazione ottimale viene individuata e validata anche attraverso sessioni
   esperienza-utente/dai-bisogni-degli-utenti-ai-flussi-di-interazione.rst
   esperienza-utente/prototipare-un-servizio.rst
   esperienza-utente/il-progetto-della-interfaccia-utente.rst
+  esperienza-utente/progettare-e-costruire-in-alta-fedelta.rst
+
 
