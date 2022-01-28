@@ -40,20 +40,23 @@ Lo stile visivo di una interfaccia è costituito da **elementi variabili come la
 Lo stile è trasversale a tutti i componenti di una interfaccia: ognuno è costruito sulla base di una griglia, utilizzando ben definite combinazioni di colori, tipologie e dimensioni dei caratteri, spaziature, ombre, e così via.  
 
 
-Lo UI Kit per la creazione dell’interfaccia
-================================================================================
+Lo kit Progettazione interfaccia
+================================
 
-Il prototipo ad alta fedeltà può essere costruito utilizzando lo **UI kit** messo a disposizione da Designers Italia e descritto di seguito, di cui si possono trovare i file sorgente in formato *Sketch* sul repository GitHub dedicato:
+ll kit dedicato alle interfacce utente offre un insieme di componenti visivi già pronti per assemblare il *front-end* di siti web e applicazioni.
+Il kit consiste in una libreria di simboli, ovvero una libreria di porzioni pre-lavorate finalizzate alla progettazione di un’interfaccia digitale con uno stile visivo definito e coerente. I simboli ti consentono di costruire un prototipo con le varie schermate necessarie, che possono poi essere rese interattive e gestite in maniera collaborativa nell’ambito di un team di lavoro.
+
+Il prototipo ad alta fedeltà può essere costruito utilizzando la risorsa design UI kit messa a disposizione da Designers Italia e descritta di seguito, di cui si possono scaricare, e usare direttamente come libreria componenti nei diversi software di progettazione interfaccia, i file sorgente in formato Sketch sul repository GitHub dedicato: 
 
 - `Vedi i file sorgente dello UI Kit <https://github.com/italia/design-ui-kit>`_
 
-Esso è inoltre pubblicato su InVision, una piattaforma di condivisione dove è possibile vedere tutti gli elementi disponibili:
+Il kit è inoltre pubblicato su InVision, una piattaforma di condivisione dove è possibile vedere tutti gli elementi disponibili:
 
 - `Vedi lo UI Kit su InVision <https://invis.io/RJFGS2UC3HS>`_
 
-Lo UI Kit fornisce una libreria di elementi già pronti che possono essere assemblati per montare un’interfaccia utente adatta a servizi della PA.
+Il Design UI kit fornisce una libreria di componenti già pronti che possono essere assemblati per montare un’interfaccia utente adatta a siti internet e servizi digitali della Pubblica amministrazione. 
 
-Gli elementi di cui si compone il kit sono raggruppati nelle seguenti categorie principali:
+Gli elementi di cui si compone il kit sono raggruppati nelle seguenti categorie:
 
 * Tipografia
 * Definizione di colori e loro applicazione
@@ -64,9 +67,7 @@ Gli elementi di cui si compone il kit sono raggruppati nelle seguenti categorie 
 * Elementi per la visualizzazione di dati e contenuti
 * Elementi di data entry, come campi di testo ed esempi di form
 
-La costruzione degli elementi segue una `roadmap <https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit?usp=sharing>`_ dove si può osservare e commentare il progetto in corso di realizzazione.
-
-Poiché l’approccio è *open source*, le Pubbliche Amministrazioni, le agenzie e singoli cittadini possono contribuire alla discussione e alla modifica dello UI Kit stesso.
+Poiché l’approccio è *open source*, le amministrazioni, le agenzie e singoli cittadini possono contribuire alla discussione e alla modifica del Design UI kit stesso. 
 
 .. figure:: images/ui-design-ui-kit-esempio-1.png
     :alt: Un esempio di componenti dello UI Kit.
@@ -74,10 +75,10 @@ Poiché l’approccio è *open source*, le Pubbliche Amministrazioni, le agenzie
 
     Un esempio di componenti dello UI Kit con le indicazioni necessarie alla loro applicazione.
 
-Come si usa lo UI Kit
+Come si usa il Design UI Kit
 --------------------------------------------------------------------------------
 
-Lo UI Kit è realizzato seguendo un **sistema a blocchi**, che può essere paragonato ad un set di pezzi componibili, dimensionati in modo da poter essere assemblati ed adattati.
+Il Design UI kit è realizzato seguendo un sistema a componenti, che può essere paragonato a un set di pezzi componibili, dimensionati in modo da poter essere assemblati e adattati. 
 
 .. figure:: images/ui-kit-blocks.gif
     :alt: Costruzione di un’interfaccia attraverso i principi di composizione.
@@ -97,7 +98,7 @@ Il software scelto per costruire lo UI Kit è `Sketch <https://www.sketchapp.com
 
 La scelta di questo software è legata ad alcune caratteristiche fondamentali. In primo luogo, è possibile gestire la libreria di componenti in modo trasversale a tutti i file che si vogliono creare ed aggiornarla qualora vengano modificati i componenti. Inoltre, mettendo a disposizione una piattaforma di sviluppo collaborativo, permette di installare innumerevoli estensioni (*plugin*) a seconda delle esigenze di design.
 
-In alternativa, è possibile importare il file Sketch in altri programmi di prototipazione, come `Adobe XD <https://www.adobe.com/it/products/xd.html>`_, `Studio <https://studio.design/>`_, o `Figma <https://www.figma.com/>`_.
+Inoltre è possibile importare il file, e usarlo come libreria, in questo formato nei programmi per la prototipazione dell’interfaccia utente più diffusi, come `Adobe XD <https://www.adobe.com/it/products/xd.html>`_, `Studio <https://studio.design/>`_, o `Figma <https://www.figma.com/>`_.
 
 La tipografia
 --------------------------------------------------------------------------------
