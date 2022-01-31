@@ -103,8 +103,8 @@ Inoltre è possibile importare il file, e usarlo come libreria, in questo format
 La tipografia
 --------------------------------------------------------------------------------
 
-La principale famiglia di font usata nello UI Kit è il **Titillium Web**.
-È stato scelto come *typeface* principale per i contenuti web, grazie alla x-height ampia, alla struttura lineare e alla flessibilità d’uso essendo composto da 11 stili.
+La principale famiglia di *font* usata nel design UI Kit è il **Titillium Web**.
+È stato scelto come carattere tipografico principale per i contenuti web, grazie all'altezza della x (*x-height*) ampia, alla struttura lineare e alla flessibilità d’uso essendo composto da 11 stili.
 
 Il `Titillium Web <https://fonts.google.com/specimen/Titillium+Web>`_ è stato realizzato come progetto didattico dagli studenti del corso in Type Design dell’Accademia di Belle Arti di Urbino.
 
@@ -114,7 +114,7 @@ Il `Titillium Web <https://fonts.google.com/specimen/Titillium+Web>`_ è stato r
 
     Il font Titillium Web.
 
-Un typeface secondario è il **Roboto Mono**, la variante *monospaced* della famiglia Roboto. È stato introdotto nelle Linee Guida per la chiarezza e leggibilità dei numeri pertanto è adatto ad essere utilizzato per la rappresentazione di numeri, calcoli matematici, numeri in tabelle, codice di programmazione.
+Un carattere tipografico secondario è il **Roboto Mono**, la variante monospaziata della famiglia Roboto. È stato introdotto per la chiarezza e leggibilità dei numeri pertanto è adatto ad essere utilizzato per la rappresentazione di numeri, calcoli matematici, numeri in tabelle, codice di programmazione.
 
 .. figure:: images/ui-font-roboto-mono.png
     :alt: Il font Roboto Mono.
@@ -122,7 +122,7 @@ Un typeface secondario è il **Roboto Mono**, la variante *monospaced* della fam
 
     Il font Roboto Mono.
 
-Un terzo typeface con grazie (o *serif*) è il **Lora**, introdotto per la sua leggibilità e nato espressamente per la lettura su display.
+Un terzo carattere tipografico con grazie (o *serif*) è il **Lora**, introdotto per la sua leggibilità e nato espressamente per la lettura su *display*.
 
 .. figure:: images/ui-font-lora.png
     :alt: Il font Lora.
@@ -130,12 +130,12 @@ Un terzo typeface con grazie (o *serif*) è il **Lora**, introdotto per la sua l
 
     Il font Lora.
 
-Tutti questi *typeface* sono rilasciati con licenza SIL Open Font License e sono scaricabili da `Google Fonts <https://fonts.google.com/>`_, una piattaforma di distribuzione gratuita di *font* per il web.
+Tutti questi caratteri tipografici sono rilasciati con licenza `SIL Open Font License <https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL>`_ e sono scaricabili da `Google Fonts <https://fonts.google.com/>`_, una piattaforma di distribuzione gratuita di *font* per il web.
 
 Corpo del testo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Le misure dei caratteri non devono essere utilizzate senza una logica, ma devono seguire una **scala tipografica** precisa e studiata appositamente per creare una **gerarchia visiva**.
+Le dimensioni dei caratteri non devono essere utilizzate senza una logica, devono seguire una **scala tipografica precisa e studiata appositamente per creare una gerarchia visiva**. 
 
 .. figure:: images/ui-font-scala-tipografica.png
     :alt: Un esempio di scala tipografica.
@@ -143,7 +143,7 @@ Le misure dei caratteri non devono essere utilizzate senza una logica, ma devono
 
     Un esempio di scala tipografica.
 
-La gerarchia serve a gestire la trasmissione di un messaggio e il suo impatto, e quando non viene utilizzata la comunicazione diventa meno efficace.
+La gerarchia serve a dare struttura ai contenuti per gestire al meglio la trasmissione di un messaggio e il suo impatto, e quando non viene utilizzata la comunicazione diventa meno efficace. 
 
 .. figure:: images/ui-kit-gerarchia.png
     :alt: Un esempio di gerarchia.
@@ -151,16 +151,16 @@ La gerarchia serve a gestire la trasmissione di un messaggio e il suo impatto, e
 
     Un esempio di gerarchia.
 
-La dimensione del corpo del testo, con riferimento ad esempio al font *Titillium Web*, non può essere inferiore a 16px per uno schermo mobile e inferiore a 18px per schermi grandi.
+La dimensione del corpo del testo, con riferimento ad esempio al *font Titillium Web*, non può essere inferiore a 16px per uno schermo di dispositivo mobile, e inferiore a 18px per schermi più grandi. 
 
-Si possono utilizzare misure inferiori in caso di didascalie, note, o testi di secondaria importanza che per lunghezza o posizionamento nella pagina richiedano dimensioni ridotte.
+Si possono utilizzare in casi particolari misure inferiori solo in caso di didascalie, note, o testi di secondaria importanza che per lunghezza o posizionamento nella pagina richiedano dimensioni ridotte. 
 
 Dimensionamento dei paragrafi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 La lunghezza di un paragrafo che permetta una lettura confortevole del testo non dovrebbe superare i **75 caratteri**. In caso di colonne multiple, la lunghezza può essere compresa tra 40 e 50 caratteri. Per testi a margine, la lunghezza è non dovrebbe essere inferiore ai 15 caratteri.
 
-Un paragrafo di testo deve essere composto con **allineamento a sinistra**. Nei casi in cui si prevedono paragrafi a margine posti a sinistra del blocco di testo principale, il paragrafo può essere allineato a destra. L’allineamento giustificato e senza sillabazione è invece sempre da evitare per l’incongrua spaziatura delle parole e la minore leggibilità che comporta.
+Un paragrafo di testo deve essere composto con **allineamento a sinistra**. Nei casi in cui si prevedono paragrafi a margine posti a sinistra del blocco di testo principale, il paragrafo può essere allineato a destra. L’allineamento giustificato e senza sillabazione è invece sempre da evitare per l’incongrua spaziatura delle parole e la minore leggibilità che comporta. 
 
 I paragrafi possono essere distinti applicando uno spazio verticale tra di essi o, in alternativa, usando una indentatura di misura pari a quella dell’interlinea.
 
@@ -169,12 +169,12 @@ L’interlinea (in inglese, *leading*), sia dei titoli che del corpo del testo, 
 Colore del testo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Il colore del testo deve essere tale da garantire un rapporto di contrasto minimo con lo sfondo sfondo di 4,5:1 (AA) **come stabilito dalle specifiche di accessibilità**. Approfondisci nella sezione :doc:`/doc/service-design/accessibilita`.
+Il colore del testo deve essere tale da garantire un rapporto di contrasto minimo con lo sfondo sfondo di 4,5:1 (AA) **come stabilito dalle specifiche di accessibilità**. 
 
 Collegamenti
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-I collegamenti (in inglese, *link*) ad altre aree del servizio o a siti esterni devono avere un elemento di distinguibilità rispetto al testo normale.
+I collegamenti (*link*) ad altre aree del servizio o a siti esterni devono avere un elemento di distinguibilità rispetto al testo normale.
 
 Pertanto, è buona norma mantenere una **sottolineatura**, specialmente se il link è inserito all’interno di un paragrafo. Alternativamente, si può utilizzare anche il grassetto.
 
@@ -184,8 +184,8 @@ Il colore
 Il colore è un elemento essenziale nella definizione di un’interfaccia: può servire a differenziare, connettere, evidenziare, nascondere. Contribuisce alla gerarchia visiva e può essere un elemento di supporto alla comunicazione.
 
 .. NOTE::
-    Il colore influisce sull’accessibilità del prodotto. Gli utenti affetti da disabilità visive come la deuteranopia, protanopia e tritanopia potrebbero non vedere bene i colori oppure non vederli affatto. Approfondisci nella sezione :doc:`/doc/service-design/accessibilita`.
-
+    Il colore influisce sull’accessibilità del prodotto. Gli utenti affetti da disabilità visive come la deuteranopia, protanopia e tritanopia potrebbero non vedere bene i colori oppure non vederli affatto. A tal proposito è bene ricordare che il colore non può essere l’unico elemento di distinzione per gli elementi interattivi.
+    
 Lo schema colore
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -198,9 +198,9 @@ Tra i colori secondari si dovranno definire:
 * colori strettamente connessi al colore base
 * un eventuale colore di risalto (chiamato *accent color*), utilizzato in misura minore poiché è associato a elementi che prevedono un’interazione, come bottoni, elementi di controllo (sliders, radio, ecc.), link, campi di testo.
 
-Si consiglia l’utilizzo di una palette costituita da non più di 5 tonalità, dove non più di 3 avranno un differente valore di colore (*hue*, in inglese).
+Si consiglia l’utilizzo di una *palette* costituita da non più di 5 tonalità, dove non più di 3 avranno un differente valore di colore (*hue*, in inglese).
 
-La palette può essere:
+La *palette* può essere:
 
 * monocromatica, quando è costituita dal colore base e dalle sue variazioni in termini di saturazione e/o luminosità.
 * policroma, ossia costituita da associazioni di colori con differente *hue*. Questo tipo di schema oltre al colore base e alle sue variazioni, comprende un colore che può essere scelto tra gli analoghi, complementari, triadici, ecc. del colore base, oppure scelto dalla gamma di colori appartenenti all’identità visiva.
@@ -231,7 +231,7 @@ Un esempio di schema cromatico costruito sui principi appena descritti è la pal
 
 Pensata per un design semplice e minimalista, è una palette costituita dalle variazioni del colore base, più le tinte neutre. Sono presenti anche colori che possiamo definire *“utility colors”*, ossia colori da utilizzare per i messaggi di feedback all’utente (errori o notifiche) o per la realizzazione di elementi grafici.
 
-La palette dello UI Kit è piuttosto estesa: comprende molte variazioni in tinte, toni e ombre del colore base (il “Blu Italia”), e dei colori secondari e neutri, permettendo così una certa flessibilità di uso.
+La palette del design UI Kit è piuttosto estesa: comprende molte variazioni in tinte, toni e ombre del colore base (il “Blu Italia”), e dei colori secondari e neutri, permettendo così una certa flessibilità di uso.
 
 .. figure:: images/ui-colori-palette-estesa-esempio-1.png
     :alt: Un esempio di palette monocromatica estesa.
@@ -264,9 +264,9 @@ La griglia rappresenta la struttura invisibile che permette di organizzare i con
 
     Un esempio di griglia applicata a diverse risoluzioni dello schermo.
 
-Le dimensioni delle colonne vanno adattate ai cambiamenti della viewport: ogni colonna occuperà una percentuale di spazio specifica a seconda che sia visualizzata su dispositivi desktop, tablet, o smartphone.
+Le dimensioni delle colonne vanno adattate ai cambiamenti della *viewport*, considerata come le dimensioni misurate px dello spazio visibile sul dispositivo: ogni colonna occuperà una percentuale di spazio specifica a seconda che sia visualizzata su dispositivi più o meno grandi, siano computer desktop, tablet, o mobile. 
 
-La disposizione dei contenuti, a seconda delle dimensione dello schermo, garantisce che i testi siano leggibili anche sugli schermi più piccoli e l’interazione utente (ad esempio, l’utilizzo di form e controlli dinamici) rimanga agevole.
+La disposizione dei contenuti, responsiva, a seconda delle dimensioni dello schermo, garantisce che i testi siano leggibili e l’interazione utente (ad esempio, l’utilizzo di *form* e controlli dinamici) rimanga agevole anche sugli schermi più piccoli o a percentuali di ingrandimento importanti.
 
 +---------------------------------+--------------+-------------------+-------------------+--------------+
 | Risoluzione                     | Small        | Medium            | Large             | Extralarge   |
@@ -278,11 +278,11 @@ La disposizione dei contenuti, a seconda delle dimensione dello schermo, garanti
 | Spaziatura                      | 12px         | 20px              | 20px              | 28px         |
 +---------------------------------+--------------+-------------------+-------------------+--------------+
 
-La griglia orizzontale contribuisce alla consistenza del design e a determinare il pattern di lettura di un sito web. In un sistema condiviso come quello di uno UI Kit, è necessario avere una metrica comune, per mantenere coerenza anche tra diversi siti web appartenenti a enti o pubbliche amministrazioni diverse.
+La griglia orizzontale contribuisce alla consistenza del design e a determinare il pattern di lettura di un sito web. In un sistema condiviso come quello di un UI kit, è necessario avere una metrica comune, per mantenere coerenza anche tra diversi siti appartenenti a enti o pubbliche amministrazioni diverse. 
 
-La griglia orizzontale è definita sulla baseline del testo, ossia la linea dove poggiano le lettere del font scelto. La baseline diventa una griglia a cui ancorare non solo il testo ma anche gli oggetti del layout. La baseline è di 8px ed è basata sul Titillium a 16px.
+La griglia orizzontale è definita sulla baseline del testo, ossia la linea di base dove poggiano le lettere del *font* scelto. La *baseline* diventa una griglia a cui ancorare non solo il testo ma anche gli oggetti del *layout*. La *baseline* è di 8px ed è basata sul carattere Titillium Web con corpo di dimensioni 16px. 
 
-Avendo come base la misura di 8 px e i suoi multipli per calcolare dimensioni, padding e margini dei vari elementi, si può ottenere un ritmo verticale armonico.
+Avendo come base la misura di 8 px e i suoi multipli per calcolare dimensioni, *padding* e margini dei vari elementi, si può ottenere un ritmo verticale armonico. 
 
 .. figure:: images/ui-griglia-esempio-2.png
     :alt: Un esempio di componente con baseline a 8px.
@@ -296,7 +296,7 @@ Avendo come base la misura di 8 px e i suoi multipli per calcolare dimensioni, p
 Le icone
 --------------------------------------------------------------------------------
 
-Quando si utilizzano delle icone è necessario assicurare una chiara comprensione del loro significato. Pertanto ogni icona dovrà essere associata ad un tooltip o ad un piccolo testo che ne chiarisca l’azione. La stessa icona non dovrà essere utilizzata per indicare azioni diverse all’interno della stesso contesto.
+Quando si utilizzano delle icone è necessario assicurare una chiara comprensione del loro significato. Pertanto ogni icona dovrà essere associata a un *tooltip* (un suggerimento contestuale) o a un piccolo testo che ne chiarisca l’azione. La stessa icona non dovrà essere utilizzata per indicare azioni diverse all’interno dello stesso contesto. 
 
 Al fine di garantire una coerenza visiva si consiglia di utilizzare icone provenienti da un unico set grafico come, ad esempio, quelle disponibili gratuitamente su `Font Awesome <https://fontawesome.com/>`_ o il set di icone in formato SVG incluso in `Bootstrap Italia <https://italia.github.io/bootstrap-italia/docs/utilities/icone/>`_.
 
@@ -333,9 +333,9 @@ Tutte le azioni principali sono rappresentate dal bottone “Primary”, a cui p
 Navigazione
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-I componenti che possiamo inserire all’interno della navigazione sono molteplici. Ad esempio, si riportano il componente “Tabs” e il “Menu” per dispositivi mobili.
+I componenti che possiamo inserire all’interno della navigazione sono molteplici. Ad esempio, si riportano il componente “Tab” e il “Menu” per dispositivi mobili.
 
-Nel kit sono costruite diverse varianti di “Tab”, sia le varianti per diverse dimensioni di schermo, sia per fondo chiaro e fondo scuro, con solo testo o solo icone, oppure con la presenta di entrambi.
+Nel kit sono costruite diverse varianti di “Tab” (controlli grafici di navigazione), sia le varianti per diverse dimensioni di schermo, sia per fondo chiaro e fondo scuro, con solo testo o solo icone, oppure con la presenta di entrambi.
 
 È possibile vedere in figura il componente Tab con un esempio di applicazione nell’ambito di filtri di ricerca.
 
@@ -356,7 +356,7 @@ Il componente “Menu” mobile mostrato nella figura seguente ha alcune utili v
 Data display
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Nella categoria Data Display sono inseriti i componenti che hanno come funzionalità quella di mostrare informazioni in modo organizzato oppure evidenziato, come ad esempio gli “Accordion” o i “Callout”.
+Nella categoria Data Display sono inseriti i componenti che hanno come funzionalità quella di mostrare informazioni in modo organizzato oppure evidenziato, come ad esempio gli “accordion” (elementi a scomparsa) o i “callout” (elementi richiamabili/attivabili con un click).
 
 .. figure:: images/ui-componenti-callout.png
     :alt: Un esempio di componente Callout.
@@ -371,7 +371,7 @@ Esempi di componenti appartenenti alla categoria Data entry sono i campi di tipo
 
 L’etichetta del campo è indicativa di cosa va inserito. All’attivazione del campo con il cursore, l’etichetta si sposta in alto.
 
-Nel componente si possono attivare oltre gli stati di feedback, gestendo colori e icone, anche i relativi messaggi.
+Nel componente si possono attivare oltre gli stati di *feedback*, gestendo colori e icone, anche i relativi messaggi.
 
 .. figure:: images/ui-componenti-form.png
     :alt: Un esempio di form contenente componenti “Input”.
@@ -380,13 +380,13 @@ Nel componente si possono attivare oltre gli stati di feedback, gestendo colori 
     Un esempio di form contenente componenti “Input”.
 
 
-Gli strumenti
+Le risorse
 ================================================================================
 
-Lo UI Kit è disponibile a tutti in formato *Sketch* sul repository GitHub dedicato, un servizio di hosting dove è possibile commentare, caricare files e interagire tramite messaggi (*issue*) e contributi (*pull request*).
+Il design UI Kit è disponibile in formato *Sketch* sul repository GitHub dedicato, un servizio di hosting dove è possibile commentare, caricare files e interagire tramite messaggi (*issue*) e contributi (*pull request*).
 
 - Vedi i `file sorgente dello UI Kit <https://https://github.com/italia/design-ui-kit>`_ oppure scopri com `caricare il kit come libreria esterna <https://github.com/italia/design-ui-kit/wiki/Sketch-Libraries>`_ all’interno del tuo progetto
 
-Esso è inoltre pubblicato per consultazione su InVision:
+Esso è inoltre pubblicato per consultazione in anteprima su InVision:
 
 - Vedi lo `UI Kit su InVision <https://invis.io/RJFGS2UC3HS>`_
