@@ -135,7 +135,7 @@ Tutti questi caratteri tipografici sono rilasciati con licenza `SIL Open Font Li
 Corpo del testo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Le dimensioni dei caratteri non devono essere utilizzate senza una logica, devono seguire una **scala tipografica precisa e studiata appositamente per creare una gerarchia visiva**. 
+Le dimensioni dei caratteri non devono essere utilizzate senza una logica, devono seguire una **scala tipografica precisa e studiata appositamente per creare una gerarchia visiva**.
 
 .. figure:: images/ui-font-scala-tipografica.png
     :alt: Un esempio di scala tipografica.
