@@ -151,7 +151,7 @@ La gerarchia serve a dare struttura ai contenuti per gestire al meglio la trasmi
 
     Un esempio di gerarchia.
 
-La dimensione del corpo del testo, con riferimento ad esempio al *font Titillium Web*, non può essere inferiore a 16px per uno schermo di dispositivo mobile, e inferiore a 18px per schermi più grandi. 
+La dimensione del corpo del testo, con riferimento ad esempio al *font Titillium Web*, non può essere inferiore a 16px per uno schermo di dispositivo mobile, e inferiore a 18px per schermi più grandi.
 
 Si possono utilizzare in casi particolari misure inferiori solo in caso di didascalie, note, o testi di secondaria importanza che per lunghezza o posizionamento nella pagina richiedano dimensioni ridotte. 
 
