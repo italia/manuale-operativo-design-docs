@@ -264,7 +264,7 @@ La griglia rappresenta la struttura invisibile che permette di organizzare i con
 
     Un esempio di griglia applicata a diverse risoluzioni dello schermo.
 
-Le dimensioni delle colonne vanno adattate ai cambiamenti della *viewport*, considerata come le dimensioni misurate px dello spazio visibile sul dispositivo: ogni colonna occuperà una percentuale di spazio specifica a seconda che sia visualizzata su dispositivi più o meno grandi, siano computer desktop, tablet, o mobile. 
+Le dimensioni delle colonne vanno adattate ai cambiamenti della *viewport*, considerata come le dimensioni misurate px dello spazio visibile sul dispositivo: ogni colonna occuperà una percentuale di spazio specifica a seconda che sia visualizzata su dispositivi più o meno grandi, siano computer desktop, tablet, o mobile.
 
 La disposizione dei contenuti, responsiva, a seconda delle dimensioni dello schermo, garantisce che i testi siano leggibili e l’interazione utente (ad esempio, l’utilizzo di *form* e controlli dinamici) rimanga agevole anche sugli schermi più piccoli o a percentuali di ingrandimento importanti.
 
