@@ -280,7 +280,7 @@ La disposizione dei contenuti, responsiva, a seconda delle dimensioni dello sche
 
 La griglia orizzontale contribuisce alla consistenza del design e a determinare il pattern di lettura di un sito web. In un sistema condiviso come quello di un UI kit, è necessario avere una metrica comune, per mantenere coerenza anche tra diversi siti appartenenti a enti o pubbliche amministrazioni diverse. 
 
-La griglia orizzontale è definita sulla baseline del testo, ossia la linea di base dove poggiano le lettere del *font* scelto. La *baseline* diventa una griglia a cui ancorare non solo il testo ma anche gli oggetti del *layout*. La *baseline* è di 8px ed è basata sul carattere Titillium Web con corpo di dimensioni 16px. 
+La griglia orizzontale è definita sulla baseline del testo, ossia la linea di base dove poggiano le lettere del *font* scelto. La *baseline* diventa una griglia a cui ancorare non solo il testo ma anche gli oggetti del *layout*. La *baseline* è di 8px ed è basata sul carattere Titillium Web con corpo di dimensioni 16px.
 
 Avendo come base la misura di 8 px e i suoi multipli per calcolare dimensioni, *padding* e margini dei vari elementi, si può ottenere un ritmo verticale armonico. 
 
