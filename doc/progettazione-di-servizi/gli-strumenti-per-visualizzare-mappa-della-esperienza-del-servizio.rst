@@ -30,7 +30,7 @@ Lo strumento di mappatura *user journey* permette di **analizzare l’esperienza
 
 `Vai al kit Esperienza utente su Designers Italia <https://designers.italia.it/kit/esperienza-utente/>`__
 
-Service blueprint
-^^^^^^^^^^^^^^^^^
+*Service blueprint*
+^^^^^^^^^^^^^^^^^^^
 
 Il *service blueprint* è un quadro sintetico, una mappa che descrive accuratamente il sistema del servizio, in modo che le diverse persone coinvolte nel processo della sua fornitura possano capirlo e affrontarlo obiettivamente a prescindere dal loro ruolo o dal loro punto di vista personale.
