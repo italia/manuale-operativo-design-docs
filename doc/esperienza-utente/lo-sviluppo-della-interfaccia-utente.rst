@@ -115,22 +115,13 @@ Alcune pratiche sono comunque sempre auspicabili, come la **compressione** del c
 Supporto browser
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Come regola generale, per la realizzazione di un servizio web per la PA, è necessario assicurare la compatibilità con versioni dei browser che abbiano una penetrazione media tra la popolazione di almeno **1 persona ogni 100 abitanti**.
+Come regola generale, per la realizzazione di un servizio web per la PA, è necessario assicurare la compatibilità con versioni dei browser che abbiano una penetrazione media tra la popolazione di almeno **1 persona ogni 100 abitanti**. Si consiglia a questo proposito di utilizzare come riferimento operativo la `configurazione condivisa Browserlist per i servizi web della Pubblica amministrazione <https://github.com/italia/browserslist-config-design-italia>`_.
 
-Ciò significa che, con i dati disponibili ad oggi, è necessario assicurare la compatibilità con almeno i seguenti browser:
-
-* Apple Safari 11+ (mobile e desktop)
-* Google Chrome (ultime versioni, mobile e desktop)
-* Microsoft Edge (tutte le versioni, mobile e desktop)
-* Microsoft Internet Explorer 11
-* Mozilla Firefox (ultime versioni, mobile e desktop)
-* Samsung Internet 7+
-
-È buona norma analizzare regolarmente le statistiche sull’utilizzo dei dispositivi e delle diverse risoluzioni che gli utenti adoperano per accedere al sito, con lo scopo di abbracciare una base di utenti che copra più del **95% delle versioni utilizzate in Italia**. Per fare questo, ci si può avvalere di diverse sorgenti di dati: una delle più usate è *StatCounter.com*, che permette di filtrare i dati per Paese:
+È buona norma inoltre analizzare regolarmente le statistiche sull’utilizzo dei dispositivi e delle diverse risoluzioni che gli utenti adoperano per accedere al sito. Per fare questo, ci si può avvalere di diverse sorgenti di dati: una delle più usate è *StatCounter.com*, che permette di filtrare i dati per Paese:
 
 * `Versioni browser più usate in Italia secondo StatCounter <http://gs.statcounter.com/browser-version-market-share/all/italy>`_
 
-Come ampiamente descritto nel paragrafo precedente, non è necessario che l’interfaccia di un sito web sia assolutamente identica sui diversi dispositivi; graceful degradation significa tuttavia garantire un’esperienza utente **equivalente**, graficamente **coerente**, e **completa** nelle sue funzionalità. Vediamo come sia possibile farlo.
+Come ampiamente descritto nel paragrafo precedente, non è necessario che l’interfaccia di un sito web sia assolutamente identica sui diversi dispositivi; *graceful degradation* significa tuttavia garantire un’esperienza utente **equivalente**, graficamente **coerente**, e **completa** nelle sue funzionalità. Vediamo come sia possibile farlo.
 
 Misurare le prestazioni
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
