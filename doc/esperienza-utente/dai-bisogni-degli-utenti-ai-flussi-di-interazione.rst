@@ -79,8 +79,3 @@ Molto utile è visualizzare i flussi di interazione in una `versione grafica <ht
 
 Una volta completata la costruzione di ciascun flusso di interazione, sarà possibile evidenziare i potenziali snodi critici di ogni percorso e avanzare soluzioni progettuali in risposta ad esse. In questo modo, i flussi di interazione aiutano a progettare un’interfaccia in modo accurato e realmente centrato sull’utente.
 A questo punto, raggiunto questo livello di dettaglio, è possibile avviare il processo di prototipazione.
-
-
-
-
-
