@@ -115,7 +115,7 @@ I modelli di pagina e di interazione sono costruiti attraverso una libreria di c
     :alt: UI Wireframe kit Esempio animato
     :name: UI Wireframe kit Esempio animato
 
-    *Figura 5 - Un esempio di composizione dei componenti del kit Prototipazione per creare o adattare un content type alle esigenze del prototipo. Il software scelto per costruire il Wireframe Kit è*\ `Sketch <https://www.sketchapp.com/>`__\ *, uno strumento che
+    *Figura 5 - Un esempio di composizione dei componenti del kit Prototipazione per creare o adattare un content type alle esigenze del prototipo. Il software scelto per costruire il Wireframe Kit è* `Sketch <https://www.sketchapp.com/>`__ *, uno strumento che
     permette la gestione dinamica dei simboli e la condivisione della libreria in modo trasversale a tutti i file su cui si intende         lavorare. Sketch permette di cambiare le caratteristiche dei singoli elementi e personalizzarli in modo rapido e intuitivo.*
     *Alternativamente, è possibile importare il file Sketch in altri programmi di prototipazione, come*\ `Adobe XD                           <https://www.adobe.com/it/products/xd.html>`__\ *,*\ `Studio <https://studio.design/>`__\ *,
     o*\ `Figma <https://www.figma.com/>`__\ *.*
