@@ -160,7 +160,7 @@ Dimensionamento dei paragrafi
 
 La lunghezza di un paragrafo che permetta una lettura confortevole del testo non dovrebbe superare i **75 caratteri**. In caso di colonne multiple, la lunghezza può essere compresa tra 40 e 50 caratteri. Per testi a margine, la lunghezza è non dovrebbe essere inferiore ai 15 caratteri.
 
-Un paragrafo di testo deve essere composto con **allineamento a sinistra**. Nei casi in cui si prevedono paragrafi a margine posti a sinistra del blocco di testo principale, il paragrafo può essere allineato a destra. L’allineamento giustificato e senza sillabazione è invece sempre da evitare per l’incongrua spaziatura delle parole e la minore leggibilità che comporta. 
+Un paragrafo di testo deve essere composto con **allineamento a sinistra**. Nei casi in cui si prevedono paragrafi a margine posti a sinistra del blocco di testo principale, il paragrafo può essere allineato a destra. L’allineamento giustificato e senza sillabazione è invece sempre da evitare per l’incongrua spaziatura delle parole e la minore leggibilità che comporta.
 
 I paragrafi possono essere distinti applicando uno spazio verticale tra di essi o, in alternativa, usando una indentatura di misura pari a quella dell’interlinea.
 
