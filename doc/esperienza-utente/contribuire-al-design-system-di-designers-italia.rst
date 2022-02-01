@@ -15,7 +15,7 @@ Si ritiene doveroso per la Pubblica Amministrazione, dovendo fornire dei servizi
 
 
 Strumenti di collaborazione
-================================================================================
+===========================
 
 Per discussioni sul design è disponibile un canale dedicato su `Forum Italia <https://forum.italia.it/>`_:
 
