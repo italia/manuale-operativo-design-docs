@@ -74,10 +74,10 @@ La finalità di condurre progressivamente l’utente al raggiungimento dei propr
     :alt: Wireframe interattivo (user flow) per il rinnovo della carta di identità:
     :name: Wireframe interattivo (user flow) per il rinnovo della carta di identità:
 
-*Figura 2*
+    *Figura 2*
 
-*Wireframe interattivo (user flow) per il rinnovo della carta di
-identità:*
+    *Wireframe interattivo (user flow) per il rinnovo della carta di
+    identità:*
 
 1. Entro sul sito dedicato al rinnovo della carta d’identità
 
