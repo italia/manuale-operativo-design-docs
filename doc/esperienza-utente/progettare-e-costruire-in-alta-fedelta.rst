@@ -169,7 +169,7 @@ L’interlinea (in inglese, *leading*), sia dei titoli che del corpo del testo, 
 Colore del testo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Il colore del testo deve essere tale da garantire un rapporto di contrasto minimo con lo sfondo sfondo di 4,5:1 (AA) **come stabilito dalle specifiche di accessibilità**. 
+Il colore del testo deve essere tale da garantire un rapporto di contrasto minimo con lo sfondo di 4,5:1 (AA) **come stabilito dalle specifiche di accessibilità**. 
 
 Collegamenti
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
