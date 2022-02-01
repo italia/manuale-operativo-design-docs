@@ -117,7 +117,7 @@ I modelli di pagina e di interazione sono costruiti attraverso una libreria di c
 
     *Figura 5 - Un esempio di composizione dei componenti del kit Prototipazione per creare o adattare un content type alle esigenze del prototipo. Il software scelto per costruire il Wireframe Kit è* `Sketch <https://www.sketchapp.com/>`__ *, uno strumento che
     permette la gestione dinamica dei simboli e la condivisione della libreria in modo trasversale a tutti i file su cui si intende         lavorare. Sketch permette di cambiare le caratteristiche dei singoli elementi e personalizzarli in modo rapido e intuitivo.*
-    *Alternativamente, è possibile importare il file Sketch in altri programmi di prototipazione, come*\ `Adobe XD                           <https://www.adobe.com/it/products/xd.html>`__\ *,*\ `Studio <https://studio.design/>`__\ *,
+    *Alternativamente, è possibile importare il file Sketch in altri programmi di prototipazione, come* `Adobe XD                           <https://www.adobe.com/it/products/xd.html>`__ *,* `Studio <https://studio.design/>`__ *,
     o*\ `Figma <https://www.figma.com/>`__\ *.*
     
 Nella risorsa **kit wireframe** all'interno del kit dedicato alla prototipazione, il focus è sulle tipologie di componenti e non sulle loro caratteristiche specifiche, che saranno oggetto di definizione nella successiva fase di prototipazione ad alta fedeltà. 
