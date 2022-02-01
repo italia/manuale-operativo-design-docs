@@ -143,7 +143,7 @@ Le dimensioni dei caratteri non devono essere utilizzate senza una logica, devon
 
     Un esempio di scala tipografica.
 
-La gerarchia serve a dare struttura ai contenuti per gestire al meglio la trasmissione di un messaggio e il suo impatto, e quando non viene utilizzata la comunicazione diventa meno efficace. 
+La gerarchia serve a dare struttura ai contenuti per gestire al meglio la trasmissione di un messaggio e il suo impatto, e quando non viene utilizzata la comunicazione diventa meno efficace.
 
 .. figure:: images/ui-kit-gerarchia.png
     :alt: Un esempio di gerarchia.
