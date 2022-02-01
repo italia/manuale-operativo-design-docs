@@ -185,7 +185,6 @@ Il colore è un elemento essenziale nella definizione di un’interfaccia: può 
 
 .. NOTE::
     Il colore influisce sull’accessibilità del prodotto. Gli utenti affetti da disabilità visive come la deuteranopia, protanopia e tritanopia potrebbero non vedere bene i colori oppure non vederli affatto. A tal proposito è bene ricordare che il colore non può essere l’unico elemento di distinzione per gli elementi interattivi.
-    
 Lo schema colore
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
