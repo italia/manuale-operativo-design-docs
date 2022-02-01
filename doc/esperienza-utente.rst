@@ -36,5 +36,3 @@ L’impostazione ottimale viene individuata e validata anche attraverso sessioni
   esperienza-utente/progettare-e-costruire-in-alta-fedelta.rst
   esperienza-utente/lo-sviluppo-della-interfaccia-utente.rst
   esperienza-utente/contribuire-al-design-system-di-designers-italia.rst
-
-
