@@ -1,6 +1,8 @@
 Gli strumenti per visualizzare mappe dell'esperienza del servizio
 -----------------------------------------------------------------
 
+.. include:: /banner.rst
+
 Data la natura immateriale e l’intangibilità del servizio digitale, la sua progettazione si avvale di strumenti per visualizzare e analizzare la complessità. A questo scopo esistono diversi strumenti di rappresentazione principalmente per:
 
 - riflettere e analizzare lo stato dell’arte del servizio offerto;
