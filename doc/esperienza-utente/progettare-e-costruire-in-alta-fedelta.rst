@@ -296,7 +296,7 @@ Avendo come base la misura di 8 px e i suoi multipli per calcolare dimensioni, *
 Le icone
 --------------------------------------------------------------------------------
 
-Quando si utilizzano delle icone è necessario assicurare una chiara comprensione del loro significato. Pertanto ogni icona dovrà essere associata a un *tooltip* (un suggerimento contestuale) o a un piccolo testo che ne chiarisca l’azione. La stessa icona non dovrà essere utilizzata per indicare azioni diverse all’interno dello stesso contesto. 
+Quando si utilizzano delle icone è necessario assicurare una chiara comprensione del loro significato. Pertanto ogni icona dovrà essere associata a un *tooltip* (un suggerimento contestuale) o a un piccolo testo che ne chiarisca l’azione. La stessa icona non dovrà essere utilizzata per indicare azioni diverse all’interno dello stesso contesto.
 
 Al fine di garantire una coerenza visiva si consiglia di utilizzare icone provenienti da un unico set grafico come, ad esempio, quelle disponibili gratuitamente su `Font Awesome <https://fontawesome.com/>`_ o il set di icone in formato SVG incluso in `Bootstrap Italia <https://italia.github.io/bootstrap-italia/docs/utilities/icone/>`_.
 
