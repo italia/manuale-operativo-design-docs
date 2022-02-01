@@ -14,8 +14,8 @@ L'obiettivo è quello di garantire:
 - ai cittadini che il servizio funzioni in modo soddisfacente;
 - ai dipendenti pubblici e ai funzionari che i servizi vengano progettati come parti di un ecosistema complesso e integrato.
 
-Personas o profilo utenti
-^^^^^^^^^^^^^^^^^^^^^^^^^
+*Personas* o profilo utenti
+^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Nella progettazione di un servizio, lo strumento *personas* o profili utente è uno strumento di racconto delle diverse tipologie di utenti di un servizio risultante dall’analisi di quanto emerso dalle attività di ricerca quantitativa e qualitativa. Lo strumento aiuta a narrare l’utente e comprenderne la situazione e il motivo che lo spinge ad approcciarsi al servizio, descrivendolo in termini di comportamenti e preferenze rispetto alla fruizione del servizio e dei suoi punti di contatto (*touchpoint*) digitali.
 
 La costruzione delle *personas* può essere anche elaborata sulla base di ipotesi condivise da un gruppo di professionisti della Pubblica amministrazione o cittadini che prendono parte ad attività di co-progettazione. In questo caso viene fornito un foglio di lavoro che aiuta il gruppo di partecipanti a ragionare sulle variabili chiave di quel personaggio, e immaginarsi la sua vita, le sue abitudini, le sue esigenze.
