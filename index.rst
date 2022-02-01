@@ -15,7 +15,6 @@ Le linee guida presentano, nel capitolo introduttivo, un quadro sinottico degli 
 
     doc/introduzione-linee-guida-design.rst
     doc/service-design.rst
-    doc/prototyping.rst
     doc/content-design.rst
     doc/design-research.rst
-    doc/user-interface.rst
+    doc/esperienza-utente.rst

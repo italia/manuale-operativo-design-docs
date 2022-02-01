@@ -1,15 +1,12 @@
-================================================================================
-Il disegno di un’interfaccia e lo UI Kit
-================================================================================
+Progettare e costruire in alta fedeltà
+======================================
 
 .. include:: /banner.rst
 
-Il disegno dell’interfaccia
-================================================================================
+Il progetto dell’interfaccia in alta fedeltà (in inglese *hi-fidelity*, abbr. *hi-fi*) **è una delle fasi finali del processo di progettazione, dedicato alla realizzazione del prodotto, che si concentra anche su aspetti visivi di progettazione grafica, aggiungendo dettagli, stile grafico e animazioni**. 
+L’interfaccia viene costruita tenendo come punto di riferimento il *wireframe* contenente la struttura generale del prodotto: questo scheletro a bassa qualità (in inglese *low-fi*) viene trasformato e arricchito in modo da dare una resa reale del prodotto finale. È auspicabile in questa fase realizzare prototipi interattivi delle parti fondanti del progetto, adatti per esempio per svolgere test di usabilità per confermare o meno le scelte fatte sin qui e, in caso, migliorarle.
 
-Il disegno dell’interfaccia in “alta fedeltà” (in inglese *hi-fi*) è la fase finale della progettazione che si concentra sugli aspetti grafici di *visual design*, aggiungendo dettagli, stile e animazioni.
-
-L’interfaccia viene costruita tenendo come punto di riferimento il *wireframe* contenente la struttura generale del prodotto: lo scheletro viene trasformato e arricchito in modo da dare una resa reale del prodotto finale, nonostante questa sia ancora mancante di tutta quella parte di interazione con l’utente che verrà realizzata durante la fase di sviluppo.
+Il progetto dell’interfaccia utente sarà composto da diversi componenti, costruiti seguendo le migliori pratiche di usabilità, come bottoni, campi di compilazione, menu, blocchi di testo ecc., i quali vengono combinati e posizionati seguendo una griglia, responsiva (in inglese *responsive*) sui diversi dispositivi, per organizzare il loro posizionamento nello spazio della pagina. Per responsività nel campo delle interfacce si intende la capacità di adattamento grafico automatico dei contenuti di un sito rispetto alle dimensioni, proporzioni e caratteristiche specifiche dei dispositivi attraverso i quali viene visualizzato (es. *computer, tablet, smartphone, tv, watch*).
 
 .. figure:: images/ui-design-comparazione-tra-lo-fi-e-hi-fi.png
     :alt: Un esempio di un progetto a bassa ed alta fedeltà.
@@ -17,57 +14,49 @@ L’interfaccia viene costruita tenendo come punto di riferimento il *wireframe*
 
     Un esempio di un progetto di pagina web desktop a bassa fedeltà, a sinistra, e, a destra, la realizzazione dell’interfaccia grafica ad alta fedeltà.
 
-Il *visual design* dell’interfaccia utente, specularmente al *wireframe*, sarà quindi composto da diversi elementi come bottoni, campi di compilazione, menù, blocchi di testo ecc., i quali di norma vengono combinati e posizionati seguendo una griglia per organizzare il loro posizionamento nello spazio.
+L'esperienza come identità
+--------------------------
 
-Uniformità ed identità
---------------------------------------------------------------------------------
+Il progetto dell’interfaccia utente serve a presentare informazioni e comportamenti in modo comprensibile e semplice, tenendo presente non soltanto l’aspetto estetico, ma soprattutto i bisogni dell’utente, ovvero quanto la rappresentazione grafica dei contenuti, degli elementi interattivi e delle modalità di interazione facilitino una risposta a questi bisogni, risultando in un’esperienza soddisfacente. 
 
-Il *visual design* serve quindi a presentare informazioni e comportamenti in modo comprensibile e semplice tenendo presente non soltanto l’aspetto estetico, ma soprattutto le esigenze dell’utente.
+Tutto ciò che riguarda lo stile è soltanto una parte del prodotto. Sebbene la comunicazione visiva attiri giudizi soggettivi, le tematiche legate al gusto estetico non sono così fondamentali come si possa pensare, certamente forniscono degli indizi o creano delle emozioni, ma non sono sufficienti.
+Una chiara rappresentazione degli obiettivi dell’esperienza utente (*user experience*) sono invece le fondamenta imprescindibili di tutti quegli aspetti di interfaccia utente che fanno parte dell’identità del prodotto e che generano una risposta emozionale positiva. 
 
-Tutto ciò che riguarda lo stile è soltanto una parte del prodotto.
+L’interfaccia utente (*user interface*, in breve UI) è una conversazione tra l’utente e il prodotto, attraverso delle azioni che servono a far raggiungere degli obiettivi di progetto che rispondono ai bisogni dell’utente, il cittadino. La logica da utilizzare come metro di misura della bontà del progetto può essere quella di una conversazione tra due soggetti, il cittadino e il prodotto: la comunicazione è focalizzata sull’obiettivo da raggiungere, e deve essere efficace per ottenere una comprensione chiara, un’interazione semplice ed efficace, e una soddisfazione ottimale dei bisogni. 
 
-Sebbene la comunicazione visiva attiri giudizi soggettivi, le tematiche legate al gusto estetico non sono così fondamentali come si possa pensare. Tutto ciò che afferisce all’aspetto estetico fornisce degli indizi o crea delle emozioni, ma non è sufficiente ad ottenere un’esperienza soddisfacente.
+Coerenza visiva e di comportamento
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Una chiara rappresentazione degli obiettivi dell’esperienza utente (*user experience*) del prodotto sono invece le fondamenta imprescindibili di tutti quegli aspetti di interfaccia utente che fanno parte dell’identità e che generano una risposta emozionale positiva.
+La coerenza di un’interfaccia, concretizzata attraverso standard visuali e di comportamento, fa sì che, se applicata correttamente, porti importanti benefici. 
+In primo luogo, gli utenti **utilizzano con più efficacia e facilità i percorsi che hanno già imparato a riconoscere**. Potranno infatti prevedere i comportamenti del prodotto basandosi su un’esperienza pregressa. 
+In secondo luogo, portano a una **riduzione dei costi di produzione, attraverso il riuso di componenti e soluzioni di design e di codice sviluppato già pronti**, che sono il risultato di discussioni e decisioni già prese e validate, favorendo anche una riduzione dei costi di supporto e assistenza agli utenti, poiché gli standard incrementano la facilità d’uso e di apprendimento in autonomia. 
 
-L’interfaccia utente (*User Interface*, in breve *UI*) è di fatto una **conversazione tra l’utente e il prodotto**, attraverso dei task che servono a far raggiungere gli obiettivi di progetto per il cittadino. La logica di funzionamento è la stessa di una conversazione tra due persone: la comunicazione è focalizzata sull’obiettivo e deve essere efficace per ottenere una comprensione chiara e completa.
-
-Standard visuali
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-L’uniformità di un’interfaccia, concretizzata attraverso degli **standard visuali e di comportamento**, fa sì che, se applicata correttamente, porti importanti benefici.
-
-In primo luogo, gli utenti utilizzeranno più rapidamente e con facilità i percorsi che hanno già imparato a riconoscere. Potranno prevedere i comportamenti del prodotto basandosi su un’esperienza pregressa.
-
-In secondo luogo, portano ad una riduzione dei costi di produzione attraverso il riuso di design e di codice già pronti e che sono il risultato di discussioni e decisioni già prese, favorendo anche una **riduzione dei costi di supporto e assistenza agli utenti** poiché gli *standard* incrementano la facilità d’uso e di apprendimento.
-
-L’applicazione di un modello non basta però a costruire una buona interfaccia: gli *standard* rispondono a questioni relative a generali processi cognitivi e di percezione. Essi **devono essere inglobati nel contesto di riferimento**, che presuppone un’organizzazione logica e strutturale, che può richiedere specifici “comportamenti” e scegliere percorsi dedicati a particolari bisogni dell’utente.
-
-È possibile approfondire queste tematiche anche nel paragrafo :ref:`Conoscere gli utenti <conoscere-gli-utenti>`.
+L’uso di componenti standard non basta però a costruire una buona interfaccia: gli standard rispondono a questioni relative a generali processi cognitivi e di percezione; essi devono essere considerati  nel contesto di riferimento, che presuppone un’organizzazione logica e strutturale che può richiedere specifici comportamenti e scegliere percorsi dedicati a particolari bisogni dell’utente in quel contesto.
 
 Lo stile
---------------------------------------------------------------------------------
+^^^^^^^^
+Lo stile visivo di una interfaccia è costituito da **elementi variabili come la forma, il colore, la tipografia, l’applicazione di spazi coerenti e adatti tra tutti gli elementi e le eventuali variazioni di tutte queste caratteristiche** dovute all’interazione con l’utente. Questi aspetti sono combinati insieme per creare una risposta emozionale, ovvero incidono anche su quei necessari aspetti di riconoscibilità che possono aumentare la confidenza con il servizio, e per dare solidità e coerenza all’impostazione funzionale della pagina, aiutando l’utente nella navigazione, nella ricerca e lettura delle informazioni e nella fruizione del servizio. 
 
-Lo stile è il "linguaggio" del design, ed è costituito da elementi variabili come la forma, il colore, la tipografia, o l’applicazione di spazi coerenti tra loro.
-Questi aspetti sono combinati insieme per creare una risposta emozionale (riconoscibilità, confidenza con il servizio), e dare solidità e consistenza al layout, aiutando l’utente nella navigazione e nella ricerca delle informazioni.
-
-Lo stile è trasversale a tutti i componenti di una interfaccia: ognuno è costruito sulla base di una griglia, utilizzando ben definite palette di colori, tipo  e dimensione dei caratteri, spaziature, ombre, ecc.
+Lo stile è trasversale a tutti i componenti di una interfaccia: ognuno è costruito sulla base di una griglia, utilizzando ben definite combinazioni di colori, tipologie e dimensioni dei caratteri, spaziature, ombre, e così via.  
 
 
-Lo UI Kit per la creazione dell’interfaccia
-================================================================================
+Lo kit Progettazione interfaccia
+================================
 
-Il prototipo ad alta fedeltà può essere costruito utilizzando lo **UI kit** messo a disposizione da Designers Italia e descritto di seguito, di cui si possono trovare i file sorgente in formato *Sketch* sul repository GitHub dedicato:
+ll kit dedicato alle interfacce utente offre un insieme di componenti visivi già pronti per assemblare il *front-end* di siti web e applicazioni.
+Il kit consiste in una libreria di simboli, ovvero una libreria di porzioni pre-lavorate finalizzate alla progettazione di un’interfaccia digitale con uno stile visivo definito e coerente. I simboli ti consentono di costruire un prototipo con le varie schermate necessarie, che possono poi essere rese interattive e gestite in maniera collaborativa nell’ambito di un team di lavoro.
+
+Il prototipo ad alta fedeltà può essere costruito utilizzando la risorsa design UI kit messa a disposizione da Designers Italia e descritta di seguito, di cui si possono scaricare, e usare direttamente come libreria componenti nei diversi software di progettazione interfaccia, i file sorgente in formato Sketch sul repository GitHub dedicato: 
 
 - `Vedi i file sorgente dello UI Kit <https://github.com/italia/design-ui-kit>`_
 
-Esso è inoltre pubblicato su InVision, una piattaforma di condivisione dove è possibile vedere tutti gli elementi disponibili:
+Il kit è inoltre pubblicato su InVision, una piattaforma di condivisione dove è possibile vedere tutti gli elementi disponibili:
 
 - `Vedi lo UI Kit su InVision <https://invis.io/RJFGS2UC3HS>`_
 
-Lo UI Kit fornisce una libreria di elementi già pronti che possono essere assemblati per montare un’interfaccia utente adatta a servizi della PA.
+Il Design UI kit fornisce una libreria di componenti già pronti che possono essere assemblati per montare un’interfaccia utente adatta a siti internet e servizi digitali della Pubblica amministrazione. 
 
-Gli elementi di cui si compone il kit sono raggruppati nelle seguenti categorie principali:
+Gli elementi di cui si compone il kit sono raggruppati nelle seguenti categorie:
 
 * Tipografia
 * Definizione di colori e loro applicazione
@@ -78,9 +67,7 @@ Gli elementi di cui si compone il kit sono raggruppati nelle seguenti categorie 
 * Elementi per la visualizzazione di dati e contenuti
 * Elementi di data entry, come campi di testo ed esempi di form
 
-La costruzione degli elementi segue una `roadmap <https://docs.google.com/spreadsheets/d/183hI6EBJo3EeiEcQPGZIe3hNN7EerTU5Udk6SkrH2OU/edit?usp=sharing>`_ dove si può osservare e commentare il progetto in corso di realizzazione.
-
-Poiché l’approccio è *open source*, le Pubbliche Amministrazioni, le agenzie e singoli cittadini possono contribuire alla discussione e alla modifica dello UI Kit stesso.
+Poiché l’approccio è *open source*, le amministrazioni, le agenzie e singoli cittadini possono contribuire alla discussione e alla modifica del Design UI kit stesso. 
 
 .. figure:: images/ui-design-ui-kit-esempio-1.png
     :alt: Un esempio di componenti dello UI Kit.
@@ -88,10 +75,10 @@ Poiché l’approccio è *open source*, le Pubbliche Amministrazioni, le agenzie
 
     Un esempio di componenti dello UI Kit con le indicazioni necessarie alla loro applicazione.
 
-Come si usa lo UI Kit
+Come si usa il Design UI Kit
 --------------------------------------------------------------------------------
 
-Lo UI Kit è realizzato seguendo un **sistema a blocchi**, che può essere paragonato ad un set di pezzi componibili, dimensionati in modo da poter essere assemblati ed adattati.
+Il Design UI kit è realizzato seguendo un sistema a componenti, che può essere paragonato a un set di pezzi componibili, dimensionati in modo da poter essere assemblati e adattati. 
 
 .. figure:: images/ui-kit-blocks.gif
     :alt: Costruzione di un’interfaccia attraverso i principi di composizione.
@@ -111,13 +98,13 @@ Il software scelto per costruire lo UI Kit è `Sketch <https://www.sketchapp.com
 
 La scelta di questo software è legata ad alcune caratteristiche fondamentali. In primo luogo, è possibile gestire la libreria di componenti in modo trasversale a tutti i file che si vogliono creare ed aggiornarla qualora vengano modificati i componenti. Inoltre, mettendo a disposizione una piattaforma di sviluppo collaborativo, permette di installare innumerevoli estensioni (*plugin*) a seconda delle esigenze di design.
 
-In alternativa, è possibile importare il file Sketch in altri programmi di prototipazione, come `Adobe XD <https://www.adobe.com/it/products/xd.html>`_, `Studio <https://studio.design/>`_, o `Figma <https://www.figma.com/>`_.
+Inoltre è possibile importare il file, e usarlo come libreria, in questo formato nei programmi per la prototipazione dell’interfaccia utente più diffusi, come `Adobe XD <https://www.adobe.com/it/products/xd.html>`_, `Studio <https://studio.design/>`_, o `Figma <https://www.figma.com/>`_.
 
 La tipografia
 --------------------------------------------------------------------------------
 
-La principale famiglia di font usata nello UI Kit è il **Titillium Web**.
-È stato scelto come *typeface* principale per i contenuti web, grazie alla x-height ampia, alla struttura lineare e alla flessibilità d’uso essendo composto da 11 stili.
+La principale famiglia di *font* usata nel design UI Kit è il **Titillium Web**.
+È stato scelto come carattere tipografico principale per i contenuti web, grazie all'altezza della x (*x-height*) ampia, alla struttura lineare e alla flessibilità d’uso essendo composto da 11 stili.
 
 Il `Titillium Web <https://fonts.google.com/specimen/Titillium+Web>`_ è stato realizzato come progetto didattico dagli studenti del corso in Type Design dell’Accademia di Belle Arti di Urbino.
 
@@ -127,7 +114,7 @@ Il `Titillium Web <https://fonts.google.com/specimen/Titillium+Web>`_ è stato r
 
     Il font Titillium Web.
 
-Un typeface secondario è il **Roboto Mono**, la variante *monospaced* della famiglia Roboto. È stato introdotto nelle Linee Guida per la chiarezza e leggibilità dei numeri pertanto è adatto ad essere utilizzato per la rappresentazione di numeri, calcoli matematici, numeri in tabelle, codice di programmazione.
+Un carattere tipografico secondario è il **Roboto Mono**, la variante monospaziata della famiglia Roboto. È stato introdotto per la chiarezza e leggibilità dei numeri pertanto è adatto ad essere utilizzato per la rappresentazione di numeri, calcoli matematici, numeri in tabelle, codice di programmazione.
 
 .. figure:: images/ui-font-roboto-mono.png
     :alt: Il font Roboto Mono.
@@ -135,7 +122,7 @@ Un typeface secondario è il **Roboto Mono**, la variante *monospaced* della fam
 
     Il font Roboto Mono.
 
-Un terzo typeface con grazie (o *serif*) è il **Lora**, introdotto per la sua leggibilità e nato espressamente per la lettura su display.
+Un terzo carattere tipografico con grazie (o *serif*) è il **Lora**, introdotto per la sua leggibilità e nato espressamente per la lettura su *display*.
 
 .. figure:: images/ui-font-lora.png
     :alt: Il font Lora.
@@ -143,12 +130,12 @@ Un terzo typeface con grazie (o *serif*) è il **Lora**, introdotto per la sua l
 
     Il font Lora.
 
-Tutti questi *typeface* sono rilasciati con licenza SIL Open Font License e sono scaricabili da `Google Fonts <https://fonts.google.com/>`_, una piattaforma di distribuzione gratuita di *font* per il web.
+Tutti questi caratteri tipografici sono rilasciati con licenza `SIL Open Font License <https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL>`_ e sono scaricabili da `Google Fonts <https://fonts.google.com/>`_, una piattaforma di distribuzione gratuita di *font* per il web.
 
 Corpo del testo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Le misure dei caratteri non devono essere utilizzate senza una logica, ma devono seguire una **scala tipografica** precisa e studiata appositamente per creare una **gerarchia visiva**.
+Le dimensioni dei caratteri non devono essere utilizzate senza una logica, devono seguire una **scala tipografica precisa e studiata appositamente per creare una gerarchia visiva**.
 
 .. figure:: images/ui-font-scala-tipografica.png
     :alt: Un esempio di scala tipografica.
@@ -156,7 +143,7 @@ Le misure dei caratteri non devono essere utilizzate senza una logica, ma devono
 
     Un esempio di scala tipografica.
 
-La gerarchia serve a gestire la trasmissione di un messaggio e il suo impatto, e quando non viene utilizzata la comunicazione diventa meno efficace.
+La gerarchia serve a dare struttura ai contenuti per gestire al meglio la trasmissione di un messaggio e il suo impatto, e quando non viene utilizzata la comunicazione diventa meno efficace.
 
 .. figure:: images/ui-kit-gerarchia.png
     :alt: Un esempio di gerarchia.
@@ -164,9 +151,9 @@ La gerarchia serve a gestire la trasmissione di un messaggio e il suo impatto, e
 
     Un esempio di gerarchia.
 
-La dimensione del corpo del testo, con riferimento ad esempio al font *Titillium Web*, non può essere inferiore a 16px per uno schermo mobile e inferiore a 18px per schermi grandi.
+La dimensione del corpo del testo, con riferimento ad esempio al *font Titillium Web*, non può essere inferiore a 16px per uno schermo di dispositivo mobile, e inferiore a 18px per schermi più grandi.
 
-Si possono utilizzare misure inferiori in caso di didascalie, note, o testi di secondaria importanza che per lunghezza o posizionamento nella pagina richiedano dimensioni ridotte.
+Si possono utilizzare in casi particolari misure inferiori solo in caso di didascalie, note, o testi di secondaria importanza che per lunghezza o posizionamento nella pagina richiedano dimensioni ridotte.
 
 Dimensionamento dei paragrafi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -182,12 +169,12 @@ L’interlinea (in inglese, *leading*), sia dei titoli che del corpo del testo, 
 Colore del testo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Il colore del testo deve essere tale da garantire un rapporto di contrasto minimo con lo sfondo sfondo di 4,5:1 (AA) **come stabilito dalle specifiche di accessibilità**. Approfondisci nella sezione :doc:`/doc/service-design/accessibilita`.
+Il colore del testo deve essere tale da garantire un rapporto di contrasto minimo con lo sfondo di 4,5:1 (AA) **come stabilito dalle specifiche di accessibilità**. 
 
 Collegamenti
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-I collegamenti (in inglese, *link*) ad altre aree del servizio o a siti esterni devono avere un elemento di distinguibilità rispetto al testo normale.
+I collegamenti (*link*) ad altre aree del servizio o a siti esterni devono avere un elemento di distinguibilità rispetto al testo normale.
 
 Pertanto, è buona norma mantenere una **sottolineatura**, specialmente se il link è inserito all’interno di un paragrafo. Alternativamente, si può utilizzare anche il grassetto.
 
@@ -197,8 +184,7 @@ Il colore
 Il colore è un elemento essenziale nella definizione di un’interfaccia: può servire a differenziare, connettere, evidenziare, nascondere. Contribuisce alla gerarchia visiva e può essere un elemento di supporto alla comunicazione.
 
 .. NOTE::
-    Il colore influisce sull’accessibilità del prodotto. Gli utenti affetti da disabilità visive come la deuteranopia, protanopia e tritanopia potrebbero non vedere bene i colori oppure non vederli affatto. Approfondisci nella sezione :doc:`/doc/service-design/accessibilita`.
-
+    Il colore influisce sull’accessibilità del prodotto. Gli utenti affetti da disabilità visive come la deuteranopia, protanopia e tritanopia potrebbero non vedere bene i colori oppure non vederli affatto. A tal proposito è bene ricordare che il colore non può essere l’unico elemento di distinzione per gli elementi interattivi.
 Lo schema colore
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
@@ -211,9 +197,9 @@ Tra i colori secondari si dovranno definire:
 * colori strettamente connessi al colore base
 * un eventuale colore di risalto (chiamato *accent color*), utilizzato in misura minore poiché è associato a elementi che prevedono un’interazione, come bottoni, elementi di controllo (sliders, radio, ecc.), link, campi di testo.
 
-Si consiglia l’utilizzo di una palette costituita da non più di 5 tonalità, dove non più di 3 avranno un differente valore di colore (*hue*, in inglese).
+Si consiglia l’utilizzo di una *palette* costituita da non più di 5 tonalità, dove non più di 3 avranno un differente valore di colore (*hue*, in inglese).
 
-La palette può essere:
+La *palette* può essere:
 
 * monocromatica, quando è costituita dal colore base e dalle sue variazioni in termini di saturazione e/o luminosità.
 * policroma, ossia costituita da associazioni di colori con differente *hue*. Questo tipo di schema oltre al colore base e alle sue variazioni, comprende un colore che può essere scelto tra gli analoghi, complementari, triadici, ecc. del colore base, oppure scelto dalla gamma di colori appartenenti all’identità visiva.
@@ -244,7 +230,7 @@ Un esempio di schema cromatico costruito sui principi appena descritti è la pal
 
 Pensata per un design semplice e minimalista, è una palette costituita dalle variazioni del colore base, più le tinte neutre. Sono presenti anche colori che possiamo definire *“utility colors”*, ossia colori da utilizzare per i messaggi di feedback all’utente (errori o notifiche) o per la realizzazione di elementi grafici.
 
-La palette dello UI Kit è piuttosto estesa: comprende molte variazioni in tinte, toni e ombre del colore base (il “Blu Italia”), e dei colori secondari e neutri, permettendo così una certa flessibilità di uso.
+La palette del design UI Kit è piuttosto estesa: comprende molte variazioni in tinte, toni e ombre del colore base (il “Blu Italia”), e dei colori secondari e neutri, permettendo così una certa flessibilità di uso.
 
 .. figure:: images/ui-colori-palette-estesa-esempio-1.png
     :alt: Un esempio di palette monocromatica estesa.
@@ -277,9 +263,9 @@ La griglia rappresenta la struttura invisibile che permette di organizzare i con
 
     Un esempio di griglia applicata a diverse risoluzioni dello schermo.
 
-Le dimensioni delle colonne vanno adattate ai cambiamenti della viewport: ogni colonna occuperà una percentuale di spazio specifica a seconda che sia visualizzata su dispositivi desktop, tablet, o smartphone.
+Le dimensioni delle colonne vanno adattate ai cambiamenti della *viewport*, considerata come le dimensioni misurate px dello spazio visibile sul dispositivo: ogni colonna occuperà una percentuale di spazio specifica a seconda che sia visualizzata su dispositivi più o meno grandi, siano computer desktop, tablet, o mobile.
 
-La disposizione dei contenuti, a seconda delle dimensione dello schermo, garantisce che i testi siano leggibili anche sugli schermi più piccoli e l’interazione utente (ad esempio, l’utilizzo di form e controlli dinamici) rimanga agevole.
+La disposizione dei contenuti, responsiva, a seconda delle dimensioni dello schermo, garantisce che i testi siano leggibili e l’interazione utente (ad esempio, l’utilizzo di *form* e controlli dinamici) rimanga agevole anche sugli schermi più piccoli o a percentuali di ingrandimento importanti.
 
 +---------------------------------+--------------+-------------------+-------------------+--------------+
 | Risoluzione                     | Small        | Medium            | Large             | Extralarge   |
@@ -291,11 +277,11 @@ La disposizione dei contenuti, a seconda delle dimensione dello schermo, garanti
 | Spaziatura                      | 12px         | 20px              | 20px              | 28px         |
 +---------------------------------+--------------+-------------------+-------------------+--------------+
 
-La griglia orizzontale contribuisce alla consistenza del design e a determinare il pattern di lettura di un sito web. In un sistema condiviso come quello di uno UI Kit, è necessario avere una metrica comune, per mantenere coerenza anche tra diversi siti web appartenenti a enti o pubbliche amministrazioni diverse.
+La griglia orizzontale contribuisce alla consistenza del design e a determinare il pattern di lettura di un sito web. In un sistema condiviso come quello di un UI kit, è necessario avere una metrica comune, per mantenere coerenza anche tra diversi siti appartenenti a enti o pubbliche amministrazioni diverse. 
 
-La griglia orizzontale è definita sulla baseline del testo, ossia la linea dove poggiano le lettere del font scelto. La baseline diventa una griglia a cui ancorare non solo il testo ma anche gli oggetti del layout. La baseline è di 8px ed è basata sul Titillium a 16px.
+La griglia orizzontale è definita sulla baseline del testo, ossia la linea di base dove poggiano le lettere del *font* scelto. La *baseline* diventa una griglia a cui ancorare non solo il testo ma anche gli oggetti del *layout*. La *baseline* è di 8px ed è basata sul carattere Titillium Web con corpo di dimensioni 16px.
 
-Avendo come base la misura di 8 px e i suoi multipli per calcolare dimensioni, padding e margini dei vari elementi, si può ottenere un ritmo verticale armonico.
+Avendo come base la misura di 8 px e i suoi multipli per calcolare dimensioni, *padding* e margini dei vari elementi, si può ottenere un ritmo verticale armonico.
 
 .. figure:: images/ui-griglia-esempio-2.png
     :alt: Un esempio di componente con baseline a 8px.
@@ -309,7 +295,7 @@ Avendo come base la misura di 8 px e i suoi multipli per calcolare dimensioni, p
 Le icone
 --------------------------------------------------------------------------------
 
-Quando si utilizzano delle icone è necessario assicurare una chiara comprensione del loro significato. Pertanto ogni icona dovrà essere associata ad un tooltip o ad un piccolo testo che ne chiarisca l’azione. La stessa icona non dovrà essere utilizzata per indicare azioni diverse all’interno della stesso contesto.
+Quando si utilizzano delle icone è necessario assicurare una chiara comprensione del loro significato. Pertanto ogni icona dovrà essere associata a un *tooltip* (un suggerimento contestuale) o a un piccolo testo che ne chiarisca l’azione. La stessa icona non dovrà essere utilizzata per indicare azioni diverse all’interno dello stesso contesto.
 
 Al fine di garantire una coerenza visiva si consiglia di utilizzare icone provenienti da un unico set grafico come, ad esempio, quelle disponibili gratuitamente su `Font Awesome <https://fontawesome.com/>`_ o il set di icone in formato SVG incluso in `Bootstrap Italia <https://italia.github.io/bootstrap-italia/docs/utilities/icone/>`_.
 
@@ -346,9 +332,9 @@ Tutte le azioni principali sono rappresentate dal bottone “Primary”, a cui p
 Navigazione
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-I componenti che possiamo inserire all’interno della navigazione sono molteplici. Ad esempio, si riportano il componente “Tabs” e il “Menu” per dispositivi mobili.
+I componenti che possiamo inserire all’interno della navigazione sono molteplici. Ad esempio, si riportano il componente “Tab” e il “Menu” per dispositivi mobili.
 
-Nel kit sono costruite diverse varianti di “Tab”, sia le varianti per diverse dimensioni di schermo, sia per fondo chiaro e fondo scuro, con solo testo o solo icone, oppure con la presenta di entrambi.
+Nel kit sono costruite diverse varianti di “Tab” (controlli grafici di navigazione), sia le varianti per diverse dimensioni di schermo, sia per fondo chiaro e fondo scuro, con solo testo o solo icone, oppure con la presenta di entrambi.
 
 È possibile vedere in figura il componente Tab con un esempio di applicazione nell’ambito di filtri di ricerca.
 
@@ -369,7 +355,7 @@ Il componente “Menu” mobile mostrato nella figura seguente ha alcune utili v
 Data display
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Nella categoria Data Display sono inseriti i componenti che hanno come funzionalità quella di mostrare informazioni in modo organizzato oppure evidenziato, come ad esempio gli “Accordion” o i “Callout”.
+Nella categoria Data Display sono inseriti i componenti che hanno come funzionalità quella di mostrare informazioni in modo organizzato oppure evidenziato, come ad esempio gli “accordion” (elementi a scomparsa) o i “callout” (elementi richiamabili/attivabili con un click).
 
 .. figure:: images/ui-componenti-callout.png
     :alt: Un esempio di componente Callout.
@@ -384,7 +370,7 @@ Esempi di componenti appartenenti alla categoria Data entry sono i campi di tipo
 
 L’etichetta del campo è indicativa di cosa va inserito. All’attivazione del campo con il cursore, l’etichetta si sposta in alto.
 
-Nel componente si possono attivare oltre gli stati di feedback, gestendo colori e icone, anche i relativi messaggi.
+Nel componente si possono attivare oltre gli stati di *feedback*, gestendo colori e icone, anche i relativi messaggi.
 
 .. figure:: images/ui-componenti-form.png
     :alt: Un esempio di form contenente componenti “Input”.
@@ -393,13 +379,13 @@ Nel componente si possono attivare oltre gli stati di feedback, gestendo colori 
     Un esempio di form contenente componenti “Input”.
 
 
-Gli strumenti
+Le risorse
 ================================================================================
 
-Lo UI Kit è disponibile a tutti in formato *Sketch* sul repository GitHub dedicato, un servizio di hosting dove è possibile commentare, caricare files e interagire tramite messaggi (*issue*) e contributi (*pull request*).
+Il design UI Kit è disponibile in formato *Sketch* sul repository GitHub dedicato, un servizio di hosting dove è possibile commentare, caricare files e interagire tramite messaggi (*issue*) e contributi (*pull request*).
 
 - Vedi i `file sorgente dello UI Kit <https://https://github.com/italia/design-ui-kit>`_ oppure scopri com `caricare il kit come libreria esterna <https://github.com/italia/design-ui-kit/wiki/Sketch-Libraries>`_ all’interno del tuo progetto
 
-Esso è inoltre pubblicato per consultazione su InVision:
+Esso è inoltre pubblicato per consultazione in anteprima su InVision:
 
 - Vedi lo `UI Kit su InVision <https://invis.io/RJFGS2UC3HS>`_
