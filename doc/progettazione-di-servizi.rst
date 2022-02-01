@@ -35,9 +35,5 @@ Le Pubbliche Amministrazioni, a tutti i livelli, devono esprimere una migliore c
    progettazione-di-servizi/progettare-un-servizio-pubblico-digitale.rst
    progettazione-di-servizi/analizzare-il-contesto-con-un-approccio-olistico-e-sistemico.rst
    progettazione-di-servizi/conoscere-gli-utenti-e-gli-erogatori-del-servizio.rst
-   progettazione-di-servizi/gli-strumenti-per-visualizzare-mappe-della-esperienza-del-servizio.rst
+   progettazione-di-servizi/gli-strumenti-per-visualizzare-mappa-della-esperienza-del-servizio.rst
    progettazione-di-servizi/organizzare-attivita-di-co-progettazione.rst
-
-
-
-
