@@ -66,7 +66,7 @@ Sia il linguaggio di programmazione CSS che Javascript permettono di rilevare la
 
 Javascript permette di analizzare qualsiasi funzionalità presente tra le Web API (Application Programming Interface), oltre a poter conoscere praticamente **ogni dettaglio dell’utente** che è collegato. Ad esempio, attraverso la geo-localizzazione di un dispositivo, è possibile fornire un servizio più preciso a seconda della posizione dell’utente nello spazio, a patto che tale *feature* sia disponibile nel dispositivo utilizzato. Ecco come si può realizzare::
 
-  if("geolocation" in navigator) {
+  if ("geolocation" in navigator) {
     navigator.geolocation.getCurrentPosition(function(position) {
       // è possibile ottenere la posizione
     })
