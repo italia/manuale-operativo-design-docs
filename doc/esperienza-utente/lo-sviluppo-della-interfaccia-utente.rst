@@ -115,7 +115,7 @@ Alcune pratiche sono comunque sempre auspicabili, come la **compressione** del c
 Supporto browser
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Come regola generale, per la realizzazione di un servizio web per la PA, è necessario assicurare la compatibilità con versioni dei browser che abbiano una penetrazione media tra la popolazione di almeno **1 persona ogni 100 abitanti**. Si consiglia a questo proposito di utilizzare come riferimento operativo la `configurazione condivisa Browserlist per i servizi web della Pubblica amministrazione <https://github.com/italia/browserslist-config-design-italia>`_.
+Come regola generale, per la realizzazione di un servizio web per la PA, è necessario assicurare la compatibilità con versioni dei browser che abbiano una penetrazione media tra la popolazione di almeno **1 persona ogni 100 abitanti**. Si consiglia a questo proposito di utilizzare come riferimento operativo la `configurazione condivisa Browserslist per i servizi web della Pubblica amministrazione <https://github.com/italia/browserslist-config-design-italia>`_.
 
 È buona norma inoltre analizzare regolarmente le statistiche sull’utilizzo dei dispositivi e delle diverse risoluzioni che gli utenti adoperano per accedere al sito. Per fare questo, ci si può avvalere di diverse sorgenti di dati: una delle più usate è *StatCounter.com*, che permette di filtrare i dati per Paese:
 
