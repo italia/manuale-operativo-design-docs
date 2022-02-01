@@ -159,7 +159,7 @@ Per avvicinarci alle esigenze di Pubbliche Amministrazioni e fornitori in questa
 
 * `Bootstrap Italia <https://italia.github.io/bootstrap-italia/>`_
 
-**React kit** contiene  componenti programmati in linguaggio JavaScript, costruiti sulle basi di React, una libreria open source per sviluppo di applicazioni web e mobile ad alta interattività e scambio di dati. 
+**React kit** contiene  componenti programmati in linguaggio JavaScript, costruiti sulle basi di React, una libreria open source per sviluppo di applicazioni web e mobile ad alta interattività e scambio di dati.
  
 * `React Kit <https://italia.github.io/design-react-kit/>`_
 
