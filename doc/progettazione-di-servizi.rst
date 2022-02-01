@@ -33,4 +33,5 @@ Le Pubbliche Amministrazioni, a tutti i livelli, devono esprimere una migliore c
    :maxdepth: 2
 
    progettazione-di-servizi/progettare-un-servizio-pubblico-digitale.rst
+   progettazione-di-servizi/analizzare-il-contesto-con-un-approccio-olistico-e-sistemico.rst
 
