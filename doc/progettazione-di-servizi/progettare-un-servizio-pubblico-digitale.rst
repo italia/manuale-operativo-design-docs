@@ -14,7 +14,7 @@ La progettazione di un servizio pubblico:
 
 Gli elementi da considerare nella progettazione di un servizio sono:
 
-- **stakeholder** (portatori di interesse): coinvolgere individui e/o le organizzazioni che influenzano l’esperienza d’uso di un servizio, contribuiscono alla sua erogazione , e fruizione;
+- **stakeholder** (portatori di interesse): coinvolgere individui e/o le organizzazioni che influenzano l’esperienza d’uso di un servizio, contribuiscono alla sua erogazione e fruizione;
 
 - **utenti**: comprendere, analizzare e sintetizzare i bisogni degli utenti-cittadini è cruciale per l’identificazione dell’esperienza del servizio che si progetta;
 
