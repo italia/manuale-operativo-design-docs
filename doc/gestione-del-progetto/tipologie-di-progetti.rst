@@ -1,13 +1,17 @@
 Tipologie di progetti
 ---------------------
 
+.. include:: /banner.rst
+
 Le tipologie di progetto che le pubbliche amministrazioni si trovano ad attivare nella progettazione di servizi possono essere classificate in tre gruppi. 
 
 Miglioramento di siti e servizi digitali esistenti
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Rientrano in questa categoria quei progetti che insistono su strutture esistenti per aggiornare la tecnologia e/o inserire nuove funzionalità senza rivoluzionare il 
 servizio stesso. Sono esempi di questa tipologia **la riprogettazione dell’esperienza utente di un servizio digitale sul sito di un Comune**, oppure **la modifica 
-di un sistema di prenotazione** in un applicativo di *back office*. In questi casi è necessario: 
+di un sistema di prenotazione** in un applicativo di *back office*. 
+
+In questi casi è necessario: 
 - raccogliere tutti i dati disponibili relativi all’utilizzo attuale dei servizi (tramite *web analytics*, interviste utente oppure test di usabilità); 
 - analizzare i dati per capire quali sono le maggiori criticità e opportunità di miglioramento.
 
