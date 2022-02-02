@@ -39,4 +39,3 @@ All’interno di Designers Italia tutti i progetti possono contribuire concretam
   gestione-del-progetto/tipologie-di-progetti.rst
   gestione-del-progetto/metodo-di-lavoro.rst
   gestione-del-progetto/le-competenze-per-progettare-servizi-pubblici.rst
-  gestione-del-progetto/e-procurement.rst
