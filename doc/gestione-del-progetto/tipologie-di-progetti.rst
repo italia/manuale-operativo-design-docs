@@ -7,9 +7,7 @@ Le tipologie di progetto che le pubbliche amministrazioni si trovano ad attivare
 
 Miglioramento di siti e servizi digitali esistenti
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Rientrano in questa categoria quei progetti che insistono su strutture esistenti per aggiornare la tecnologia e/o inserire nuove funzionalità senza rivoluzionare il 
-servizio stesso. Sono esempi di questa tipologia **la riprogettazione dell’esperienza utente di un servizio digitale sul sito di un Comune**, oppure **la modifica 
-di un sistema di prenotazione** in un applicativo di *back office*. 
+Rientrano in questa categoria quei progetti che insistono su strutture esistenti per aggiornare la tecnologia e/o inserire nuove funzionalità, senza rivoluzionare il servizio stesso. Sono esempi di questa tipologia **la riprogettazione dell’esperienza utente di un servizio digitale sul sito di un Comune**, oppure **la modifica di un sistema di prenotazione** in un applicativo di *back office*. 
 
 In questi casi è necessario:
  - raccogliere tutti i dati disponibili relativi all’utilizzo attuale dei servizi (tramite `web analytics <https://designers.italia.it/kit/web-analytics/>`__, `interviste utente <https://designers.italia.it/kit/interviste-utente/>`__ oppure `test di usabilità <https://designers.italia.it/kit/test-usabilita/>`__); 
@@ -29,7 +27,6 @@ non fare una semplice trasposizione in digitale di processi analogici, e tenere 
 fruizione del medesimo servizio (per esempio attraverso uffici aperti al pubblico).
 
 Possiamo distinguere diverse forme di relazione tra canali digitali e canali tradizionali di offerta di un servizio: 
-
  - servizi digitali che arricchiscono e supportano i canali fisici (ad esempio, il servizio digitale che permette di prendere un appuntamento per il rinnovo della carta d’identità in Comune); 
  - servizi digitali alternativi ai canali fisici (per esempio il servizio che permette di ottenere un certificato on line in alternativa ad  andare a richiederlo allo sportello di un Comune);
  - servizi digitali in sostituzione dei canali fisici  (per esempio una procedura on line di partecipazione a bandi pubblici che sostituisce la consegna di un modulo cartaceo). 
