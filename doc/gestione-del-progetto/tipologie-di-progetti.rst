@@ -12,11 +12,11 @@ servizio stesso. Sono esempi di questa tipologia **la riprogettazione dell’esp
 di un sistema di prenotazione** in un applicativo di *back office*. 
 
 In questi casi è necessario:
- - raccogliere tutti i dati disponibili relativi all’utilizzo attuale dei servizi (tramite *web analytics*, interviste utente oppure test di usabilità); 
+ - raccogliere tutti i dati disponibili relativi all’utilizzo attuale dei servizi (tramite `web analytics <https://designers.italia.it/kit/web-analytics/>`__, `interviste utente <https://designers.italia.it/kit/interviste-utente/>`__ oppure `test di usabilità <https://designers.italia.it/kit/test-usabilita/>`__); 
  - analizzare i dati per capire quali sono le maggiori criticità e opportunità di miglioramento.
 
 Sulla base di questi elementi sarà possibile:
- - mappare l’attuale esperienza utente dei diversi profili coinvolti (*user journey*);
+ - mappare l’attuale `esperienza utente <https://designers.italia.it/kit/esperienza-utente/>`__ dei diversi profili coinvolti (*user journey*);
  - evidenziare le criticità e immaginare quali percorsi è necessario migliorare. 
 
 Riprogettazione di servizi esistenti in chiave digitale
@@ -49,11 +49,9 @@ servizi di telemedicina.
 
 L’attività di creazione di nuovi servizi necessita uno sguardo ancora più ampio: 
   - partire dalla mappatura di tutti gli *stakeholder* coinvolti e delle loro reciproche relazioni e comprendere l’ecosistema per identificare quali attori sia necessario coinvolgere o attivare, e quali dinamiche possano facilitare (o rendere molto difficile) la costruzione e l’implementazione del progetto;
-  - raccogliere il punto di vista degli utenti tramite attività di ricerca sul campo (intervista e osservazione), per capire al meglio le loro attuali criticità e necessità. 
+  - raccogliere tramite attività di ricerca sul campo (intervista e osservazione) il punto di vista degli utenti per capire al meglio le loro attuali criticità e necessità. 
 
-I risultati della fase di analisi dell’ecosistema e di ricerca possono essere utilizzati per facilitare una o più sessioni di co-progettazione (*co-design 
-workshop*) dove *stakeholder*, progettisti e utenti vengono invitati a dialogare e svolgere una serie di esercizi di ideazione per dare forma a delle proposte in 
-modo collaborativo, convergendo su una o più soluzioni.
+I risultati della fase di analisi dell’ecosistema e di ricerca possono essere utilizzati per facilitare una o più sessioni di `sessioni di co-progettazione <https://designers.italia.it/kit/co-progettazione/>`__ (*co-design workshop*) dove *stakeholder*, progettisti e utenti vengono invitati a dialogare e svolgere una serie di esercizi di ideazione per dare forma a delle proposte in modo collaborativo, convergendo su una o più soluzioni.
 I risultati della fase di progettazione possono essere a loro volta formalizzati in una serie di proposte di design (architettura dell’informazione, flussi di 
 interazione), da prototipare e validare prima di procedere all’esecuzione finale del progetto. 
 
