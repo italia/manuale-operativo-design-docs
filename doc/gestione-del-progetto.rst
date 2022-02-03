@@ -15,11 +15,33 @@ Il punto di partenza per costruire un processo di trasformazione digitale è **d
 Essi devono essere raccolti a partire dalle istanze di ciascuno dei soggetti coinvolti. È possibile fare ciò tramite interviste con gli attori, ovvero tramite sessioni di co-definizione degli obiettivi.
 Una volta raccolti gli obiettivi particolari essi devono essere organizzati, raggruppati, sintetizzati, ed eventualmente  dettagliati in modo tale che:
 
-- il numero di obiettivi di alto livello sia contenuto, così che possa essere memorizzato da tutti gli attori coinvolti (2-5);
+- il numero di obiettivi di alto livello sia contenuto, così da poter essere memorizzato da tutti gli attori coinvolti (2-5);
++---------------------------------------+----------------------------------+
+| **SI**                                | **NO**                           |
++---------------------------------------+----------------------------------+
+| - aumentare il traffico sul sito web  | migliorare il sito istituzionale |
+| - aumentare la durata delle sessioni  |                                  |
+| - diminuire le richieste di supporto  |                                  |
++---------------------------------------+----------------------------------+
 - ciascun obiettivo sia definito in modo chiaro ed univoco per tutti gli attori (non troppo tecnico, né troppo generico);
++--------------------------------------------------+------------------------------------------------+
+| **SI**                                           | **NO**                                         |
++--------------------------------------------------+------------------------------------------------+
+| aumentare fruibilità e velocità di un servizio,  | riconfigurazione del back-end dell'applicativo |
+| senza sconvolgere la parte visibile all’utente   | senza variazioni al front-end                  |
++--------------------------------------------------+------------------------------------------------+
+| analizzare e ridefinire le modalità di           | re-work della UX del sito istituzionale        |
+| fruizione dei servizi x e y e del servizio z     |                                                |
++--------------------------------------------------+------------------------------------------------+
 - ciascun obiettivo di alto livello non abbia interdipendenze con gli altri, e che tutte le esigenze siano rappresentate dalla somma degli obiettivi
 - ciascun obiettivo di alto livello sia misurabile;
-- gli obiettivi di alto livello siano prioritizzati in modo univoco e chiaro per tutti
++---------------------------------------+---------------------------+
+| **SI**                                | **NO**                    |
++---------------------------------------+---------------------------+
+| aumentare il Net Promoter Score e lo  | rendere il sito più bello |
+| Usability Score del servizio x e y    |                           |
++---------------------------------------+---------------------------+
+- gli obiettivi di alto livello siano prioritizzati in modo univoco e chiaro per tutti.
 
 Il passo successivo consiste nell’**identificare il responsabile del prodotto digitale**, ovvero la figura che sappia rappresentare gli obiettivi dell’amministrazione – incluso quello di mettere gli utenti al centro del processo di progettazione abbia una chiara competenza sul servizio che si vuole digitalizzare in base alla propria esperienza professionale, abbia una chiara idea del risultato che si vuole ottenere.
 Ad esempio, in un progetto di definizione del servizio di fatturazione elettronica, il responsabile del prodotto digitale sarà una persona che conosce bene i processi di fatturazione e sarà in grado di guidare gli esecutori del progetto fornendo consigli e indicazioni su come inviare e processare tali fatture, i dati che queste devono contenere, e così via.
