@@ -35,3 +35,13 @@ In particolare questo manuale operativo si propone di supportare:
  - la **progettazione e lo sviluppo di flussi di interazione** chiari, che possano rispondere con efficacia alle necessità dei diversi utenti, generando un’esperienza d’uso positiva; 
  - la **corretta allocazione delle risorse**, basata sull’identificazione delle priorità e l’adozione di standard che evitino sprechi e duplicazioni di attività;
  - la **pratica amministrativa** di amministratori e i tecnici della PA negli adempimenti normativi descritti dalle LG CAD.
+
+.. toctree::
+   :maxdepth: 2
+
+   introduzione-design-servizi-pubblici-digitali/approccio-progettuale.rst
+   introduzione-design-servizi-pubblici-digitali/processo-progettuale.rst
+   introduzione-design-servizi-pubblici-digitali/privacy-by-design.rst
+
+
+   
