@@ -18,3 +18,9 @@ Le linee guida presentano, nel capitolo introduttivo, un quadro sinottico degli 
     doc/content-design.rst
     doc/design-research.rst
     doc/esperienza-utente.rst
+    
+.. toctree::
+    :hidden:
+    :name: glossary_toc
+
+    glossario.rst
