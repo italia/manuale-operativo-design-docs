@@ -133,4 +133,26 @@ T
       le logiche procedurali che stanno alla base dell’erogazione del servizio. Digitalizzare un servizio pubblico infatti, oltre che dematerializzare la 
       documentazione necessaria, comporta anche la riprogettazione dell’esperienza di fruizione dell’utente nel suo complesso, prendendo in considerazione ognuno 
       dei touchpoint previsti per ognuna delle fasi di fruizione dello stesso, dall’informazione iniziale alla valutazione finale.
-      
+     
+U
+-
+
+.. glossary::
+
+   Usabilità
+      Definita dall’organizzazione internazionale per la standardizzazione (ISO) come l'efficacia, l'efficienza e la soddisfazione con le quali determinati utenti 
+      raggiungono determinati obiettivi in determinati contesti. L’usabilità definisce il grado di facilità e soddisfazione con cui l’utente finale di un servizio 
+      interagisce con ognuno dei touchpoint previsti in ogni fase dell’esperienza di fruizione dello stesso.
+
+   User centered design (UCD) o approccio utente-centrico
+      L’user centered Design, abbreviato UCD, è un approccio progettuale (definito dallo standard ISO 9241-210:2010) che prevede il coinvolgimento diretto e 
+      indiretto degli utenti finali di un prodotto/servizio, prendendo in considerazione i loro punti di vista, bisogni ed esigenze in ogni fase del processo di 
+      progettazione, nell’ottica di un miglioramento costante e iterativo dell’usabilità e dell’inclusività.  L’approccio mira a migliorare l’efficacia e 
+      l’efficienza dei prodotti/servizi, contribuendo a incrementare il livello di accessibilità,  sostenibilità e sicurezza degli stessi.
+   
+   User Experience (UX) o esperienza utente
+      Lo standard ISO 9241-210 definisce l'esperienza utente come la percezione e le reazioni di un utente derivanti dall'uso o dall'aspettativa d'uso di un 
+      prodotto, sistema o servizio. L'esperienza utente comprende le emozioni dell'utente, le sue convinzioni, preferenze, reazioni psicologiche e fisiche, 
+      comportamenti e azioni che si verificano prima, durante e dopo l'utilizzo del prodotto, sistema, servizio. Essa dipende da un insieme di fattori quali 
+      l’immagine, la presentazione, le funzionalità, le prestazioni del sistema, il comportamento interattivo e le capacità di assistenza, lo stato psicologico e 
+      fisico dell'utente risultante dalle sue esperienze precedenti, attitudini, abilità e personalità, e non ultimo il contesto d'uso.
