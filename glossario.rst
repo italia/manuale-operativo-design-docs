@@ -59,3 +59,78 @@ D
       L’insieme di componenti, modelli, pattern e stili, condivisi all’interno di un organizzazione/ente, utile alla progettazione dei touchpoint di 
       prodotti/servizi digitali. I Design system offrono regole e strumenti per garantire coerenza tra una moltitudine di prodotti digitali sviluppati da uno stesso 
       ente, contribuendo a mantenere uniforme la qualità dell’esperienza offerta dagli stessi.
+
+E
+-
+
+.. glossary::
+
+   eGovernment (o amministrazione digitale)
+      Il termine eGovernment, abbreviato “eGov”, rappresenta la forma contratta di "Electronic Government” (in italiano “amministrazione digitale”) e definisce 
+      l’intero sistema di gestione digitalizzata della Pubblica Amministrazione. L’eGgovernment riguarda non solo la gestione documentale e procedurale, ma anche 
+      quella organizzativa e amministrativa, attraverso l’uso di tecnologie dell’informazione e della comunicazione (TIC).
+ 
+I
+-
+
+.. glossary::
+
+   Inclusività
+      Orientamento finalizzato alla promozione della diversità e dell’equità riguardo l’accesso a diritti e opportunità, senza discriminazioni negative o 
+      intolleranze prodotte da giudizi, pregiudizi, razzismi e stereotipi. L’inclusività si declina in diversi aspetti della progettazione relativamente al campo di 
+      applicazione. Nella progettazione dei servizi pubblici ad esempio è richiesto l’utilizzo di un linguaggio inclusivo ed è raccomandato l’incentivo 
+      dell’inclusione sociale, in tutte le sue forme, senza discriminazioni di genere, etnia, età, lingua, orientamento politico, religioso o sessuale.
+ 
+M
+-
+
+.. glossary::
+
+   Mobile first
+      L’approccio mobile first consiste nel progettare servizi digitali valutando in prima istanza la resa sui dispositivi mobili, per poi arricchire di elementi e 
+      funzionalità la composizione della pagina mano a mano che aumenta l’ampiezza della finestra disponibile sui device utilizzati per accedere al servizio 
+      stesso.
+ 
+O
+-
+
+.. glossary::
+
+   Once only (o principio Una tantum)
+      Principio di progettazione dei servizi digitali che prevede che gli utenti finali di un servizio siano chiamati a fornire all’interno di una stessa procedura 
+      medesime informazioni per più di una volta. Il principio Once Only (detto anche Una Tantum) prevede che ogni processo venga progettato per essere semplice e 
+      usabile per l’utente finale, sfruttando pienamente il potenziale offerto dalla capacità di interoperabilità dei sistemi informatici.
+ 
+S
+-
+
+.. glossary::
+
+   Stakeholder
+      Letteralmente “portatore di interesse”, rappresenta qualsiasi attore, individuo o organizzazione, che a vario titolo ha capacità di influenzare o viene 
+      influenzato dagli impatti di un progetto/azione/servizio. Nell’ambito dei servizi pubblici digitali possono intendersi stakeholder gli utenti finali del 
+      servizio (cittadini o dipendenti pubblici), i fornitori coinvolti nella sua progettazione e sviluppo, le pubbliche amministrazioni o le aziende impattate, 
+      gli enti finanziatori e di controllo, le organizzazioni del terzo settore e le community di interesse.
+      
+T
+-
+
+.. glossary::
+
+   Tag
+      Termine associato a un’informazione (es. a una tipologia di contenuto)  che consente di descrivere, classificare, ricercare e filtrare le informazioni sulla 
+      base di un criterio univoco. 
+
+   Touchpoint
+      Letteralmente “punto di contatto”, nel linguaggio della progettazione dei servizi si riferisce a ogni canale attraverso il quale l’utente finale interagisce 
+      direttamente con il servizio erogato. Relativamente alla tipologia di servizio, i touchpoint possono avere natura analogica o digitale. Nel caso dei servizi 
+      pubblici ad esempio possono considerarsi touchpoint analogici gli sportelli al pubblico aperti negli uffici della Pubblica Amministrazione, mentre touchpoint 
+      digitali i siti web o le app messe direttamente a disposizione dei cittadini online.
+
+   Trasformazione digitale
+      Il processo di trasformazione delle modalità manuali, analogiche, tradizionali di erogazione dei servizi, attraverso l’utilizzo di pratiche e soluzioni 
+      digitali. La trasformazione digitale non è pertinente in modo esclusivo agli aspetti tecnologici, ma riguarda più in generale i paradigmi di organizzazione e 
+      le logiche procedurali che stanno alla base dell’erogazione del servizio. Digitalizzare un servizio pubblico infatti, oltre che dematerializzare la 
+      documentazione necessaria, comporta anche la riprogettazione dell’esperienza di fruizione dell’utente nel suo complesso, prendendo in considerazione ognuno 
+      dei touchpoint previsti per ognuna delle fasi di fruizione dello stesso, dall’informazione iniziale alla valutazione finale.
+      
