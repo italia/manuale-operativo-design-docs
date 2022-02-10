@@ -67,7 +67,7 @@ E
 
    eGovernment (o amministrazione digitale)
       Il termine eGovernment, abbreviato “eGov”, rappresenta la forma contratta di "Electronic Government” (in italiano “amministrazione digitale”) e definisce 
-      l’intero sistema di gestione digitalizzata della Pubblica Amministrazione. L’eGgovernment riguarda non solo la gestione documentale e procedurale, ma anche 
+      l’intero sistema di gestione digitalizzata della Pubblica Amministrazione. L’eGovernment riguarda non solo la gestione documentale e procedurale, ma anche 
       quella organizzativa e amministrativa, attraverso l’uso di tecnologie dell’informazione e della comunicazione (TIC).
  
 I
