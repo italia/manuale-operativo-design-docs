@@ -9,7 +9,7 @@ Questa struttura di riferimento permette agli utenti di **orientarsi all’inter
 Questo processo si deve intendere come:
  - **flessibile**, poichè per ciascuna fase si possono impostare e svolgere attività diverse a seconda del progetto;
  - **modulare**, poichè può essere intrapreso da una qualsiasi delle cinque fasi e svolto in maniera sequenziale;
- - **iterativo**, poichè si presta ad essere ripetuto ciclicamente, attraverso una serie di test e conseguenti azioni correttive, per un miglioramento continuo dello stato dell’arte.
+ - **iterativo**, poiché si presta ad essere ripetuto ciclicamente, attraverso una serie di test e conseguenti azioni correttive, per un miglioramento continuo dello stato dell’arte.
  
 Organizzare il progetto e la sua gestione
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
