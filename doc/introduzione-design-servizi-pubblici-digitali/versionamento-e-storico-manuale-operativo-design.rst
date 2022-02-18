@@ -11,7 +11,7 @@ I nuovi contenuti e le modifiche a contenuti esistenti -  dopo essere approvati 
 
 Stile della documentazione
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-Il manuale operativo di design è stato redatto seguendo la *style-guide* (guida di stile)di redazione dei testi pubblici. 
+Il manuale operativo di design è stato redatto seguendo la *style-guide* (guida di stile) di redazione dei testi pubblici. 
 In particolare:
  - linguaggio semplice e comprensibile a un pubblico ampio; 
  - brevità e uso di elenchi; 
