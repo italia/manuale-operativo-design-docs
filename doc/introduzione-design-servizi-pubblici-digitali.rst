@@ -26,7 +26,7 @@ L’obiettivo di queste guide è dunque quello di strutturare i contenuti in mod
 Designers Italia, in quanto **punto di riferimento per la Pubblica Amministrazione e dei fornitori in questo dominio, descrive un metodo di lavoro condiviso e fornisce una serie di risorse metodologiche, strumenti pratici ed esempi a supporto** della progettazione e realizzazione di siti e servizi digitali della Pubblica Amministrazione. In questo senso, il manuale è uno degli strumenti tramite cui Designers Italia supporta gli enti pubblici per raggiungere gli obiettivi impostati delle LG CAD e metterli in condizione di trasformare i servizi all’utente finale, il cittadino. 
 
 I destinatari di questo manuale sono dunque principalmente:
- - **i decisori politici**, affinchè siano abilitatori consapevoli e cooperino al miglioramento e all’innovazione del Paese a partire da conoscenze pratiche sul tema del design dei servizi digitali;
+ - **i decisori politici**, affinché siano abilitatori consapevoli e cooperino al miglioramento e all’innovazione del Paese a partire da conoscenze pratiche sul tema del design dei servizi digitali;
  - **il personale amministrativo della pubblica amministrazione**, affinchè possano adempiere ai loro doveri di avviatori e gestori di processi di transizione digitale avendo più chiara la materia oggetto di tali processi;
  - **il personale tecnico degli enti pubblici, delle società in-house e dei fornitori di servizi**, applicativi e infrastrutture digitali delle pubbliche amministrazioni, affinché siano sempre più aggiornati su processi tecnici di progettazione e le relative buone pratiche.
 
