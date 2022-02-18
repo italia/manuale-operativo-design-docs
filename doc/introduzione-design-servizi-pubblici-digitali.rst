@@ -27,7 +27,7 @@ Designers Italia, in quanto **punto di riferimento per la Pubblica Amministrazio
 
 I destinatari di questo manuale sono dunque principalmente:
  - **i decisori politici**, affinché siano abilitatori consapevoli e cooperino al miglioramento e all’innovazione del Paese a partire da conoscenze pratiche sul tema del design dei servizi digitali;
- - **il personale amministrativo della pubblica amministrazione**, affinchè possano adempiere ai loro doveri di avviatori e gestori di processi di transizione digitale avendo più chiara la materia oggetto di tali processi;
+ - **il personale amministrativo della pubblica amministrazione**, affinché possano adempiere ai loro doveri di avviatori e gestori di processi di transizione digitale avendo più chiara la materia oggetto di tali processi;
  - **il personale tecnico degli enti pubblici, delle società in-house e dei fornitori di servizi**, applicativi e infrastrutture digitali delle pubbliche amministrazioni, affinché siano sempre più aggiornati su processi tecnici di progettazione e le relative buone pratiche.
 
 In particolare questo manuale operativo si propone di supportare:
