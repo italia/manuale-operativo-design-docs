@@ -14,9 +14,10 @@ Le linee guida presentano, nel capitolo introduttivo, un quadro sinottico degli 
     :numbered:
 
     doc/introduzione-linee-guida-design.rst
-    doc/service-design.rst
-    doc/content-design.rst
+    doc/gestione-del-progetto.rst
+    doc/progettazione-di-servizi.rst
     doc/design-research.rst
+    doc/content-design.rst
     doc/esperienza-utente.rst
     
 .. toctree::
