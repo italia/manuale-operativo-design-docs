@@ -2,7 +2,7 @@ Il processo progettuale
 -----------------------
 
 L’approccio di questo manuale operativo di design si articola in un processo strutturato in cinque fasi che servono come riferimento per impostare il progetto, capire quali figure/competenze coinvolgere e organizzare le attività da svolgere nell’ordine più adeguato. 
-Questo processo si può ritenere valido sia nel caso in cui l’obiettivo del progetto riguardi la creazione di un nuovo servizio pubblico digitale, sia nel caso in cui sia necessario digitalizzare o riprogettare servizi esistenti; è valido inoltre quando il focus della progettazione è invece un touchpoint digitale, ovvero un canale di interazione con il servizio (es. il sito del comune, il sito della scuola , AppIO, etc.).
+Questo processo si può ritenere valido sia nel caso in cui l’obiettivo del progetto riguardi la creazione di un nuovo servizio pubblico digitale, sia nel caso in cui sia necessario digitalizzare o riprogettare servizi esistenti; è valido inoltre quando il focus della progettazione è invece un touchpoint digitale, ovvero un canale di interazione con il servizio (es. il sito del comune, il sito della scuola, AppIO, etc.).
 Le fasi sono ulteriormente dettagliate in termini di attività suggerite e per ciascuna di esse vengono messi a disposizione gli strumenti adatti per svolgerla, così da facilitare pubbliche amministrazioni e fornitori nell’adottare un approccio virtuoso alla trasformazione digitale dei servizi pubblici.
 
 Questa struttura di riferimento permette agli utenti di **orientarsi all’interno del sito e trovare tutte le risorse e gli strumenti utili a impostare il progetto e svolgere il processo**.
