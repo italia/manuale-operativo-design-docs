@@ -1,13 +1,13 @@
-Linee guida di design per i servizi digitali della PA
-+++++++++++++++++++++++++++++++++++++++++++++++++++++
+Manuale operativo di design
++++++++++++++++++++++++++++
+Progettare siti internet e servizi digitali della Pubblica amministrazione
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. include:: /banner.rst
 
-**Le linee guida per il design dei servizi digitali della Pubblica Amministrazione** sono uno strumento di lavoro per la Pubblica Amministrazione e i loro fornitori, e servono ad orientare la progettazione di ambienti digitali fornendo indicazioni relative al `service design <doc/service-design.html>`__ (progettazione dei servizi), al `content design <doc/content-design.html>`__ (progettazione dei contenuti), alla `user research <doc/user-research.html>`__ (ricerca con gli utenti), e alla `user interface <doc/user-interface.html>`__ (interfaccia utente).
+**Il Manuale operativo di design per i siti e i servizi digitali della Pubblica Amministrazione** è uno strumento di lavoro dedicato alla Pubblica amministrazione e i suoi fornitori e ha l'obiettivo di fornire indicazioni operative per orientare e migliorare la progettazione e la realizzazione dei punti di contatto digitali verso il cittadino.
 
-La versione stabile delle Linee Guida corrisponde a **2020.1**.
-
-Le linee guida presentano, nel capitolo introduttivo, un quadro sinottico degli obiettivi e delle azioni chiave che la pubblica amministrazione deve mettere in atto per progettare servizi orientati ai bisogni delle persone. In secondo luogo trova spazio un nuovo capitolo dedicato alla progettazione e alla prototipazione di un servizio digitale, pensato come punto di convergenza delle diverse competenze necessarie allo sviluppo di un servizio della pubblica amministrazione. Aggiornamenti significativi riguardano infine la sezione di architettura dell'informazione e quella relativa alla ricerca quantitativa.
+La versione stabile del Manuale operativo di design corrisponde alla **2022.1**.
 
 .. toctree::
     :maxdepth: 3
