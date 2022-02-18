@@ -32,7 +32,6 @@ Altre risorse per l’editing in formato .rst:
 
 | `Editor per il testo <http://rst.ninjs.org/>`_
 | `Editor per le tabelle <http://truben.no/table/>`_
-| `Estensione Chrome per Google spreadheet <https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold>`_
 | `Altro <http://docutils.sourceforge.net/docs/user/links.html#editors>`_
 
 Il Manuale operativo di design si colloca all’interno di un sistema in continua evoluzione e si basa su una logica di miglioramento continuo. Poiché i contenuti presenti all’interno del manuale operativo di design evolvono continuamente, diventa fondamentale introdurre il versionamento che consente di tenere traccia dei diversi rilasci nel tempo. Grazie al versionamento, chi realizza siti e servizi aderenti alle Linee guida a norma CAD di riferimento, può citare una precisa versione del manuale operativo di design che utilizza (da citare, ad esempio, quando si partecipa a un bando di gara).
