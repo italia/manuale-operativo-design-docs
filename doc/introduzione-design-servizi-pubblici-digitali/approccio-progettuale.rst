@@ -1,7 +1,7 @@
 L'approccio progettuale
 -----------------------
 
-L’approccio proposto da Designers Italia in questa guida pratica permette di perseguire i valori di una progettazione virtuosa dei servizi pubblici digitali. Si ispira a e prende in considerazione una varietà di elementi - presi in prestito da diverse metodologie di progettazione - e sintetizzati in 5 caratteristiche fondamentali che consentono di affrontare al meglio il processo sotto diversi punti di vista: quello delle persone, delle procedure e della tecnologia.
+L’approccio proposto da Designers Italia in questa guida pratica permette di perseguire i valori di una progettazione virtuosa dei servizi pubblici digitali. Si ispira e prende in considerazione una varietà di elementi - presi in prestito da diverse metodologie di progettazione - e sintetizzati in 5 caratteristiche fondamentali che consentono di affrontare al meglio il processo sotto diversi punti di vista: quello delle persone, delle procedure e della tecnologia.
 
 **Sistemico**
 - Basato sul comprendere e progettare le interazioni tra i diversi attori ed elementi coinvolti nell’erogazione e fruizione del servizio nel complesso, per assicurare coerenza, armonia, integrazione e ottimizzazione degli scambi tra cittadini, processi, norme e risorse.
