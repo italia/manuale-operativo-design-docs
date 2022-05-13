@@ -41,5 +41,6 @@ In particolare questo manuale operativo si propone di supportare:
 
    introduzione-design-servizi-pubblici-digitali/approccio-progettuale.rst
    introduzione-design-servizi-pubblici-digitali/processo-progettuale.rst
+   introduzione-design-servizi-pubblici-digitali/accessibilita-by-design.rst
    introduzione-design-servizi-pubblici-digitali/privacy-by-design.rst
    introduzione-design-servizi-pubblici-digitali/versionamento-e-storico-manuale-operativo-design.rst
