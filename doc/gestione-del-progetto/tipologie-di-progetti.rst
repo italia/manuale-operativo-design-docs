@@ -9,7 +9,7 @@ Miglioramento di siti e servizi digitali esistenti
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Rientrano in questa categoria quei progetti che insistono su strutture esistenti per aggiornare la tecnologia e/o inserire nuove funzionalità, senza rivoluzionare il servizio stesso. Sono esempi di questa tipologia **la riprogettazione dell’esperienza utente di un servizio digitale sul sito di un Comune**, oppure **la modifica di un sistema di prenotazione** in un applicativo di *back office*. 
 
-In questi casi è necessario:
+In questi casi è opportuno:
  - raccogliere tutti i dati disponibili relativi all’utilizzo attuale dei servizi (tramite `web analytics <https://designers.italia.it/kit/web-analytics/>`__, `interviste utente <https://designers.italia.it/kit/interviste-utenti-stakeholder/>`__ oppure `test di usabilità <https://designers.italia.it/kit/test-usabilita/>`__); 
  - analizzare i dati per capire quali sono le maggiori criticità e opportunità di miglioramento.
 
@@ -31,7 +31,7 @@ Possiamo distinguere diverse forme di relazione tra canali digitali e canali tra
  - servizi digitali alternativi ai canali fisici (per esempio il servizio che permette di ottenere un certificato on line in alternativa ad  andare a richiederlo allo sportello di un Comune);
  - servizi digitali in sostituzione dei canali fisici  (per esempio una procedura on line di partecipazione a bandi pubblici che sostituisce la consegna di un modulo cartaceo). 
  
-In questi casi, è necessario: 
+In questi casi, è opportuno: 
  - adottare una prospettiva più ampia in fase iniziale, per capire al meglio le necessità degli utenti coinvolti (personas) e le potenzialità delle piattaforme digitali nel migliorare la loro esperienza d’uso; 
  - comprendere l’intero sistema che supporta l’erogazione del servizio (system map), verificare quali aspetti possono essere digitalizzati e quali no e capire come le due dimensioni si integrano; 
  - identificare le funzionalità chiave del servizio digitale e iniziare la progettazione partendo dalla costruzione di scenari e flussi di interazione che faranno da riferimenti per tutte le attività di progettazione e realizzazione, da svolgere in parallelo; 
@@ -40,17 +40,13 @@ In questi casi, è necessario:
 Creazione di nuovi servizi
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Rientrano in questa categoria quei progetti che mirano a erogare servizi che non hanno al momento dell’avvio dei lavori un corrispettivo né nello spazio fisico, né 
-in digitale. Sono esempi di questa tipologia la realizzazione di uno sportello digitale dedicato alle segnalazioni dei disservizi pubblici geo-localizzati, o i 
-servizi di telemedicina.
+Rientrano in questa categoria quei progetti che mirano a erogare servizi che non hanno al momento dell’avvio dei lavori un corrispettivo né nello spazio fisico, né in digitale. Sono esempi di questa tipologia la realizzazione di uno sportello digitale dedicato alle segnalazioni dei disservizi pubblici geo-localizzati, o i servizi di telemedicina.
 
 L’attività di creazione di nuovi servizi necessita uno sguardo ancora più ampio: 
   - partire dalla mappatura di tutti gli *stakeholder* coinvolti e delle loro reciproche relazioni e comprendere l’ecosistema per identificare quali attori sia necessario coinvolgere o attivare, e quali dinamiche possano facilitare (o rendere molto difficile) la costruzione e l’implementazione del progetto;
   - raccogliere tramite attività di ricerca sul campo (intervista e osservazione) il punto di vista degli utenti per capire al meglio le loro attuali criticità e necessità. 
 
 I risultati della fase di analisi dell’ecosistema e di ricerca possono essere utilizzati per facilitare una o più sessioni di `sessioni di co-progettazione <https://designers.italia.it/kit/co-progettazione/>`__ (*co-design workshop*) dove *stakeholder*, progettisti e utenti vengono invitati a dialogare e svolgere una serie di esercizi di ideazione per dare forma a delle proposte in modo collaborativo, convergendo su una o più soluzioni.
-I risultati della fase di progettazione possono essere a loro volta formalizzati in una serie di proposte di design (architettura dell’informazione, flussi di 
-interazione), da prototipare e validare prima di procedere all’esecuzione finale del progetto. 
+I risultati della fase di progettazione possono essere a loro volta formalizzati in una serie di proposte di design (architettura dell’informazione, flussi di interazione), da prototipare e validare prima di procedere all’esecuzione finale del progetto. 
 
-Il punto di riferimento per la costruzione di un percorso di design dei servizi è Designers Italia che, oltre al presente manuale operativo di design, offre kit ed 
-esempi di applicazione. 
+Il punto di riferimento per la costruzione di un percorso di design dei servizi è Designers Italia che, oltre al presente manuale operativo di design, offre kit ed esempi di applicazione. 
