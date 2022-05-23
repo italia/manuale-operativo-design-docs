@@ -20,7 +20,7 @@ L’approccio proposto da Designers Italia in questa guida pratica permette di p
 
 Buone pratiche
 ^^^^^^^^^^^^^^
-L’approccio di Designers Italia si riflette in un insieme di buone pratiche da adottare per progettare in modo virtuoso la trasformazione digitale dei servizi pubblici, raggiungere adeguati standard di qualità e soddisfare i requisiti richiesti a livello normativo. Queste, a loro volta, sono ordinate in relazione alle diverse fasi del processo progettuale presentato più avanti.
+L’approccio di Designers Italia si riflette in un insieme di buone pratiche da adottare per progettare in modo virtuoso la trasformazione digitale dei servizi pubblici, raggiungere standard di qualità internazionali e supportare il raggiungimento dei requisiti richiesti a livello normativo. Queste buone pratiche, a loro volta, sono ordinate in relazione alle diverse fasi del processo progettuale presentato più avanti.
 
 - Prioritizzare gli obiettivi e individuare i requisiti del progetto in funzione di essi; 
 - Definire il perimetro del progetto bilanciando desiderabilità, fattibilità e opportunità; 
