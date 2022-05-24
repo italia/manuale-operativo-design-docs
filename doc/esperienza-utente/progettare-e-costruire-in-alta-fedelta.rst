@@ -40,7 +40,7 @@ Lo stile visivo di una interfaccia è costituito da **elementi variabili come la
 Lo stile è trasversale a tutti i componenti di una interfaccia: ognuno è costruito sulla base di una griglia, utilizzando ben definite combinazioni di colori, tipologie e dimensioni dei caratteri, spaziature, ombre, e così via.  
 
 
-Lo kit Progettazione interfaccia
+Il kit Progettazione interfaccia
 ================================
 
 ll kit dedicato alle interfacce utente offre un insieme di componenti visivi già pronti per assemblare il *front-end* di siti web e applicazioni.
