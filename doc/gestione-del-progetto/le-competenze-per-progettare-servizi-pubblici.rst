@@ -7,6 +7,8 @@ Le competenze funzionali vanno dalla conduzione di attività di ricerca con gli 
 Le competenze manageriali includono la capacità di lavorare in team in modo collaborativo, gestire le relazioni con tutti gli attori coinvolti nel percorso di innovazione, avere un forte orientamento al raggiungimento degli obiettivi e misurare costantemente l’andamento dei progetti. 
 Designers Italia supporta e incoraggia l’acquisizione di tali competenze di design sia internamente agli enti, sia tramite forniture dedicate, offrendo modelli, kit, storie (*case histories*) oltre che il presente manuale operativo di design e partecipando direttamente ad alcuni progetti pilota della Pubblica Amministrazione.
 
+
+
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
 |                                                                                                                                                                                             |
 | **Design dei servizi: verso una mappa delle competenze**                                                                                                                                    |
@@ -54,7 +56,7 @@ Designers Italia supporta e incoraggia l’acquisizione di tali competenze di de
 |                                    | interazione tra l’utente e il servizio attraverso | l’interfaccia utente in termini di contenuti         | - UX designer                               |
 |                                    | i touchpoint fisici e digitali, schematizzando    | e funzionalità, prototipando layout statici          | - Solution Architect                        |
 |                                    | i flussi e la struttura di base dell’interfaccia  | (wireframe) o mockup interattivi a                   | - Information Architect                     |
-|                                    | utente.                                           | bassa/media fedeltà.                                 | - UX Designer                               |
+|                                    | utente.                                           | bassa/media fedeltà.                                 | - UX writer                                 |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 | **Progettazione dei contenuti**    | Saper mediare le esigenze di comunicazione,       | Progettare e realizzare i contenuti visivi e         | - Content designer                          |
 |                                    | di impatto visivo, di leggibilità e di            | testuali nei diversi touchpoint relativi alla        | - Web content editor                        |
