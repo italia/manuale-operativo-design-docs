@@ -15,7 +15,7 @@ Il punto di partenza per costruire un processo di trasformazione digitale è **d
 Essi devono essere raccolti a partire dalle istanze di ciascuno dei soggetti coinvolti. È possibile fare ciò tramite interviste con gli attori, ovvero tramite sessioni di co-definizione degli obiettivi.
 Una volta raccolti gli obiettivi particolari essi devono essere organizzati, raggruppati, sintetizzati, ed eventualmente  dettagliati in modo tale che:
 
-- il numero di obiettivi di alto livello sia contenuto, così da poter essere memorizzato da tutti gli attori coinvolti (2-5);
+- il numero di obiettivi di alto livello sia limitato e ben definito, così da poter essere memorizzato da tutti gli attori coinvolti (2-5);
 +---------------------------------------+----------------------------------+
 | **SI**                                | **NO**                           |
 +---------------------------------------+----------------------------------+
@@ -23,7 +23,7 @@ Una volta raccolti gli obiettivi particolari essi devono essere organizzati, rag
 | - aumentare la durata delle sessioni  |                                  |
 | - diminuire le richieste di supporto  |                                  |
 +---------------------------------------+----------------------------------+
-- ciascun obiettivo sia definito in modo chiaro ed univoco per tutti gli attori (non troppo tecnico, né troppo generico);
+- ciascun obiettivo sia formulato in modo chiaro ed univoco per tutti gli attori (non troppo tecnico, né troppo generico);
 +--------------------------------------------------+------------------------------------------------+
 | **SI**                                           | **NO**                                         |
 +--------------------------------------------------+------------------------------------------------+
@@ -44,8 +44,8 @@ Una volta raccolti gli obiettivi particolari essi devono essere organizzati, rag
 - gli obiettivi di alto livello siano prioritizzati in modo univoco e chiaro per tutti.
 
 Il passo successivo consiste nel chiarire chi sia la figura professionale interna che possa coordinare il gruppo di lavoro e rappresentare gli obiettivi dell’amministrazione – incluso quello di mettere gli utenti al centro del processo di progettazione, la quale abbia una chiara competenza sul servizio che si vuole digitalizzare in base alla propria esperienza professionale e una chiara idea del risultato che si vuole ottenere. Questo coordinatore può essere il responsabile della transizione al digitale (RTD), o, nel caso di progetti svolti tramite forniture esterne, può coincidere con il responsabile unico del procedimento (RUP), o con il direttore all'esecuzione del contratto (DEC).
-Qualora non fosse possibile individuare tale competenza di dominio tra le figure preposte (RTD, RUP, DEC), è bene che chi possiede la responsabilità formale si avvalga di referenti tecnici all'interno del gruppo di lavoro, lasciando loro lo spazio per contribuire entro i limiti della loro competenza.
-Ad esempio, in un progetto di definizione del servizio di fatturazione elettronica, è bene individuare una persona che conosca bene i processi di fatturazione e sia in grado di guidare gli esecutori del progetto fornendo consigli e indicazioni su come inviare e processare tali fatture, i dati che queste devono contenere, e così via. Se tale persona non può essere l'RTD, e non può assumere l'incarico di RUP o DEC, è bene che chi coordina le attività inserisca nel gruppo di lavoro chi si occupa all'interno dell'ente di tali processi.
+In ogni caso, anche qualora non fosse possibile individuare tale competenza di dominio tra le figure preposte (RTD, RUP, DEC), è bene che chi possiede la responsabilità formale del progetto si avvalga di referenti tecnici all'interno del gruppo di lavoro, lasciando loro lo spazio per contribuire entro i limiti della loro competenza.
+Ad esempio, in un progetto di definizione del servizio di fatturazione elettronica, è bene individuare una persona che conosca bene i processi di fatturazione e sia in grado di guidare gli esecutori del progetto fornendo consigli e indicazioni su come inviare e processare tali fatture, i dati che queste devono contenere, e così via. Se tale persona non può essere l'RTD, e non può assumere l'incarico di RUP o DEC, è bene che chi coordina le attività, ad esempio un dirigente, inserisca nel gruppo di lavoro chi si occupa all'interno dell'ente di tali processi.
 
 Chiunque coordini le attività: 
 
