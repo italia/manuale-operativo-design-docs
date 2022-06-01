@@ -9,7 +9,7 @@ Data la natura immateriale e l’intangibilità del servizio digitale, la sua pr
 - aiutare la discussione e il confronto in sessioni di co-progettazione; 
 - empatizzare e immedesimarsi nella storia dell’utente.
 
-Cruciale è - sin dal principio - definire il livello di approfondimento della mappatura: occorre cioè **stabilire fin dall’inizio se l’obiettivo è avere una visione di alto livello che mostri l'esperienza utente dall’inizio alla fine** (*user journey*), oppure se si mira a una **mappa più dettagliata che si concentra su una particolare interazione** (diagramma di flusso o *user flow*),o ancora una **mappa di dettaglio complessiva delle interazioni** *front-office* e *back-office* (*service blueprint*).
+Cruciale è - sin dal principio - definire il livello di approfondimento della mappatura: occorre cioè **stabilire fin dall’inizio se l’obiettivo è avere una visione di alto livello che mostri l'esperienza utente dall’inizio alla fine** (*user journey*), oppure se si mira a una **mappa di dettaglio complessiva delle interazioni** *front-office* e *back-office* (*service blueprint*).
 
 Qualsiasi sia il livello di dettaglio per garantire l’immedesimazione è utile avvalersi delle personas di riferimento. Principalmente utilizzate per sintetizzare i risultati della ricerca, le personas risultano risultano anche essere un ottimo punto di partenza per mappare gli *user journey as-is*, ovvero relativi al contesto d’uso attuale e poi in fase di progettazione, guidare la definizione dell’esperienza utente tramite gli *user journey to-be*, ovvero che spiegano l’utilizzo del futuro servizio digitale.
 
