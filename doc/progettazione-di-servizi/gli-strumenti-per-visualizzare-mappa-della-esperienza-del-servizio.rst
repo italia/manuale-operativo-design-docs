@@ -9,7 +9,7 @@ Data la natura immateriale e l’intangibilità del servizio digitale, la sua pr
 - aiutare la discussione e il confronto in sessioni di co-progettazione; 
 - empatizzare e immedesimarsi nella storia dell’utente.
 
-Cruciale è - sin dal principio - definire il livello di approfondimento della mappatura: occorre cioè **stabilire fin dall’inizio se l’obiettivo è avere una visione di alto livello che mostri l'esperienza utente dall’inizio alla fine** (*user journey*), oppure se si mira a una **mappa più dettagliata che si concentra su una particolare interazione** (*user flow*),o ancora una **mappa di dettaglio complessiva delle interazioni** *front-office* e *back-office* (*service blueprint*).
+Cruciale è - sin dal principio - definire il livello di approfondimento della mappatura: occorre cioè **stabilire fin dall’inizio se l’obiettivo è avere una visione di alto livello che mostri l'esperienza utente dall’inizio alla fine** (*user journey*), oppure se si mira a una **mappa più dettagliata che si concentra su una particolare interazione** (diagramma di flusso o *user flow*),o ancora una **mappa di dettaglio complessiva delle interazioni** *front-office* e *back-office* (*service blueprint*).
 
 Qualsiasi sia il livello di dettaglio per garantire l’immedesimazione è utile avvalersi delle personas di riferimento. Principalmente utilizzate per sintetizzare i risultati della ricerca, le personas risultano risultano anche essere un ottimo punto di partenza per mappare gli *user journey as-is*, ovvero relativi al contesto d’uso attuale e poi in fase di progettazione, guidare la definizione dell’esperienza utente tramite gli *user journey to-be*, ovvero che spiegano l’utilizzo del futuro servizio digitale.
 
@@ -26,11 +26,14 @@ I principali obiettivi della mappa dell’esperienza sono:
 
 La mappa dell’esperienza viene costruita mettendo sull’asse orizzontale tutte le fasi in cui si svolge l’interazione con un servizio, in sequenza logica-temporale. Per ogni fase vengono poi elencate le attività che l’utente svolge e i *touchpoint* con cui interagisce, costruendo così **una rappresentazione sintetica della sua esperienza, attraverso tutto ciò che avviene prima, durante e dopo**. La mappatura può essere infine completata evidenziando la reazione emotiva che caratterizza l’esperienza dell’utente nelle varie fasi, che può essere caratterizzata da soddisfazioni o frustrazioni. 
 
-Lo strumento di mappatura *user journey* permette di **analizzare l’esperienza di un servizio esistente o di un servizio in corso di definizione, evidenziando le criticità su cui intervenire e le differenze tra le modalità di interazione dei diversi possibili utenti**. 
+*User journey*
+^^^^^^^^^^^^^^
+Lo strumento di mappatura *user journey* permette di **analizzare l’esperienza di un servizio esistente o di un servizio in corso di definizione, evidenziando le criticità su cui intervenire e le differenze tra le modalità di interazione dei diversi possibili utenti**. Comprende i passi che l'utente compie prima, durante e dopo la fruizione del servizio, quali altri attori entrano in gioco ad ogni passo di questo processo, e quali sono le criticità rilevate in ciascuno dei passi.
 
 `Vai al kit Esperienza utente su Designers Italia <https://designers.italia.it/kit/esperienza-utente/>`__
 
 *Service blueprint*
 ^^^^^^^^^^^^^^^^^^^
 
-Il *service blueprint* è un quadro sintetico, una mappa che descrive accuratamente il sistema del servizio, in modo che le diverse persone coinvolte nel processo della sua fornitura possano capirlo e affrontarlo obiettivamente a prescindere dal loro ruolo o dal loro punto di vista personale.
+Il *service blueprint* è un quadro sintetico completo che descrive accuratamente il servizio. Infatti, mentre lo *user journey* si concentra su quanto è visibile all'utente, il *service blueprint* rappresenta anche ciò che sta al di sotto della linea di visibilità dell'utente stesso, cioè relazioni, passaggi, processi e touchpoint degli uffici preposti all'erogazione del servizio (*backoffice*) necessari all'erogazione di tale servizio.
+Spesso questo strumento risulta molto utile per far comprendere, a tutti gli attori coinvolti nel processo, le complessità che i singoli devono affrontare per garantire l'erogazione di un servizio, primo passo affinchè tali difficoltà possano essere affrontate obiettivamente a prescindere dal ruolo o dal punto di vista personale.
