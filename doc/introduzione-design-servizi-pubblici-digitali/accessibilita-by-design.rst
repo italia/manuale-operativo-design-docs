@@ -1,7 +1,8 @@
 Accessibilità by design
 -----------------------
 
-Prodotti e servizi digitali devono essere progettati in modo da includere già dalle basi della progettazione i requisiti di accessibilità. 
+I servizi digitali devono essere progettati in modo da **includere già dalle basi della progettazione i requisiti di accessibilità**. 
+
 **Progettare accessibile** è necessario per sostanziare i principi generali legati all'inclusione e al *design for all*, che spesso, pur essendo teoricamente presenti, non trovano una reale applicazione esecutiva. 
 
 Le fasi di progettazione antecedenti allo sviluppo **possono e devono quindi includere le considerazioni e le strategie relative all'accessibilità**, che i designer devono poter applicare ai progetti in base agli specifici ruoli professionali. 
