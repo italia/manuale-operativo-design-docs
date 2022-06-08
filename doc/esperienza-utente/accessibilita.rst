@@ -16,7 +16,9 @@ mobili così come previsto dalle `“Linee guida sull’accessibilità degli str
 informatici”
 <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html?highlight=accessibilit%C3%A0%20strumenti%20informat>`__.
 
-Per approfondimenti si può consultare inoltre la sezione dedicata all'accessibilità dell'Agenzia per l'Italia digitale.
+Sono disponibili ulteriori approfondimenti sull’accessibilità nella `sezione dedicata
+del sito dell’Agenzia per l’Italia digitale
+<https://www.agid.gov.it/it/design-servizi/accessibilita>`__.
 
 Definizione
 ~~~~~~~~~~~
@@ -69,7 +71,7 @@ Guidelines (WCAG) 2.1 <https://www.w3.org/Translations/WCAG21-it/>`__
 Come rilasciare una dichiarazione di accessibilità
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Le PA hanno l’obbligo di **pubblicare una dichiarazione di accessibilità** per
+Le pubbliche amministrazioni hanno l’obbligo di **pubblicare una dichiarazione di accessibilità** per
 ciascun sito e applicazione mobile. A tale scopo, **l’Agenzia per l’Italia
 Digitale** ha predisposto una `procedura online
 <https://form.agid.gov.it/actions/>`__ conforme all’`Allegato 1
@@ -99,7 +101,7 @@ Responsabile della Transizione Digitale è correttamente indicizzata sul
 Meccanismo di feedback e procedura di attuazione
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Le PA devono rendere disponibile un meccanismo che consenta a chiunque di
+Le pubbliche amministrazioni devono rendere disponibile un meccanismo che consenta a chiunque di
 segnalare i problemi di accessibilità e richiedere un intervento tempestivo da
 parte dell’amministrazione.
 
