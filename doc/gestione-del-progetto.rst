@@ -3,11 +3,11 @@ Gestione del progetto
 
 .. include:: /banner.rst
 
-Il successo di un progetto di trasformazione digitale che metta al centro i bisogni del cittadino, non può prescindere da una consapevolezza e efficacia nella gestione di base del progetto. Ciò consiste in tre aspetti chiave:
+Il successo di un progetto di trasformazione digitale che metta al centro i bisogni del cittadino, non può prescindere da una consapevolezza e efficacia nella gestione di base del progetto stesso. Ciò può essere riassunto in tre aspetti chiave:
 
 - definire obiettivi del progetto (**nel merito**), avendo cura di definire i responsabili di ciascuno di essi, allineando tutti gli attori coinvolti;
 - comprendere **la tipologia** di progetto che si sta affrontando;
-- organizzare lo svolgimento delle attività, in primis nei ruoli e nelle responsabilità specifiche, poi nei tempi e negli strumenti,in maniera funzionale al raggiungimento degli obiettivi stessi e alle capacità di ciascuno degli stakeholder (**processo**).
+- organizzare lo svolgimento delle attività, in primis nei ruoli e nelle responsabilità specifiche, poi nei tempi e negli strumenti, in maniera funzionale al raggiungimento degli obiettivi stessi e alle capacità di ciascuno degli stakeholder (**processo**).
 
 Obiettivi di merito del progetto 
 --------------------------------
@@ -15,7 +15,7 @@ Il punto di partenza per costruire un processo di trasformazione digitale è **d
 Essi devono essere raccolti a partire dalle istanze di ciascuno dei soggetti coinvolti. È possibile fare ciò tramite interviste con gli attori, ovvero tramite sessioni di co-definizione degli obiettivi.
 Una volta raccolti gli obiettivi particolari essi devono essere organizzati, raggruppati, sintetizzati, ed eventualmente  dettagliati in modo tale che:
 
-- il numero di obiettivi di alto livello sia contenuto, così da poter essere memorizzato da tutti gli attori coinvolti (2-5);
+- il numero di obiettivi di alto livello sia limitato e ben definito, così da poter essere memorizzato da tutti gli attori coinvolti (2-5);
 +---------------------------------------+----------------------------------+
 | **SI**                                | **NO**                           |
 +---------------------------------------+----------------------------------+
@@ -23,7 +23,7 @@ Una volta raccolti gli obiettivi particolari essi devono essere organizzati, rag
 | - aumentare la durata delle sessioni  |                                  |
 | - diminuire le richieste di supporto  |                                  |
 +---------------------------------------+----------------------------------+
-- ciascun obiettivo sia definito in modo chiaro ed univoco per tutti gli attori (non troppo tecnico, né troppo generico);
+- ciascun obiettivo sia formulato in modo chiaro ed univoco per tutti gli attori (non troppo tecnico, né troppo generico);
 +--------------------------------------------------+------------------------------------------------+
 | **SI**                                           | **NO**                                         |
 +--------------------------------------------------+------------------------------------------------+
@@ -43,16 +43,17 @@ Una volta raccolti gli obiettivi particolari essi devono essere organizzati, rag
 +---------------------------------------+---------------------------+
 - gli obiettivi di alto livello siano prioritizzati in modo univoco e chiaro per tutti.
 
-Il passo successivo consiste nell’**identificare il responsabile del prodotto digitale**, ovvero la figura che sappia rappresentare gli obiettivi dell’amministrazione – incluso quello di mettere gli utenti al centro del processo di progettazione abbia una chiara competenza sul servizio che si vuole digitalizzare in base alla propria esperienza professionale, abbia una chiara idea del risultato che si vuole ottenere.
-Ad esempio, in un progetto di definizione del servizio di fatturazione elettronica, il responsabile del prodotto digitale sarà una persona che conosce bene i processi di fatturazione e sarà in grado di guidare gli esecutori del progetto fornendo consigli e indicazioni su come inviare e processare tali fatture, i dati che queste devono contenere, e così via.
+Il passo successivo consiste nel chiarire chi sia la figura professionale interna che possa coordinare il gruppo di lavoro e rappresentare gli obiettivi dell’amministrazione – incluso quello di mettere gli utenti al centro del processo di progettazione, la quale abbia una chiara competenza sul servizio che si vuole digitalizzare in base alla propria esperienza professionale e una chiara idea del risultato che si vuole ottenere. Questo coordinatore può essere il responsabile della transizione al digitale (RTD), o, nel caso di progetti svolti tramite forniture esterne, può coincidere con il responsabile unico del procedimento (RUP), o con il direttore all'esecuzione del contratto (DEC).
+In ogni caso, anche qualora non fosse possibile individuare tale competenza di dominio tra le figure preposte (RTD, RUP, DEC), è bene che chi possiede la responsabilità formale del progetto si avvalga di referenti tecnici all'interno del gruppo di lavoro, lasciando loro lo spazio per contribuire entro i limiti della loro competenza.
+Ad esempio, in un progetto di definizione del servizio di fatturazione elettronica, è bene individuare una persona che conosca bene i processi di fatturazione e sia in grado di guidare gli esecutori del progetto fornendo consigli e indicazioni su come inviare e processare tali fatture, i dati che queste devono contenere, e così via. Se tale persona non può essere l'RTD, e non può assumere l'incarico di RUP o DEC, è bene che chi coordina le attività, ad esempio un dirigente, inserisca nel gruppo di lavoro chi si occupa all'interno dell'ente di tali processi.
 
-Il responsabile del prodotto digitale: 
+Chiunque coordini le attività: 
 
-- guida la **creazione di un team interdisciplinare** (interno, o tramite forniture) con competenze di ricerca, prototipazione e sviluppo di servizi. La composizione del team varia in relazione all’ampiezza del progetto e alle sue caratteristiche di base (nuovo servizio, riprogettazione di servizio esistente, ottimizzazione di un servizio esistente);
+- guida la **formazione di un team interdisciplinare** (interno, o tramite forniture) con competenze di ricerca, prototipazione e sviluppo di servizi. La composizione del team varia in relazione all’ampiezza del progetto e alle sue caratteristiche di base (nuovo servizio, riprogettazione di servizio esistente, ottimizzazione di un servizio esistente);
 - **definisce gli strumenti** (quali, come e quando usarli), gli ambienti di gestione del progetto per quanto riguarda tempi e costi (project management), privilegiando strumenti di lavoro open source, aperti e collaborativi, ispirati da una metodologia agile;
 - **imposta le ritualità della gestione del progetto** (le riunioni cicliche legate ai contenuti di progetto, gli incontri di stato avanzamento lavori, le retrospettive a valle della conclusione di un ciclo di progettazione).
 
-Per la buona riuscita del progetto non è sufficiente che il responsabile del prodotto digitale costruisca un team affiatato e comunicativo. È necessario infatti costruire in primis un ambiente di lavoro sano e aperto, in cui sia possibile produrre e sviluppare prodotti in modo collaborativo. I team di lavoro devono sentirsi parte di una rete più ampia che poggia sulle competenze e guarda alle migliori pratiche internazionali. 
+Per la buona riuscita del progetto non è sufficiente che chi coordini le attività costruisca un team affiatato e comunicativo. È opportuno infatti costruire in primis un ambiente di lavoro sano e aperto, in cui sia possibile produrre e sviluppare prodotti in modo collaborativo. I team di lavoro devono sentirsi parte di una rete più ampia che poggia sulle competenze e guarda alle migliori pratiche internazionali. 
 All’interno di Designers Italia tutti i progetti possono contribuire concretamente ad alimentare in modo iterativo modelli e kit operativi del Design system, costruendo valore attraverso la collaborazione tra tutte le parti che compongono la Pubblica amministrazione.
 
 .. toctree::

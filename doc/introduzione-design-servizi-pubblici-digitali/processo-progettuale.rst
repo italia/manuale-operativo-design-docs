@@ -13,22 +13,22 @@ Questo processo si deve intendere come:
  
 Organizzare il progetto e la sua gestione
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-L'obiettivo principale di questa fase è **impostare l'organizzazione del progetto dal punto di vista gestionale e operativo**. Bisogna quindi capire che attività dovranno essere svolte, così da individuare le competenze necessarie, allocare correttamente le risorse e stimare adeguatamente i tempi.
+L'obiettivo principale di questa fase è **impostare l'organizzazione del progetto dal punto di vista gestionale e operativo**. Serve quindi a capire che attività dovranno essere svolte, così da individuare le competenze necessarie, allocare correttamente le risorse interne ed esterne e stimare adeguatamente i tempi.
 I kit messi a disposizione in questa fase sono propedeutici alla pianificazione operativa, ma anche alla gestione della privacy, dell’approccio *open source* e dell’integrazione con le piattaforme abilitanti, per aiutare le amministrazioni a definire gli standard di qualità, usabilità e accessibilità da raggiungere e quindi i termini dell’ingaggio del o dei fornitori.
 
 Comprendere il contesto d’uso del servizio pubblico
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-Questa fase consiste in **attività di ricerca e analisi e si focalizza su acquisire consapevolezza del quadro entro cui il servizio digitale si inserisce**. Bisogna indagare l’esperienza del cittadino nella situazione attuale, comprendendo i processi e gli attori coinvolti nell’erogazione del servizio pubblico, mappando poi l’esperienza d’uso dal punto di vista dell’utente.
+Questa fase consiste in **attività di ricerca e analisi e si focalizza su acquisire consapevolezza del quadro entro cui il servizio digitale si inserisce**. Serve ad indagare l’esperienza del cittadino nella situazione attuale, comprendendo i processi e gli attori coinvolti nell’erogazione del servizio pubblico, mappando poi l’esperienza d’uso dal punto di vista dell’utente.
 I kit messi a disposizione in questa fase consentono di schematizzare le figure e gli elementi coinvolti nell’erogazione del servizio pubblico, svolgere ricerca documentale e sul campo, qualitativa e quantitativa, per poi definire gli *utenti-tipo* (cittadini o operatori pubblici) e il modo in cui allo stato attuale utilizzano, percepiscono e interagiscono con il servizio.
 
 Progettare i processi e i *touchpoint* del servizio
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-L’obiettivo di questa fase è **definire in dettaglio tutti i flussi di interazione tra l’utente e il servizio**. Bisogna definire l’esperienza dell’utente mappando i punti di contatto (*touchpoint*) al servizio, tramite i quali avverrà l’interazione vera e propria, per poi impostare la struttura di base dell’interfaccia utente, tenendo presenti i contenuti e le funzionalità necessari all’utente per raggiungere il suo obiettivo.
+L’obiettivo di questa fase è **definire in dettaglio tutti i flussi di interazione tra l’utente e il servizio**. Serve a definire l’esperienza dell’utente mappando i punti di contatto (*touchpoint*) al servizio, tramite i quali avverrà l’interazione vera e propria, per poi impostare la struttura di base dell’interfaccia utente, tenendo presenti i contenuti e le funzionalità necessari all’utente per raggiungere il suo obiettivo.
 I kit da utilizzare in questa fase servono a ideare con utenti e *stakeholder* soluzioni per migliorare il servizio pubblico esistente, a progettare le loro componenti digitali, a schematizzare la loro struttura e i relativi contenuti, e infine a prototipare i flussi di interazione.
 
 Realizzare l’interfaccia utente del servizio
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-In questa fase il focus è su attività di costruzione e sviluppo del *touchpoint* digitale attraverso il quale l’utente interagirà con il servizio pubblico. Bisogna letteralmente comporre i componenti dell’interfaccia utente tenendo presenti temi grafici e di interazione, per testare e sviluppare il cosiddetto *front-end* del servizio.
+In questa fase il focus è su attività di costruzione e sviluppo del *touchpoint* digitale attraverso il quale l’utente interagirà con il servizio pubblico. Serve a comporre letteralmente i componenti dell’interfaccia utente tenendo presenti temi grafici e di interazione, per testare e sviluppare il cosiddetto *front-end* del servizio.
 Le risorse di questi kit forniscono gli strumenti operativi per disegnare e sviluppare l'interfaccia di un *touchpoint* digitale. Ci sono a disposizione librerie, template e modelli per costruire interfacce digitali con uno stile visivo definito e coerente, oltre che componenti e codice open source di sviluppo, le fondamenta di un vero e proprio *design system* nazionale in divenire.
 
 Validare la soluzione ottenuta
