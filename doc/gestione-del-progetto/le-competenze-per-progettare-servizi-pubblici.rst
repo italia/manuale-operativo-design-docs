@@ -60,18 +60,20 @@ operativo di design e partecipando direttamente ad alcuni progetti pilota della 
 |                                    | i touchpoint fisici e digitali, schematizzando    | e funzionalità, prototipando layout statici          | - Solution Architect                        |
 |                                    | i flussi e la struttura di base dell’interfaccia  | (wireframe) o mockup interattivi a                   | - Information Architect                     |
 |                                    | utente.                                           | bassa/media fedeltà.                                 | - UX Designer                               |
+|                                    |                                                   |                                                      | - Web Accessibility Expert                  |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 | **Progettazione dei contenuti**    | Saper mediare le esigenze di comunicazione,       | Progettare e realizzare i contenuti visivi e         | - Content designer                          |
 |                                    | di impatto visivo, di leggibilità e di            | testuali nei diversi touchpoint relativi alla        | - Web content editor                        |
 |                                    | accessibilità, adattando i messaggi al            | fruizione del servizio, ottimizzare i contenuti      | - Seo Specialist                            |
 |                                    | contesto specifico e all’utente.                  | e la loro struttura in base alle regole di           | - Information Architect                     |
 |                                    |                                                   | ottimizzazione per i motori di ricerca (SEO).        | - Visual designer                           |
+|                                    |                                                   |                                                      | - Web Accessibility Expert                  |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 | **Progettazione dell'interfaccia** | Saper tradurre quanto progettato in un artefatto  | Realizzazione della visualizzazione prototipale      | - User Interface Designer                   |
 |                                    | grafico completo, coerente e funzionale alle      | ad alta fedeltà dell’interfaccia utente, sia nei     | - UX Designer                               |
 |                                    | migliori pratiche di sviluppo dell’interfaccia,   | suoi aspetti statici che in quelli dinamici.         | - Graphic designer                          |
 |                                    | tenendo in considerazione gli standard di         | Affiancamento alle figure dello sviluppo             | - Web designer                              |
-|                                    | accessibilità e di usabilità.                     | dell’interfaccia per garantire la corrispondenza     |                                             |
+|                                    | accessibilità e di usabilità.                     | dell’interfaccia per garantire la corrispondenza     | - Web Accessibility Expert                  |                                            |
 |                                    |                                                   | del risultato finale a quanto progettato.            |                                             |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 | **Sviluppo interfaccia**           | Saper tradurre quanto prodotto durante le fasi    | Sviluppo di codice per il touchpoint digitale,       | - Front-end web developer                   |
@@ -79,11 +81,11 @@ operativo di design e partecipando direttamente ad alcuni progetti pilota della 
 |                                    | integrando i requisiti di contenuto, di UX        | conversazionale, sia nei suoi aspetti statici        | - Sviluppatore                              |
 |                                    | e i requisiti tecnici, tenendo in considerazione  | che in quelli dinamici.                              | - Web designer                              |
 |                                    | i vincoli di prestazione, ricercabilità,          |                                                      | - Specialista di Media Digitali             |
-|                                    | raggiungibilità, accessibilità e usabilità.       |                                                      |                                             |
+|                                    | raggiungibilità, accessibilità e usabilità.       |                                                      | - Web Accessibility Expert                  |                                             |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 
 Esistono poi competenze essenziali e trasversali alle figure professionali e al processo di progettazione, che riguardano aspetti come l’empatia e la comunicazione,
-la capacità di inquadrare i problemi e gestire l’incertezza, quella di passare rapidamente dalla teoria alla pratica e saper risolvere i problemi. 
+la capacità di inquadrare i problemi e gestire l’incertezza, quella di passare rapidamente dalla teoria alla pratica e saper risolvere i problemi.
 
 +--------------------------------------------------------------------------------------------------+
 | **Competenze trasversali**                                                                       |
@@ -99,3 +101,4 @@ la capacità di inquadrare i problemi e gestire l’incertezza, quella di passar
 +------------------------------------+-------------------------------------------------------------+
 | *Problem solving*                  | Inquadrare i problemi e proporre soluzioni, con concretezza |
 +------------------------------------+-------------------------------------------------------------+
+
