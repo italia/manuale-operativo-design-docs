@@ -1,3 +1,5 @@
+> _⚠️ Questo README è in lavorazione e contiene link provvisori o da sostituire ⚠️
+
 # Manuale operativo di design - Designers Italia
 Questo repository contiene il testo del *Manuale operativo di design - Designers Italia*, per progettare siti internet e servizi digitali della Pubblica amministrazione, in formato reStructredText.
 
