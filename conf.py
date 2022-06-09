@@ -2,10 +2,10 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = 'Linee guida di design per i servizi digitali della PA'
-settings_copyright_copyleft = "CC-BY 3.0 - Agenzia per l'Italia Digitale"
-settings_editor_name = "AgID - Agenzia per l'Italia Digitale"
-settings_file_name = 'Linee-Guida-Web-PA'
+settings_project_name = 'Manuale operativo di design - Designers Italia'
+settings_copyright_copyleft = "CC-BY 4.0 - Agenzia per l'Italia Digitale"
+settings_editor_name = "Dipartimento per la trasformazione digitale e AgID - Agenzia per l'Italia Digitale"
+settings_file_name = 'Manuale-operativo-design'
 
 import sys
 import os
