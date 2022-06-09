@@ -1,11 +1,11 @@
 Le competenze per progettare servizi pubblici
 ---------------------------------------------
 
-Il design necessita di un insieme di competenze funzionali e organizzative. 
-Le competenze funzionali vanno dalla conduzione di attività di ricerca con gli utenti alla prototipazione, fino alla capacità di progettazione e realizzazione di interfacce e contenuti. Queste competenze generano dei ruoli che possono variare in funzione delle caratteristiche del progetto e dell’assetto di un team, possono richiedere specializzazioni verticali su temi specifici (es. *visual design*) o trasversali in grado di coprire diversi aspetti all’interno del processo progettuale (dalla ricerca alla prototipazione). 
+Il design necessita di un insieme di competenze funzionali e organizzative.
+Le competenze funzionali vanno dalla conduzione di attività di ricerca con gli utenti alla prototipazione, fino alla capacità di progettazione e  realizzazione di interfacce e contenuti. Queste competenze generano dei ruoli che possono variare in funzione delle caratteristiche del progetto e dell’assetto di un team, possono richiedere specializzazioni verticali su temi specifici (es. *visual design*) o trasversali in grado di coprire diversi aspetti all’interno del processo progettuale (dalla ricerca alla prototipazione).
 
-Le competenze manageriali includono la capacità di lavorare in team in modo collaborativo, gestire le relazioni con tutti gli attori coinvolti nel percorso di innovazione, avere un forte orientamento al raggiungimento degli obiettivi e misurare costantemente l’andamento dei progetti. 
-Designers Italia supporta e incoraggia l’acquisizione di tali competenze di design sia internamente agli enti, sia tramite forniture dedicate, offrendo modelli, kit, storie (*case histories*) oltre che il presente manuale operativo di design e partecipando direttamente ad alcuni progetti pilota della Pubblica Amministrazione.
+Le competenze manageriali includono la capacità di lavorare in team in modo collaborativo, gestire le relazioni con tutti gli attori coinvolti nel percorso di innovazione, avere un forte orientamento al raggiungimento degli obiettivi e misurare costantemente l’andamento dei progetti.
+Designers Italia incoraggia e indirizza verso l’acquisizione di competenze di design offrendo modelli, kit, storie (*case histories*) oltre che il presente manuale operativo di design, e partecipando direttamente ad alcuni progetti pilota della Pubblica Amministrazione.
 
 
 
@@ -56,19 +56,21 @@ Designers Italia supporta e incoraggia l’acquisizione di tali competenze di de
 |                                    | interazione tra l’utente e il servizio attraverso | l’interfaccia utente in termini di contenuti         | - UX designer                               |
 |                                    | i touchpoint fisici e digitali, schematizzando    | e funzionalità, prototipando layout statici          | - Solution Architect                        |
 |                                    | i flussi e la struttura di base dell’interfaccia  | (wireframe) o mockup interattivi a                   | - Information Architect                     |
-|                                    | utente.                                           | bassa/media fedeltà.                                 | - UX writer                                 |
+|                                    | utente.                                           | bassa/media fedeltà.                                 | - UX Writer                                 |
+|                                    |                                                   |                                                      | - Web Accessibility Expert                  |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 | **Progettazione dei contenuti**    | Saper mediare le esigenze di comunicazione,       | Progettare e realizzare i contenuti visivi e         | - Content designer                          |
 |                                    | di impatto visivo, di leggibilità e di            | testuali nei diversi touchpoint relativi alla        | - Web content editor                        |
 |                                    | accessibilità, adattando i messaggi al            | fruizione del servizio, ottimizzare i contenuti      | - Seo Specialist                            |
 |                                    | contesto specifico e all’utente.                  | e la loro struttura in base alle regole di           | - Information Architect                     |
 |                                    |                                                   | ottimizzazione per i motori di ricerca (SEO).        | - Visual designer                           |
+|                                    |                                                   |                                                      | - Web Accessibility Expert                  |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 | **Progettazione dell'interfaccia** | Saper tradurre quanto progettato in un artefatto  | Realizzazione della visualizzazione prototipale      | - User Interface Designer                   |
 |                                    | grafico completo, coerente e funzionale alle      | ad alta fedeltà dell’interfaccia utente, sia nei     | - UX Designer                               |
 |                                    | migliori pratiche di sviluppo dell’interfaccia,   | suoi aspetti statici che in quelli dinamici.         | - Graphic designer                          |
 |                                    | tenendo in considerazione gli standard di         | Affiancamento alle figure dello sviluppo             | - Web designer                              |
-|                                    | accessibilità e di usabilità.                     | dell’interfaccia per garantire la corrispondenza     |                                             |
+|                                    | accessibilità e di usabilità.                     | dell’interfaccia per garantire la corrispondenza     | - Web Accessibility Expert                  |
 |                                    |                                                   | del risultato finale a quanto progettato.            |                                             |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 | **Sviluppo interfaccia**           | Saper tradurre quanto prodotto durante le fasi    | Sviluppo di codice per il touchpoint digitale,       | - Front-end web developer                   |
@@ -76,11 +78,11 @@ Designers Italia supporta e incoraggia l’acquisizione di tali competenze di de
 |                                    | integrando i requisiti di contenuto, di UX        | conversazionale, sia nei suoi aspetti statici        | - Sviluppatore                              |
 |                                    | e i requisiti tecnici, tenendo in considerazione  | che in quelli dinamici.                              | - Web designer                              |
 |                                    | i vincoli di prestazione, ricercabilità,          |                                                      | - Specialista di Media Digitali             |
-|                                    | raggiungibilità, accessibilità e usabilità.       |                                                      |                                             |
+|                                    | raggiungibilità, accessibilità e usabilità.       |                                                      | - Web Accessibility Expert                  |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 
 Esistono poi competenze essenziali e trasversali alle figure professionali e al processo di progettazione, che riguardano aspetti come l’empatia e la comunicazione,
-la capacità di inquadrare i problemi e gestire l’incertezza, quella di passare rapidamente dalla teoria alla pratica e saper risolvere i problemi. 
+la capacità di inquadrare i problemi e gestire l’incertezza, quella di passare rapidamente dalla teoria alla pratica e saper risolvere i problemi.
 
 +--------------------------------------------------------------------------------------------------+
 | **Competenze trasversali**                                                                       |
