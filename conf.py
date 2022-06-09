@@ -3,7 +3,7 @@
 
 # -- PROJECT Variables ----------------------------------------------------
 settings_project_name = 'Manuale operativo di design - Designers Italia'
-settings_copyright_copyleft = "CC-BY 4.0 - Agenzia per l'Italia Digitale"
+settings_copyright_copyleft = "CC-BY 4.0 - Dipartimento per la trasformazione digitale e AgID - Agenzia per l'Italia Digitale"
 settings_editor_name = "Dipartimento per la trasformazione digitale e AgID - Agenzia per l'Italia Digitale"
 settings_file_name = 'Manuale-operativo-design'
 
