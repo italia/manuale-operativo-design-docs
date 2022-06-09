@@ -3,8 +3,6 @@ Accessibilità
 
 .. include:: /banner.rst
 
-.. admonition:: SI DEVE
-
    I soggetti destinatari della  `legge n. 4/2004
    <https://www.agid.gov.it/it/node/79271>`__ (definiti “soggetti erogatori”),
    tra cui le Pubbliche amministrazioni, hanno l’obbligo di garantire l’accesso
