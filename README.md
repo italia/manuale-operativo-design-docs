@@ -71,7 +71,3 @@ Inoltre, è possibile aprire delle Pull Request per proporre direttamente delle 
 ## Licenza
 
 Questo documento è rilasciato con una licenza CC BY 4.0.
-
-------
-
-_Il presente README.md è in lavorazione e contiene link provvisori o da sostituire_
