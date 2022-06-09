@@ -33,8 +33,6 @@ Inoltre l’usabilità consente alle PA di:
 -  aiutare i cittadini a trovare facilmente ciò che cercano sui siti
 -  aumentare la fiducia dei cittadini nei confronti dell’amministrazione
 
-.. admonition:: SI DEVE
-
    Data l’importanza che l’usabilità riveste nell’interazione tra utente e
    applicazione web, è necessario riservare la massima attenzione alla progettazione
    orientata all’usabilità e alla relativa misurazione, mediante un processo di
