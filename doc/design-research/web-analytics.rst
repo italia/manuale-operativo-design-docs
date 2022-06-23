@@ -359,44 +359,23 @@ Per saperne di più su WAI puoi consultare il sito `webanalytics.italia.it <http
 
 Ricorda che la soluzione open source WAI è compatibile e può funzionare contemporaneamente a qualsiasi altro strumento di web analytics che stai già utilizzando.
 
-Nei paragrafi seguenti ti proponiamo inoltre una serie di link di approfondimento per comprendere come installare/configurare due fra le principali piattaforme di web analytics, **Matomo** (piattaforma open source) e **Google Analytics** (piattaforma commerciale, nella sua versione free).
-
+Nel paragrafo seguente ti proponiamo inoltre una serie di link di approfondimento per comprendere come installare/configurare **Matomo**, una fra le principali piattaforme di web analytics open source (e software su cui si basano, inoltre, la raccolta e l'analisi dei dati della piattaforma WAI).
 
 
 Strumenti di web analytics: Matomo
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  `Installazione e configurazione di Matomo
-   <https://piwik.org/docs/installation/>`__
+   <https://matomo.org/faq/on-premise/installing-matomo/>`__
 -  `Aggiungere un sito a Matomo
-   <https://piwik.org/docs/manage-websites/>`__
+   <https://matomo.org/guide/manage-matomo/websites/>`__
 -  `Implementare il tracciamento del motore di ricerca interno al sito
-   <https://piwik.org/docs/site-search/>`__
+   <https://matomo.org/guide/reports/site-search/>`__
 -  `Impostare un obiettivo
-   <https://piwik.org/docs/tracking-goals-web-analytics/>`__
+   <https://matomo.org/guide/reports/goals-and-conversions/>`__
 -  `La segmentazione
    <https://matomo.org/docs/segmentation/>`__
 -  `Creazione ed invio di report customizzati
-   <https://piwik.org/docs/email-reports/>`__
+   <https://matomo.org/guide/manage-matomo/email-reports/>`__
 -  `Importare dati da GA a Matomo
-   <https://piwik.org/blog/2012/08/google-analytics-to-piwik/>`__
-
-Strumenti di web analytics: Google Analytics
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
--  `Configurazione di Google Analytics
-   <https://support.google.com/analytics/answer/1102154>`__
--  `Implementare il codice di tracciamento
-   <https://support.google.com/analytics/topic/1726910?hl=it&ref_topic=3544906>`__
--  `Implementazione del codice per app
-   <https://support.google.com/analytics/topic/2587085?hl=it&ref_topic=3544906>`__
--  `Implementare il tracciamento del motore di ricerca interno al sito
-   <https://support.google.com/analytics/answer/1012264?hl=it>`__
--  `Collegare la Search Console a Google Analytics
-   <https://support.google.com/analytics/answer/1308621?hl=it>`__
--  `Impostare un obiettivo
-   <https://support.google.com/analytics/answer/1012040?hl=it&ref_topic=6150889>`__
--  `La segmentazione
-   <https://support.google.com/analytics/answer/3123951>`__
--  `Export ed invio via email dei dati
-   <https://support.google.com/analytics/answer/1038573?hl=it>`__
+   <https://matomo.org/blog/2012/08/google-analytics-to-piwik/>`__
