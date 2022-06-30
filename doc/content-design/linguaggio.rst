@@ -133,7 +133,7 @@ Tra questi rientrano anche una serie di *design pattern* (modelli di progettazio
 
    **All’interno del design system di Designers Italia esiste un luogo
    in cui si sta progressivamente costruendo una libreria di content
-   type: è il** `wireframe
+   type: è il** `Wireframe
    kit <https://designers.italia.it/kit/wireframe-kit/>`__.
 
    La diversa funzione che ha ogni *content type* è rilevante non solo
