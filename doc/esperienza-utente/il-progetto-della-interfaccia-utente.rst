@@ -22,14 +22,14 @@ In questa parte del manuale operativo di design ci concentriamo sugli aspetti pi
 Da dove si parte
 ----------------
 
-Il livello di dettaglio più basso viene definito attraverso la creazione di un prototipo (in inglese *wireframe*) dell’interfaccia utente, definendo una struttura di massima dell’esperienza utente durante il suo percorso nella ricerca e utilizzo del servizio. 
+Nelle fasi iniziali si progetta la struttura dell’interfaccia utente attraverso la creazione di uno scheletro a bassa fedeltà (in inglese *wireframe*) che definisce in generale quale sarà l'esperienza dell'utente durante l'utilizzo di un servizio.
 
-La realizzazione di un prototipo a bassa fedeltà (in inglese *low fidelity*, abbr. *low-fi*) per un’interfaccia utente definisce: 
+I *wireframes* realizzati sono successivamente utilizzati per realizzare il prototipo a bassa fedeltà (in inglese *low fidelity*, abbr. *low-fi*) del servizio con l'obiettivo di:
 
-- l’organizzazione degli elementi, interattivi e non, nello spazio della pagina;
-- la collocazione dei blocchi di contenuto;
-- la sequenza di passaggi che un utente deve compiere per concludere un'attività (flussi di interazione o *user flows*);
-- le modalità di interazione o comportamento dell’utente con il prodotto.
+- definire l’organizzazione degli elementi, interattivi e non, nello spazio della pagina;
+- definire la collocazione dei blocchi di contenuto;
+- progettare la sequenza di passaggi che un utente deve compiere per concludere un'attività (flussi di interazione o *user flows*);
+- stabilire le modalità di interazione o comportamento dell’utente con il prodotto.
 
 Tutto questo viene progettato con attenzione agli aspetti di architettura dell’informazione e dei flussi di interazione, senza preoccuparsi in questa fase delle soluzioni di dettaglio che definiscono le interfacce dal punto di vista grafico. Durante questa attività di base infatti viene concretizzata la struttura portante dell’esperienza utente e le soluzioni ipotizzate in fase di ricerca. 
 
