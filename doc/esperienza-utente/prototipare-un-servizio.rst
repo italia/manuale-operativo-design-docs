@@ -109,7 +109,7 @@ Esempi di *pattern* sono il *content type* “scheda servizio”, che definisce 
 
     *Figura 4 - Pattern di ricerca: user flow*
     
-I modelli di pagina e di interazione sono costruiti attraverso una libreria di componenti rappresentati da bottoni, campi di input, blocchi di testo, ecc. I componenti sono “i mattoncini” attraverso cui si costruiscono le interfacce, gli elementi base della grammatica che regola l’interazione tra l’utente e il sistema. 
+I modelli di pagina e di interazione sono costruiti attraverso una libreria di componenti rappresentati da pulsanti, campi di input, blocchi di testo, ecc. I componenti sono “i mattoncini” attraverso cui si costruiscono le interfacce, gli elementi base della grammatica che regola l’interazione tra l’utente e il sistema. 
 
 .. figure:: media/ui-wireframe-kit-esempio-animato.gif
     :alt: UI Wireframe kit Esempio animato

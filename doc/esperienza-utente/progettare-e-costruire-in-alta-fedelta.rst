@@ -6,7 +6,7 @@ Progettare e costruire in alta fedeltà
 Il progetto dell’interfaccia in alta fedeltà (in inglese *hi-fidelity*, abbr. *hi-fi*) **è una delle fasi finali del processo di progettazione, dedicato alla realizzazione del prodotto, che si concentra anche su aspetti visivi di progettazione grafica, aggiungendo dettagli, stile grafico e animazioni**. 
 L’interfaccia viene costruita tenendo come punto di riferimento il *wireframe* contenente la struttura generale del prodotto: questo scheletro a bassa qualità (in inglese *low-fi*) viene trasformato e arricchito in modo da dare una resa reale del prodotto finale. È auspicabile in questa fase realizzare prototipi interattivi delle parti fondanti del progetto, adatti per esempio per svolgere test di usabilità per confermare o meno le scelte fatte sin qui e, in caso, migliorarle.
 
-Il progetto dell’interfaccia utente sarà composto da diversi componenti, costruiti seguendo le migliori pratiche di usabilità, come bottoni, campi di compilazione, menu, blocchi di testo ecc., i quali vengono combinati e posizionati seguendo una griglia, responsiva (in inglese *responsive*) sui diversi dispositivi, per organizzare il loro posizionamento nello spazio della pagina. Per responsività nel campo delle interfacce si intende la capacità di adattamento grafico automatico dei contenuti di un sito rispetto alle dimensioni, proporzioni e caratteristiche specifiche dei dispositivi attraverso i quali viene visualizzato (es. *computer, tablet, smartphone, tv, watch*).
+Il progetto dell’interfaccia utente sarà composto da diversi componenti, costruiti seguendo le migliori pratiche di usabilità, come pulsanti, campi di compilazione, menu, blocchi di testo ecc., i quali vengono combinati e posizionati seguendo una griglia, responsiva (in inglese *responsive*) sui diversi dispositivi, per organizzare il loro posizionamento nello spazio della pagina. Per responsività nel campo delle interfacce si intende la capacità di adattamento grafico automatico dei contenuti di un sito rispetto alle dimensioni, proporzioni e caratteristiche specifiche dei dispositivi attraverso i quali viene visualizzato (es. *computer, tablet, smartphone, tv, watch*).
 
 .. figure:: images/ui-design-comparazione-tra-lo-fi-e-hi-fi.png
     :alt: Un esempio di un progetto a bassa ed alta fedeltà.
@@ -62,7 +62,7 @@ Gli elementi di cui si compone il kit sono raggruppati nelle seguenti categorie:
 * Definizione di colori e loro applicazione
 * Posizionamento e spaziature, con un sistema di griglie
 * Icone
-* Bottoni
+* Pulsanti
 * Elementi di navigazione, come menu e liste di link
 * Elementi per la visualizzazione di dati e contenuti
 * Elementi di data entry, come campi di testo ed esempi di form
@@ -86,7 +86,7 @@ Il Design UI kit è realizzato seguendo un sistema a componenti, che può essere
 
     Costruzione di un’interfaccia attraverso i principi di composizione.
 
-Ogni componente ha un numero di proprietà ad esempio la forma e il colore che possono essere combinati o variati per comunicare un diverso significato. Si pensi ad esempio ad un bottone: esso può essere, “primario” o “secondario”, in stato di “riposo” o “premuto”. Il modo in cui sono applicate queste proprietà o variazioni darà un significato differente al componente.
+Ogni componente ha un numero di proprietà ad esempio la forma e il colore che possono essere combinati o variati per comunicare un diverso significato. Si pensi ad esempio ad un pulsante: esso può essere, “primario” o “secondario”, in stato di “riposo” o “premuto”. Il modo in cui sono applicate queste proprietà o variazioni darà un significato differente al componente.
 
 .. figure:: images/ui-kit-overrides.gif
     :alt: Variazioni di un’interfaccia.
@@ -195,7 +195,7 @@ In uno schema colore distinguiamo il colore base, che viene utilizzato per una p
 Tra i colori secondari si dovranno definire:
 
 * colori strettamente connessi al colore base
-* un eventuale colore di risalto (chiamato *accent color*), utilizzato in misura minore poiché è associato a elementi che prevedono un’interazione, come bottoni, elementi di controllo (sliders, radio, ecc.), link, campi di testo.
+* un eventuale colore di risalto (chiamato *accent color*), utilizzato in misura minore poiché è associato a elementi che prevedono un’interazione, come pulsanti, elementi di controllo (sliders, radio, ecc.), link, campi di testo.
 
 Si consiglia l’utilizzo di una *palette* costituita da non più di 5 tonalità, dove non più di 3 avranno un differente valore di colore (*hue*, in inglese).
 
@@ -304,10 +304,10 @@ I componenti
 
 Di seguito sono presentati per ogni categoria degli esempi di componenti dello UI Kit. Per avere un quadro completo del kit è possibile collegarsi al progetto `UI Kit su InVision <https://invis.io/RJFGS2UC3HS>`_.
 
-Bottoni
+Pulsanti
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Lo UI Kit contiene quattro tipologie di bottoni, dal primary al quaternary, ordinati secondo una funzione gerarchica.
+Lo UI Kit contiene quattro tipologie di pulsanti, dal primary al quaternary, ordinati secondo una funzione gerarchica.
 
 .. figure:: images/ui-componenti-bottoni-esempio-1.png
     :alt: Un esempio di componente Bottone.
@@ -315,19 +315,19 @@ Lo UI Kit contiene quattro tipologie di bottoni, dal primary al quaternary, ordi
 
     Un esempio di componente “Bottone” nelle sue varianti, ordinate gerarchicamente.
 
-Tutte le azioni principali sono rappresentate dal bottone “Primary”, a cui può essere associata una o più azioni secondarie attraverso l’uso degli altri bottoni a disposizione.
+Tutte le azioni principali sono rappresentate dal pulsante “Primary”, a cui può essere associata una o più azioni secondarie attraverso l’uso degli altri pulsanti a disposizione.
 
 .. figure:: images/ui-componenti-bottoni-esempio-2.png
-    :alt: Un esempio di UI con più bottoni.
-    :name: Un esempio di UI con più bottoni.
+    :alt: Un esempio di UI con più pulsanti.
+    :name: Un esempio di UI con più pulsanti.
 
-    Un esempio d’uso del bottone “Primary” e “Secondary”. Il primario mostra l’azione più importante della pagina, il secondario rappresenta un’azione alternativa.
+    Un esempio d’uso del pulsante “Primary” e “Secondary”. Il primario mostra l’azione più importante della pagina, il secondario rappresenta un’azione alternativa.
 
 .. figure:: images/ui-componenti-bottoni-esempio-3.png
     :alt: Un esempio di UI con azioni diversificate.
     :name: Un esempio di UI con azioni diversificate.
 
-    Un esempio d’uso di un bottone “Primary” associato ad un bottone gerarchicamente inferiore. In questo caso è stato usato un “Quaternary” dello UI Kit: l’utente cosi è indirizzato sul bottone primario in modo inequivocabile.
+    Un esempio d’uso di un pulsante “Primary” associato ad un altro gerarchicamente inferiore. In questo caso è stato usato un “Quaternary” dello UI Kit: l’utente cosi è indirizzato sul pulsante primario in modo inequivocabile.
 
 Navigazione
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
