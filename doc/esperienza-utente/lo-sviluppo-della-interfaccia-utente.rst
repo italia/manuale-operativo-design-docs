@@ -171,10 +171,10 @@ Bootstrap Italia contiene codice pronto all’uso, e descrive in dettaglio nella
 
 Permette di copiare frammenti di codice ed ottenere esattamente ciò che è mostrato nella `documentazione del progetto <https://italia.github.io/bootstrap-italia/docs/come-iniziare/introduzione/>`_, al cui interno sono presenti informazioni sull’utilizzo, componenti, esempi e progetti già realizzati grazie all’utilizzo della libreria.
 
-Bottoni
+Pulsanti
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Ad esempio, per aggiungere un bottone personalizzato è sufficiente aggiungere una classe CSS ``.btn``, associandola a classi di tipo ``.btn-*`` per applicarne varianti di stile, dimensione, ed altro.
+Ad esempio, per aggiungere un pulsante personalizzato è sufficiente aggiungere una classe CSS ``.btn``, associandola a classi di tipo ``.btn-*`` per applicarne varianti di stile, dimensione, ed altro.
 
 È possibile consultare tutti i dettagli nella pagina dedicata al componente “`Bottone <https://italia.github.io/bootstrap-italia/docs/componenti/bottoni/>`_” nella documentazione.
 
@@ -214,7 +214,7 @@ La risorsa kit React dipende da Bootstrap Italia per quanto riguarda lo stile, m
 Bottoni
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A titolo di esempio, l’inclusione di un bottone di *colore primario nei bordi*, di *piccola dimensione*, e *disabilitato* potrà essere resa con il codice che segue.
+A titolo di esempio, l’inclusione di un pulsante di *colore primario nei bordi*, di *piccola dimensione*, e *disabilitato* potrà essere resa con il codice che segue.
 
 Per il React Kit:
 

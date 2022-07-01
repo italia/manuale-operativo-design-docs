@@ -255,7 +255,7 @@ Strumenti di supporto validi per quest’analisi preliminare sono:
 Dopo essersi accertati che l’interfaccia mobile del sito risponda adeguatamente ai diversi
 dispositivi e aver risolto eventuali problemi individuati tramite i vari strumenti,
 occorre assicurarsi che l’interfaccia mobile funzioni adeguatamente, cioè che le
-funzioni progettate (bottoni, link, *form*, ecc.) siano eseguibili da mobile (dispositivi mobili)
+funzioni progettate (pulsanti, link, *form*, ecc.) siano eseguibili da mobile (dispositivi mobili)
 e che l’architettura dell’informazione del sito mobile sia adeguata.
 
 Analisi ispettive da svolgersi prima del test con metodologia eGLU
@@ -776,8 +776,8 @@ del partecipante:
       - il partecipante dichiara di essere confuso da elementi di layout, immagini, video, ecc.;
       - il partecipante dichiara di essere confuso dalla sovrabbondanza di opzioni;
       - il partecipante sceglie un percorso del tutto errato;
-      - il partecipante non riconosce la funzione di testi, bottoni;
-      - il partecipante travisa il significato di testi, bottoni;
+      - il partecipante non riconosce la funzione di testi, pulsanti;
+      - il partecipante travisa il significato di testi, pulsanti;
 
 - apprezzamenti
      - il partecipante esprime di sua iniziativa apprezzamenti su un contenuto/servizio specifico;

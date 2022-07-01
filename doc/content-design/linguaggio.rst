@@ -167,7 +167,7 @@ Tra questi rientrano anche una serie di *design pattern* (modelli di progettazio
 
    - **Form e wizard**: questi *content type* accompagnano l’utente
      nell’esecuzione di un’azione, compilando alcuni campi o
-     interagendo con elementi dell’interfaccia (etichette, bottoni).
+     interagendo con elementi dell’interfaccia (etichette, pulsanti).
 
    - **Contenuti di servizio**: queste pagine hanno la funzione di
      presentare informazioni (chi siamo, contatti, dicono di noi, ecc).
@@ -705,7 +705,7 @@ per una buona indicizzazione dei contenuti sui motori di ricerca.
       informazioni testuali, *gallery*, liste, *wizard* e moduli, e quindi
       sono adatte a qualsiasi tipo di *content type*. Per ogni pagina
       valuta con attenzione il titolo, che deve essere pertinente,
-      indicizzato e può divenire un bottone di navigazione. In base
+      indicizzato e può divenire un link di navigazione. In base
       all’utilizzo delle pagine per i *content type*, definisci quando
       prevedere anche un sommario e/o un testo introduttivo, per
       indicare all’utente che contenuti trova nella pagina.
