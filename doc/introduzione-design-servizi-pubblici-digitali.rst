@@ -5,11 +5,11 @@ Introduzione al design per i servizi pubblici digitali
 
 "*Nell’età moderna si è operata una netta separazione fra il mondo delle arti e quello della tecnica e delle macchine; verso la fine del XIX secolo la parola design si è inserita nella breccia ed è andata a formare un ponte fra le due branche*" (Fonte: V. Flusser, Filosofia del design)
 
-Il termine design deriva dal latino *signum* che corrisponde all’italiano "segno"; essendo in più un *false friend* (“falso amico” nell’accezione linguistica) viene facilmente tradotto o associato a "disegno". La parola **design invece significa progettare, architettare, ideare, e più in generale dare forma e struttura a pensieri complessi**, che coinvolgono sia la prospettiva tecnica che quella umanistica.
+Il termine design deriva dal latino *signum* che corrisponde all’italiano "segno"; essendo in più un *false friend* (“falso amico” nell’accezione linguistica) viene facilmente tradotto o associato a "disegno". La parola **design, invece,significa progettare, architettare, ideare, e più in generale dare forma e struttura a pensieri complessi**, che coinvolgono sia la prospettiva tecnica che quella umanistica.
 
 "*In contrapposizione alle scienze naturali, che si occupano di ‘come le cose sono’, il design è la disciplina che si occupa di ‘come le cose dovrebbero o potrebbero essere*" (Fonte: H.Simon’s The Sciences of the Artificial)
 
-Nella lingua inglese questa parola viene comunemente utilizzata nel contesto dei processi di progettazione di artefatti, più o meno tangibili, in diversi ambiti più o meno tecnici. Anche in italiano perciò **è corretto parlare di progettare, dal latino *proiectare*, gettare avanti, ovvero appunto concepire e dare forma a qualcosa che ancora non c'è**.
+Nella lingua inglese questa parola viene comunemente utilizzata nel contesto dei processi di progettazione di artefatti, più o meno tangibili, in diversi ambiti più o meno tecnici. Anche in italiano perciò **è corretto parlare di progettare**, dal latino *proiectare*, **gettare avanti**, ovvero appunto concepire e dare forma a qualcosa che ancora non c'è**.
 
 Design per l'amministrazione digitale (*e-government*)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -23,7 +23,7 @@ Il design può aiutare a far sì che questo cambiamento avvenga non solo da un p
 
 Il design - per sua natura volto ad affrontare contesti ambigui, volatili, incerti e complessi - ha il potenziale di mediare efficacemente il rapporto tra cittadini, pubbliche amministrazioni e fornitori tecnologici per trovare soluzioni soddisfacenti per tutte le parti coinvolte.
 L’obiettivo di queste guide è dunque quello di strutturare i contenuti in modo semplice, con uno stile comunicativo coerente e una strategia editoriale sostenibile nel tempo. 
-Designers Italia, in quanto **punto di riferimento per la Pubblica Amministrazione e dei fornitori in questo dominio, descrive un metodo di lavoro condiviso e fornisce una serie di risorse metodologiche, strumenti pratici ed esempi a supporto** della progettazione e realizzazione di siti e servizi digitali della Pubblica Amministrazione. In questo senso, il manuale è uno degli strumenti tramite cui Designers Italia supporta gli enti pubblici per raggiungere gli obiettivi impostati dalle "Linee guida di design per i siti internet e servizi digitali della PA" e dal "Codice amministrazione digitale" (Cad) e metterli in condizione di trasformare i servizi destinati all’utente finale, il cittadino. 
+Designers Italia, in quanto **punto di riferimento per la Pubblica Amministrazione e dei fornitori in questo dominio, descrive un metodo di lavoro condiviso e fornisce una serie di risorse metodologiche, strumenti pratici ed esempi a supporto** della progettazione e realizzazione di siti e servizi digitali della Pubblica Amministrazione. In questo senso, il manuale è uno degli strumenti tramite cui Designers Italia supporta gli enti pubblici per raggiungere gli obiettivi impostati dalle "Linee guida di design per i siti internet e servizi digitali della PA" e metterli in condizione di trasformare i servizi destinati all’utente finale, il cittadino. 
 
 I destinatari di questo manuale sono dunque principalmente:
  - **i decisori politici**, affinché siano abilitatori consapevoli e cooperino al miglioramento e all’innovazione del Paese, a partire da conoscenze pratiche sul tema del design dei servizi digitali;
@@ -34,7 +34,7 @@ In particolare, questo manuale operativo si propone di supportare:
  - la **modellazione di servizi digitali** sulla base di esigenze concrete e risorse esistenti evitando sprechi, duplicazione di attività e creando *touchpoint* (punti di contatto digitali) e servizi utili; 
  - la **progettazione e lo sviluppo di flussi di interazione** chiari, che possano rispondere con efficacia alle necessità dei diversi utenti, generando un’esperienza d’uso positiva; 
  - la **corretta allocazione delle risorse**, basata sull’identificazione delle priorità e l’adozione di standard che evitino sprechi e duplicazioni di attività;
- - la **pratica amministrativa** di amministratori e i tecnici della PA negli adempimenti normativi descritti dalle line guida e dal Cad.
+ - la **pratica amministrativa** di amministratori e i tecnici della PA negli adempimenti normativi descritti dalle Linee guida.
 
 .. toctree::
    :maxdepth: 2
