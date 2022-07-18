@@ -1,5 +1,3 @@
-> _⚠️ Questo README è in lavorazione e contiene link provvisori o da sostituire ⚠️
-
 # Manuale operativo di design - Designers Italia
 Questo repository contiene il testo del *Manuale operativo di design - Designers Italia*, per progettare siti internet e servizi digitali della Pubblica amministrazione, in formato reStructredText.
 
@@ -29,7 +27,7 @@ Nella guida usiamo delle etichette per evidenziare alcuni passaggi, specificando
 - best practice
 
 ## Consultazione della documentazione
-[La documentazione è disponibile su **Docs Italia**](#), la piattaforma di gestione della documentazione pubblica creata da [Team per la Trasformazione Digitale](https://teamdigitale.governo.it/).
+**[Il Manuale operativo è disponibile su Docs Italia](https://docs.italia.it/italia/designers-italia/manuale-operativo-design-docs)**, la piattaforma di gestione della documentazione pubblica creata dal [Team per la Trasformazione Digitale](https://teamdigitale.governo.it/).
 
 Le funzioni di hosting e di ricerca sono basate su [ReadTheDocs](https://readthedocs.org/) e la documentazione viene pubblicata attraverso il tool [Sphinx](http://www.sphinx-doc.org/en/stable/) e il linguaggio [RST](http://docutils.sourceforge.net/rst.html).
 
