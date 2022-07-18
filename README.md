@@ -27,7 +27,7 @@ Nella guida usiamo delle etichette per evidenziare alcuni passaggi, specificando
 - best practice
 
 ## Consultazione della documentazione
-**[Il Manuale operativo è disponibile su Docs Italia](https://docs.italia.it/italia/designers-italia/manuale-operativo-design-docs)**, la piattaforma di gestione della documentazione pubblica creata dal [Team per la Trasformazione Digitale](https://teamdigitale.governo.it/).
+**[Il Manuale operativo è disponibile su Docs Italia](https://docs.italia.it/italia/designers-italia/manuale-operativo-design-docs)**.
 
 Le funzioni di hosting e di ricerca sono basate su [ReadTheDocs](https://readthedocs.org/) e la documentazione viene pubblicata attraverso il tool [Sphinx](http://www.sphinx-doc.org/en/stable/) e il linguaggio [RST](http://docutils.sourceforge.net/rst.html).
 
