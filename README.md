@@ -16,15 +16,6 @@ Altre risorse per l'editing in formato .rst sono:
 - [Estensione Chrome per Google spreadsheet](https://chrome.google.com/webstore/detail/markdowntablemaker/cofkbgfmijanlcdooemafafokhhaeold)
 - [Altro](http://docutils.sourceforge.net/docs/user/links.html#editors)
 
-## Version control e release della documentazione
-Il manuale beneficia del *version control system* di GitHub, per cui esiste una traccia pubblica di tutte le modifiche effettuate e dei relativi autori.
-
-Il manuale adotta un sistema di release basato sui tag di GitHub. Ogni release è etichettata secondo un sistema basato su anno e versione. Le versioni sono espresse attraverso un numero progressivo. Il sistema delle release è in vigore dal 2022, quindi la prima release delle linee guida è 2022.1 (prima release del 2022).
-
-I nuovi contenuti e le modifiche a contenuti esistenti dopo essere approvati vengono pubblicati nella [versione *latest* del manuale](#), disponibile per una discussione pubblica e revisione da parte della community ma priva di valore ufficiale.
-
-Solo successivamente, in occasione di una nuova release del manuale, il team di Designers Italia decide di consolidarle e farle confluire, dopo eventuali modifiche, nella [versione ufficiale *stable* del manuale](#).
-
 ## Stile della documentazione
 Il manuale è scritto seguendo la [style guide di redazione dei testi pubblici](#). In particolare:
 - linguaggio semplice e comprensibile ad un pubblico ampio
