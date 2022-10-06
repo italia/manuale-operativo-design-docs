@@ -5,7 +5,7 @@ Architettura dell’informazione
 
 L’architettura dell’informazione consiste nell’organizzazione semantica e logica di ambienti informativi, sia fisici sia digitali, e serve a rendere i servizi pubblici più facili da trovare, da capire e da usare. Una buona architettura dell’informazione aiuta le persone a comprendere ciò che le circonda e a trovare ciò che cercano, sia *online* che *offline*. Lavorare su questo ambito implica fare delle riflessioni sulla struttura dell’informazione e sul linguaggio. L’architettura dell’informazione è inoltre più efficace se è progettata intorno ai reali bisogni delle persone: per questo si parla di *design user centered* (progettazione centrata sull'utente). 
 
-Obiettivo del paragrafo è offrire indicazioni pratiche relative alla progettazione di *touchpoint* e servizi digitali dal punto di vista delle tipologie di contenuti utilizzati(*content type*), dei flussi di interazione con l’utente e della modellazione dei contenuti (per esempio attraverso ontologie e vocabolari controllati).  
+Obiettivo del paragrafo è offrire indicazioni pratiche relative alla progettazione di *touchpoint* e servizi digitali dal punto di vista delle tipologie di contenuti utilizzati (*content type*), dei flussi di interazione con l’utente e della modellazione dei contenuti (per esempio attraverso ontologie e vocabolari controllati).  
 
 La progettazione di un ambiente informativo digitale può partire dalla definizione delle funzioni di base svolte tipicamente dalla Pubblica Amministrazione nei confronti di cittadini e imprese. Possiamo elencarne alcune: 
 
@@ -32,12 +32,14 @@ Architettura dell’informazione
 ==============================
    
 L’analisi delle esigenze informative e dei comportamenti di navigazione degli utenti contribuisce alla progettazione di una efficace architettura dell’informazione. Per analizzare il tipo di pubblico di un punto di contatto digitale è necessario definire:
+
 - i profili di utenti a cui si rivolge l’informazione o il servizio
 - i bisogni, ovvero le necessità informative e operative degli utenti
 
-È bene prendere decisioni sulla base dell’analisi dei dati riferiti all’utente in particolare: 
+È bene prendere decisioni sulla base dell’analisi dei dati riferiti all’utente in particolare:
+
 - i dati statistici di navigazione sul sito per comprendere il comportamento dell’utente 
-- la realizzazione di interviste e test di usabilità per comprendere  l’esperienza e la competenza generale di navigazione dell’utente di riferimento.
+- la realizzazione di interviste e test di usabilità per comprendere  l’esperienza e la competenza generale di navigazione dell’utente di riferimento
 
 Per un approfondimento sui metodi di ricerca sugli utenti vai alla `sezione dedicata alla user research. <../../doc/design-research.html>`_
 
@@ -210,7 +212,7 @@ Per questo motivo è bene costruire *content type* e sistemi di classificazione 
 Le ontologie
 ============
 Come riportato nelle `linee guida per i cataloghi dati <https://docs.italia.it/italia/daf/linee-guida-cataloghi-dati-dcat-ap-it/it/stabile/ontologia.html/>`_  della Pubblica Amministrazione: “Le ontologie si stanno sempre più sviluppando come strumento formale di rappresentazione, sulla base di specifici requisiti, di un dominio di conoscenza. In particolare, al fine di massimizzare la condivisione della conoscenza e garantire interoperabilità semantica, l’ontologia consente di descrivere la semantica dei dati con una terminologia concordata che può essere poi successivamente riusata anche in altri contesti con simili obiettivi. Tipicamente l’ontologia non è un obiettivo di per sé ma costituisce una base solida per poter sviluppare, al di sopra di essa, applicazioni e servizi avanzati semantici, sempre più diffusi con lo sviluppo dei Linked Data (dati collegati) e in ambito World Wide Web”. 
-E’ in corso un progetto di modellazione delle informazioni relative al settore pubblico. Il progetto mette a disposizione diverse ontologie e governa la standardizzazione di nuove ontologie.
+È in corso un progetto di modellazione delle informazioni relative al settore pubblico. Il progetto mette a disposizione diverse ontologie e governa la standardizzazione di nuove ontologie.
 
 `Vai agli standard per il patrimonio informativo pubblico <https://docs.italia.it/italia/daf/lg-patrimonio-pubblico/it/stabile/arch.html#standard-di-riferimento/>`_ 
 
@@ -221,11 +223,11 @@ Vocabolari controllati
 ======================
 Un **vocabolario controllato** è una lista ristretta di termini utilizzati per etichettare, indicizzare e categorizzare i contenuti di un ambiente. Se a un’area o a un intero ambiente è applicato un vocabolario controllato significa che:
 
-- solo i termini inclusi nella sua lista possono essere utilizzati in quello spazio;
-- se è utilizzato da più persone, si applicano regole precise su chi, quando e come è possibile aggiungere nuovi termini alla lista;
-- la lista può crescere, ma solo sulla base di criteri ben precisi, stabiliti a priori.
+- solo i termini inclusi nella sua lista possono essere utilizzati in quello spazio
+- se è utilizzato da più persone, si applicano regole precise su chi, quando e come è possibile aggiungere nuovi termini alla lista
+- la lista può crescere, ma solo sulla base di criteri ben precisi, stabiliti a priori
 
-Grazie a un vocabolario controllato è possibile eliminare la ridondanza e ridurre l’ambiguità del linguaggio. Per esempio: si può prevedere una lista di sinonimi che reindirizzi l’utente o il motore di ricerca da una variante inesatta del termine al termine preferito presente nel vocabolario controllato. Se l’utente cerca “ministero della pubblica istruzione” potrebbe venire reindirizzato a “Ministero dell’Istruzione, dell’Università e della Ricerca”. 
+Grazie a un vocabolario controllato è possibile eliminare la ridondanza e ridurre l’ambiguità del linguaggio. Per esempio si può prevedere una lista di sinonimi che reindirizzi l’utente o il motore di ricerca da una variante inesatta del termine al termine preferito presente nel vocabolario controllato. Se l’utente cerca “ministero della pubblica istruzione” potrebbe venire reindirizzato a “Ministero dell’Istruzione, dell’Università e della Ricerca”. 
 
 Anche le tassonomie sono vocabolari controllati. Una tassonomia è un vocabolario controllato con una precisa struttura gerarchica: i termini della lista sono in relazione tra loro come genitore/figlio. La rappresentazione tipica della tassonomia è quella dell’albero con la radice in alto: i termini di una tassonomia sono definiti “nodi”. Seguendo la metafora dell’albero, un nodo senza successori è detto “foglia”: salendo dalle foglie verso l’alto si passa da una “classe” specifica a una più generale. La radice della tassonomia rappresenta la classe più generale in quella determinata classificazione.
 
