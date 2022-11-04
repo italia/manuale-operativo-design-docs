@@ -344,26 +344,17 @@ Strumenti di web analytics: Web Analytics Italia
 
 In questa sezione puoi trovare informazioni e alcuni link di approfondimento che ti aiuteranno a comprendere come adottare uno strumento di web analytics per i tuoi siti e servizi digitali.
 
-A partire dalla prima metà del 2020, è disponibile gratuitamente **una soluzione di web analytics open source dedicata alle pubbliche amministrazioni italiane**, `Web Analytics Italia <https://designers.italia.it/progetti/web-analytics-italia/>`__ (WAI).
+Esistono numerosi software *open source* per la raccolta e l'analisi dei dati di traffico di siti e servizi digitali, che è possibile utilizzare per ottenere informazioni statistiche relative all'uso di una soluzione digitale e nel rispetto della normativa vigente, quali ad esempio `Matomo analytics <https://developers.italia.it/it/software/italia-software-matomo-32c75d.html>`__ e `Plausible analytics <https://developers.italia.it/it/software/italia-software-plausible-a9b3cb>`__. 
 
-WAI ha lo scopo di: 
+A partire dalla prima metà del 2020, è disponibile inoltre gratuitamente **una soluzione di web analytics open source dedicata alle pubbliche amministrazioni italiane**, `Web Analytics Italia <https://webanalytics.italia.it/>`__ (WAI).
 
-- centralizzare e standardizzare la raccolta e l’elaborazione dei dati di traffico e comportamento utente dei siti e dei servizi digitali delle PA
-- facilitare per gli operatori l’accesso ai dati, la loro condivisione e la loro interpretazione grazie a risorse e reportistica ad hoc
-- garantire la massima aderenza alla norma GDPR in termini di privacy degli utenti tracciati, oltre che la completa proprietà e controllo del dato rilevato da parte dell’amministrazione
-- offrire una vista aggregata dei dati di traffico raccolti accessibile pubblicamente, in ottica di condivisione e trasparenza.
+Il servizio WAI si colloca nel contesto delle `Linee guida di design per i servizi digitali della PA <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/>`__ italiana, oltre che nel `Piano Triennale per l'Informatica nella PA <https://pianotriennale-ict.italia.it/>`__. 
 
-Il servizio WAI si colloca nel contesto delle `Linee guida di design per i servizi digitali della PA <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/>`__ italiana, oltre che nel `Piano Triennale per l'Informatica nella PA <https://pianotriennale-ict.italia.it/>`__.
-
-Per saperne di più su WAI puoi consultare il sito `webanalytics.italia.it <https://webanalytics.italia.it/>`__ oltre che la `guida utente di riferimento <https://docs.italia.it/AgID/wai/wai-user-guide-docs/it/stabile/index.html>`__.
-
-Ricorda che la soluzione open source WAI è compatibile e può funzionare contemporaneamente a qualsiasi altro strumento di web analytics che stai già utilizzando.
-
-Nel paragrafo seguente ti proponiamo inoltre una serie di link di approfondimento per comprendere come installare/configurare **Matomo**, una fra le principali piattaforme di web analytics open source (e software su cui si basano, inoltre, la raccolta e l'analisi dei dati della piattaforma WAI).
+Nel paragrafo seguente ti proponiamo inoltre una serie di link di approfondimento per comprendere come installare/configurare le principali piattaforme di web analytics open source sopraccitate.
 
 
-Strumenti di web analytics: Matomo
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+Strumenti di web analytics: Matomo analytics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 -  `Installazione e configurazione di Matomo
    <https://matomo.org/faq/on-premise/installing-matomo/>`__
@@ -379,3 +370,12 @@ Strumenti di web analytics: Matomo
    <https://matomo.org/guide/manage-matomo/email-reports/>`__
 -  `Importare dati da GA a Matomo
    <https://matomo.org/blog/2012/08/google-analytics-to-piwik/>`__
+
+Strumenti di web analytics: Plausible analytics
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+-  `Scheda software Plausible analytics
+   <https://developers.italia.it/it/software/italia-software-plausible-a9b3cb>`__
+-  `Guida utente di Plausible analytics
+   <https://plausible.io/docs>`__
+ 
