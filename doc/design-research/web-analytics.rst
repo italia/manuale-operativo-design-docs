@@ -350,14 +350,14 @@ A partire dalla prima metà del 2020, è disponibile inoltre gratuitamente **una
 
 Il servizio WAI si colloca nel contesto delle `Linee guida di design per i siti internet e i servizi digitali della PA <https://docs.italia.it/italia/design/lg-design-servizi-web/it/versione-corrente/index.html>`__ italiana, oltre che nel Piano Triennale per l'Informatica nella PA. 
 
-Nel paragrafo seguente ti proponiamo inoltre una serie di link di approfondimento per comprendere come installare/configurare le principali piattaforme di web analytics open source sopraccitate.
+Nel paragrafo seguente ti proponiamo inoltre una serie di link di approfondimento per comprendere come installare/configurare le principali piattaforme di web analytics open source sopra menzionate.
 
 
 Strumenti di web analytics: Matomo analytics
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
--  `Installazione e configurazione di Matomo
-   <https://matomo.org/faq/on-premise/installing-matomo/>`__
+-  `Scheda software Matomo analytics
+   <https://developers.italia.it/it/software/italia-software-matomo-32c75d.html>`__
 -  `Aggiungere un sito a Matomo
    <https://matomo.org/guide/manage-matomo/websites/>`__
 -  `Implementare il tracciamento del motore di ricerca interno al sito
