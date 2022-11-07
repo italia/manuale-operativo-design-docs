@@ -348,7 +348,7 @@ Esistono numerosi software *open source* per la raccolta e l'analisi dei dati di
 
 A partire dalla prima metà del 2020, è disponibile inoltre gratuitamente **una soluzione di web analytics open source dedicata alle pubbliche amministrazioni italiane**, `Web Analytics Italia <https://webanalytics.italia.it/>`__ (WAI).
 
-Il servizio WAI si colloca nel contesto delle `Linee guida di design per i servizi digitali della PA <https://docs.italia.it/italia/designers-italia/design-linee-guida-docs/it/stabile/>`__ italiana, oltre che nel `Piano Triennale per l'Informatica nella PA <https://pianotriennale-ict.italia.it/>`__. 
+Il servizio WAI si colloca nel contesto delle `Linee guida di design per i siti internet e i servizi digitali della PA <https://docs.italia.it/italia/design/lg-design-servizi-web/it/versione-corrente/index.html>`__ italiana, oltre che nel Piano Triennale per l'Informatica nella PA. 
 
 Nel paragrafo seguente ti proponiamo inoltre una serie di link di approfondimento per comprendere come installare/configurare le principali piattaforme di web analytics open source sopraccitate.
 
