@@ -125,6 +125,8 @@ Per approfondimenti
 Protocollo eGLU LG per la realizzazione di test di usabilità
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+Il protocollo eGLU LG è distribuito con licenza Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0). È stato realizzato dal gruppo di lavoro per la revisione del protocollo eGLU del `Gruppo di Lavoro per l'Usabilità (GLU)<https://www.funzionepubblica.gov.it/glu>`_.
+
 Il Protocollo eGLU LG, versione 2018.1, è uno strumento pensato per coloro che
 lavorano nella gestione dei siti istituzionali e tematici di tutte le pubbliche
 amministrazioni e che può essere utilmente adottato anche da chi, nelle PA;
