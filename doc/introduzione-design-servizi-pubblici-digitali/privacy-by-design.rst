@@ -108,3 +108,47 @@ progetto. Periodi più lunghi di conservazione dei dati personali potranno esser
 di archiviazione nel pubblico interesse, di ricerca scientifica o storica o a fini statistici, conformemente all’articolo 89, paragrafo 1, [del GDPR] 
 fatta salva l'attuazione di misure tecniche e organizzative adeguate richieste dal presente regolamento a tutela dei diritti e delle libertà 
 dell’interessato*.   
+
+Le basi del sito web: architettura, informativa privacy, riferimenti DPO 
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+L’architettura di un sito o servizio digitale è **privacy oriented** e tiene in considerazione:
+
+- la presenza di tracker (Google Webfont o relativi a social network) che comportano un’indebita e non trasparente trasmissione a terzi dei dati di 
+navigazione, quali indirizzi IP e orario di connessione;
+- l’utilizzo di social plug in, che presentano diversi gradi di invasività;
+- le modalità di autenticazione (minimizzazione dei dati raccolti attraverso l’autenticazione SPID, social log in);
+- la presenza di cookie e tracker.
+
+**L’informativa sul trattamento dei dati personali deve essere reperibile sul sito e specifica per i singoli servizi offerti che comportano raccolta di dati personali**
+
+L’informativa (disciplinata nello specifico dagli artt. 13 e 14 del GDPR) deve essere fornita all’interessato prima di effettuare il trattamento, quindi 
+prima della raccolta dei dati (se raccolti direttamente presso l’interessato: articolo 13 del GDPR). Fornisci, quindi, al momento della raccolta dei dati 
+personali il link all’informativa o, in alternativa, metti a disposizione le informazioni sul trattamento dei dati sulla stessa pagina in cui raccogli i 
+dati personali.
+
+Il link all’informativa dovrebbe essere visibile su ogni pagina del sito tramite una dicitura di uso comune (come “Privacy”, “Informativa sulla privacy” o 
+“Informativa sulla protezione dei dati”).
+
+Ricorda, inoltre, che le informazioni sul trattamento dei dati personali fornite agli utenti devono essere concise, trasparenti, intelligibili e 
+facilmente accessibili, nonché formulate con un **linguaggio semplice e chiaro**, specialmente nel caso di informazioni destinate ai minori (articolo 12 
+del GDPR): ciò significa che devi fare in modo che i destinatari del tuo sito o servizio riescano sempre a fruire e comprendere l’informativa. 
+
+Se offri il servizio tramite applicazione mobile, metti a disposizione l’informativa (specifica per il servizio tramite APP) presso gli store prima del 
+download e rendi sempre accessibile l’accesso all’informativa anche una volta che è stata installata (ad esempio includendo un’opzione 
+“Privacy”/”Protezione dei dati” nella funzione di menù dell’app).
+
+Per un’informativa chiara, utilizza le icone vincitrici del contest ”Informative chiare” lanciato del Garante Privacy.
+
+**Il sito contiene i dati di riferimento del Responsabile per la Protezione dei Dati**
+
+La designazione di un Responsabile per la Protezione dei Dati è finalizzata a facilitare l’attuazione della normativa da parte del titolare/responsabile 
+(articolo 39 GDPR) ed è obbligatoria quando il trattamento è effettuato da un’autorità pubblica o da un organismo pubblico (articolo 37 GDPR).
+
+Controlla quindi che i dati di contatto del RPD/DPO siano contenuti all’interno dell’informativa pubblicata sul sito.
+Come chiarito dal Garante per la protezione dei dati personali nel parere espresso sulle “Linee guida di design per i siti internet e i servizi digitali 
+della PA”:
+
+- la pubblicazione di tali dati di contatto deve essere effettuata sul sito web dell’amministrazione, all’interno di una sezione facilmente riconoscibile dall’utente e accessibile già dalla homepage, oltre che nell’ambito della sezione dedicata all’organigramma dell’ente e ai relativi contatti;
+- non è necessario che, tra i dati oggetto di pubblicazione, vi sia anche il nominativo del RPD, non essendo questa informazione indispensabile a fini di contatto da parte di chiunque sia interessato: al contrario, risulta imprescindibile che tra i dati di contatto vi sia quantomeno un indirizzo di posta elettronica ordinaria (e, eventualmente, un indirizzo di posta elettronica certificata).
+
+Puoi approfondire l’argomento tramite la pagina informativa ufficiale predisposta dal Garante per la protezione dei dati personali.
