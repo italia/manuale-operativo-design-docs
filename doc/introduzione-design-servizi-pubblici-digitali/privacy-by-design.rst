@@ -113,8 +113,7 @@ Le basi del sito web: architettura, informativa privacy, riferimenti DPO
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 L’architettura di un sito o servizio digitale è **privacy oriented** e tiene in considerazione:
 
-- la presenza di tracker (Google Webfont o relativi a social network) che comportano un’indebita e non trasparente trasmissione a terzi dei dati di 
-navigazione, quali indirizzi IP e orario di connessione;
+- la presenza di tracker (Google Webfont o relativi a social network) che comportano un’indebita e non trasparente trasmissione a terzi dei dati di  navigazione, quali indirizzi IP e orario di connessione;
 - l’utilizzo di social plug in, che presentano diversi gradi di invasività;
 - le modalità di autenticazione (minimizzazione dei dati raccolti attraverso l’autenticazione SPID, social log in);
 - la presenza di cookie e tracker.
