@@ -237,8 +237,6 @@ può essere migliorato dal punto di vista del codice di programmazione.
 
 Strumenti di supporto validi per quest’analisi preliminare sono:
 
-- `Mobiletester.it <http://mobiletester.it/>`_: permette la simulazione su telefoni
-  e tablet ed anche un test minimo di quanto la versione mobile sia funzionale;
 - Developers tools di Google:
 
    - `Mobile-Friendly Test <https://www.google.com/webmasters/tools/mobile-friendly/>`_
