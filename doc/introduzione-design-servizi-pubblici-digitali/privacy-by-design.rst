@@ -109,7 +109,7 @@ conservazione dei dati personali proporzionato e «non superiore al conseguiment
 progetto. Periodi più lunghi di conservazione dei dati personali potranno essere previsti, ma solo “a condizione che siano trattati esclusivamente a fini 
 di archiviazione nel pubblico interesse, di ricerca scientifica o storica o a fini statistici, conformemente all’articolo 89, paragrafo 1, [del GDPR] 
 fatta salva l'attuazione di misure tecniche e organizzative adeguate richieste dal presente regolamento a tutela dei diritti e delle libertà 
-dell’interessato*.   
+dell’interessato”.   
 
 Le basi del sito web: architettura, informativa privacy, riferimenti DPO 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
