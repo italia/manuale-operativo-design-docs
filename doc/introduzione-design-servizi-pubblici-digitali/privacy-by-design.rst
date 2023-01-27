@@ -24,24 +24,22 @@ prodotti, dei servizi e delle applicazioni dovrebbero essere incoraggiati a tene
 progettano tali prodotti, servizi e applicazioni e, tenuto debito conto dello stato dell’arte, a far sì che i titolari del trattamento e i responsabili del
 trattamento possano adempiere ai loro obblighi di protezione dei dati."*
 
-Il Comitato Europeo per la Protezione dei dati (EDPB - European Data Protection Board), cioè l’organo che garantisce l’applicazione coerente del 
+Il Comitato Europeo per la Protezione dei dati (`EDPB - European Data Protection Board <https://edpb.europa.eu/edpb_it>`_), cioè l’organo che garantisce l’applicazione coerente del 
 Regolamento a norma dell’articolo 70 GDPR, fornisce linee guida, raccomandazioni e best practice che potranno aiutarti nell’implementazione dei tuoi 
 servizi.
 
-Consulta anche gli strumenti messi a disposizione dal nostro Garante per la protezione dei dati che è l’Autorità nazionale deputata all’attuazione del 
+Consulta anche gli strumenti messi a disposizione dal nostro `Garante per la protezione dei dati <https://www.garanteprivacy.it/>`_ che è l’Autorità nazionale deputata all’attuazione del 
 GDPR.
 
 Ti segnaliamo, per esempio, questi documenti che potrebbe essere utile consultare per la progettazione di servizi digitali, ricordando di confrontarti 
 sempre con il team privacy interno e il tuo Responsabile per la Protezione dei Dati (Data Protection Officer):
 
-- le Linee Guida n. 4/2019 sulla “Data Protection By Design e By Default” (adottate il 20 ottobre 2020);
-- le Linee Guida WP260 rev.01 sulla trasparenza (adottate il 29 novembre 2019 - versione emendata del 11 aprile 2018);
-- se il servizio digitale che stai progettando prevede anche trattamenti di dati personali nell’ambito dei rapporti di lavoro, ti suggeriamo di consultare 
-il Parere 2/2017 WP249 sul trattamento dei dati sul posto di lavoro. Anche se antecedente, il GDPR si considera attuale per la maggior parte degli aspetti 
-trattati: ricordati che le informazioni generate sul posto di lavoro godono di una particolare tutela;
-- le Linee Guida sull’utilizzo dei cookie e di altri strumenti di tracciamento del 10 giugno 2021. 
+- `le Linee Guida n. 4/2019 <https://edpb.europa.eu/our-work-tools/our-documents/guidelines/guidelines-42019-article-25-data-protection-design-and_en>`_ sulla “Data Protection By Design e By Default” (adottate il 20 ottobre 2020);
+- `le Linee Guida WP260 rev.01 <http://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=612052>`_ sulla trasparenza (adottate il 29 novembre 2019 - versione emendata del 11 aprile 2018);
+- se il servizio digitale che stai progettando prevede anche trattamenti di dati personali nell’ambito dei rapporti di lavoro, ti suggeriamo di consultare il `Parere 2/2017 WP249 sul trattamento dei dati sul posto di lavoro <https://ec.europa.eu/newsroom/article29/item-detail.cfm?item_id=610169>`_ . Anche se antecedente, il GDPR si considera attuale per la maggior parte degli aspetti trattati: ricordati che le informazioni generate sul posto di lavoro godono di una particolare tutela;
+- `le Linee Guida sull’utilizzo dei cookie e di altri strumenti di tracciamento <https://www.garanteprivacy.it/web/guest/home/docweb/-/docweb-display/docweb/9677876>`_ del 10 giugno 2021. 
 
-Progetta e sviluppa servizi digitali sicuri, nel rispetto di quanto indicato dalle **Linee Guida di design per i siti internet e i servizi digitali della PA** ricordandoti che, come chiarito dal Garante per la protezione dei dati personali nel parere espresso su queste Linee guida, nell’ambito dei requisiti di sicurezza cui sono tenuti i vari soggetti coinvolti nel trattamento occorre sempre valutare in concreto i rischi che possono derivare, in particolare, 
+Progetta e sviluppa servizi digitali sicuri, nel rispetto di quanto indicato dalle **Linee Guida di design per i siti internet e i servizi digitali della PA** ricordandoti che, come chiarito dal Garante per la protezione dei dati personali nel  `parere espresso su queste Linee guida <https://www.garanteprivacy.it/home/docweb/-/docweb-display/docweb/9753209>`_, nell’ambito dei requisiti di sicurezza cui sono tenuti i vari soggetti coinvolti nel trattamento occorre sempre valutare in concreto i rischi che possono derivare, in particolare, 
 dalla distruzione, dalla perdita, dalla modifica, dalla divulgazione non autorizzata o dall’accesso, in modo accidentale o illegale, ai dati personali 
 trasmessi, conservati o comunque trattati.
 
