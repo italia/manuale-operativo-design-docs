@@ -106,7 +106,7 @@ motori di ricerca (es. Google) e, conseguentemente, facilmente reperibili in ret
 
 Infine, nel rispetto del principio di «limitazione della conservazione» dei dati (art. 5, par. 1, lett. e), del GDPR), è necessario prevedere un tempo di 
 conservazione dei dati personali proporzionato e «non superiore al conseguimento delle finalità per le quali sono trattati» corrispondenti alla durata del 
-progetto. Periodi più lunghi di conservazione dei dati personali potranno essere previsti, ma solo *a condizione che siano trattati esclusivamente a fini 
+progetto. Periodi più lunghi di conservazione dei dati personali potranno essere previsti, ma solo “a condizione che siano trattati esclusivamente a fini 
 di archiviazione nel pubblico interesse, di ricerca scientifica o storica o a fini statistici, conformemente all’articolo 89, paragrafo 1, [del GDPR] 
 fatta salva l'attuazione di misure tecniche e organizzative adeguate richieste dal presente regolamento a tutela dei diritti e delle libertà 
 dell’interessato*.   
