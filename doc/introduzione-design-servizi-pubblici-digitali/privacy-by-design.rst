@@ -16,13 +16,13 @@ Questi principi impongono, infatti, alla Pubblica Amministrazione di integrare l
 
 Come indicato dal **considerando 78 del GDPR** tali misure, da applicarsi anche in ambito degli appalti pubblici, 
 
-*"potrebbero consistere, tra l’altro, nel ridurre al minimo il trattamento dei dati personali, pseudonimizzare i dati personali il più presto possibile,
+“potrebbero consistere, tra l’altro, nel ridurre al minimo il trattamento dei dati personali, pseudonimizzare i dati personali il più presto possibile,
 offrire trasparenza per quanto riguarda le funzioni e il trattamento di dati personali, consentire all’interessato di controllare il trattamento dei dati e
 consentire al titolare del trattamento di creare e migliorare caratteristiche di sicurezza. In fase di sviluppo, progettazione, selezione e utilizzo di
 applicazioni, servizi e prodotti basati sul trattamento di dati personali o che trattano dati personali per svolgere le loro funzioni, i produttori dei
 prodotti, dei servizi e delle applicazioni dovrebbero essere incoraggiati a tenere conto del diritto alla protezione dei dati allorché sviluppano e
 progettano tali prodotti, servizi e applicazioni e, tenuto debito conto dello stato dell’arte, a far sì che i titolari del trattamento e i responsabili del
-trattamento possano adempiere ai loro obblighi di protezione dei dati."*
+trattamento possano adempiere ai loro obblighi di protezione dei dati.”
 
 Il Comitato Europeo per la Protezione dei dati (`EDPB - European Data Protection Board <https://edpb.europa.eu/edpb_it>`_), cioè l’organo che garantisce l’applicazione coerente del 
 Regolamento a norma dell’articolo 70 GDPR, fornisce linee guida, raccomandazioni e best practice che potranno aiutarti nell’implementazione dei tuoi 
