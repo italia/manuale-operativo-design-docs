@@ -47,6 +47,8 @@ In particolare, ricorda che in presenza di un rischio elevato per i diritti e le
 contesto e le finalità del trattamento, il titolare, ai sensi dell’art. 35 del GDPR, deve effettuare, prima di procedere al trattamento,una **valutazione 
 d’impatto sulla protezione dei dati**, consultando preventivamente il Garante al ricorrere delle condizioni previste dall’art. 36 del GDPR.
 
+Per approfondire, consulta la `pagina informativa del Garante <https://www.garanteprivacy.it/valutazione-d-impatto-della-protezione-dei-dati-dpia->`_ e le  `Linee guida in materia di valutazione d'impatto sulla protezione dei dati e determinazione della possibilità che il trattamento "possa presentare un rischio elevato" ai fini del regolamento (UE) 2016/679 <https://edpb.europa.eu/system/files/2021-04/edpb_guidelines_201904_dataprotection_by_design_and_by_default_v2.0_it.pdf>`_, WP 248 rev. 01, adottate dal Comitato europeo per la protezione dei dati il 4 aprile 2017, come modificate e adottate da ultimo il 4 ottobre 2017.
+
 Richiedi il consenso quando necessario 
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 Il GDPR prevede che le pubbliche amministrazioni possano trattare dati personali quando «è necessario per adempiere un obbligo legale al quale è soggetto 
