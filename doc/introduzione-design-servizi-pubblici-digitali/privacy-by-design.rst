@@ -136,7 +136,9 @@ Se offri il servizio tramite applicazione mobile, metti a disposizione l’infor
 download e rendi sempre accessibile l’accesso all’informativa anche una volta che è stata installata (ad esempio includendo un’opzione 
 “Privacy”/”Protezione dei dati” nella funzione di menù dell’app).
 
-Per un’informativa chiara, utilizza le icone vincitrici del contest ”Informative chiare” lanciato del Garante Privacy.
+Per un’informativa chiara, utilizza le icone vincitrici del `contest ”Informative chiare” <https://www.garanteprivacy.it/temi/informativechiare>`_ lanciato del Garante Privacy.
+
+Per approfondire consulta le `Linee guida sulla trasparenza ai sensi del regolamento 2016/679 <https://ec.europa.eu/newsroom/article29/items/622227>`_ adottate dal “Gruppo di lavoro articolo 29” il 29 novembre 2017 e modificate l’11 aprile 2018, WP260 rev.01, fatte proprie dal Comitato europeo per la protezione dei dati con “Endorsement 1/2018” del 25 maggio 2018.
 
 **Il sito contiene i dati di riferimento del Responsabile per la Protezione dei Dati**
 
@@ -144,10 +146,10 @@ La designazione di un Responsabile per la Protezione dei Dati è finalizzata a f
 (articolo 39 GDPR) ed è obbligatoria quando il trattamento è effettuato da un’autorità pubblica o da un organismo pubblico (articolo 37 GDPR).
 
 Controlla quindi che i dati di contatto del RPD/DPO siano contenuti all’interno dell’informativa pubblicata sul sito.
-Come chiarito dal Garante per la protezione dei dati personali nel parere espresso sulle “Linee guida di design per i siti internet e i servizi digitali 
-della PA”:
+Come chiarito dal Garante per la protezione dei dati personali nel parere espresso sulle Linee guida di design per i siti internet e i servizi digitali 
+della PA:
 
 - la pubblicazione di tali dati di contatto deve essere effettuata sul sito web dell’amministrazione, all’interno di una sezione facilmente riconoscibile dall’utente e accessibile già dalla homepage, oltre che nell’ambito della sezione dedicata all’organigramma dell’ente e ai relativi contatti;
 - non è necessario che, tra i dati oggetto di pubblicazione, vi sia anche il nominativo del RPD, non essendo questa informazione indispensabile a fini di contatto da parte di chiunque sia interessato: al contrario, risulta imprescindibile che tra i dati di contatto vi sia quantomeno un indirizzo di posta elettronica ordinaria (e, eventualmente, un indirizzo di posta elettronica certificata).
 
-Puoi approfondire l’argomento tramite la pagina informativa ufficiale predisposta dal Garante per la protezione dei dati personali.
+Puoi approfondire l’argomento tramite la `pagina informativa ufficiale predisposta dal Garante per la protezione dei dati personali <https://www.garanteprivacy.it/regolamentoue/rpd>`_.
