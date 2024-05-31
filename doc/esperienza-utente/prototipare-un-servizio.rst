@@ -27,7 +27,7 @@ Un *wireframe* è una illustrazione dell’interfaccia di una pagina, che ha com
 
 - organizzare gli elementi interattivi e i blocchi di contenuto nello spazio disponibile sullo schermo;
 - evidenziare le funzionalità disponibili;
-- mostrare la sequenza di passaggi (Flusso di interazione) che l’utente deve fare per concludere un processo. 
+- mostrare la sequenza di passaggi (flusso di interazione) che l’utente deve fare per concludere un processo. 
 
 Date queste priorità, i *wireframe* non comprendono stili, colore o grafica, motivo per cui possono essere definiti prototipi a bassa definizione. 
 
