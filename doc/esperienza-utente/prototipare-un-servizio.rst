@@ -5,13 +5,7 @@ Prototipare un servizio
 
 Un **prototipo** è un modello sperimentale che permette di testare un’idea in maniera rapida ed economica, permettendo al team di rifinire il progetto o di valutare cambiamenti di approccio, se si rivelano necessari, prima di investire tempo e denaro nello sviluppo vero e proprio. Uno dei principali vantaggi del processo di prototipazione consiste nella possibilità di effettuare delle sessioni di validazione dell’esperienza e del *concept* già nelle prime fasi della progettazione, mantenendo gli utenti al centro del processo di *design*. 
 
-Allo stesso modo, un prototipo aiuta a coinvolgere gli *stakeholder* fin dalle prime
-fasi del progetto, mostrando loro le soluzioni che il team sta
-immaginando per rispondere ai bisogni degli utenti e agli obiettivi del
-progetto. Infine, grazie a un prototipo è più facile valutare l’impatto
-tecnologico di un progetto, e la presenza di limiti o opportunità
-tecnologiche è un fattore rilevante nella evoluzione o modifica del
-prototipo che si sta realizzando.
+Un prototipo aiuta a coinvolgere gli *stakeholder* fin dall'inizio, mostrando le soluzione proposte dal team per risolvere le necessità degli utenti e raggiungere gli obiettivi del progetto. Inoltre, un prototipo rende più semplice valutare l'effetto tecnologico, evidenziando limiti o opportunità tecnologiche.
 
 Nella prima fase il **prototipo** è **low-fi (low fidelity)**, a bassa fedeltà. Questo tipo di manufatto ha diversi vantaggi:
 
