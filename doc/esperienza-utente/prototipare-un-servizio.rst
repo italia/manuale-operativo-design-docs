@@ -37,7 +37,7 @@ Date queste priorità, i *wireframe* non comprendono stili, colore o grafica, mo
 
 *Figura 1 - Un esempio di “wireframe”, o prototipo a “bassa fedeltà”.*
 
-La finalità di condurre progressivamente l’utente al raggiungimento dei propri obiettivim - mettendo in evidenza le relazioni tra i contenuti e i flussi di interazione - è assolta in modo specifico dai **prototipi interattivi**: questi sono sequenze di *wireframe*, connessi fra loro attraverso link e menu di navigazione che permettono di **simulare il percorso interattivo dell’utente**. 
+La finalità di condurre progressivamente l’utente al raggiungimento dei propri obiettivi - mettendo in evidenza le relazioni tra i contenuti e i flussi di interazione - è assolta in modo specifico dai **prototipi interattivi**: questi sono sequenze di *wireframe*, connessi fra loro attraverso link e menu di navigazione che permettono di **simulare il percorso interattivo dell’utente**. 
 
 .. figure:: media/image3.jpg
     :alt: Wireframe interattivo (user flow) per il rinnovo della carta di identità:
