@@ -14,9 +14,11 @@ mobili così come previsto dalle `“Linee guida sull’accessibilità degli str
 informatici”
 <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html?highlight=accessibilit%C3%A0%20strumenti%20informat>`__.
 
-Sono disponibili ulteriori approfondimenti sull’accessibilità nella `sezione dedicata
-del sito dell’Agenzia per l’Italia digitale
+È disponibile  
+
+Sono disponibili ulteriori approfondimenti sull’accessibilità nel `Fondamento Accessibiltà <https://designers.italia.it/design-system/fondamenti/accessibilita/>`__ del Design system .italia e nella `sezione dedicata del sito dell’Agenzia per l’Italia digitale
 <https://www.agid.gov.it/it/design-servizi/accessibilita>`__.
+
 
 Definizione
 ~~~~~~~~~~~
