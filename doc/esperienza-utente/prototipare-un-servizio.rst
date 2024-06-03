@@ -99,5 +99,5 @@ Una volta costruito, testato e migliorato il prototipo a bassa fedeltà, si può
 A supporto della realizzazione del prototipo ad alta fedeltà, è possibile utilizzare le seguenti risorse: 
 
 - la sezione del manuale operativo di design relativa alla **progettazione dell’interfaccia utente e all’architettura dell’informazione**; 
-- il `kit Progettazione interfaccia <https://designers.italia.it/kit/progettazione-interfaccia/>`__ di Designers Italia, un set di componenti visive già pronte per assemblare l’interfaccia di un sito o di un’app; 
+- il `kit Progettazione interfaccia <https://designers.italia.it/kit/progettazione-interfaccia/>`__ di Designers Italia, che inlcude il Design system .italia e lo UI Kit Italia, una libreria di componenti già pronti che puoi adattare per assemblare l’interfaccia di un sito o di un’app; 
 - la sezione del manuale operativo relativa al **content design** e il `kit Contenuti e linguaggio <https://designers.italia.it/kit/contenuti-linguaggio/>`__\. 
