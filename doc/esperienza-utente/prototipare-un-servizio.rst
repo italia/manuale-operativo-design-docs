@@ -92,7 +92,7 @@ Nel **Wireframe kit**, l'attenzione è rivolta ai tipi di componenti, non alle l
 Per costruire un *wireframe* si possono usare diversi metodi: oltre ai numerosi software specifici presenti sul mercato, da cui utilizzare la libreria di Designers Italia, è possibile realizzarli anche in modo analogico, facendo semplici disegni o utilizzando il `kit per i wireframe di carta <https://drive.google.com/file/d/1wdb4JWlcJRYum2LpnllFy2zlxx2EptYx/view>`__\. 
 Per progettare la sequenza delle schermate di un sito o di una app utilizzando il queste risorse, sarà quindi sufficiente scegliere e assemblare i componenti e i pattern di cui il kit è composto. 
 
-Il kit è disponibile sia con Figma che con Sketch, ma può essere esportato e utilizzato con altri software di prototipazione; è pubblicato su Github, una piattaforma che permette di visionare tutte le fasi di progettazione e sviluppo grazie al controllo di versione.
+Il kit è disponibile sia per Figma che per Sketch, ma può anche essere esportato e utilizzato con altri software di prototipazione; è pubblicato su Github, una piattaforma che permette di visionare tutte le fasi di progettazione e sviluppo grazie al controllo di versione.
 
 Una volta costruito, testato e migliorato il prototipo a bassa fedeltà, si può passare quindi alla **realizzazione di un prototipo ad alta fedeltà** per agevolare la comprensione e la condivisione del progetto, realizzare test di usabilità e facilitare l’avvio della fase di sviluppo.
 
