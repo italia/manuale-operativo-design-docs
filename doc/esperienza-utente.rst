@@ -20,10 +20,12 @@ progettazione deve tener conto dei molti aspetti che definiscono l’esperienza 
 - **l’adeguatezza rispetto alle capacità cognitive** degli utenti (semplicità d’uso, accessibilità, scalabilità rispetto al livello di conoscenza e competenza sul prodotto/servizio);
 - la **rispondenza alle capacità fisiche e percettive** degli utenti (accessibilità, ergonomicità).
 
-La progettazione dell’esperienza utente (o *user experience design*) fa quindi riferimento alla conoscenza acquisita durante la fase di ricerca e procede in parallelo con il lavoro di costruzione dell’architettura dell’informazione. Il primo importante passo della progettazione è la elaborazione di una proposta progettuale - o di più proposte alternative - dell’interfaccia utente, che ne definiscono l’impianto generale in termini di modello interattivo, *layout* e struttura dei contenuti. 
+La **progettazione dell'esperienza utente** (o user experience design) fa riferimento alla conoscenza acquisita durante la fase di ricerca e procede in parallelo con il lavoro di costruzione dell'architettura dell'informazione. 
 
-L’impostazione ottimale viene individuata e validata anche attraverso sessioni di confronto con utenti e/o *stakeholder*; questa costituisce il riferimento generale dal quale si procede alla **progettazione di dettaglio delle caratteristiche dell’interazione fra utente e servizio, attraverso modalità collaborative e un approccio iterativo e incrementale**.
+Il primo importante passo della progettazione è la **elaborazione di una proposta progettuale** - o di più proposte alternative - dell'interfaccia utente, che ne definiscono l'impianto generale in termini di modello interattivo, layout e struttura dei contenuti.
+L’impostazione ottimale viene individuata e validata anche attraverso sessioni di confronto con utenti e/o *stakeholder*; questa costituisce il riferimento generale dal quale si procede alla progettazione di **dettaglio** delle caratteristiche dell'**interazione fra utente e servizio**, attraverso modalità collaborative e un approccio iterativo e incrementale.
 
+Nel corso della progettazione, l'impiego del **[Design system .italia](https://designers.italia.it/design-system/)** si rivela di fondamentale importanza. Questo strumento non solo garantisce coerenza tra i vari elementi dell’interfaccia e fornisce efficienza nel processo di sviluppo, ma sopratutto permette di mantenere un'enfasi costante sull'usabilità, assicurando che ogni aspetto del prodotto finale sia intuitivo e accessibile per l'utente.
 
 .. toctree::
   :maxdepth: 3
