@@ -4,8 +4,12 @@ Il progetto dell'interfaccia utente
 
 .. include:: /banner.rst
 
-L’interfaccia utente è tutto ciò che fa da ponte tra i servizi digitali e i loro destinatari. È l’insieme dei cosiddetti *touchpoint* di un servizio digitale. Non si tratta solo di una serie di elementi grafici e visuali, ma di **tutto ciò con cui l’utente entra in relazione, nei vari contesti, per usare un servizio o un prodotto digitale**. 
-L’interfaccia utente (in inglese *user interface*, abbreviato UI) è l’insieme di quegli elementi con i quali il cittadino interagisce per ottenere servizi pubblici digitali: non si compone esclusivamente di elementi grafici o visuali, ma comprende tutto ciò con cui l’utente entra in relazione durante l’utilizzo di un servizio digitale. 
+L’interfaccia utente è tutto ciò che fa da ponte tra i servizi digitali e i loro destinatari. È l’insieme dei cosiddetti *touchpoint* di un servizio digitale. 
+
+Non si tratta solo di una serie di elementi grafici e visuali, ma di **tutto ciò con cui l’utente entra in relazione, nei vari contesti, per usare un servizio o un prodotto digitale**. 
+
+L’interfaccia utente (in inglese *user interface*, abbreviato UI) è l’insieme di quegli elementi con i quali il cittadino interagisce per ottenere servizi pubblici digitali: non si compone esclusivamente di elementi grafici o visuali, ma comprende tutto ciò con cui l’utente entra in relazione durante l’utilizzo di uno di essi. 
+
 Nella sequenza delle attività che conducono alla implementazione di un servizio digitale, alla fase di progettazione - che consente di dare corpo a soluzioni progettuali per il servizio attraverso i prototipi - segue quella di realizzazione vera e propria dell’interfaccia, che comporta anch’essa alcuni passaggi, con diversi livelli di dettaglio dell’interfaccia stessa. 
 
 Gli obiettivi
