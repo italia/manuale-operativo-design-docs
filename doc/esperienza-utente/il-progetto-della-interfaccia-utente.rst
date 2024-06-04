@@ -18,7 +18,8 @@ Gli obiettivi
 Lo scopo dell’interfaccia di un sito o servizio è quello di aiutare l’utente a raggiungere ciò che cerca in modo naturale e immediato, in modo trasparente. Per questo, la coerenza dei vari elementi che la compongono tra le varie sezioni, pagine e servizi, anche su diversi dispositivi, è un elemento fondante per la creazione di prodotti efficaci e  semplici da usare.
 
 Punti cardine di una buona interfaccia sono **l’inclusività, l’accessibilità e la tolleranza agli errori**: deve essere comprensibile e usabile da tutti i cittadini, non ci si deve aspettare che l’utente abbia sempre chiaro ciò che vuole, sappia comprendere appieno eventuali istruzioni, o che sia in grado di decifrare colori, simboli ed elementi non familiari. 
-In questo ambito, il designer ha lo scopo di progettare interfacce che sappiano accompagnare il cittadino nel percorso di ricerca e utilizzo del sito o servizio, prevenendo e correggendo eventuali errori e tenendo in considerazione tutte le buone pratiche e le regole che permettono di rispondere a modalità di utilizzo da parte di utenti ad esempio con disabilità, con difficoltà di comprensione tecnologica, o che utilizzano dispositivi con limitate capacità o scarsa connettività. 
+
+In questo contesto, l'obiettivo del designer è progettare interfacce che guidano il cittadino nel processo di ricerca e utilizzo del sito o servizio. Questo implica prevenire e correggere eventuali errori, tenendo conto di tutte le migliori pratiche e regole che permettono di rispondere alle esigenze di utenti con vari bisogni, come disabilità, difficoltà di comprensione tecnologica, o uso di dispositivi con capacità limitate o connettività scarsa.
 
 In questa parte del manuale operativo di design ci concentriamo sugli aspetti più classici della costruzione dell’interfaccia, partendo da un prototipo grezzo per arrivare a un sito o a una app funzionante e pronta per essere usata da chiunque. 
 
