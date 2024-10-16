@@ -20,4 +20,7 @@ Il punto di partenza per la progettazione delle interazioni sono i bisogni degli
 
   progettazione-dell-interazione/caratteristiche-dell-interazione.rst
   progettazione-dell-interazione/user-stories.rst
+  progettazione-dell-interazione/flussi-di-interazione.rst
+  progettazione-dell-interazione/wireframe.rst
+  progettazione-dell-interazione/prototipi-interattivi.rst
  
