@@ -109,3 +109,14 @@ Framework di sviluppo
 Fanno inoltre parte del design system .italia diversi framework di sviluppo **open source**, che implementano pattern e componenti dello UI Kit Italia in **codice pronto all’uso**. 
 
 Maggiori dettagli sono disponibili nel capitolo “Sviluppare con il design system .italia”. 
+
+Come contribuire al design system .italia
+=================================================
+
+Il design system .italia è un progetto open source realizzato e mantenuto con approccio aperto e trasparente dal team di Designers Italia. È un progetto aperto ai contributi di tutte le persone, ciascuna secondo la propria esperienza e professionalità. Dalla documentazione alla segnalazione di problemi, da nuovi componenti al codice per lo sviluppo, è possibile prendere parte al miglioramento continuo del progetto. 
+
+Crediamo che siti e servizi digitali progettati in modo collaborativo siano migliori e che quindi il contributo della community sia fondamentale per far crescere la qualità dei siti e servizi della Pubblica Amministrazione italiana. 
+
+`Scopri come contribuire <https://designers.italia.it/design-system/come-contribuire/>`_
+
+ 
