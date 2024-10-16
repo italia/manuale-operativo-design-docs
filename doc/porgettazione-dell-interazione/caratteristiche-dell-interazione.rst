@@ -1,4 +1,4 @@
-Le caratteristiche dell'interazione
+Caratteristiche dell'interazione
 =========================================
 Progettare un prodotto o servizio, significa definire le **caratteristiche fondamentali** dell'esperienza che le persone avranno accedendovi. Questa si articola attraverso diversi aspetti che è necessario identificare e tradurre in soluzioni per ogni specifico punto di contatto digitale (touchpoint) e non:
 
