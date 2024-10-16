@@ -12,7 +12,5 @@ La norma ISO 9241-210:2010 definisce la user experience (esperienza utente, o UX
   :maxdepth: 3
   :caption: Indice dei contenuti
 
-  esperienza-utente/prototipazione.rst
-  esperienza-utente/dai-bisogni-degli-utenti-ai-flussi-di-interazione.rst
-  esperienza-utente/prototipare-un-servizio.rst
-  esperienza-utente/accessibilita.rst
+  progettazione-dell-interazione/caratteristiche-dell-interazione.rst
+ 
