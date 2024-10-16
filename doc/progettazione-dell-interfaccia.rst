@@ -7,3 +7,9 @@ L'obiettivo principale dell'interfaccia utente è rendere l'uso del prodotto sem
 
 Progettare un'interfaccia utente significa, quindi, creare e organizzare i contenuti e componenti, interattivi e non, di un prodotto digitale in modo che tutte le persone possano utilizzarlo con facilità, efficienza e soddisfazione.
 
+.. toctree::
+   :maxdepth: 2
+
+   progettazione-dell-interfaccia/obiettivi-dell-interfaccia.rst
+   progettazione-dell-interfaccia/interfaccia-come-identita-del-prodotto.rst
+   progettazione-dell-interfaccia/elementi-dell-interfaccia.rst
