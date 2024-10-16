@@ -4,6 +4,8 @@ Progettare con il design system .italia
   
 .italia è il primo design system dedicato al mondo della Pubblica Amministrazione italiana e rappresenta il punto di partenza per realizzare siti e servizi digitali pubblici di qualità, accessibili, inclusivi e basati sulle effettive esigenze delle persone.
 
+È stato creato per aiutare le pubbliche amministrazioni e i loro fornitori a **risolvere le complessità** senza dover partire da zero e a **rispettare il `requisito 4.5 delle Linee Guida di Design <https://designers.italia.it/norme-e-riferimenti/linee-guida-di-design/requisito-4-5/>`_** (emesse sulla base dell’articolo 53 del Codice dell’amministrazione digitale), che prescrive interfacce coerenti nello stile e nell'esperienza d'uso, privilegiando le indicazioni presenti su Designers Italia. 
+
 Fanno parte del design system un insieme di guide, documentazione e risorse operative che consentono a designer e sviluppatori di realizzare interfacce digitali coerenti, che rispettino gli standard di usabilità e accessibilità stabiliti per il settore pubblico.
 
 Le risorse principali sono: 
