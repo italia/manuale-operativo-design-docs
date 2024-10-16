@@ -13,3 +13,5 @@ Progettare un'interfaccia utente significa, quindi, creare e organizzare i conte
    progettazione-dell-interfaccia/obiettivi-dell-interfaccia.rst
    progettazione-dell-interfaccia/interfaccia-come-identita-del-prodotto.rst
    progettazione-dell-interfaccia/elementi-dell-interfaccia.rst
+   progettazione-dell-interfaccia/progettare-e-costruire-in-alta-fedelta.rst
+
