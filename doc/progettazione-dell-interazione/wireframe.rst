@@ -1,7 +1,7 @@
 Wireframe
 =============
 
-Gli schemi visivi (wireframe) rappresentano il primo passo per visualizzare una o più proposte iniziali di un prodotto digitale. Essi definiscono l'impianto generale in termini di struttura e gerarchia dei contenuti. 
+I wireframe sono schemi visivi che rappresentano una o più proposte iniziali di un prodotto digitale. Sono il primo passo per definire l'impianto generale in termini di struttura e gerarchia dei contenuti. 
 
 **[placeholder immagine]**
 
