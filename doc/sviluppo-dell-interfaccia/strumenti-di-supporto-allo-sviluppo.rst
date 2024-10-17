@@ -11,15 +11,15 @@ Attraverso una feature detection puntuale, puoi comprendere come indirizzare ogn
 
 Ad esempio, attraverso semplici *media-queries* nel CSS (attraverso la regola @media), puoi mostrare versioni diverse di una pagina web a seconda che le persone stiano usando uno smartphone, un televisore o vogliano stampare la pagina stessa con la propria stampante.
 
-******codice
+.. literalinclude:: doc/sviluppo-dell-interfaccia/esempio-codice-1.html
 
 Oppure attraverso la regola @support (in modo simile a quanto avviene per la più conosciuta regola @media), puoi verificare la corretta interpretazione di proprietà CSS da parte dei browser su cui viene usata. Ecco, ad esempio, come puoi verificare attraverso il codice se il browser prevede il supporto della funzionalità CSS grid: 
 
-******codice
+.. literalinclude:: doc/sviluppo-dell-interfaccia/esempio-codice-2.html
 
 Anche JavaScript ti permette di analizzare qualsiasi funzionalità presente tra le Web API (Application Programming Interface): ad esempio, attraverso la geo-localizzazione di un dispositivo, è possibile fornire un servizio più preciso a seconda della posizione dell’utente nello spazio, a patto che tale feature sia disponibile nel dispositivo utilizzato. Ecco un esempio: 
 
-******codice
+.. literalinclude:: doc/sviluppo-dell-interfaccia/esempio-codice-3.html
 
  
 Esistono anche librerie ed esempi di codice che hanno l’obiettivo di arginare le differenze tra i vari Browser fornendo il supporto di alcune funzionalità altrimenti mancanti, le cosiddette pratiche di *polyfill* e *shim*. 
