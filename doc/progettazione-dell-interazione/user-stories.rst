@@ -9,7 +9,8 @@ Le user stories facilitano la comprensione delle caratteristiche richieste al se
 
 Ecco una lista di esempi di alcune risposte (funzioni) ai bisogni degli utenti del sito di un Comune, espressi in termini di user stories:
 
-.. list-table:: Gli allegati tecnici.
+
+.. list-table:: Lista di user stories del sito di un Comune.
    :widths: 15 10 30
    :header-rows: 1
 
