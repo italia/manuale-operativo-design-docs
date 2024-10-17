@@ -28,3 +28,15 @@ Supporto browser
 Come regola generale, per lo sviluppo di un sito web o servizio digitale per la Pubblica Amministrazione, è necessario assicurare la compatibilità con versioni dei browser che abbiano una penetrazione media tra la popolazione di almeno 1 persona ogni 100 abitanti. A questo proposito, puoiutilizzare come riferimento operativo la `configurazione condivisa Browserslist <https://github.com/italia/browserslist-config-design-italia>`_ dedicata alla Pubblica Amministrazione italiana.
 
 È buona norma inoltre analizzare regolarmente le statistiche d’uso dei dispositivi e delle diverse risoluzioni che gli utenti adoperano per accedere al sito. Per fare questo, puoi avvalerti di diverse sorgenti di dati, tra le quali `StatCounter.com <https://statcounter.com/>`_ che permette di filtrare i dati per paese e ti indica le `versioni browser più usate in Italia <https://gs.statcounter.com/browser-version-market-share/all/italy>`_.
+
+Misurare le prestazioni
+-------------------------
+Le prestazioni di un sito o servizio digitale concorrono direttamente a una maggiore facilità d’uso e un’esperienza più soddisfacente per le persone. In questo senso, è bene differenziare due principali ambiti che possono avere impatto determinante sull’esperienza finale: i **tempi di caricamento della pagina** e le **performance di esecuzione della pagina stessa**.
+
+Per analizzare i tempi di caricamento e rendering della pagina puoi utilizzare semplici strumenti online come `Google PageSpeed <https://pagespeed.web.dev/?utm_source=psi&utm_medium=redirect>`_ e `WebPagetest.org <https://www.webpagetest.org/>`_. Con questi strumenti, puoi verificare problemi di immediata risoluzione, come l’utilizzo di immagini esageratamente grandi o poco ottimizzate, oppure calibrare altri fattori, come sfruttare al meglio il caching del browser o dare priorità ai contenuti immediatamente visibili.
+
+Per ottenere invece informazioni più dettagliate riguardo eventuali inefficienze di esecuzione del codice a *runtime*, puoi fare riferimento agli strumenti di analisi presenti nei principali browser (`Google Chrome <https://developer.chrome.com/docs/devtools/>`_, `Mozilla Firefox <https://firefox-source-docs.mozilla.org/devtools-user/index.html>`_, `Microsoft Edge <https://learn.microsoft.com/en-us/archive/microsoft-edge/legacy/developer/>`_) i quali possono dare indicazioni su eventuali problemi che avvengono durante la navigazione stessa di una singola pagina.
+
+Chrome developer tools ti fornisce anche un’analisi approfondita di una pagina web nella sua sezione «Audits», permettendo di portare alla luce problemi in ambito di *progressive web apps*, *performance*, *accessibilità*, e *utilizzo di best practices*. 
+
+In caso di progettazione di progressive web apps ideate per essere usate principalmente su dispositivi mobili, è bene tenere a mente anche il concetto di *offline first*, fornendo un’esperienza di base anche in caso di limitata connettività. 
