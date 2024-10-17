@@ -5,7 +5,24 @@ In questo capitolo andremo ad esplorare le risorse essenziali e le buone pratich
 
 Feature detection
 -------------------
+Gli approcci allo sviluppo possono essere realizzati attraverso la cosiddetta *feature detection (riconoscimento delle caratteristiche)*: il sito web può rilevare una varietà di proprietà che caratterizzano il metodo di accesso al sito da parte del cittadino. 
 
+Attraverso una feature detection puntuale, puoi comprendere come indirizzare ogni aspetto dell’informazione che vuoi trasmettere. Tali caratteristiche possono spaziare dallo schermo utilizzato, in termini di dimensioni, risoluzione e densità dei pixel, fino ai metodi di input (mouse, touch-screen, tastiera, input vocale, ecc.); senza dimenticare le opzioni per la stampa e le tecnologie di ausilio per le persone con disabilità. 
+
+Ad esempio, attraverso semplici *media-queries* nel CSS (attraverso la regola @media), puoi mostrare versioni diverse di una pagina web a seconda che le persone stiano usando uno smartphone, un televisore o vogliano stampare la pagina stessa con la propria stampante.
+
+******codice
+
+Oppure attraverso la regola @support (in modo simile a quanto avviene per la più conosciuta regola @media), puoi verificare la corretta interpretazione di proprietà CSS da parte dei browser su cui viene usata. Ecco, ad esempio, come puoi verificare attraverso il codice se il browser prevede il supporto della funzionalità CSS grid: 
+
+******codice
+
+Anche JavaScript ti permette di analizzare qualsiasi funzionalità presente tra le Web API (Application Programming Interface): ad esempio, attraverso la geo-localizzazione di un dispositivo, è possibile fornire un servizio più preciso a seconda della posizione dell’utente nello spazio, a patto che tale feature sia disponibile nel dispositivo utilizzato. Ecco un esempio: 
+
+******codice
+
+ 
+Esistono anche librerie ed esempi di codice che hanno l’obiettivo di arginare le differenze tra i vari Browser fornendo il supporto di alcune funzionalità altrimenti mancanti, le cosiddette pratiche di *polyfill* e *shim*. 
 
 Verificare le feature disponibili con Can I use
 ------------------------------------------------
