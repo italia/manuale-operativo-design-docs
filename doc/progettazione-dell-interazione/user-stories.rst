@@ -11,7 +11,7 @@ Ecco una lista di esempi di alcune risposte (funzioni) ai bisogni degli utenti d
 
 
 .. list-table:: Lista di user stories del sito di un Comune.
-   :widths: 15 10 30
+   :widths: 15 10 30 30
    :header-rows: 1
 
    * - Persona
