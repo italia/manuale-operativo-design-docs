@@ -3,21 +3,16 @@ Introduzione
 
 .. include:: /banner.rst
 
-La progettazione di un ambiente digitale si basa sui risultati delle
-attività di ricerca utente e co-progettazione, realizzate al fine di far emergere i bisogni effettivi delle persone
-per cui si sta progettando. Un buon metodo di lavoro può essere la
-stesura di **liste di bisogni ordinate per priorità**, ai quali
-affiancare la relativa funzione da progettare per soddisfarli. 
+La progettazione di un ambiente digitale si basa sui risultati delle attività di ricerca utente e co-progettazione, realizzate al fine di far emergere i bisogni effettivi delle persone per cui si sta progettando. Un buon metodo di lavoro può essere la stesura di **liste di bisogni ordinate per priorità**, ai quali affiancare la relativa funzione da progettare per soddisfarli. 
 
-Tra gli strumenti a disposizione per affrontare questa fase, uno dei più
-utilizzati è quello per la costruzione dei flussi di interazione, che conduce a una descrizione dettagliata e ordinata delle azioni che l’utente compie sul sistema
-per raggiungere i propri obiettivi, completa delle risposte che il sistema fornisce come esito di ciascuna azione. I flussi di interazione rendono evidenti le
-complessità di un servizio digitale e i possibili passaggi critici che necessitano quindi di particolare attenzione in termini di progettazione e sviluppo.
+Tra gli strumenti a disposizione per affrontare questa fase, uno dei più utilizzati è quello per la **costruzione dei flussi di interazione**, che conduce a una descrizione dettagliata e ordinata delle azioni che l’utente compie sul sistema per raggiungere i propri obiettivi, completa delle risposte che il sistema fornisce come esito di ciascuna azione. I flussi di interazione rendono evidenti le complessità di un servizio digitale e i possibili passaggi critici che necessitano quindi di particolare attenzione in termini di progettazione e sviluppo.
 
-La fase successiva del processo di progettazione è la creazione di **prototipi** mediante i quali impostare la struttura dell’interfaccia, definendo le modalità interattive e gli elementi principali, in termini di contenuti, funzionalità e caratteristiche di *layout*. 
+La fase successiva del processo di progettazione è la **creazione di prototipi** mediante i quali impostare la struttura dell’interfaccia, definendo le modalità interattive e gli elementi principali, in termini di contenuti, funzionalità e caratteristiche di *layout*. 
 Il prototipo consente di dare forma al servizio senza occuparsi dello stile grafico e dà modo al gruppo di lavoro di esplorare rapidamente una o più soluzioni alternative; è pertanto utilissimo per verificare e comunicare le principali funzioni d’uso di un prodotto e offrire un’idea dell’ambiente informativo in cui l’utente si troverà a interagire per raggiungere il proprio scopo. 
 
 La prototipazione a bassa (e media) fedeltà permette quindi la **simulazione di uno o più scenari d’uso del servizio**, riproducendo l’esperienza che l’utente avrà con l'ambiente digitale prima ancora di iniziare a svilupparlo. 
+
+Durante entrambe le fasi, quella progettuale e di prototipazione, è fondamentale approfondire e iniziare ad applicare i fondamenti del [design system .italia](https://designers.italia.it/design-system/), che costituiscono le basi di cui hai bisogno per costruire un servizio pubblico. L'utilizzo di questo strumento sin dalle prime fasi progettuali, semplifica il processo di produzione evitando di ripartire da zero. 
 
 In sintesi, progettare un servizio significa tradurre i bisogni degli utenti in funzioni e rappresentare queste funzioni all’interno di un ambiente informativo 
 facile da comprendere per le persone che lo usano. Alla prototipazione di un servizio concorrono tutte le specializzazioni del design, che contribuiscono a 
@@ -26,5 +21,5 @@ serie di iterazioni sul prototipo**, fino a raggiungere una forma stabile.
 
 Una formalizzazione chiara dei bisogni degli utenti è anche necessaria per mettere a fuoco le funzionalità del software che dovrà realizzarli, per esempio per 
 capire se questo software è già disponibile presso l’amministrazione o altre amministrazioni, oppure se e come deve essere sviluppato o modificato. 
-Gli strumenti necessari per la costruzione dei flussi di interazione e dei prototipi a bassa fedeltà sono disponibili all’interno del Kit prototipazione di 
-Designers Italia.
+
+Gli strumenti necessari per la costruzione dei flussi di interazione e dei prototipi a bassa fedeltà sono disponibili all’interno del [Kit prototipazione](https://designers.italia.it/risorse-per-progettare/progettare/prototipazione/realizza-un-prototipo-in-bassa-fedelta/) di Designers Italia.
