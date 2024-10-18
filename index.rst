@@ -20,6 +20,7 @@ La versione stabile del Manuale operativo di design corrisponde alla **2022.1**.
     doc/content-design.rst
     doc/progettazione-dell-interazione.rst
     doc/progettazione-dell-interfaccia.rst
+    doc/sviluppo-dell-interfaccia.rst
     
 .. toctree::
     :hidden:
