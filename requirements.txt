@@ -1,1 +1,9 @@
-git+https://github.com/italia/docs-italia-theme@bootstrap-italia
+Sphinx==4.4.0
+sphinx-autobuild==2021.3.14
+urllib3==1.26.19
+sphinxcontrib-applehelp==1.0.4
+sphinxcontrib-devhelp==1.0.2
+sphinxcontrib-htmlhelp==2.0.1
+sphinxcontrib-qthelp==1.0.3
+sphinxcontrib-serializinghtml==1.1.5
+docs-italia-theme @ git+https://github.com/italia/docs-italia-theme.git@7bfccf507a7520b5fed5eda4b5c51c1f9d45ad88
