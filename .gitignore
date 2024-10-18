@@ -2,3 +2,6 @@ html/
 .venv
 .vscode
 _build
+.DS_Store
+conf.py
+preview_build/build
