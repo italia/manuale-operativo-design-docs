@@ -71,7 +71,7 @@ UI Kit Italia
 Il kit è organizzato in quattro sezioni principali: 
 
 - **Fondamenti (Foundations)** – i fondamenti visuali dell’interfaccia come griglie, colori, tipografia, spaziature;
-- **Navigazione (Navigations)** – tutti i componenti dedicati alla navigazione di pagine e sezioni;
+- **Navigazione (Navigation)** – tutti i componenti dedicati alla navigazione di pagine e sezioni;
 - **Componenti (Components)** – la lista completa dei componenti pronti per essere assemblati in un’interfaccia;
 - **Moduli (Forms)** – gli elementi interattivi dedicati ai moduli, necessari per la compilazione e l’invio dei dati. 
 
