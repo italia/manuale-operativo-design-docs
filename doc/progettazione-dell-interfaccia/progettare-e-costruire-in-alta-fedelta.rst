@@ -28,7 +28,7 @@ Partendo dai wireframe o prototipi low-fi, gli elementi realizzati con semplici 
 
 **[immagine di un wireframe che diventa layout hi-fi]**
 
-La creazione dei layout delle pagine è un processo impegnativo: richiede tempo considerevole e una meticolosa attenzione ai dettagli. Realizzarli per tutte le tipologie di pagina presenti in un sito o servizio digitale non è, quindi, la strategia più efficiente. 
+La creazione dei layout delle pagine è un processo impegnativo: richiede un tempo considerevole e un'attenzione meticolosa ai dettagli. Realizzarli per tutte le tipologie di pagina presenti in un sito o servizio digitale non è, quindi, la strategia più efficiente. 
 
 È fondamentale, invece, identificare le tipologie di pagina di maggior valore sia per l'utente finale che per la natura del prodotto. 
 
