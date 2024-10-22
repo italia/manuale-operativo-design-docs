@@ -36,7 +36,7 @@ In quest'ottica, può rivelarsi vantaggioso organizzare le pagine secondo schemi
 
 **[immagine di un template dal modello ASL o Musei ad alta fedeltà]**
 
-Nella realizzazione dei layout in alta fedeltà, è fondamentale considerare i diversi dispositivi per cui si sta progettando, come specificato nel requisito 4.5 delle Linee guida di design. È quindi essenziale organizzare lo sviluppo dell'interfaccia in alta fedeltà focalizzandosi sui dispositivi più utilizzati dagli utenti. Queste informazioni si possono ottenere facilmente dalla ricerca sugli utenti fatta all'inizio del progetto.
+Nella realizzazione dei layout in alta fedeltà, è fondamentale considerare i diversi dispositivi per cui si sta progettando, come specificato nel requisito 4.5 delle Linee guida di design. È quindi essenziale focalizzarsi sui dispositivi più utilizzati dagli utenti. Queste informazioni si possono ottenere facilmente durante la fase di ricerca condotta all'inizio del progetto.
 
 
 Prototipi in alta fedeltà
