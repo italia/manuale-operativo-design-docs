@@ -30,24 +30,13 @@ Oppure attraverso la regola @support (in modo simile a quanto avviene per la pi�
   } 
 
 
-Anche JavaScript ti permette di analizzare qualsiasi funzionalità presente tra le Web API (Application Programming Interface): ad esempio, attraverso la geo-localizzazione di un dispositivo, è possibile fornire un servizio più preciso a seconda della posizione dell’utente nello spazio, a patto che tale feature sia disponibile nel dispositivo utilizzato. Ecco un esempio: 
+Anche JavaScript ti permette di analizzare qualsiasi funzionalità presente tra le Web API (Application Programming Interface): ad esempio, attraverso la geo-localizzazione di un dispositivo, è possibile fornire un servizio più preciso a seconda della posizione dell’utente nello spazio, a patto che tale feature sia disponibile nel dispositivo utilizzato. Ecco un esempio::
 
-.. admonition:: example          
-   :class: admonition-example display-page          
-                                 
-   .. role:: admonition-internal-title        
-      :class: admonition-internal-title
-                                    
-   `Esempio di JavaScript per geo-localizzazione`:admonition-internal-title:  
-
-   .. code-block:: rst
-
-      if ("geolocation" in navigator) { 
-        /* geolocalizzazione disponibile */ 
-      } else { 
-       /* geolocalizzazione NON disponibile */ 
-      } 
-
+  if ("geolocation" in navigator) { 
+    /* geolocalizzazione disponibile */ 
+  } else { 
+    /* geolocalizzazione NON disponibile */ 
+  } 
 
  
 Esistono anche librerie ed esempi di codice che hanno l’obiettivo di arginare le differenze tra i vari Browser fornendo il supporto di alcune funzionalità altrimenti mancanti, le cosiddette pratiche di *polyfill* e *shim*. 
