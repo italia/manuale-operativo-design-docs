@@ -9,23 +9,13 @@ Gli approcci allo sviluppo possono essere realizzati attraverso la cosiddetta *f
 
 Attraverso una feature detection puntuale, puoi comprendere come indirizzare ogni aspetto dell’informazione che vuoi trasmettere. Tali caratteristiche possono spaziare dallo schermo utilizzato, in termini di dimensioni, risoluzione e densità dei pixel, fino ai metodi di input (mouse, touch-screen, tastiera, input vocale, ecc.); senza dimenticare le opzioni per la stampa e le tecnologie di ausilio per le persone con disabilità. 
 
-Ad esempio, attraverso semplici *media-queries* nel CSS (attraverso la regola @media), puoi mostrare versioni diverse di una pagina web a seconda che le persone stiano usando uno smartphone, un televisore o vogliano stampare la pagina stessa con la propria stampante.
+Ad esempio, attraverso semplici *media-queries* nel CSS (attraverso la regola @media), puoi mostrare versioni diverse di una pagina web a seconda che le persone stiano usando uno smartphone, un televisore o vogliano stampare la pagina stessa con la propria stampante::
 
-.. admonition:: example          
-   :class: admonition-example display-page          
-                                 
-   .. role:: admonition-internal-title        
-      :class: admonition-internal-title
-                                    
-   `Esempio di media-queries con la regola @media`:admonition-internal-title:  
-
-   .. code-block:: rst
-
-      @media screen and (min-width: 900px) { 
-        article { 
-          padding: 1rem 3rem; 
-        } 
-      } 
+@media screen and (min-width: 900px) { 
+  article { 
+    padding: 1rem 3rem; 
+  } 
+} 
 
 
 
