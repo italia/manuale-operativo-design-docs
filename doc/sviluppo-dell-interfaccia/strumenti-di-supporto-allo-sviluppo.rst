@@ -11,7 +11,7 @@ Attraverso una feature detection puntuale, puoi comprendere come indirizzare ogn
 
 Ad esempio, attraverso semplici *media-queries* nel CSS (attraverso la regola @media), puoi mostrare versioni diverse di una pagina web a seconda che le persone stiano usando uno smartphone, un televisore o vogliano stampare la pagina stessa con la propria stampante.
 
-.. literalinclude:: esempi-codice-sviluppo/esempio-codice-1.html
+.. literalinclude:: esempi-codice-sviluppo/esempio-codice-1.css
 
 Oppure attraverso la regola @support (in modo simile a quanto avviene per la più conosciuta regola @media), puoi verificare la corretta interpretazione di proprietà CSS da parte dei browser su cui viene usata. Ecco, ad esempio, come puoi verificare attraverso il codice se il browser prevede il supporto della funzionalità CSS grid: 
 
