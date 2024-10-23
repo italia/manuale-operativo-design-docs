@@ -17,7 +17,7 @@ Ad esempio, attraverso semplici *media-queries* nel CSS (attraverso la regola @m
    .. role:: admonition-internal-title        
       :class: admonition-internal-title
                                     
-   `Esempio di media-queries nel CSS`:admonition-internal-title:  
+   `Esempio di media-queries con la regola @media`:admonition-internal-title:  
 
    .. code-block:: rst
 
@@ -29,16 +29,45 @@ Ad esempio, attraverso semplici *media-queries* nel CSS (attraverso la regola @m
 
 
 
-
-.. literalinclude:: esempi-codice-sviluppo/esempio-codice-1.css
-
 Oppure attraverso la regola @support (in modo simile a quanto avviene per la più conosciuta regola @media), puoi verificare la corretta interpretazione di proprietà CSS da parte dei browser su cui viene usata. Ecco, ad esempio, come puoi verificare attraverso il codice se il browser prevede il supporto della funzionalità CSS grid: 
 
-.. literalinclude:: esempi-codice-sviluppo/esempio-codice-2.html
+.. admonition:: example          
+   :class: admonition-example display-page          
+                                 
+   .. role:: admonition-internal-title        
+      :class: admonition-internal-title
+                                    
+   `Esempio di media-queries con la regola @support`:admonition-internal-title:  
+
+   .. code-block:: rst
+
+      @supports (display: flex) { 
+        @media screen and (min-width: 900px) { 
+          article { 
+            display: flex; 
+          } 
+        } 
+      } 
+
 
 Anche JavaScript ti permette di analizzare qualsiasi funzionalità presente tra le Web API (Application Programming Interface): ad esempio, attraverso la geo-localizzazione di un dispositivo, è possibile fornire un servizio più preciso a seconda della posizione dell’utente nello spazio, a patto che tale feature sia disponibile nel dispositivo utilizzato. Ecco un esempio: 
 
-.. literalinclude:: esempi-codice-sviluppo/esempio-codice-3.html
+.. admonition:: example          
+   :class: admonition-example display-page          
+                                 
+   .. role:: admonition-internal-title        
+      :class: admonition-internal-title
+                                    
+   `Esempio di JavaScript per geo-localizzazione`:admonition-internal-title:  
+
+   .. code-block:: rst
+
+      if ("geolocation" in navigator) { 
+        /* geolocalizzazione disponibile */ 
+      } else { 
+       /* geolocalizzazione NON disponibile */ 
+      } 
+
 
  
 Esistono anche librerie ed esempi di codice che hanno l’obiettivo di arginare le differenze tra i vari Browser fornendo il supporto di alcune funzionalità altrimenti mancanti, le cosiddette pratiche di *polyfill* e *shim*. 
