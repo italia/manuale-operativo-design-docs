@@ -19,43 +19,15 @@ Ad esempio, attraverso semplici *media-queries* nel CSS (attraverso la regola @m
 
 
 
-.. admonition:: example          
-   :class: admonition-example display-page          
-                                 
-   .. role:: admonition-internal-title        
-      :class: admonition-internal-title
-                                    
-   `Esempio di media-queries con la regola @media`:admonition-internal-title:  
+Oppure attraverso la regola @support (in modo simile a quanto avviene per la più conosciuta regola @media), puoi verificare la corretta interpretazione di proprietà CSS da parte dei browser su cui viene usata. Ecco, ad esempio, come puoi verificare attraverso il codice se il browser prevede il supporto della funzionalità CSS grid::
 
-   .. code-block:: rst
-
-      @media screen and (min-width: 900px) { 
-        article { 
-          padding: 1rem 3rem; 
-        } 
+  @supports (display: flex) { 
+    @media screen and (min-width: 900px) { 
+      article { 
+        display: flex; 
       } 
-
-
-
-Oppure attraverso la regola @support (in modo simile a quanto avviene per la più conosciuta regola @media), puoi verificare la corretta interpretazione di proprietà CSS da parte dei browser su cui viene usata. Ecco, ad esempio, come puoi verificare attraverso il codice se il browser prevede il supporto della funzionalità CSS grid: 
-
-.. admonition:: example          
-   :class: admonition-example display-page          
-                                 
-   .. role:: admonition-internal-title        
-      :class: admonition-internal-title
-                                    
-   `Esempio di media-queries con la regola @support`:admonition-internal-title:  
-
-   .. code-block:: rst
-
-      @supports (display: flex) { 
-        @media screen and (min-width: 900px) { 
-          article { 
-            display: flex; 
-          } 
-        } 
-      } 
+    } 
+  } 
 
 
 Anche JavaScript ti permette di analizzare qualsiasi funzionalità presente tra le Web API (Application Programming Interface): ad esempio, attraverso la geo-localizzazione di un dispositivo, è possibile fornire un servizio più preciso a seconda della posizione dell’utente nello spazio, a patto che tale feature sia disponibile nel dispositivo utilizzato. Ecco un esempio: 
