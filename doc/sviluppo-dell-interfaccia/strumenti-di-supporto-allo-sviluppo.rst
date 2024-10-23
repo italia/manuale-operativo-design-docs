@@ -22,10 +22,11 @@ Ad esempio, attraverso semplici *media-queries* nel CSS (attraverso la regola @m
    .. code-block:: rst
 
       @media screen and (min-width: 900px) { 
-  article { 
-    padding: 1rem 3rem; 
-  } 
-} 
+        article { 
+          padding: 1rem 3rem; 
+        } 
+      } 
+
 
 
 
