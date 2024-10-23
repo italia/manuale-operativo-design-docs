@@ -29,17 +29,6 @@ configurazioni particolari.
 Nessun utente deve essere discriminato e deve quindi poter accedere alle
 informazioni e ai servizi digitali erogati dalla Pubblica Amministrazione.
 
-Accessibilità by design
------------------------
-
-I servizi digitali devono essere progettati in modo da **includere già dalle basi della progettazione i requisiti di accessibilità**. 
-
-**Progettare accessibile** è necessario per sostanziare i principi generali legati all'inclusione e al *design for all*, che spesso, pur essendo teoricamente presenti, non trovano una reale applicazione esecutiva. 
-
-Le fasi di progettazione antecedenti allo sviluppo **possono e devono quindi includere le considerazioni e le strategie relative all'accessibilità**, che i designer devono poter applicare ai progetti in base agli specifici ruoli professionali. 
-
-Il principio di accessibilità *by design* - cioè fin dalle basi della progettazione - è quindi la scelta fondamentale per creare servizi digitali accessibili e deve essere inoltre associata al principio di accessibilità *by default*, cioè il principio secondo cui ogni tipo di documentazione e risorsa a supporto (manuali, schemi *wireframe* e *mockup* a diversa definizione, *framework* di sviluppo, *template* HTML per modelli standard, linee guida...) dovrebbe contenere i requisiti di accessibilità necessari per fare in modo che ogni istanza applicativa abbia basi strutturali efficaci.
-
 Principi per l’accessibilità
 --------------------------------
 
@@ -53,6 +42,33 @@ L’accessibilità è caratterizzata da quattro solidi principi:
 Sono quindi conformi i servizi realizzati tramite sistemi informatici, **inclusi
 i siti web e le applicazioni mobili**, che presentano le caratteristiche di
 accessibilità al contenuto e fruibilità delle informazioni.
+
+Accessibilità by design
+-----------------------
+
+I servizi digitali devono essere progettati in modo da **includere già dalle basi della progettazione i requisiti di accessibilità**. 
+
+**Progettare accessibile** è necessario per sostanziare i principi generali legati all'inclusione e al *design for all*, che spesso, pur essendo teoricamente presenti, non trovano una reale applicazione esecutiva. 
+
+Le fasi di progettazione antecedenti allo sviluppo **possono e devono quindi includere le considerazioni e le strategie relative all'accessibilità**, che i designer devono poter applicare ai progetti in base agli specifici ruoli professionali. 
+
+Il principio di accessibilità *by design* - cioè fin dalle basi della progettazione - è quindi la scelta fondamentale per creare servizi digitali accessibili e deve essere inoltre associata al principio di accessibilità *by default*, cioè il principio secondo cui ogni tipo di documentazione e risorsa a supporto (manuali, schemi *wireframe* e *mockup* a diversa definizione, *framework* di sviluppo, *template* HTML per modelli standard, linee guida...) dovrebbe contenere i requisiti di accessibilità necessari per fare in modo che ogni istanza applicativa abbia basi strutturali efficaci
+
+Accessibilità by default
+--------------------------
+
+Il principio di "accessibilità by default" è un approccio fondamentale nella progettazione di servizi digitali che mira a incorporare l'accessibilità come elemento standard in ogni fase del processo di sviluppo. Questo principio prevede che tutti gli strumenti, le risorse e i materiali utilizzati durante la creazione di un prodotto digitale includano già di base i requisiti di accessibilità necessari. 
+
+L'impatto pratico di questo principio sulle attività di progettazione e sviluppo è significativo: 
+
+- **Documentazione**: manuali, guide e specifiche tecniche includono automaticamente sezioni dedicate all'accessibilità. 
+- **Strumenti di progettazione**: software e piattaforme utilizzate per il design incorporano funzionalità che facilitano la creazione di interfacce accessibili. 
+- **Template e framework**: modelli HTML, CSS e componenti di interfaccia sono progettati fin dall'inizio per essere accessibili. 
+- **Processi di sviluppo**: l'accessibilità diventa un criterio di valutazione standard in ogni fase del ciclo di sviluppo. 
+- **Formazione del team**: i membri del team acquisiscono naturalmente competenze in materia di accessibilità, poiché questa è integrata in tutti gli aspetti del loro lavoro. 
+
+Adottando il principio di "accessibilità by default", si riduce il rischio di trascurare aspetti importanti dell'accessibilità durante lo sviluppo. Inoltre, si semplifica il processo di creazione di servizi digitali inclusivi, poiché l'accessibilità non è più vista come un'aggiunta opzionale, ma come una caratteristica intrinseca e fondamentale di ogni prodotto digitale. 
+
 
 Linee guida e criteri di successo
 ------------------------------------
