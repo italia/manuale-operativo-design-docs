@@ -1,6 +1,10 @@
 Progettare con i modelli di sito e servizi
 ==============================================
 
+.. figure:: images/modelli-sito-servizi.png
+    :alt: L'immagine di copertina dei modelli di sito e servizi
+    :name: L'immagine di copertina dei modelli di sito e servizi
+
 I modelli di sito e servizi realizzati da Designers Italia offrono una soluzione efficace per creare siti web di enti pubblici. Aderenti alle linee guida nazionali e alle migliori pratiche di progettazione digitale, questi modelli forniscono **indicazioni** e **risorse pronte all'uso** che consentono di impostare e svolgere il lavoro in modo rapido ed economico.
 
 Vantaggi dell'utilizzo dei modelli 
