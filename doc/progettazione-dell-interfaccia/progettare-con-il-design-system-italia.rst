@@ -64,6 +64,13 @@ L’elenco delle risorse operative che fanno parte del design system .italia e c
 
 UI Kit Italia
 ---------------
+
+.. figure:: images/uikit-italia.png
+    :alt: L'immagine di copertina di UI Kit Italia
+    :name: L'immagine di copertina di UI Kit Italia
+
+    L'immagine di copertina di UI Kit Italia.
+
 È il kit dedicato alla realizzazione dell’interfaccia, disponibile sia per Figma che per Sketch. Fa parte del kit Costruzione interfaccia e mette a disposizione sia fondamenti, come griglie, colori, design tokens, tipografia, spaziature, sia componenti pronti all’uso.
 
 **UI Kit Italia** è la risorsa principale per lavorare in alta fedeltà. Si tratta di una **libreria di stili, icone e componenti** che consente la creazione di layout di pagina e prototipi interattivi che simulano il comportamento di un prodotto digitale reale.
@@ -79,21 +86,29 @@ Questa suddivisione facilita l'identificazione degli elementi più adatti alle p
 
 Le **pagine dedicate ai fondamenti** sono organizzate per fornire dettagli approfonditi su come usare specifiche indicazioni o proprietà, come lo spazio all'interno di una griglia. Ogni foglio presentato sulla pagina mostra esempi di applicazione pratica e le relative spiegazioni, per favorire un utilizzo ottimale nel contesto specifico di ciascuno.
 
-.. figure:: images/componente.png
-   :alt: Un esempio del componente Bottone di Bootstrap Italia
-   :name: Un esempio del componente Bottone di Bootstrap Italia
+.. figure:: images/fondamenti.png
+    :alt: La pagina dedicata al fondamento griglia
+    :name: La pagina dedicata al fondamento griglia
 
-    Un esempio del componente “Bottone” nelle sue varianti.
+    La pagina dedicata al fondamento griglia.
 
 Questa categoria comprende le pagine dedicate alle griglie e alla tipografia. È fondamentale non solo illustrare il loro funzionamento, ma anche spiegare le motivazioni dietro le scelte effettuate.
 
 Le **pagine dedicate ai componenti, navigazione e moduli** sono progettate con l'idea di una libreria, dove si possono riutilizzare gli oggetti su vari layout di pagina o prototipi interattivi differenti, mantenendo una "relazione" con l'elemento originale. Questo concetto è simile ai componenti in Figma o simboli in Sketch. 
 
-**[immagine pagina componente, come button o simile che abbia properties fatte bene]** 
+.. figure:: images/componente.png
+    :alt: La scheda del componente button in UI Kit Italia
+    :name: La scheda del componente button in UI Kit Italia
+
+    La scheda del componente button in UI Kit Italia.
 
 Per consentire la personalizzazione dei componenti, è possibile sfruttare le proprietà (properties) ad esso collegate. Queste sono definite durante la fase progettuale del componente e, in alcuni casi, seguono le specifiche tecniche della tecnologia che si può utilizzare. 
 
-**[immagine properties componente]**
+.. figure:: images/componente-opzioni.png
+    :alt: Le prorietà (properties) del componente dropdown
+    :name: Le prorietà (properties) del componente dropdown
+
+    Le prorietà (properties) del componente dropdown.
 
 La **lista degli aggiornamenti, modifiche o correzioni** è disponibile sia all’interno del kit, nella pagina “Intro & releases”, che allegata ad `ogni nuovo rilascio <https://github.com/italia/design-ui-kit/releases>`_.
 
