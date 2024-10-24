@@ -79,7 +79,11 @@ Questa suddivisione facilita l'identificazione degli elementi più adatti alle p
 
 Le **pagine dedicate ai fondamenti** sono organizzate per fornire dettagli approfonditi su come usare specifiche indicazioni o proprietà, come lo spazio all'interno di una griglia. Ogni foglio presentato sulla pagina mostra esempi di applicazione pratica e le relative spiegazioni, per favorire un utilizzo ottimale nel contesto specifico di ciascuno.
 
-**[immagine pagina fondamento, griglia o tipografia]**
+.. figure:: /images/ui-bootstrap-italia-bottone.png
+    :alt: Un esempio del componente Bottone di Bootstrap Italia.
+    :name: Un esempio del componente Bottone di Bootstrap Italia.
+
+    Un esempio del componente “Bottone” nelle sue varianti.
 
 Questa categoria comprende le pagine dedicate alle griglie e alla tipografia. È fondamentale non solo illustrare il loro funzionamento, ma anche spiegare le motivazioni dietro le scelte effettuate.
 
