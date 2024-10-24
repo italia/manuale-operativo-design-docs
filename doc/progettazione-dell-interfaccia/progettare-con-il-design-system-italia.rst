@@ -69,8 +69,6 @@ UI Kit Italia
     :alt: L'immagine di copertina di UI Kit Italia
     :name: L'immagine di copertina di UI Kit Italia
 
-    L'immagine di copertina di UI Kit Italia.
-
 È il kit dedicato alla realizzazione dell’interfaccia, disponibile sia per Figma che per Sketch. Fa parte del kit Costruzione interfaccia e mette a disposizione sia fondamenti, come griglie, colori, design tokens, tipografia, spaziature, sia componenti pronti all’uso.
 
 **UI Kit Italia** è la risorsa principale per lavorare in alta fedeltà. Si tratta di una **libreria di stili, icone e componenti** che consente la creazione di layout di pagina e prototipi interattivi che simulano il comportamento di un prodotto digitale reale.
@@ -87,10 +85,10 @@ Questa suddivisione facilita l'identificazione degli elementi più adatti alle p
 Le **pagine dedicate ai fondamenti** sono organizzate per fornire dettagli approfonditi su come usare specifiche indicazioni o proprietà, come lo spazio all'interno di una griglia. Ogni foglio presentato sulla pagina mostra esempi di applicazione pratica e le relative spiegazioni, per favorire un utilizzo ottimale nel contesto specifico di ciascuno.
 
 .. figure:: images/fondamenti.png
-    :alt: La pagina dedicata al fondamento griglia
-    :name: La pagina dedicata al fondamento griglia
+    :alt: La pagina dedicata al fondamento griglia in UI Kit Italia
+    :name: La pagina dedicata al fondamento griglia in UI Kit Italia
 
-    La pagina dedicata al fondamento griglia.
+    La pagina dedicata al fondamento griglia in UI Kit Italia.
 
 Questa categoria comprende le pagine dedicate alle griglie e alla tipografia. È fondamentale non solo illustrare il loro funzionamento, ma anche spiegare le motivazioni dietro le scelte effettuate.
 
@@ -108,7 +106,7 @@ Per consentire la personalizzazione dei componenti, è possibile sfruttare le pr
     :alt: Le prorietà (properties) del componente dropdown
     :name: Le prorietà (properties) del componente dropdown
 
-    Le prorietà (properties) del componente dropdown.
+    È possibile modificare la variante di un componente utilizzando il pannelo delle proprietà (properties) in Figma.
 
 La **lista degli aggiornamenti, modifiche o correzioni** è disponibile sia all’interno del kit, nella pagina “Intro & releases”, che allegata ad `ogni nuovo rilascio <https://github.com/italia/design-ui-kit/releases>`_.
 
