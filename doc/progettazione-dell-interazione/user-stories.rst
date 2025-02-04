@@ -1,5 +1,5 @@
-User stories
-=============
+User stories per definire l'interazione
+=========================================
 
 A partire dagli scenari d’uso identificati in fase di ricerca puoi poi andare a specificare con maggior dettaglio le interazioni che, diversi utenti in diverse circostanze, avranno con l’interfaccia definendo le cosiddette user stories (storie dell’utente). Queste sono **descrizioni informali delle funzioni di un servizio**, espresse dal punto di vista dell’utente secondo una struttura semantica che definisce il ruolo di chi la esprime, l’azione che vuole o deve compiere e l’obiettivo che muove all’azione.
 
