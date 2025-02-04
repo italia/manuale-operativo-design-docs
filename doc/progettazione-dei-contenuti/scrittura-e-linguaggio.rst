@@ -100,9 +100,9 @@ I microtesti che accompagnano e descrivono gli elementi grafici delle interfacce
       contenuti <https://guida-linguaggio-pubblica-amministrazione.readthedocs.io/it/latest/suggerimenti-di-scrittura.html>`__;
 
    -  delle pratiche di organizzazione dei contenuti dal punto di vista
-      dell’architettura dell’informazione (**LINK A CAPITOLO**);
+      dell’`architettura dell’informazione <../../doc/progettazione-dei-contenuti/architettura-dell-informazione.html>`_;
 
-   -  dell’ottimizzazione dei contenuti in ottica SEO (**LINK A CAPITOLO**).
+   -  dell’`ottimizzazione dei contenuti in ottica SEO <../../doc/progettazione-dei-contenuti/ottimizzazione-per-i-motori-di-ricerca-seo.html>`_.
 
    Lavorare sulla coerenza del sistema richiede grande attenzione:
    alcuni elementi possono influenzarne la solidità. Di seguito trovi
