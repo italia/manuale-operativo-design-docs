@@ -122,7 +122,7 @@ L’architettura di un sito o servizio digitale è **privacy oriented** e tiene 
 - la presenza di tracker (Google Webfont o relativi a social network) che comportano un’indebita e non trasparente trasmissione a terzi dei dati di  navigazione, quali indirizzi IP e orario di connessione;
 - l’utilizzo di social plug in, che presentano diversi gradi di invasività;
 - le modalità di autenticazione (minimizzazione dei dati raccolti attraverso l’autenticazione SPID, social log in);
-- la presenza di cookie e tracker.
+- la presenza di cookie.
 
 **L’informativa sul trattamento dei dati personali deve essere reperibile sul sito e specifica per i singoli servizi offerti che comportano raccolta di dati personali**
 
