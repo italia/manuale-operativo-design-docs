@@ -148,17 +148,9 @@ Gli obiettivi vanno pubblicati sui siti delle PA nella sezione
 **“amministrazione trasparente/Altri contenuti/Accessibilità e Catalogo di dati,
 metadati e banche dati”**.
 
-Normativa
--------------
+Normativa e approfondimenti
+-----------------------------------
 
-La normativa completa e aggiornata sull’accessibilità è disponibile sul sito
-dell’`Agenzia per l’Italia digitale
-<https://www.agid.gov.it/it/design-servizi/accessibilita/normativa>`__.
+Puoi approfondire il tema accessibilità e consultare la normativa di riferimento nella `sezione Accessibilità del sito di AgID <https://www.agid.gov.it/it/ambiti-intervento/accessibilita-usabilita>`__.
 
-Approfondimenti
----------------------
-
-Sono disponibili ulteriori approfondimenti sull’accessibilità nella sezione FAQ
-del sito dell’`Agenzia per l’Italia digitale
-<https://www.agid.gov.it/it/domande-frequenti/accessibilit%C3%A0>`__.
 
