@@ -10,8 +10,8 @@ Identificare i bisogni degli utenti è importante per:
 
 Le **user stories** e le **job stories** sono strumenti utilizzati nel content design per comprendere meglio le esigenze degli utenti e creare contenuti efficaci e pertinenti.
 
-User stories 
----------------
+User stories per definire i contenuti
+-------------------------------------------
 
 Le user stories sono brevi descrizioni, spesso strutturate in un formato standard, che rappresentano ciò che un utente desidera fare o ottenere.  
 
@@ -23,8 +23,8 @@ Formulare le user stories ti aiuta a capire gli obiettivi degli utenti, tenerli 
 
 Le user stories sono utili se hai una platea di diversi tipi di utenti, con necessità diverse per diversi tipi di contenuti e diversi livelli di dettaglio.
 
-Job stories
---------------
+Job stories per definire i contenuti
+----------------------------------------
 
 Le job stories sono simili alle user stories, ma sono più focalizzate sul contesto e sulle motivazioni dietro un'azione. Si concentrano sul lavoro che l'utente deve svolgere piuttosto che sulla tipologia dell'utente.  
 
