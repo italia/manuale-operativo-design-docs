@@ -16,6 +16,9 @@ I principali elementi di composizione sono:
 
 La combinazione di questi elementi permette di creare un'interfaccia unica che, da un lato, rispetta l'esigenza di identità del prodotto e, dall'altro, guida le persone al suo utilizzo. 
 
+.. admonition:: Risorse disponibili
+
+   Nei fondamenti del design system .italia trovi tutte le indicazioni pratiche per progettare interfacce semplici e accessibili: `Griglia <https://designers.italia.it/design-system/fondamenti/griglia/>`_, `Spaziature <https://designers.italia.it/design-system/fondamenti/spaziature/>`_, `Ombre <https://designers.italia.it/design-system/fondamenti/ombre/>`_, `Bordi e raggi <https://designers.italia.it/design-system/fondamenti/bordi-e-raggi/>`_, `Dimensioni <https://designers.italia.it/design-system/fondamenti/dimensioni/>`_, `Colori <https://designers.italia.it/design-system/fondamenti/colori/>`_, `Tipografia <https://designers.italia.it/design-system/fondamenti/tipografia/>`, `Proporzioni media <https://designers.italia.it/design-system/fondamenti/proporzioni-media/>`_, `Icone <https://designers.italia.it/design-system/fondamenti/icone/>`_.
   
 Elementi interattivi
 ------------------------
@@ -44,6 +47,10 @@ I link permettono di navigare verso altre pagine o risorse e devono essere facil
 
 Questi elementi rappresentano solo una parte dei componenti interattivi utilizzabili in un'interfaccia. Quando implementati correttamente, con particolare attenzione anche al loro uso con tecnologie assistive, questi elementi non solo rendono l'interfaccia funzionale per tutte le persone, ma anche intuitiva e di facile utilizzo, migliorandone l’efficacia e l'esperienza d’uso.
 
+.. admonition:: Risorse disponibili
+
+   Nel del design system .italia trovi tutti i `componenti <https://designers.italia.it/design-system/componenti/>`_ da usare per creare interfacce semplici e accessibili.
+
 
 Elementi testuali (microtesti)
 -----------------------------------
@@ -60,4 +67,8 @@ I principali tipi di microtesti per le interfacce sono:
 - i **messaggi di caricamento**, che spiegano alle persone cosa sta succedendo e perché si è in attesa; 
 - le **notifiche** del servizio o prodotto.
 
-`Vai al fondamento Microtesti per approfondire <https://designers.italia.it/design-system/fondamenti/microtesti/>`_
+.. admonition:: Risorse disponibili
+
+   Approfondisci il tema nel capitolo `Progettazione dei contenuti <../../doc/progettazione-dei-contenuti/scrittura-e-linguaggio.html#microtesti>`_ e nel `fondamento Microtesti <https://designers.italia.it/design-system/fondamenti/microtesti/>`_ del design system .italia.
+
+
