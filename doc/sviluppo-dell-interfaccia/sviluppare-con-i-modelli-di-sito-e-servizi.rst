@@ -7,7 +7,7 @@ Usando il framework Bootstrap Italia, sono stati inoltre creati degli strumenti 
 
 `Vai al modello Scuole <https://designers.italia.it/modelli/scuole/>`_
 
-Gli strumenti di sviluppo disponibili sono:
+Gli strumenti di sviluppo disponibili su Designers Italia sono:
 
 - `Tema WordPress del modello Comuni <https://github.com/italia/design-comuni-wordpress-theme>`_
 - `Tema Drupal del modello Comuni <https://github.com/italia/design-comuni-drupal-theme>`_
@@ -16,3 +16,5 @@ Gli strumenti di sviluppo disponibili sono:
 - `Template HTML del modello Scuole <https://github.com/italia/design-scuole-wordpress-theme>`_
 
 Questi strumenti per lo sviluppo, oltre a fornire codice già pronto all’uso, implementano in modo puntuale l’architettura dell’informazione, l’organizzazione della navigazione e dei contenuti previsti dai modelli. 
+
+ Sul catalogo del riuso è possibile trovare altri temi CMS messi a disposizione da altri enti e fornitori.
