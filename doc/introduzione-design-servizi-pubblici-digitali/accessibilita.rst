@@ -8,7 +8,7 @@ Accessibilità
    tra cui le Pubbliche amministrazioni, hanno l’obbligo di garantire l’accesso
    universale ai propri servizi informatici e telematici.
 
-I soggetti erogatori di soluzioni ICT devono rendere i propri strumenti informatici **accessibili e usabili**, compresi i siti web, le applicazioni mobili e la documentazione digitali (ad esempio i documenti PDF scaricabili), così come previsto dalle `“Linee guida sull’accessibilità degli strumenti informatici” <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html?highlight=accessibilit%C3%A0%20strumenti%20informat>`__.
+I soggetti erogatori di soluzioni ICT devono rendere i propri strumenti informatici **accessibili e usabili**, compresi i siti web, le applicazioni web, le applicazioni mobili e la documentazione digitale (ad esempio i documenti PDF scaricabili), così come previsto dalle `“Linee guida sull’accessibilità degli strumenti informatici” <https://docs.italia.it/AgID/documenti-in-consultazione/lg-accessibilita-docs/it/stabile/index.html?highlight=accessibilit%C3%A0%20strumenti%20informat>`__.
 
 Sono disponibili ulteriori approfondimenti sull’accessibilità nella `sezione dedicata
 del sito dell’Agenzia per l’Italia digitale
