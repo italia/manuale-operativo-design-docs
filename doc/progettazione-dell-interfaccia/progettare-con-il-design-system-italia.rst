@@ -131,7 +131,7 @@ Framework di sviluppo
 
 Fanno inoltre parte del design system .italia diversi framework di sviluppo **open source**, che implementano pattern e componenti dello UI Kit Italia in **codice pronto all’uso**. 
 
-Maggiori dettagli sono disponibili nel capitolo “Sviluppare con il design system .italia”. 
+Maggiori dettagli sono disponibili nel capitolo `Sviluppare con il design system .italia <../../doc/sviluppo-dell-interfaccia/sviluppare-con-il-design-system-italia.html>`_. 
 
 Come contribuire al design system .italia
 =================================================
