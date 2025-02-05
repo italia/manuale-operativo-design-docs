@@ -3,7 +3,6 @@ Wireframe
 
 I wireframe sono schemi visivi che rappresentano una o più proposte iniziali di un prodotto digitale. Sono il primo passo per definire l'impianto generale in termini di struttura e gerarchia dei contenuti. 
 
-**[placeholder immagine]**
 
 La realizzazione dei wireframe ha come obiettivi: 
 
