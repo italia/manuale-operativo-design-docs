@@ -27,11 +27,8 @@ Il prototipo in **alta fedeltà** (high fidelity o high-fi), invece, può essere
 
 Un esempio di **pattern** è la modalità di interrogazione di un motore di ricerca in genere molto simile, se non identica, per requisiti e funzionalità in diversi prodotti digitali. 
 
-**[immagine pattern motore di ricerca]**
-
 Un esempio di **flusso** è invece l’utilizzo di un servizio digitale su un sito della Pubblica amministrazione italiana. In questo caso, è dettagliato l’intero processo che va dalla consultazione della pagina informativa fino all’autenticazione, compilazione e verifica dei dati.
 
-**[immagine flusso servizio digitale]**
 
 Gli esempi a disposizione possono essere riutilizzati per creare nuovi pattern o flussi di interazione a seconda del prodotto che si sta progettando e sono disponibili sia per il software Sketch che Figma. 
 
