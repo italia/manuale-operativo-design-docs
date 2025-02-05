@@ -1,4 +1,4 @@
-I documenti
+Documenti
 ============
 
 La `dematerializzazione dei
@@ -202,7 +202,7 @@ documenti della PA vengono pubblicati sul web, anche la modalità di
 creazione dei contenuti deve tener conto di questo fatto. Come abbiamo
 visto in precedenza, esistono essenzialmente due strade.
 
-*Creazione di un contenuto in formato Html in modo nativo*
+**1. Creazione di un contenuto in formato Html in modo nativo**
 
 Con questo approccio, è possibile per esempio:
 
@@ -253,7 +253,7 @@ i processi di consultazione come previsto dal CAD, art. 18.
    pubblicazione <http://guida-docs-italia.readthedocs.io/it/latest/>`__.
 
 
-*Pubblicare sul web documenti di vario formato (Pdf, Odt e Ods)*
+**2. Pubblicare sul web documenti di vario formato (Pdf, Odt e Ods)**
 
 In questo caso, è necessario `accompagnare sempre i documenti con una
 pagina
@@ -279,6 +279,8 @@ dei Pdf.
 
    -  Inserisci all’inizio del documento un indice navigabile per permettere a chi legge di raggiungere facilmente le varie sezioni.
 
+   -  Indica sempre la data di produzione del documento e l’Ente ( spesso l’utente arriva al documento direttamente da una ricerca su Google). 
+
    -  Usa le opzioni di elenco puntato e numerato, invece di indicare gli elenchi con un trattino o un numero.
 
    -  Accompagna ogni immagine con un testo alternativo (*alt text*).
@@ -286,6 +288,8 @@ dei Pdf.
    -  `Verifica l’accessibilità del documento Pdf <http://checkers.eiii.eu/en/pdfcheck/>`__ prima di pubblicarlo.
 
    -  Mantieni ridotte le dimensioni del file, dividendo, se necessario, i file troppo grossi in capitoli.
+
+   -  Usa nomi di file parlanti e con trattini (ad esempio, “Guida-al-linguaggio.pdf” piuttosto che “lg 0143 ultima rev.pdf”)  
 
    **Inserisci i metadati**
 
