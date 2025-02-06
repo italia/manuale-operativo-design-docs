@@ -7,7 +7,7 @@ Progettare siti internet e servizi digitali della Pubblica Amministrazione
 
 **Il Manuale operativo di design per i siti e i servizi digitali della Pubblica Amministrazione** è uno strumento di lavoro dedicato alla Pubblica Amministrazione e i suoi fornitori e ha l'obiettivo di fornire indicazioni operative per orientare e migliorare la progettazione e la realizzazione dei punti di contatto digitali verso la cittadinanza.
 
-La versione aggiornata (versione attuale) del Manuale operativo di design corrisponde alla **2025.1**.
+La versione aggiornata (versione corrente) del Manuale operativo di design corrisponde alla **2025.1**.
 
 .. toctree::
     :maxdepth: 3
