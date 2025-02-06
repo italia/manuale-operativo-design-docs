@@ -17,4 +17,4 @@ Gli strumenti di sviluppo disponibili su Designers Italia sono:
 
 Questi strumenti per lo sviluppo, oltre a fornire codice già pronto all’uso, implementano in modo puntuale l’architettura dell’informazione, l’organizzazione della navigazione e dei contenuti previsti dai modelli. 
 
- Sul catalogo del riuso è possibile trovare altri temi CMS messi a disposizione da altri enti e fornitori.
+Sul catalogo del riuso è possibile trovare altri temi CMS messi a disposizione da altri enti e fornitori.
