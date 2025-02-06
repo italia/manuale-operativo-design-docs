@@ -2,6 +2,8 @@ Scopo, destinatari e uso del Manuale operativo di design
 =========================================================
 Questo manuale è uno degli strumenti di `Designers Italia <https://designers.italia.it/>`_ per supportare gli enti pubblici a raggiungere gli obiettivi definiti dalle `Linee guida di design per i siti internet e i servizi digitali della PA <https://docs.italia.it/italia/design/lg-design-servizi-web/it/versione-corrente/index.html>`_. Il manuale vuole essere un **punto di riferimento per la Pubblica Amministrazione e i suoi fornitori**, **descrive un metodo di lavoro condiviso** e **fornisce una serie di risorse metodologiche, strumenti pratici ed esempi** a supporto della progettazione e realizzazione di siti e servizi digitali della Pubblica Amministrazione. 
 
+Questo manuale è stato redatto in collaborazione con l'Agenzia per l'Italia Digitale (AgID) e il Tavolo ITC delle Regioni.
+
 I destinatari di questo manuale sono principalmente: 
 
 - i **decisori politici**, affinché siano abilitatori consapevoli e cooperino al miglioramento e all’innovazione del Paese a partire da conoscenze pratiche sul tema del design dei servizi digitali; 
@@ -38,7 +40,7 @@ Ogni capitolo è concepito per essere direttamente applicabile alle sfide quotid
 Sviluppo collaborativo
 -----------------------------
 
-Il presente manuale è un documento pubblico, e chiunque può partecipare al processo di revisione e aggiornamento attraverso gli strumenti messi a disposizione attraverso GitHub, in particolare le `issues <https://guides.github.com/features/issues/>`_ (per le discussioni) e le `pull request <https://help.github.com/articles/about-pull-requests/>`_ (per le proposte di modifica).
+Il presente manuale è un documento pubblico e chiunque può partecipare al processo di revisione e aggiornamento attraverso gli strumenti messi a disposizione attraverso GitHub, in particolare le `issues <https://guides.github.com/features/issues/>`_ (per le discussioni) e le `pull request <https://help.github.com/articles/about-pull-requests/>`_ (per le proposte di modifica).
 
 I nuovi contenuti e le modifiche a contenuti esistenti -  dopo essere approvati - vengono pubblicati nella versione "bozza" del manuale operativo, disponibile per una discussione pubblica e revisione da parte della *community*. Solo successivamente, in occasione di una nuova *release* del manuale, il team di Designers Italia valuta eventualmente di consolidare e farle confluire, dopo eventuali modifiche, nella versione ufficiale "versione corrente".
 
