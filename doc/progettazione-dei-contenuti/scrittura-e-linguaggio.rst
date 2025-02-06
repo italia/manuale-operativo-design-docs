@@ -201,7 +201,7 @@ Localizzare (rendere disponibile in più lingue) un sito o servizio digitale pu�
 
 Questo passaggio può essere particolarmente importante per i servizi pubblici, che si rivolgono spesso anche a cittadini di altre nazionalità, apolidi o a cittadini italiani ma che hanno diversi riferimenti linguistici o culturali.  
 
-Sono state identificate come prioritarie le seguenti lingue straniere: **tedesco**, **sloveno**, **francese** e **inglese**.
+Sono state identificate come prioritarie le seguenti lingue straniere: **tedesco**, **sloveno**, **francese** e **inglese** (Legge 15 dicembre 1999, n. 482, *Norme in  materia di tutela delle minoranze linguistiche storiche*).
 
 Quando si procede alla traduzione di un sito o di un servizio, la prima scelta da fare è se: 
 
