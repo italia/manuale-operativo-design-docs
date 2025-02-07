@@ -18,7 +18,7 @@ La combinazione di questi elementi permette di creare un'interfaccia unica che, 
 
 .. admonition:: Risorse disponibili
 
-   Nei fondamenti del design system .italia trovi tutte le indicazioni pratiche per progettare interfacce semplici e accessibili: `Griglia <https://designers.italia.it/design-system/fondamenti/griglia/>`_, `Spaziature <https://designers.italia.it/design-system/fondamenti/spaziature/>`_, `Ombre <https://designers.italia.it/design-system/fondamenti/ombre/>`_, `Bordi e raggi <https://designers.italia.it/design-system/fondamenti/bordi-e-raggi/>`_, `Dimensioni <https://designers.italia.it/design-system/fondamenti/dimensioni/>`_, `Colori <https://designers.italia.it/design-system/fondamenti/colori/>`_, `Tipografia <https://designers.italia.it/design-system/fondamenti/tipografia/>`_, `Proporzioni media <https://designers.italia.it/design-system/fondamenti/proporzioni-media/>`_, `Icone <https://designers.italia.it/design-system/fondamenti/icone/>`_.
+   Nei fondamenti del design system .italia trovi tutte le indicazioni pratiche per progettare interfacce intuitive e accessibili: `Griglia <https://designers.italia.it/design-system/fondamenti/griglia/>`_, `Spaziature <https://designers.italia.it/design-system/fondamenti/spaziature/>`_, `Ombre <https://designers.italia.it/design-system/fondamenti/ombre/>`_, `Bordi e raggi <https://designers.italia.it/design-system/fondamenti/bordi-e-raggi/>`_, `Dimensioni <https://designers.italia.it/design-system/fondamenti/dimensioni/>`_, `Colori <https://designers.italia.it/design-system/fondamenti/colori/>`_, `Tipografia <https://designers.italia.it/design-system/fondamenti/tipografia/>`_, `Proporzioni media <https://designers.italia.it/design-system/fondamenti/proporzioni-media/>`_, `Icone <https://designers.italia.it/design-system/fondamenti/icone/>`_.
   
 Elementi interattivi
 ------------------------
@@ -49,7 +49,7 @@ Questi elementi rappresentano solo una parte dei componenti interattivi utilizza
 
 .. admonition:: Risorse disponibili
 
-   Nel del design system .italia trovi tutti i `componenti <https://designers.italia.it/design-system/componenti/>`_ da usare per creare interfacce semplici e accessibili.
+   Nel del design system .italia trovi tutti i `componenti <https://designers.italia.it/design-system/componenti/>`_ da usare per creare interfacce intuitive e accessibili.
 
 
 Elementi testuali (microtesti)
