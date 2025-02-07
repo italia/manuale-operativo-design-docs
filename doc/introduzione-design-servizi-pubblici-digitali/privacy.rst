@@ -124,7 +124,10 @@ L’architettura di un sito o servizio digitale è **privacy oriented** e tiene 
 - le modalità di autenticazione (minimizzazione dei dati raccolti attraverso l’autenticazione SPID, social log in);
 - la presenza di cookie.
 
-**L’informativa sul trattamento dei dati personali deve essere reperibile sul sito e specifica per i singoli servizi offerti che comportano raccolta di dati personali**
+Informativa privacy
+....................
+
+**L’informativa sul trattamento dei dati personali deve essere reperibile sul sito e specifica per i singoli servizi offerti che comportano raccolta di dati personali.**
 
 L’informativa (disciplinata nello specifico dagli artt. 13 e 14 del GDPR) deve essere fornita all’interessato prima di effettuare il trattamento, quindi 
 prima della raccolta dei dati (se raccolti direttamente presso l’interessato: articolo 13 del GDPR). Fornisci, quindi, al momento della raccolta dei dati 
@@ -146,6 +149,9 @@ Per un’informativa chiara, utilizza le icone vincitrici del `contest ”Inform
 
 Per approfondire consulta le `Linee guida sulla trasparenza ai sensi del regolamento 2016/679 <https://ec.europa.eu/newsroom/article29/items/622227>`_ adottate dal “Gruppo di lavoro articolo 29” il 29 novembre 2017 e modificate l’11 aprile 2018, WP260 rev.01, fatte proprie dal Comitato europeo per la protezione dei dati con “Endorsement 1/2018” del 25 maggio 2018.
 
+Riferimenti DPO
+................
+
 **Il sito contiene i dati di riferimento del Responsabile per la Protezione dei Dati**
 
 La designazione di un Responsabile per la Protezione dei Dati è finalizzata a facilitare l’attuazione della normativa da parte del titolare/responsabile 
@@ -159,3 +165,8 @@ della PA:
 - non è necessario che, tra i dati oggetto di pubblicazione, vi sia anche il nominativo del RPD, non essendo questa informazione indispensabile a fini di contatto da parte di chiunque sia interessato: al contrario, risulta imprescindibile che tra i dati di contatto vi sia quantomeno un indirizzo di posta elettronica ordinaria (e, eventualmente, un indirizzo di posta elettronica certificata).
 
 Puoi approfondire l’argomento tramite la `pagina informativa ufficiale predisposta dal Garante per la protezione dei dati personali <https://www.garanteprivacy.it/regolamentoue/rpd>`_.
+
+Cookie
+...........
+
+Per le informazioni relative ai cookie, si rimanda alla `sezione Cookie sul sito del Garante per la protezione dei dati personali <https://www.garanteprivacy.it/temi/cookie>`_.
