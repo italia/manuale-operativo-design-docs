@@ -2,8 +2,6 @@ Scopo, destinatari e uso del Manuale operativo di design
 =========================================================
 Questo manuale è uno degli strumenti di `Designers Italia <https://designers.italia.it/>`_ per supportare gli enti pubblici a raggiungere gli obiettivi definiti dalle `Linee guida di design per i siti internet e i servizi digitali della PA <https://docs.italia.it/italia/design/lg-design-servizi-web/it/versione-corrente/index.html>`_. Il manuale vuole essere un **punto di riferimento per la Pubblica Amministrazione e i suoi fornitori**, **descrive un metodo di lavoro condiviso** e **fornisce una serie di risorse metodologiche, strumenti pratici ed esempi** a supporto della progettazione e realizzazione di siti e servizi digitali della Pubblica Amministrazione. 
 
-La stesura di questo manuale è stato un lavoro collaborativo tra Designers Italia, l'Area Designers del Dipartimento per la trasformazione digitale, l'Agenzia per l'Italia Digitale (AgID) e il Tavolo ITC delle Regioni.
-
 I destinatari di questo manuale sono principalmente: 
 
 - i **decisori politici**, affinché siano abilitatori consapevoli e cooperino al miglioramento e all’innovazione del Paese a partire da conoscenze pratiche sul tema del design dei servizi digitali; 
