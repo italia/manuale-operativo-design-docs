@@ -18,7 +18,7 @@ Creare il prototipo di un’interfaccia digitale ha diversi vantaggi:
 
 Nelle fasi iniziali del progetto il prototipo è in **bassa fedeltà** (low fidelity o low-fi) o **media fedeltà** (mid fidelity o mid-fi). La differenza tra le due tipologie risiede nel fatto che, mentre il primo può essere realizzato con semplici blocchi o forme visive, il secondo può includere contenuti più realistici per comunicare in modo più efficace l'idea del prodotto finale. 
 
-Il prototipo in **alta fedeltà** (high fidelity o high-fi), invece, può essere realizzato esclusivamente durante il processo di realizzazione dell’interfaccia finale, pertanto viene descritto nel capitolo dedicato. 
+Il prototipo in **alta fedeltà** (high fidelity o hi-fi), invece, può essere realizzato esclusivamente durante il processo di realizzazione dell’interfaccia finale, pertanto viene descritto nel capitolo dedicato. 
 
 .. admonition:: Risorse disponibili
 
