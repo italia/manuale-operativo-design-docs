@@ -9,7 +9,6 @@ I ruoli a cui fanno capo queste competenze possono variare in base alle caratter
 La seguente tabella fornisce una panoramica delle competenze da applicare nel processo di progettazione di servizi pubblici digitali e relative figure professionali a cui possono afferire. 
 
 +---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-|                                                                                                                                                                                             |
 | **Design dei servizi: verso una mappa delle competenze**                                                                                                                                    |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 | **Competenze funzionali**          | **Requisiti e obiettivi**                         | **Attività**                                         | **Figure professionali**                    |
@@ -21,12 +20,13 @@ La seguente tabella fornisce una panoramica delle competenze da applicare nel pr
 |                                    | tecnologica delle soluzioni proposte e le         | il team internamente e nel                           | - Chief information officer                 |
 |                                    | esigenze degli utenti finali.                     | rapporto con l’amministrazione.                      | - Data scientist                            |
 |                                    |                                                   |                                                      | - Data analyst                              |
+|                                    |                                                   |                                                      |                                             |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 | **Ricerca primaria**               | Conoscere metodi e tecniche di ricerca            | Organizzare la ricerca in base al focus              | - Design researcher                         |
 |                                    | primari e saper raccogliere e restituire          | del progetto, eseguire interviste e                  | - User researcher                           |
 |                                    | risultati rilevanti a comprendere il contesto     | osservazioni, con utenti e/o stakeholder,            | - UX researcher                             |
 |                                    | e l’esperienza d’uso del servizio per             | strutturare e non. Somministrare                     | - Service designer                          |
-|                                    | informare lo svolgimento del progetto.            | questionari quanti-qualitativi e saper               | - Supportati da Antropologi                 |
+|                                    | informare lo svolgimento del progetto.            | questionari quanti-qualitativi e saper               |                                             |
 |                                    |                                                   | analizzare, rielaborare e sintetizzare               |                                             |
 |                                    |                                                   | le evidenze raccolte.                                |                                             |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
