@@ -48,7 +48,7 @@ La seguente tabella fornisce una panoramica delle competenze da applicare nel pr
 |                                    | per poi dare indirizzo strategico alla            | proposta di valore e l’offerta del servizio,         |                                               |
 |                                    | progettazione del servizio (to be), definendo     | per poi identificare scenari d’uso, ideare e         |                                               |
 |                                    | l’ecosistema di servizio in termini di            | modellare i processi e definire i                    |                                               |
-|                                    | erogazione e fruizione.                           | touchpoint(punti di contatto) del servizio digitale. |                                               |
+|                                    | erogazione e fruizione.                           | touchpoint del servizio digitale.                    |                                               |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
 | **Progettazione dei contenuti**    | Saper mediare le esigenze di comunicazione,       | Progettare e realizzare i contenuti visivi e         | - Content Designer                            |
 |                                    | di impatto visivo, di leggibilità e di            | testuali nei diversi touchpoint relativi alla        | - Information Architect                       |
