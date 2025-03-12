@@ -8,81 +8,80 @@ I ruoli a cui fanno capo queste competenze possono variare in base alle caratter
 
 La seguente tabella fornisce una panoramica delle competenze da applicare nel processo di progettazione di servizi pubblici digitali e relative figure professionali a cui possono afferire. 
 
-+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
-| **Design dei servizi: verso una mappa delle competenze**                                                                                                                                    |
-+------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
-| **Competenze funzionali**          | **Requisiti e obiettivi**                         | **Attività**                                         | **Figure professionali**                    |
-+------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
-| **Pianificazione, gestione         | Saper guidare il progetto gestendo                | Tenere traccia dei progressi del                     | - Technical project manager                 |
-| e strategia**                      | gli obiettivi definiti con il committente,        | progetto nel tempo verso gli obiettivi               | - Esperto di innovazione e digitalizzazione |
-|                                    | le tempistiche e le risorse a disposizione;       | previsti, definire le attività da                    | - Chief digital officer                     |
-|                                    | mediare fra la fattibilità tecnica e              | svolgere e coordinare conseguentemente               | - Digital transformation manager            |
-|                                    | tecnologica delle soluzioni proposte e le         | il team internamente e nel                           | - Chief information officer                 |
-|                                    | esigenze degli utenti finali.                     | rapporto con l’amministrazione.                      | - Data scientist                            |
-|                                    |                                                   |                                                      | - Data analyst                              |
-|                                    |                                                   |                                                      |                                             |
-+------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
-| **Ricerca primaria**               | Conoscere metodi e tecniche di ricerca            | Organizzare la ricerca in base al focus              | - Design researcher                         |
-|                                    | primari e saper raccogliere e restituire          | del progetto, eseguire interviste e                  | - User researcher                           |
-|                                    | risultati rilevanti a comprendere il contesto     | osservazioni, con utenti e/o stakeholder,            | - UX researcher                             |
-|                                    | e l’esperienza d’uso del servizio per             | strutturare e non. Somministrare                     | - Service designer                          |
-|                                    | informare lo svolgimento del progetto.            | questionari quanti-qualitativi e saper               |                                             |
-|                                    |                                                   | analizzare, rielaborare e sintetizzare               |                                             |
-|                                    |                                                   | le evidenze raccolte.                                |                                             |
-+------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
-| **Ricerca secondaria**             | Conoscere le metodologie e tecniche di            | Pianificare, impostare e svolgere                    | - Design researcher                         |
-|                                    | analisi secondaria, mappare i risultati           | ricerca indiretta collezionando casi-studio,         | - UX researcher                             |
-|                                    | ottenuti in modo rilevante per l’obiettivo        | esplorando trend e tecnologie emergenti.             | - Service designer                          |
-|                                    | del progetto estrapolando osservazioni            | Organizzare e elaborare dati                         | - Trend analyst                             |
-|                                    | sintetiche e interessanti rispetto                | quanti-qualitativi provenienti da fonti              |                                             |
-|                                    | all’argomento di indagine.                        | documentali differenti.                              |                                             |
-+------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
-| **Analisi dati**                   | Conoscere metodi e tecniche di raccolta,          | Raccogliere, analizzare, interpretare e              | - Data analyst                              |
-|                                    | analisi, elaborazione, interpretazione,           | condividere dati quantitativi (o quantificabili)     | - Data scientist                            |
-|                                    | diffusione e visualizzazione dei dati             | a fini analitici, predittivi o strategici che        | - Data engineer                             |
-|                                    | quantitativi o quantificabili a fini              | riguardano il comportamento degli utenti             | - Statistico                                |
-|                                    | analitici, predittivi o strategici,               | online in forma adeguatamente anonimizzata           | - Business Analyst                          |
-|                                    | con particolare riguardo all’analisi dei          | e in linea con la norma GDPR.                        |                                             |
-|                                    | dati di ricerca e traffico web.                   |                                                      |                                             |
-+------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
-| **Progettazione di servizi**       | Saper svolgere attività di analisi di sistemi     | Analizzare le soluzioni esistenti, organizzare       | - Service Designer                          |
-|                                    | complessi e mappatura del contesto (as is)        | sessioni di co-progettazione, definire la            | - Strategic Designer                        |
-|                                    | per poi dare indirizzo strategico alla            | proposta di valore e l’offerta del servizio,         |                                             |
-|                                    | progettazione del servizio (to be), definendo     | per poi identificare scenari d’uso, ideare e         |                                             |
-|                                    | l’ecosistema di servizio in termini di            | modellare i processi e definire i                    |                                             |
-|                                    | erogazione e fruizione.                           | touchpoint(punti di contatto) del servizio digitale. |                                             |
-+------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
-| **Progettazione dei contenuti**    | Saper mediare le esigenze di comunicazione,       | Progettare e realizzare i contenuti visivi e         | - Content designer                          |
-|                                    | di impatto visivo, di leggibilità e di            | testuali nei diversi touchpoint relativi alla        | - Information architect                     |
-|                                    | accessibilità, adattando i contenuti al           | fruizione del servizio, ottimizzare i contenuti      | - Content strategist                        |
-|                                    | contesto specifico e all’utente.                  | e la loro struttura in base alle regole di           | - UX writer                                 |
-|                                    |                                                   | ottimizzazione per i motori di ricerca (SEO).        | - Copywriter                                |
-|                                    |                                                   |                                                      | - Technical writer                          |
-|                                    |                                                   |                                                      | - SEO specialist                            |
-|                                    |                                                   |                                                      | - Content editor / Web editor               |
-|                                    |                                                   |                                                      |                                             |
-+------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
-| **Progettazione dell'interazione** | Sapere definire le caratteristiche della          | Progettare l’esperienza dell’utente e definire       | - Interaction Designer                      |
-|                                    | interazione tra l’utente e il servizio attraverso | l’interfaccia utente in termini di contenuti         | - UX designer                               |
-|                                    | i touchpoint fisici e digitali, schematizzando    | e funzionalità, prototipando layout statici          | - Solution Architect                        |
-|                                    | i flussi e la struttura di base dell’interfaccia  | (wireframe) o mockup interattivi a                   | - Information Architect                     |
-|                                    | utente.                                           | bassa/media fedeltà.                                 | - UX Writer                                 |
-|                                    |                                                   |                                                      | - Web Accessibility Expert                  |
-+------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
-| **Progettazione dell'interfaccia** | Saper tradurre quanto progettato in un artefatto  | Realizzazione della visualizzazione prototipale      | - User Interface Designer                   |
-|                                    | grafico completo, coerente e funzionale alle      | ad alta fedeltà dell’interfaccia utente, sia nei     | - UX Designer                               |
-|                                    | migliori pratiche di sviluppo dell’interfaccia,   | suoi aspetti statici che in quelli dinamici.         | - Graphic designer                          |
-|                                    | tenendo in considerazione gli standard di         | Affiancamento alle figure dello sviluppo             | - Web designer                              |
-|                                    | accessibilità e di usabilità.                     | dell’interfaccia per garantire la corrispondenza     | - Web Accessibility Expert                  |
-|                                    |                                                   | del risultato finale a quanto progettato.            |                                             |
-+------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
-| **Sviluppo interfaccia**           | Saper tradurre quanto prodotto durante le fasi    | Sviluppo di codice per il touchpoint digitale,       | - Front-end web developer                   |
-|                                    | di progettazione in software interattivo,         | sia esso un sito web, un’app, un’interfaccia         | - Mobile application developer              |
-|                                    | integrando i requisiti di contenuto, di UX        | conversazionale, sia nei suoi aspetti statici        | - Sviluppatore                              |
-|                                    | e i requisiti tecnici, tenendo in considerazione  | che in quelli dinamici.                              | - Web designer                              |
-|                                    | i vincoli di prestazione, ricercabilità,          |                                                      | - Specialista di Media Digitali             |
-|                                    | raggiungibilità, accessibilità e usabilità.       |                                                      | - Web Accessibility Expert                  |
-+------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
+
++------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
+| **Competenze funzionali**          | **Requisiti e obiettivi**                         | **Attività**                                         | **Figure professionali**                      |
++------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
+| **Pianificazione, gestione         | Saper guidare il progetto gestendo                | Tenere traccia dei progressi del                     | - Responsabile di progetto                    |
+| e strategia**                      | gli obiettivi definiti con il committente,        | progetto nel tempo verso gli obiettivi               | - Technical Project Manager                   |
+|                                    | le tempistiche e le risorse a disposizione;       | previsti, definire le attività da                    | - Chief Digital Officer                       |
+|                                    | mediare fra la fattibilità tecnica e              | svolgere e coordinare conseguentemente               | - Digital Transformation Manager              |
+|                                    | tecnologica delle soluzioni proposte e le         | il team internamente e nel                           | - Chief Information Officer                   |
+|                                    | esigenze degli utenti finali.                     | rapporto con l’amministrazione.                      | - Esperto/a di innovazione e digitalizzazione |
+|                                    |                                                   |                                                      | - Strategic Designer                          |
++------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
+| **Ricerca primaria**               | Conoscere metodi e tecniche di ricerca            | Organizzare la ricerca in base al focus              | - Design Researcher                           |
+|                                    | primari e saper raccogliere e restituire          | del progetto, eseguire interviste e                  | - User Researcher                             |
+|                                    | risultati rilevanti a comprendere il contesto     | osservazioni, con utenti e/o stakeholder,            | - UX Researcher                               |
+|                                    | e l’esperienza d’uso del servizio per             | strutturare e non. Somministrare                     | - Service Designer                            |
+|                                    | informare lo svolgimento del progetto.            | questionari quanti-qualitativi e saper               | - Psicologo/a                                 |
+|                                    |                                                   | analizzare, rielaborare e sintetizzare               | - Antropologo/a                               |
+|                                    |                                                   | le evidenze raccolte.                                | - Etnografo/a                                 |
++------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
+| **Ricerca secondaria**             | Conoscere le metodologie e tecniche di            | Pianificare, impostare e svolgere                    | - Design Researcher                           |
+|                                    | analisi secondaria, mappare i risultati           | ricerca indiretta collezionando casi-studio,         | - UX Researcher                               |
+|                                    | ottenuti in modo rilevante per l’obiettivo        | esplorando trend e tecnologie emergenti.             | - Service Designer                            |
+|                                    | del progetto estrapolando osservazioni            | Organizzare e elaborare dati                         | - Trend Analyst                               |
+|                                    | sintetiche e interessanti rispetto                | quanti-qualitativi provenienti da fonti              |                                               |
+|                                    | all’argomento di indagine.                        | documentali differenti.                              |                                               |
++------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
+| **Analisi dati**                   | Conoscere metodi e tecniche di raccolta,          | Raccogliere, analizzare, interpretare e              | - Data Analyst                                |
+|                                    | analisi, elaborazione, interpretazione,           | condividere dati quantitativi (o quantificabili)     | - Data Scientist                              |
+|                                    | diffusione e visualizzazione dei dati             | a fini analitici, predittivi o strategici che        | - Data Engineer                               |
+|                                    | quantitativi o quantificabili a fini              | riguardano il comportamento degli utenti             | - Statistico/a                                |
+|                                    | analitici, predittivi o strategici,               | online in forma adeguatamente anonimizzata           | - Business Analyst                            |
+|                                    | con particolare riguardo all’analisi dei          | e in linea con la norma GDPR.                        |                                               |
+|                                    | dati di ricerca e traffico web.                   |                                                      |                                               |
++------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
+| **Progettazione di servizi**       | Saper svolgere attività di analisi di sistemi     | Analizzare le soluzioni esistenti, organizzare       | - Service Designer                            |
+|                                    | complessi e mappatura del contesto (as is)        | sessioni di co-progettazione, definire la            | - Strategic Designer                          |
+|                                    | per poi dare indirizzo strategico alla            | proposta di valore e l’offerta del servizio,         |                                               |
+|                                    | progettazione del servizio (to be), definendo     | per poi identificare scenari d’uso, ideare e         |                                               |
+|                                    | l’ecosistema di servizio in termini di            | modellare i processi e definire i                    |                                               |
+|                                    | erogazione e fruizione.                           | touchpoint(punti di contatto) del servizio digitale. |                                               |
++------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
+| **Progettazione dei contenuti**    | Saper mediare le esigenze di comunicazione,       | Progettare e realizzare i contenuti visivi e         | - Content Designer                            |
+|                                    | di impatto visivo, di leggibilità e di            | testuali nei diversi touchpoint relativi alla        | - Information Architect                       |
+|                                    | accessibilità, adattando i contenuti al           | fruizione del servizio, ottimizzare i contenuti      | - Content Strategist                          |
+|                                    | contesto specifico e all’utente.                  | e la loro struttura in base alle regole di           | - UX Writer                                   |
+|                                    |                                                   | ottimizzazione per i motori di ricerca (SEO).        | - Content Editor / Web Editor                 |
+|                                    |                                                   |                                                      | con contributi specializzati da parte di      |
+|                                    |                                                   |                                                      | SEO specialist, Copywriter, Technical Writer, |
+|                                    |                                                   |                                                      | Visual Designer e Web Accessibility Expert    |
++------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
+| **Progettazione dell'interazione** | Sapere definire le caratteristiche della          | Progettare l’esperienza dell’utente e definire       | - Interaction Designer                        |
+|                                    | interazione tra l’utente e il servizio attraverso | l’interfaccia utente in termini di contenuti         | - UX Sesigner                                 |
+|                                    | i touchpoint fisici e digitali, schematizzando    | e funzionalità, prototipando layout statici          | - Solution Architect                          |
+|                                    | i flussi e la struttura di base dell’interfaccia  | (wireframe) o mockup interattivi a                   | - Information Architect                       |
+|                                    | utente.                                           | bassa/media fedeltà.                                 | con contributi specializzati da parte di      |
+|                                    |                                                   |                                                      | Content Designer, UX Writer e                 |
+|                                    |                                                   |                                                      | Web Accessibility Expert                      |
++------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
+| **Progettazione dell'interfaccia** | Saper tradurre quanto progettato in un artefatto  | Realizzazione della visualizzazione prototipale      | - UI Designer                                 |
+|                                    | grafico completo, coerente e funzionale alle      | ad alta fedeltà dell’interfaccia utente, sia nei     | - UX Designer                                 |
+|                                    | migliori pratiche di sviluppo dell’interfaccia,   | suoi aspetti statici che in quelli dinamici.         | - Product Designer                            |
+|                                    | tenendo in considerazione gli standard di         | Affiancamento alle figure dello sviluppo             | - Web Designer                                |
+|                                    | accessibilità e di usabilità.                     | dell’interfaccia per garantire la corrispondenza     | con contributi specializzati da parte di      |
+|                                    |                                                   | del risultato finale a quanto progettato.            | Web Accessibility Expert                      |
++------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
+| **Sviluppo interfaccia**           | Saper tradurre quanto prodotto durante le fasi    | Sviluppo di codice accessibile per il touchpoint     | - Front-end Web developer                     |
+|                                    | di progettazione in software interattivo,         | digitale, sia esso un sito web, un’app, una          | - Mobile Application Developer                |
+|                                    | integrando i requisiti di contenuto, di UX        | interfaccia conversazionale, sia nei suoi aspetti    | - Sviluppatore                                |
+|                                    | e i requisiti tecnici, tenendo in considerazione  | statici che dinamici, attraverso gli standard per il | - Web designer                                |
+|                                    | i vincoli di prestazione, ricercabilità,          | web e linguaggi HTML, CSS, JavaScript/TypeScript,    | con contruibuti specializzati da parte di     |
+|                                    | raggiungibilità, accessibilità e usabilità.       | strumenti di CI/CD, pipeline con testi automatici,   | Web Accessibility Expert                      |
+|                                    |                                                   | generazione degli artefatti e deploy automatizzato.  |                                               |
++------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
 
 Esistono poi **competenze trasversali** alle figure professionali e al processo di progettazione. Queste riguardano aspetti come l’empatia e la comunicazione, la capacità di inquadrare i problemi e gestire l’incertezza, quella di passare rapidamente dalla teoria alla pratica e saper risolvere i problemi. 
 
