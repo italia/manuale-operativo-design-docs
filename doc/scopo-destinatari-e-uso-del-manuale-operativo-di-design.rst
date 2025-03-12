@@ -42,7 +42,7 @@ Il presente manuale è un documento pubblico e chiunque può partecipare al proc
 
 Per **lasciare commenti e suggerimenti generali**, puoi `aprire una nuova issue <https://github.com/italia/manuale-operativo-design-docs/issues>`_.
 
-Per **proporre modifiche specifiche** al manuale, puoi usare la funzione `pull request <https://help.github.com/articles/about-pull-requests/>`:
+Per **proporre modifiche specifiche** al manuale, puoi usare la funzione `pull request <https://help.github.com/articles/about-pull-requests/>`_:
 
 1. vai alla pagina del manuale su cui vuoi proporre delle modifiche;
 2. clicca sul collegamento “Sorgente” (presente in alto a destra su ogni pagina, nell’header);
