@@ -50,11 +50,11 @@ La seguente tabella fornisce una panoramica delle competenze da applicare nel pr
 |                                    | l’ecosistema di servizio in termini di            | modellare i processi e definire i                    |                                               |
 |                                    | erogazione e fruizione.                           | touchpoint del servizio digitale.                    |                                               |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
-| **Progettazione dei contenuti**    | Saper mediare le esigenze di comunicazione,       | Progettare e realizzare i contenuti visivi e         | - Content Designer                            |
-|                                    | di impatto visivo, di leggibilità e di            | testuali nei diversi touchpoint relativi alla        | - Information Architect                       |
-|                                    | accessibilità, adattando i contenuti al           | fruizione del servizio, ottimizzare i contenuti      | - Content Strategist                          |
-|                                    | contesto specifico e all’utente.                  | e la loro struttura in base alle regole di           | - UX Writer                                   |
-|                                    |                                                   | ottimizzazione per i motori di ricerca (SEO).        | - Content Editor / Web Editor                 |
+| **Progettazione dei contenuti**    | Saper mediare le esigenze informative, di         | Progettare e realizzare i contenuti testuali e       | - Content Designer                            |
+|                                    | comunicazione, di impatto visivo, di leggibilità  | visivi nei diversi touchpoint relativi alla          | - Information Architect                       |
+|                                    | e di accessibilità, adattando i contenuti al      | fruizione del servizio, che siano semplici,          | - Content Strategist                          |
+|                                    | contesto specifico, all’utente e al tono di voce  | intuitivi, inclusivi, accessibili e ottimizzati      | - UX Writer                                   |
+|                                    | appropriato.                                      | per i motori di ricerca.                             | - Content Editor / Web Editor                 |
 |                                    |                                                   |                                                      | con contributi specializzati da parte di      |
 |                                    |                                                   |                                                      | SEO specialist, Copywriter, Technical Writer, |
 |                                    |                                                   |                                                      | Visual Designer e Web Accessibility Expert    |
