@@ -26,8 +26,8 @@ La seguente tabella fornisce una panoramica delle competenze da applicare nel pr
 |                                    | primari e saper raccogliere e restituire          | del progetto, eseguire interviste e                  | - User researcher                           |
 |                                    | risultati rilevanti a comprendere il contesto     | osservazioni, con utenti e/o stakeholder,            | - UX researcher                             |
 |                                    | e l’esperienza d’uso del servizio per             | strutturare e non. Somministrare                     | - Service designer                          |
-|                                    | informare lo svolgimento del progetto.            | questionari quanti-qualitativi e saper               | Possono essere supportati da Antropologi    |
-|                                    |                                                   | analizzare, rielaborare e sintetizzare               | ed Etnografi.                               |
+|                                    | informare lo svolgimento del progetto.            | questionari quanti-qualitativi e saper               | - Supportati da Antropologi                 |
+|                                    |                                                   | analizzare, rielaborare e sintetizzare               |                                             |
 |                                    |                                                   | le evidenze raccolte.                                |                                             |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 | **Ricerca secondaria**             | Conoscere le metodologie e tecniche di            | Pianificare, impostare e svolgere                    | - Design researcher                         |
