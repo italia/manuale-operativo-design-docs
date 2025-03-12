@@ -12,34 +12,35 @@ La seguente tabella fornisce una panoramica delle competenze da applicare nel pr
 |                                                                                                                                                                                             |
 | **Design dei servizi: verso una mappa delle competenze**                                                                                                                                    |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
-| **Competenze funzionali**          | **Requisiti e obiettivi**                         | **Attività**                                         | **Titoli professionali correlati**          |
+| **Competenze funzionali**          | **Requisiti e obiettivi**                         | **Attività**                                         | **Figure professionali**                    |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 | **Pianificazione, gestione         | Saper guidare il progetto gestendo                | Tenere traccia dei progressi del                     | - Technical project manager                 |
 | e strategia**                      | gli obiettivi definiti con il committente,        | progetto nel tempo verso gli obiettivi               | - Esperto di innovazione e digitalizzazione |
-|                                    | le tempistiche e le risorse a disposizione;       | previsti, definire le attività da                    | - Strategic Designer                        |
-|                                    | mediare fra la fattibilità tecnica e              | svolgere e coordinare conseguentemente               |                                             |
-|                                    | tecnologica delle soluzioni proposte e le         | il team internamente e nel                           |                                             |
-|                                    | esigenze degli utenti finali.                     | rapporto con l’amministrazione.                      |                                             |
+|                                    | le tempistiche e le risorse a disposizione;       | previsti, definire le attività da                    | - Chief digital officer                     |
+|                                    | mediare fra la fattibilità tecnica e              | svolgere e coordinare conseguentemente               | - Digital transformation manager            |
+|                                    | tecnologica delle soluzioni proposte e le         | il team internamente e nel                           | - Chief information officer                 |
+|                                    | esigenze degli utenti finali.                     | rapporto con l’amministrazione.                      | - Data scientist                            |
+|                                    |                                                   |                                                      | - Data analyst                              |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
-| **Ricerca primaria**               | Conoscere metodi e tecniche di ricerca            | Organizzare la ricerca in base al focus              | - User Researcher                           |
-|                                    | primari e saper raccogliere e restituire          | del progetto, eseguire interviste e                  | - Antropologo                               |
-|                                    | risultati rilevanti a comprendere il contesto     | osservazioni, con utenti e/o stakeholder,            | - Etnografo                                 |
-|                                    | e l’esperienza d’uso del servizio per             | strutturare e non. Somministrare                     | - UX Researcher                             |
-|                                    | informare lo svolgimento del progetto.            | questionari quanti-qualitativi e saper               | - Service Designer                          |
-|                                    |                                                   | analizzare, rielaborare e sintetizzare               |                                             |
+| **Ricerca primaria**               | Conoscere metodi e tecniche di ricerca            | Organizzare la ricerca in base al focus              | - Design researcher                         |
+|                                    | primari e saper raccogliere e restituire          | del progetto, eseguire interviste e                  | - User researcher                           |
+|                                    | risultati rilevanti a comprendere il contesto     | osservazioni, con utenti e/o stakeholder,            | - UX researcher                             |
+|                                    | e l’esperienza d’uso del servizio per             | strutturare e non. Somministrare                     | - Service designer                          |
+|                                    | informare lo svolgimento del progetto.            | questionari quanti-qualitativi e saper               | Possono essere supportati da Antropologi    |
+|                                    |                                                   | analizzare, rielaborare e sintetizzare               | ed Etnografi.                               |
 |                                    |                                                   | le evidenze raccolte.                                |                                             |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
-| **Ricerca secondaria**             | Conoscere le metodologie e tecniche di            | Pianificare, impostare e svolgere                    | - Design Researcher                         |
+| **Ricerca secondaria**             | Conoscere le metodologie e tecniche di            | Pianificare, impostare e svolgere                    | - Design researcher                         |
 |                                    | analisi secondaria, mappare i risultati           | ricerca indiretta collezionando casi-studio,         | - UX researcher                             |
-|                                    | ottenuti in modo rilevante per l’obiettivo        | esplorando trend e tecnologie emergenti.             | - Service Designer                          |
-|                                    | del progetto estrapolando osservazioni            | Organizzare e elaborare dati                         | - Trend Analyst                             |
+|                                    | ottenuti in modo rilevante per l’obiettivo        | esplorando trend e tecnologie emergenti.             | - Service designer                          |
+|                                    | del progetto estrapolando osservazioni            | Organizzare e elaborare dati                         | - Trend analyst                             |
 |                                    | sintetiche e interessanti rispetto                | quanti-qualitativi provenienti da fonti              |                                             |
 |                                    | all’argomento di indagine.                        | documentali differenti.                              |                                             |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 | **Analisi dati**                   | Conoscere metodi e tecniche di raccolta,          | Raccogliere, analizzare, interpretare e              | - Data analyst                              |
 |                                    | analisi, elaborazione, interpretazione,           | condividere dati quantitativi (o quantificabili)     | - Data scientist                            |
-|                                    | diffusione e visualizzazione dei dati             | a fini analitici, predittivi o strategici che        | - Statistico                                |
-|                                    | quantitativi o quantificabili a fini              | riguardano il comportamento degli utenti             | - SEO specialist                            |
+|                                    | diffusione e visualizzazione dei dati             | a fini analitici, predittivi o strategici che        | - Data engineer                             |
+|                                    | quantitativi o quantificabili a fini              | riguardano il comportamento degli utenti             | - Statistico                                |
 |                                    | analitici, predittivi o strategici,               | online in forma adeguatamente anonimizzata           | - Business Analyst                          |
 |                                    | con particolare riguardo all’analisi dei          | e in linea con la norma GDPR.                        |                                             |
 |                                    | dati di ricerca e traffico web.                   |                                                      |                                             |
@@ -52,11 +53,13 @@ La seguente tabella fornisce una panoramica delle competenze da applicare nel pr
 |                                    | erogazione e fruizione.                           | touchpoint(punti di contatto) del servizio digitale. |                                             |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 | **Progettazione dei contenuti**    | Saper mediare le esigenze di comunicazione,       | Progettare e realizzare i contenuti visivi e         | - Content designer                          |
-|                                    | di impatto visivo, di leggibilità e di            | testuali nei diversi touchpoint relativi alla        | - Web content editor                        |
-|                                    | accessibilità, adattando i messaggi al            | fruizione del servizio, ottimizzare i contenuti      | - Seo Specialist                            |
-|                                    | contesto specifico e all’utente.                  | e la loro struttura in base alle regole di           | - Information Architect                     |
-|                                    |                                                   | ottimizzazione per i motori di ricerca (SEO).        | - Visual designer                           |
-|                                    |                                                   |                                                      | - Web Accessibility Expert                  |
+|                                    | di impatto visivo, di leggibilità e di            | testuali nei diversi touchpoint relativi alla        | - Information architect                     |
+|                                    | accessibilità, adattando i contenuti al           | fruizione del servizio, ottimizzare i contenuti      | - Content strategist                        |
+|                                    | contesto specifico e all’utente.                  | e la loro struttura in base alle regole di           | - UX writer                                 |
+|                                    |                                                   | ottimizzazione per i motori di ricerca (SEO).        | - Copywriter                                |
+|                                    |                                                   |                                                      | - Technical writer                          |
+|                                    |                                                   |                                                      | - SEO specialist                            |
+|                                    |                                                   |                                                      | - Content editor / Web editor               |       |                                    |                                                   |                                                      | - Visual designer                           |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+---------------------------------------------+
 | **Progettazione dell'interazione** | Sapere definire le caratteristiche della          | Progettare l’esperienza dell’utente e definire       | - Interaction Designer                      |
 |                                    | interazione tra l’utente e il servizio attraverso | l’interfaccia utente in termini di contenuti         | - UX designer                               |
