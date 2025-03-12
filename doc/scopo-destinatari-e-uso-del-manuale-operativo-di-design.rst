@@ -28,24 +28,32 @@ Ogni rilascio è etichettato secondo un sistema basato su anno e versione. Le ve
 
 
 
-Consultazione della documentazione
+Consultazione del manuale
 -------------------------------------
 I capitoli del manuale sono strutturati attorno a specifiche `aree di competenza <../../doc/pianificazione-gestione-e-strategia/competenze-ruoli-e-figure-coinvolte.html>`_ o domini di conoscenza e abilità necessarie per svolgere attività di design dei servizi e dei prodotti digitali nella Pubblica Amministrazione italiana. Questo approccio mira a fornire risorse pratiche e conoscenze mirate per affrontare compiti specifici in base alle capacità richieste.
 
 Ogni capitolo è concepito per essere direttamente applicabile alle sfide quotidiane dei progettisti, aiutandoli a svolgere il proprio lavoro in modo efficiente e seguendo le migliori pratiche.
 
 
-Sviluppo collaborativo
+Contribuisci al manuale
 -----------------------------
 
-Il presente manuale è un documento pubblico e chiunque può partecipare al processo di revisione e aggiornamento attraverso gli strumenti messi a disposizione attraverso GitHub, in particolare le `issues <https://guides.github.com/features/issues/>`_ (per le discussioni) e le `pull request <https://help.github.com/articles/about-pull-requests/>`_ (per le proposte di modifica).
+Il presente manuale è un documento pubblico e chiunque può partecipare al processo di revisione e aggiornamento attraverso gli strumenti messi a disposizione attraverso l'apposito `repository GitHub <https://github.com/italia/manuale-operativo-design-docs/>`_. Per poter contribuire, devi `accedere con un account GitHub <https://github.com/login>`_.
 
-I nuovi contenuti e le modifiche a contenuti esistenti -  dopo essere approvati - vengono pubblicati nella versione "bozza" del manuale operativo, disponibile per una discussione pubblica e revisione da parte della *community*. Solo successivamente, in occasione di una nuova *release* del manuale, il team di Designers Italia valuta eventualmente di consolidare e farle confluire, dopo eventuali modifiche, nella versione ufficiale "versione corrente".
+Per **lasciare commenti e suggerimenti generali**, puoi `aprire una nuova issue <https://github.com/italia/manuale-operativo-design-docs/issues>`_.
 
-I contenuti del manuale sono redatti in file .rst e possono essere aggiornati via GitHub. Qui è disponibile una `guida alla sintassi RST <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_.
+Per **proporre modifiche specifiche** al manuale, puoi usare la funzione `pull request <https://help.github.com/articles/about-pull-requests/>`:
 
-Altre risorse per l’editing in formato .rst:
+1. vai alla pagina del manuale su cui vuoi proporre delle modifiche;
+2. clicca sul collegamento “Sorgente” (presente in alto a destra su ogni pagina, nell’header);
+3. edita il file con le modifiche che vuoi proporre, usando la `sintassi RST <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_ e ponendo attenzione alla gerarchia dei contenuti e le indentazioni;
+4. invia una una richiesta di contribuzione (pull request) verso il repository che contiene il sorgente del manuale.
 
-| `Editor per il testo <http://rst.ninjs.org/>`_
-| `Editor per le tabelle <http://truben.no/table/>`_
-| `Altro <http://docutils.sourceforge.net/docs/user/links.html#editors>`_
+I contenuti del manuale e i contributi di modifica devono essere redatti usando la **sintassi RST**. Ecco alcune risorse utili:
+
+- `Guida alla sintassi RST <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_.
+- `Editor per il testo <https://rsted.info.ucl.ac.be/>`_
+- `Editor per le tabelle <http://truben.no/table/>`_
+- `Altre informazioni sugli editor RSR <http://docutils.sourceforge.net/docs/user/links.html#editors>`_
+
+I nuovi contenuti e le modifiche a contenuti esistenti vengono valutati dal team di Designers Italia e integrati, se necessario con modifiche, nella versione corrente del manuale.
