@@ -7,10 +7,10 @@ La co-progettazione è una metodologia fondamentale per la progettazione di serv
 
 Il coinvolgimento dei dirigenti e degli addetti ai lavori della Pubblica Amministrazione è necessario in tutte le fasi di progettazione, dalla definizione dei requisiti alla validazione del prodotto. Questo può avvenire tramite incontri sullo stato di avanzamento dei lavori sul progetto o in sessioni strutturate di co-progettazione, in cui si lavora in modo collaborativo su alcuni temi chiave del servizio in corso di definizione.
 
-Quanto più si anticipa il coinvolgimento degli attori coinvolti, tanto meno si dovranno apportare modifiche successive al progetto.
+Quanto più si anticipa il coinvolgimento degli attori interessati, tanto meno si dovranno apportare modifiche successive al progetto.
 
 
-Sessioni di co-progettazione
+Workshop di co-progettazione
 ------------------------------------
 
 Un workshop di co-progettazione è una sessione di lavoro di gruppo, durante la quale diversi soggetti (progettisti, utenti, stakeholder della Pubblica Amministrazione ed eventuali rappresentanti di aziende private) vengono invitati a discutere le criticità esistenti e individuare insieme delle possibili soluzioni progettuali, seguendo un percorso guidato da un facilitatore. Le sessioni possono essere organizzate dal vivo o online per permettere la partecipazione anche da remoto. L’attività di co-progettazione è preceduta da una serie di attività di ricerca e analisi del contesto, che aiutano a definire l’obiettivo del progetto su cui si sta lavorando e informano la sessione stessa.  
