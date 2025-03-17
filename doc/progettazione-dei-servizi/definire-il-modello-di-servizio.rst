@@ -12,7 +12,7 @@ Per creare un modello di servizio bisogna:
 
 È bene pensare al servizio end-to-end, ovvero in tutte le sue fasi, dall’implementazione ed erogazione fino al consumo o utilizzo da parte dell’utente finale. 
 
-Definire il modello di servizio aiuta a definirne il perimentro, individuare le caratteristiche e le componenti necessarie per il suo funzionamento e le modalità di erogazione e fruizione. 
+Definire il modello di servizio aiuta a definirne il perimetro, individuare le caratteristiche e le componenti necessarie per il suo funzionamento e le modalità di erogazione e fruizione. 
 
 
 Identificare gli attori coinvolti
