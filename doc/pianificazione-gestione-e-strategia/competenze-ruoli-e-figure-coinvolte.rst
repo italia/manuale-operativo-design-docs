@@ -12,12 +12,13 @@ La seguente tabella fornisce una panoramica delle competenze da applicare nel pr
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
 | **Competenze funzionali**          | **Requisiti e obiettivi**                         | **Attività**                                         | **Figure professionali**                      |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
-| **Pianificazione, gestione         | Saper guidare il progetto gestendo                | Tenere traccia dei progressi del                     | - Responsabile di progetto                    |
-| e strategia**                      | gli obiettivi definiti con il committente,        | progetto nel tempo verso gli obiettivi               | - Technical Project Manager                   |
-|                                    | le tempistiche e le risorse a disposizione;       | previsti, definire le attività da                    | - Chief Digital Officer                       |
-|                                    | mediare fra la fattibilità tecnica e              | svolgere e coordinare conseguentemente               | - Digital Transformation Manager              |
-|                                    | tecnologica delle soluzioni proposte e le         | il team internamente e nel                           | - Chief Information Officer                   |
-|                                    | esigenze degli utenti finali.                     | rapporto con l’amministrazione.                      | - Esperto/a di innovazione e digitalizzazione |
+| **Pianificazione, gestione         | Saper guidare il progetto gestendo                | Tenere traccia dei progressi del                     | - Responsabile per la Transizione al Digitale |
+| e strategia**                      | gli obiettivi definiti con il committente,        | progetto nel tempo verso gli obiettivi               | - Responsabile di progetto                    |
+|                                    | le tempistiche e le risorse a disposizione;       | previsti, definire le attività da                    | - Technical Project Manager                   |
+|                                    | mediare fra la fattibilità tecnica e              | svolgere e coordinare conseguentemente               | - Chief Digital Officer                       |
+|                                    | tecnologica delle soluzioni proposte e le         | il team internamente e nel                           | - Digital Transformation Manager              |
+|                                    | esigenze degli utenti finali.                     | rapporto con l’amministrazione.                      | - Chief Information Officer                   |
+|                                    |                                                   |                                                      | - Esperto/a di innovazione e digitalizzazione |
 |                                    |                                                   |                                                      | - Strategic Designer                          |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
 | **Ricerca primaria**               | Conoscere metodi e tecniche di ricerca            | Organizzare la ricerca in base al focus              | - Design Researcher                           |
@@ -45,9 +46,9 @@ La seguente tabella fornisce una panoramica delle competenze da applicare nel pr
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
 | **Progettazione di servizi**       | Saper svolgere attività di analisi di sistemi     | Analizzare le soluzioni esistenti, organizzare       | - Service Designer                            |
 |                                    | complessi e mappatura del contesto (as is)        | sessioni di co-progettazione, definire la            | - Strategic Designer                          |
-|                                    | per poi dare indirizzo strategico alla            | proposta di valore e l’offerta del servizio,         |                                               |
-|                                    | progettazione del servizio (to be), definendo     | per poi identificare scenari d’uso, ideare e         |                                               |
-|                                    | l’ecosistema di servizio in termini di            | modellare i processi e definire i                    |                                               |
+|                                    | per poi dare indirizzo strategico alla            | proposta di valore e l’offerta del servizio,         | con contributi specializzati da parte di      |
+|                                    | progettazione del servizio (to be), definendo     | per poi identificare scenari d’uso, ideare e         | Design Researcher, User Researcher, UX        |
+|                                    | l’ecosistema di servizio in termini di            | modellare i processi e definire i                    | UX Researcher e Data Analyst                  |
 |                                    | erogazione e fruizione.                           | touchpoint del servizio digitale.                    |                                               |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
 | **Progettazione dei contenuti**    | Saper mediare le esigenze informative, di         | Progettare e realizzare i contenuti testuali e       | - Content Designer                            |
@@ -56,7 +57,8 @@ La seguente tabella fornisce una panoramica delle competenze da applicare nel pr
 |                                    | contesto specifico, all’utente e al tono di voce  | intuitivi, inclusivi, accessibili e ottimizzati      | - UX Writer                                   |
 |                                    | appropriato.                                      | per i motori di ricerca.                             | - Content Editor / Web Editor                 |
 |                                    |                                                   |                                                      | con contributi specializzati da parte di      |
-|                                    |                                                   |                                                      | SEO specialist, Copywriter, Technical Writer, |
+|                                    |                                                   |                                                      | Esperti di comunicazione, SEO specialist,     |
+|                                    |                                                   |                                                      | Copywriter, Technical Writer,                 |
 |                                    |                                                   |                                                      | Visual Designer e Web Accessibility Expert    |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
 | **Progettazione dell'interazione** | Sapere definire le caratteristiche della          | Progettare l’esperienza dell’utente e definire       | - Interaction Designer                        |
