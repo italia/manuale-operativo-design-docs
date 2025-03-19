@@ -60,7 +60,7 @@ La seguente tabella fornisce una panoramica delle competenze da applicare nel pr
 |                                    |                                                   |                                                      | Visual Designer e Web Accessibility Expert    |
 +------------------------------------+---------------------------------------------------+------------------------------------------------------+-----------------------------------------------+
 | **Progettazione dell'interazione** | Sapere definire le caratteristiche della          | Progettare l’esperienza dell’utente e definire       | - Interaction Designer                        |
-|                                    | interazione tra l’utente e il servizio attraverso | l’interfaccia utente in termini di contenuti         | - UX Sesigner                                 |
+|                                    | interazione tra l’utente e il servizio attraverso | l’interfaccia utente in termini di contenuti         | - UX Designer                                 |
 |                                    | i touchpoint fisici e digitali, schematizzando    | e funzionalità, prototipando layout statici          | - Solution Architect                          |
 |                                    | i flussi e la struttura di base dell’interfaccia  | (wireframe) o mockup interattivi a                   | - Information Architect                       |
 |                                    | utente.                                           | bassa/media fedeltà.                                 | con contributi specializzati da parte di      |
