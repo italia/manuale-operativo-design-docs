@@ -30,7 +30,7 @@ Ogni rilascio è etichettato secondo un sistema basato su anno e versione. Le ve
 
 Consultazione del manuale
 -------------------------------------
-I capitoli del manuale sono strutturati attorno a specifiche `aree di competenza <../../doc/pianificazione-gestione-e-strategia/competenze-ruoli-e-figure-coinvolte.html>`_ o domini di conoscenza e abilità necessarie per svolgere attività di design dei servizi e dei prodotti digitali nella Pubblica Amministrazione italiana. Questo approccio mira a fornire risorse pratiche e conoscenze mirate per affrontare compiti specifici in base alle capacità richieste.
+I capitoli del manuale sono strutturati attorno a specifiche `aree di competenza <../../doc/pianificazione-gestione-e-strategia/competenze-ruoli-e-figure-coinvolte.html#competenze-ruoli-e-figure-coinvolte>`_ o domini di conoscenza e abilità necessarie per svolgere attività di design dei servizi e dei prodotti digitali nella Pubblica Amministrazione italiana. Questo approccio mira a fornire risorse pratiche e conoscenze mirate per affrontare compiti specifici in base alle capacità richieste.
 
 Ogni capitolo è concepito per essere direttamente applicabile alle sfide quotidiane dei progettisti, aiutandoli a svolgere il proprio lavoro in modo efficiente e seguendo le migliori pratiche.
 
