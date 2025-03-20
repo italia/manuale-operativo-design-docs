@@ -69,6 +69,6 @@ I principali tipi di microtesti per le interfacce sono:
 
 .. admonition:: Risorse disponibili
 
-   Approfondisci il tema nel capitolo `Progettazione dei contenuti <../../doc/progettazione-dei-contenuti/scrittura-e-linguaggio.html#microtesti>`_ e nel `fondamento Microtesti <https://designers.italia.it/design-system/fondamenti/microtesti/>`_ del design system .italia.
+   Approfondisci il tema nel capitolo `Progettazione dei contenuti <../../doc/progettazione-dei-contenuti/scrittura-e-linguaggio.html#id1>`_ e nel `fondamento Microtesti <https://designers.italia.it/design-system/fondamenti/microtesti/>`_ del design system .italia.
 
 
