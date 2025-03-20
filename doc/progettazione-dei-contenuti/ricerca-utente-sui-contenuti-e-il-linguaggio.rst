@@ -19,7 +19,7 @@ Puoi fare ricerca per intere sezioni di contenuti o anche pezzi di contenuti sin
 
 Puoi anche usare questa fase per aiutare le altre persone nella tua organizzazione a capire cosa stai facendo e perché.
 
-Oltre a tutte le `attività di ricerca progettuale </doc/ricerca-progettuale.html>`_ svolte dagli user researcher, esistono una serie di attività di desk research complementari che ti aiutano a capire i tuoi utenti, i contenuti che cercano e il linguaggio che usano.
+Oltre a tutte le `attività di ricerca progettuale <../../doc/ricerca-progettuale.html>`_ svolte dagli user researcher, esistono una serie di attività di desk research complementari che ti aiutano a capire i tuoi utenti, i contenuti che cercano e il linguaggio che usano.
 
 Content discovery
 ---------------------
