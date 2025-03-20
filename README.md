@@ -4,23 +4,23 @@ Questo repository contiene il testo del *Manuale operativo di design - Designers
 Il manuale è uno strumento di lavoro per la Pubblica Amministrazione e serve ad orientare la progettazione di ambienti digitali fornendo indicazioni relative al *service design*, alla *user research*, al *content design* e alla *user interface*. Per discutere sul design dei servizi pubblici [è disponibile il nostro forum](https://forum.italia.it/c/design). Per collaborare al manuale è possibile usare gli strumenti descritti di seguito.
 
 ## Sviluppo collaborativo
-Il presente manuale è un documento pubblico e chiunque può partecipare al processo di revisione e aggiornamento attraverso gli strumenti messi a disposizione attraverso l'apposito `repository GitHub <https://github.com/italia/manuale-operativo-design-docs/>`_. Per poter contribuire, devi `accedere con un account GitHub <https://github.com/login>`_.
+Il presente manuale è un documento pubblico e chiunque può partecipare al processo di revisione e aggiornamento attraverso gli strumenti messi a disposizione attraverso l'apposito [repository GitHub](https://github.com/italia/manuale-operativo-design-docs/). Per poter contribuire, devi [accedere con un account GitHub](https://github.com/login).
 
-Per **lasciare commenti e suggerimenti generali**, puoi `aprire una nuova issue <https://github.com/italia/manuale-operativo-design-docs/issues>`_.
+Per **lasciare commenti e suggerimenti generali**, puoi [aprire una nuova issue](https://github.com/italia/manuale-operativo-design-docs/issues>).
 
-Per **proporre modifiche specifiche** al manuale, puoi usare la funzione `pull request <https://help.github.com/articles/about-pull-requests/>`_:
+Per **proporre modifiche specifiche** al manuale, puoi usare la funzione [pull request](https://help.github.com/articles/about-pull-requests/):
 
 1. vai alla pagina del manuale su cui vuoi proporre delle modifiche;
 2. clicca sul collegamento “Sorgente” (presente in alto a destra su ogni pagina, nell’header);
-3. edita il file con le modifiche che vuoi proporre, usando la `sintassi RST <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_ e ponendo attenzione alla gerarchia dei contenuti e le indentazioni;
+3. edita il file con le modifiche che vuoi proporre, usando la [sintassi RST](http://docutils.sourceforge.net/docs/user/rst/quickref.html) e ponendo attenzione alla gerarchia dei contenuti e le indentazioni;
 4. invia una una richiesta di contribuzione (pull request) verso il repository che contiene il sorgente del manuale.
 
 I contenuti del manuale e i contributi di modifica devono essere redatti usando la **sintassi RST**. Ecco alcune risorse utili:
 
-- `Guida alla sintassi RST <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_.
-- `Editor per il testo <https://rsted.info.ucl.ac.be/>`_
-- `Editor per le tabelle <http://truben.no/table/>`_
-- `Altre informazioni sugli editor RSR <http://docutils.sourceforge.net/docs/user/links.html#editors>`_
+- [Guida alla sintassi RST](http://docutils.sourceforge.net/docs/user/rst/quickref.html).
+- [Editor per il testo](https://rsted.info.ucl.ac.be/)
+- [Editor per le tabelle](http://truben.no/table/)
+- [Altre informazioni sugli editor RSR](http://docutils.sourceforge.net/docs/user/links.html#editors)
 
 I nuovi contenuti e le modifiche a contenuti esistenti vengono valutati dal team di Designers Italia e integrati, se necessario con modifiche, nella versione corrente del manuale.
 
